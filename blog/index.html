@@ -102,6 +102,7 @@
             overflow-y: auto;
             padding: 0;
             z-index: 5;
+            height: 100vh;
         }
 
         .logo {
@@ -127,15 +128,22 @@
             text-decoration: none;
             color: inherit;
             font-size: 14px;
+            line-height: 1.2em;
+            transition: all 0.3s ease;
+            padding: 6px 8px;
+            display: block;
+            border-radius: 0.5rem;
+            cursor: pointer;
         }
 
         .nav-menu a:hover {
-            color: var(--accent);
+            color: var(--primary);
         }
 
         .nav-menu a.active,
         .nav-menu a[aria-current="page"] {
-            color: var(--accent);
+            background-color: #222;
+            color: var(--primary);
             font-weight: 600;
         }
 
@@ -281,6 +289,7 @@
                 border-bottom: 1px solid var(--border);
                 padding: 0;
                 display: block;
+                height: auto;
             }
 
             .logo {
@@ -366,7 +375,7 @@
             <ul class="nav-menu">
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../about.html">👤 About Me</a></li>
-                <li><a href="../blog.html" aria-current="page">✍️ Blog</a></li>
+                <li><a href="../blog.html" class="active" aria-current="page">✍️ Blog</a></li>
                 <li><a href="../principles.html">💎 Principles</a></li>
                 <li><a href="../worth-the-time.html">⭐ Worth the time</a></li>
             </ul>
