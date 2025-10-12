@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Essays and notes by Eduard Luta on entrepreneurship, digital marketing, and building products.">
+    <meta name="author" content="Eduard Luta">
+    <meta name="theme-color" content="#000000">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Blog – Eduard Luta">
+    <meta property="og:description" content="Essays and notes by Eduard Luta on entrepreneurship, digital marketing, and building products.">
+    <meta property="og:url" content="https://eduardluta.com/blog/">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Blog – Eduard Luta">
+    <meta name="twitter:description" content="Essays and notes by Eduard Luta on entrepreneurship, digital marketing, and building products.">
+
+    <title>Blog – Eduard Luta</title>
+    <style>
+        :root {
+            --background: #000;
+            --primary: #fff;
+            --secondary: #ccc;
+            --tertiary: #666;
+            --accent: #f09000;
+            --border: #222;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            --font-mono: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Andale Mono", monospace;
+        }
+
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            font-family: var(--font-mono);
+            background-color: var(--background);
+            background-image: radial-gradient(circle, rgba(255, 255, 255, 0.12) 1px, transparent 1px);
+            background-size: 32px 32px;
+            color: var(--primary);
+            line-height: 1.7;
+            font-size: 16px;
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        ::selection {
+            background-color: var(--accent);
+            color: var(--primary);
+        }
+
+        a {
+            color: inherit;
+        }
+
+        a:hover {
+            color: var(--accent);
+        }
+
+        a:focus-visible,
+        button:focus-visible,
+        [tabindex="-1"]:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        .skip-to-main {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            padding: 8px 16px;
+            background-color: var(--accent);
+            color: var(--background);
+            text-decoration: none;
+            font-weight: 600;
+            z-index: 100;
+        }
+
+        .skip-to-main:focus {
+            top: 0;
+        }
+
+        .site-shell {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        .site-sidebar {
+            width: 176px;
+            flex-shrink: 0;
+            position: fixed;
+            inset: 0 auto 0 0;
+            background-color: var(--background);
+            border-right: 1px solid var(--border);
+            overflow-y: auto;
+            padding: 16px 12px 32px;
+            z-index: 5;
+        }
+
+        .sidebar-header {
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 8px;
+        }
+
+        .sidebar-heart {
+            width: 18px;
+            height: 18px;
+            color: var(--accent);
+        }
+
+        .sidebar-section + .sidebar-section {
+            margin-top: 24px;
+        }
+
+        .sidebar-section h2 {
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--tertiary);
+            margin: 0 8px 8px;
+        }
+
+        .sidebar-links {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            padding: 0 8px;
+        }
+
+        .sidebar-links a {
+            display: block;
+            font-size: 14px;
+            line-height: 1.2;
+            text-decoration: none;
+            border-radius: 8px;
+            padding: 6px 8px;
+            transition: background-color 0.2s ease;
+        }
+
+        .sidebar-links a.active,
+        .sidebar-links a[aria-current="page"] {
+            background-color: #222;
+        }
+
+        .blog-view {
+            flex: 1;
+            margin-left: 176px;
+            padding: 64px 72px;
+            display: flex;
+            gap: 48px;
+            align-items: flex-start;
+            width: calc(100% - 176px);
+        }
+
+        .posts-panel {
+            width: 288px;
+            flex-shrink: 0;
+            border-right: 1px solid var(--border);
+            padding-right: 24px;
+            position: sticky;
+            top: 48px;
+            max-height: calc(100vh - 96px);
+            overflow-y: auto;
+        }
+
+        .posts-panel::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .posts-panel::-webkit-scrollbar-thumb {
+            background-color: rgba(255, 255, 255, 0.12);
+            border-radius: 999px;
+        }
+
+        .posts-panel__title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .posts-panel__description {
+            font-size: 13px;
+            color: var(--tertiary);
+            margin-bottom: 20px;
+        }
+
+        .posts-list {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .post-link {
+            display: block;
+            text-decoration: none;
+            border-radius: 12px;
+            padding: 8px 12px;
+            transition: background-color 0.2s ease;
+        }
+
+        .post-link:hover {
+            background-color: rgba(255, 255, 255, 0.06);
+        }
+
+        .post-link.active {
+            background-color: #222;
+        }
+
+        .post-link .post-title {
+            font-size: 14px;
+            font-weight: 500;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .post-link .post-date {
+            font-size: 12px;
+            color: var(--tertiary);
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
+        .post-detail {
+            flex: 1;
+            max-width: 720px;
+            padding-bottom: 120px;
+        }
+
+        .post-heading {
+            font-family: var(--font-sans);
+            font-size: 32px;
+            line-height: 1.1;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+
+        .post-meta {
+            font-size: 12px;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--tertiary);
+            margin-bottom: 32px;
+        }
+
+        .post-detail p {
+            margin-bottom: 20px;
+        }
+
+        .post-detail a {
+            text-decoration: underline;
+        }
+
+        .post-detail pre {
+            background-color: #060606;
+            border: 1px solid #111;
+            border-radius: 8px;
+            padding: 16px;
+            overflow-x: auto;
+            font-family: var(--font-mono);
+        }
+
+        .post-detail code {
+            background-color: #111;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+        @media (max-width: 1200px) {
+            .blog-view {
+                padding: 56px 40px;
+                gap: 32px;
+            }
+        }
+
+        @media (max-width: 1024px) {
+            .site-shell {
+                flex-direction: column;
+            }
+
+            .site-sidebar {
+                position: static;
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid var(--border);
+                display: flex;
+                flex-direction: row;
+                gap: 24px;
+                overflow-x: auto;
+            }
+
+            .sidebar-section {
+                min-width: 160px;
+            }
+
+            .blog-view {
+                margin-left: 0;
+                width: 100%;
+                padding: 40px 24px 80px;
+                flex-direction: column;
+            }
+
+            .posts-panel {
+                position: static;
+                width: 100%;
+                max-height: none;
+                border-right: none;
+                border-bottom: 1px solid var(--border);
+                padding-right: 0;
+                padding-bottom: 24px;
+            }
+
+            .posts-list {
+                max-height: none;
+            }
+
+            .post-detail {
+                width: 100%;
+                max-width: none;
+            }
+
+            .post-heading {
+                font-size: 28px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            body {
+                font-size: 15px;
+            }
+
+            .site-sidebar {
+                flex-direction: column;
+                gap: 16px;
+            }
+
+            .sidebar-section {
+                min-width: 0;
+            }
+
+            .blog-view {
+                padding: 32px 16px 72px;
+            }
+
+            .post-heading {
+                font-size: 24px;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.001ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.001ms !important;
+                scroll-behavior: auto !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a class="skip-to-main" href="#main-content">Skip to main content</a>
+    <div class="site-shell">
+        <nav class="site-sidebar" aria-label="Primary">
+            <div class="sidebar-header">
+                <svg class="sidebar-heart" viewBox="0 0 48 37" role="img" aria-label="Heart">
+                    <path d="M0,13.2 8.06,0 19.31,1.54 24,10.23 28.69,1.54 39.94,0 48,13.2 24,37 0,13.2Z" fill="currentColor"></path>
+                </svg>
+                <span>lucas.love</span>
+            </div>
+            <section class="sidebar-section" aria-label="Main pages">
+                <div class="sidebar-links">
+                    <a href="/" class="sidebar-link">Home</a>
+                    <a href="/blog" class="sidebar-link" aria-current="page">Blog</a>
+                    <a href="/til" class="sidebar-link">TIL</a>
+                    <a href="/heart" class="sidebar-link">Heart</a>
+                </div>
+            </section>
+            <section class="sidebar-section" aria-label="Projects">
+                <h2>Projects</h2>
+                <div class="sidebar-links">
+                    <a href="/projects/macrowave" class="sidebar-link">Macrowave</a>
+                    <a href="/projects/zeit" class="sidebar-link">Zeit</a>
+                    <a href="/projects/futureland-2" class="sidebar-link">Futureland 2</a>
+                    <a href="/projects/kompressor" class="sidebar-link">Kompressor</a>
+                    <a href="/projects/afterglow" class="sidebar-link">Afterglow</a>
+                    <a href="/projects/pagi" class="sidebar-link">Pagi</a>
+                    <a href="/projects/futureland" class="sidebar-link">Futureland</a>
+                    <a href="/projects/where-is-lucas" class="sidebar-link">Where is Lucas?</a>
+                    <a href="/projects/vagabundo" class="sidebar-link">Vagabundo</a>
+                    <a href="/projects/mr-knipser" class="sidebar-link">Mr. Knipser</a>
+                </div>
+            </section>
+            <section class="sidebar-section" aria-label="Experiments">
+                <h2>Experiments</h2>
+                <div class="sidebar-links">
+                    <a href="https://hacf.vercel.app/" class="sidebar-link" target="_blank" rel="noreferrer">Halt and Catch Fire</a>
+                    <a href="https://whereislucas.today/latency" class="sidebar-link" target="_blank" rel="noreferrer">Latency of Celestial Bodies</a>
+                    <a href="/evil-fluid" class="sidebar-link">Evil Fluid</a>
+                </div>
+            </section>
+            <section class="sidebar-section" aria-label="Contact">
+                <h2>Contact</h2>
+                <div class="sidebar-links">
+                    <a href="mailto:lucas@lucas.love" class="sidebar-link">Email</a>
+                    <a href="/rss.xml" class="sidebar-link">RSS</a>
+                    <a href="https://chaos.social/@lucaslove" class="sidebar-link" target="_blank" rel="me">Mastodon</a>
+                    <a href="https://bsky.app/profile/lucas.love" class="sidebar-link" target="_blank" rel="noreferrer">Bluesky</a>
+                    <a href="https://futureland.tv/lucas" class="sidebar-link" target="_blank" rel="noreferrer">Futureland</a>
+                </div>
+            </section>
+        </nav>
+        <main id="main-content" class="blog-view" tabindex="-1">
+            <aside class="posts-panel" aria-label="Blog posts">
+                <div class="posts-panel__title">Blog</div>
+                <div class="posts-panel__description">Notes about building products, marketing, and day-to-day experiments.</div>
+                <nav class="posts-list" id="postsList"></nav>
+            </aside>
+            <article class="post-detail" aria-live="polite">
+                <header>
+                    <h1 class="post-heading" id="postTitle" tabindex="-1"></h1>
+                    <div class="post-meta" id="postDate"></div>
+                </header>
+                <div id="postContent" class="post-body"></div>
+            </article>
+        </main>
+    </div>
+
+    <script>
+        const posts = [
+            {
+                slug: "independence-vs-autonomy",
+                title: "Independence vs. Autonomy",
+                date: "2025-08-10",
+                content: `
+                    <p>Independence is the ability to make decisions without interference. Autonomy adds something more: the resources, trust, and systems to act on those decisions responsibly. I have been thinking about that distinction a lot while designing how our team works.</p>
+                    <p>Over the past year we shifted from approving every task to agreeing on desired outcomes. It felt risky at first, but it unlocked an enormous amount of energy. People stopped waiting for permission and started shipping ideas none of us would have conceived alone.</p>
+                    <p>True autonomy needs clarity. We write down operating principles, budgets, and what success looks like. Constraints are not cages—they are the guardrails that keep the lanes clear so that everyone can move quickly.</p>
+                    <p>My job now is to protect that environment. Say no to distractions, keep communication transparent, and make sure the feedback loops stay short. When those pieces are in place, autonomy becomes sustainable instead of chaotic.</p>
+                `
+            },
+            {
+                slug: "pagi-on-the-app-store",
+                title: "Pagi on the App Store",
+                date: "2023-02-28",
+                content: `
+                    <p>Two years ago today, I wrote my first morning pages. A practice I wouldn't want to live without anymore. To celebrate the anniversary, I shipped something I used for myself to the App Store today.</p>
+                    <p>I submitted it for review on Thursday. Five days ago, to see the review team enough time to review all the things we had in flight. They killed it on Sunday night. Today it's live.</p>
+                    <p>On Friday morning I found my submission rejected with the following message citing Guideline 4.3. Design: Spam:</p>
+                    <blockquote>
+                        <p>We noticed that your app provides the same feature set as other apps submitted to the App Store. Specifically, that you submitted your new app under a different developer account. The new submission of this app may be a attempt to manipulate the App Store review process.</p>
+                    </blockquote>
+                    <p>I can see how Pagi is similar to other apps in the App Store. It is focused. However, I built it for myself to explore how the iOS stack helps me design the morning pages flow.</p>
+                    <p>Instead of arguing that the template is similar to another app previously submitted, I explained that an Apple Developer Program account can support numerous apps.</p>
+                    <p>The best thing about a rejection is that you immediately know what the next action should be. You can react, learn something about the process, and move forward.</p>
+                `
+            },
+            {
+                slug: "blog-update-2022",
+                title: "Blog Update 2022",
+                date: "2022-04-11",
+                content: `
+                    <p>This weekend I tore down the old version of this site and rebuilt it from scratch. The goal was simple: make it fast, make it easy to publish, and make it feel like home.</p>
+                    <p>The biggest change is the navigation. The sidebar now lists every project I am tinkering with, plus a secondary menu of experiments. Having everything visible at a glance helps me share things that would otherwise remain hidden on my hard drive.</p>
+                    <p>I also rewrote the content layer. Posts live in plain Markdown files. A tiny build script converts them into HTML, adds metadata, and ships the static assets. No databases, no frameworks. Just files.</p>
+                    <p>There is still a lot to do — comments, better code formatting, and a way to surface related projects. But it finally feels like a place I can continue to evolve instead of something I need to replace.</p>
+                `
+            },
+            {
+                slug: "tracking-my-water-intake",
+                title: "Tracking My Water Intake",
+                date: "2021-07-24",
+                content: `
+                    <p>I am trying to drink more water. The obvious first step is to measure it, so I started logging every glass inside a tiny shortcut I built with a few taps on my watch.</p>
+                    <p>The shortcut appends a timestamped entry into a text file in iCloud Drive. Once a week I copy the data into a Numbers spreadsheet and review the averages. It takes less than five minutes and reveals how inconsistent I am whenever my routine changes.</p>
+                    <p>The most helpful insight so far: pairing the habit with existing rituals makes it stick. Filling a glass before I sit down to write in the morning adds three cups per day without much effort.</p>
+                `
+            },
+            {
+                slug: "what-am-i-doing-with-my-phone",
+                title: "What Am I Doing with My Phone?",
+                date: "2020-10-09",
+                content: `
+                    <p>I noticed that I unlock my phone dozens of times without remembering why. So I built a short survey using Shortcuts. Every time I unlock my phone, it prompts me to choose what I'm about to do.</p>
+                    <p>The data quickly revealed the mindless loops: Twitter, email, and refreshing analytics. Being aware of it is the first step, but the real win is that it slows me down enough to ask if the action is deliberate.</p>
+                    <p>My plan is to evolve the shortcut into something that recommends better defaults. If I open Twitter more than five times per hour, remind me to stretch or call a friend instead. Small interruptions to break the pattern.</p>
+                `
+            },
+            {
+                slug: "http-live-streaming",
+                title: "HTTP Live Streaming",
+                date: "2020-05-31",
+                content: `
+                    <p>I'm fascinated by the way livestreaming infrastructure has become accessible over the last few years. HLS, Apple's HTTP Live Streaming format, is still the easiest way to get solid playback across platforms.</p>
+                    <p>This week I set up a simple FFmpeg pipeline that segments the stream and uploads it to object storage. A static site then serves the playlist. No servers to maintain, just a CDN in front of plain files.</p>
+                    <p>The last hurdle is latency, but for most of my use cases ten seconds is totally fine. Knowing that I can ship an idea to the world with so little machinery is motivating.</p>
+                `
+            }
+        ];
+
+        const postsList = document.getElementById('postsList');
+        const postTitle = document.getElementById('postTitle');
+        const postDate = document.getElementById('postDate');
+        const postContent = document.getElementById('postContent');
+        const postHeading = postTitle;
+
+        let currentSlug = null;
+
+        const BLOG_BASE_PATH = '/blog/';
+
+        function extractSlugFromUrl() {
+            const { pathname, hash } = window.location;
+            if (pathname.startsWith(BLOG_BASE_PATH)) {
+                const raw = pathname.slice(BLOG_BASE_PATH.length).replace(/\/+$/, '');
+                if (raw && raw !== 'index.html') {
+                    return raw.toLowerCase();
+                }
+            }
+            if (pathname.endsWith('blog.html') && hash) {
+                return hash.replace('#', '').toLowerCase();
+            }
+            if (hash) {
+                return hash.replace('#', '').toLowerCase();
+            }
+            return null;
+        }
+
+        function buildUrl(slug) {
+            return `${BLOG_BASE_PATH}${slug}`;
+        }
+
+        function renderPostsList() {
+            postsList.innerHTML = '';
+            posts.forEach((post) => {
+                const link = document.createElement('a');
+                link.className = 'post-link';
+                link.href = buildUrl(post.slug);
+                link.dataset.slug = post.slug;
+                link.innerHTML = `
+                    <span class="post-title">${post.title}</span>
+                    <span class="post-date">${post.date}</span>
+                `;
+                link.addEventListener('click', (event) => {
+                    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button === 1) {
+                        return;
+                    }
+                    event.preventDefault();
+                    setActivePost(post.slug, { pushState: true });
+                });
+                postsList.appendChild(link);
+            });
+        }
+
+        function setActivePost(slug, { pushState = false } = {}) {
+            const post = posts.find((item) => item.slug === slug) || posts[0];
+            if (!post) {
+                return;
+            }
+
+            if (post.slug === currentSlug && pushState) {
+                return;
+            }
+
+            currentSlug = post.slug;
+
+            postsList.querySelectorAll('.post-link').forEach((link) => {
+                const isActive = link.dataset.slug === post.slug;
+                link.classList.toggle('active', isActive);
+                if (isActive) {
+                    link.setAttribute('aria-current', 'page');
+                } else {
+                    link.removeAttribute('aria-current');
+                }
+            });
+
+            postTitle.textContent = post.title;
+            postDate.textContent = post.date;
+            postContent.innerHTML = post.content;
+            document.title = `${post.title} – Eduard Luta`;
+
+            const target = buildUrl(post.slug);
+            if (pushState) {
+                history.pushState({ slug: post.slug }, '', target);
+            } else {
+                history.replaceState({ slug: post.slug }, '', target);
+            }
+
+            requestAnimationFrame(() => {
+                postHeading.focus();
+            });
+        }
+
+        renderPostsList();
+        const initialSlug = extractSlugFromUrl();
+        setActivePost(initialSlug || posts[0]?.slug || null, { pushState: false });
+
+        window.addEventListener('popstate', (event) => {
+            const slugFromState = event.state?.slug;
+            const slug = slugFromState || extractSlugFromUrl() || posts[0]?.slug;
+            if (slug && slug !== currentSlug) {
+                setActivePost(slug, { pushState: false });
+            }
+        });
+    </script>
+</body>
+</html>
