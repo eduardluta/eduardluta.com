@@ -370,15 +370,17 @@
 <body>
     <a class="skip-to-main" href="#main-content">Skip to main content</a>
     <div class="site-shell">
-        <nav class="site-sidebar" aria-label="Main navigation">
-            <header class="logo">Eduard Luta</header>
-            <ul class="nav-menu">
-                <li><a href="index.html">🏠 Home</a></li>
-                <li><a href="about.html">👤 About Me</a></li>
-                <li><a href="blog.html" class="active" aria-current="page">✍️ Blog</a></li>
-                <li><a href="principles.html">💎 Principles</a></li>
-                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
-            </ul>
+        <nav class="site-sidebar" aria-label="Main navigation" data-nav>
+            <noscript>
+                <header class="logo">Eduard Luta</header>
+                <ul class="nav-menu">
+                    <li><a href="index.html">🏠 Home</a></li>
+                    <li><a href="about.html">👤 About Me</a></li>
+                    <li><a href="blog.html" class="active" aria-current="page">✍️ Blog</a></li>
+                    <li><a href="principles.html">💎 Principles</a></li>
+                    <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
+                </ul>
+            </noscript>
         </nav>
         <main id="main-content" class="blog-view" tabindex="-1">
             <aside class="posts-panel" aria-label="Blog posts">
@@ -396,6 +398,7 @@
         </main>
     </div>
 
+    <script src="nav.js"></script>
     <script>
         const posts = [
             {
