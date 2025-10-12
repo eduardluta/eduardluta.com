@@ -92,66 +92,104 @@
             min-height: 100vh;
         }
 
+        .sidebar {
+            width: 220px;
+            background-color: var(--background);
+            padding: 0;
+            position: fixed;
+            height: 100vh;
+            border-right: 1px solid var(--border);
+        }
+
         .main {
             margin-left: 220px;
-            width: calc(100% - 220px);
+            flex: 1;
             padding: 120px 60px 80px;
             display: flex;
+            align-items: flex-start;
             justify-content: center;
+            max-width: 100%;
         }
 
         .content {
-            width: 100%;
             max-width: 640px;
         }
 
         .content section + section {
-            margin-top: 48px;
+            margin-top: 64px;
         }
 
-        h1, h2 {
-            font-size: 14px;
+        h2 {
+            font-size: 12px;
             font-weight: 600;
-            margin: 0 0 10px;
-            font-family: var(--font-sans);
-        }
-
-        h1 {
-            font-size: 19px;
-            margin-bottom: 8px;
+            margin: 0 0 16px;
+            color: var(--primary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
         }
 
         p {
             margin: 0 0 16px;
             color: var(--secondary);
-            font-size: 13px;
+            font-size: 14px;
             line-height: 1.7;
+        }
+
+        .intro-text {
+            margin-bottom: 24px;
         }
 
         ul {
             margin: 0;
             padding-left: 18px;
             color: var(--secondary);
-            font-size: 12px;
+            font-size: 14px;
             line-height: 1.7;
         }
 
-        ul li + li {
-            margin-top: 8px;
+        ul li {
+            margin-bottom: 12px;
         }
 
         .meta-block {
             color: var(--tertiary);
-            font-size: 11px;
-            margin-top: -2px;
-            margin-bottom: 20px;
+            font-size: 12px;
+            margin-top: 8px;
+            margin-bottom: 0;
         }
 
-        .list-title {
-            margin-bottom: 4px;
-            color: var(--primary);
-            font-weight: 600;
+        .footer {
+            margin-top: 120px;
+            padding-top: 40px;
+            border-top: 1px solid var(--border);
+            max-width: 640px;
+        }
+
+        .footer-title {
             font-size: 12px;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .footer-text {
+            font-size: 12px;
+            line-height: 1.7;
+            color: var(--secondary);
+        }
+
+        .footer-text a {
+            color: var(--secondary);
+            text-decoration: underline;
+            text-decoration-color: var(--tertiary);
+            transition: all 0.2s ease;
+        }
+
+        .footer-text a:hover {
+            color: var(--primary);
+            text-decoration-color: var(--primary);
         }
 
         @media (max-width: 1024px) {
@@ -163,6 +201,14 @@
         @media (max-width: 720px) {
             .page-shell {
                 flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                height: auto;
+                position: relative;
+                border-right: none;
+                border-bottom: 1px solid var(--border);
             }
 
             .main {
@@ -190,22 +236,12 @@
 <body>
     <a class="skip-to-main" href="#main">Skip to main content</a>
     <div class="page-shell">
-        <nav class="site-sidebar site-nav" aria-label="Main navigation" data-nav>
-            <header class="logo">Eduard Luta</header>
-            <ul class="nav-menu">
-                <li><a href="index.html">🏠 Home</a></li>
-                <li><a href="about.html" class="active" aria-current="page">👤 About Me</a></li>
-                <li><a href="blog.html">✍️ Blog</a></li>
-                <li><a href="principles.html">💎 Principles</a></li>
-                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
-            </ul>
-        </nav>
+        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav></nav>
 
         <main class="main" id="main" tabindex="-1">
             <article class="content">
                 <section>
-                    <h1>Hi, I’m Eduard.</h1>
-                    <p>I’m an entrepreneur focused on building durable brands through practical storytelling and growth systems. I enjoy working with teams that ship consistently and stay close to their customers.</p>
+                    <p class="intro-text">Hi, I'm Eduard. I'm an entrepreneur focused on building durable brands through practical storytelling and growth systems. I enjoy working with teams that ship consistently and stay close to their customers.</p>
                     <p class="meta-block">Based between Zug and Prishtina. Working in English, Albanian, and German.</p>
                 </section>
 
@@ -237,10 +273,13 @@
                     <h2>Elsewhere</h2>
                     <p>Writing lives on the <a href="blog.html">blog</a>. You can reach me on <a href="https://x.com/eduardluta" target="_blank" rel="noopener noreferrer">X</a>, <a href="https://github.com/eduardluta" target="_blank" rel="noopener noreferrer">GitHub</a>, <a href="https://linkedin.com/in/eduardluta" target="_blank" rel="noopener noreferrer">LinkedIn</a>, or directly via <a href="mailto:hello@eduardluta.com">hello@eduardluta.com</a>.</p>
                 </section>
+
+                <div data-footer></div>
             </article>
         </main>
     </div>
 
     <script src="nav.js"></script>
+    <script src="footer.js"></script>
 </body>
 </html>

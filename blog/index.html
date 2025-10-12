@@ -74,7 +74,7 @@
 
         .skip-to-main {
             position: absolute;
-            top: -40px;
+            top: -100px;
             left: 0;
             padding: 8px 16px;
             background-color: var(--accent);
@@ -93,7 +93,7 @@
             min-height: 100vh;
         }
 
-        .site-sidebar {
+        .sidebar {
             width: 220px;
             flex-shrink: 0;
             position: fixed;
@@ -109,7 +109,7 @@
         .blog-view {
             flex: 1;
             margin-left: 220px;
-            padding: 64px 72px;
+            padding: 120px 72px 80px;
             display: flex;
             gap: 48px;
             align-items: flex-start;
@@ -229,9 +229,42 @@
             border-radius: 4px;
         }
 
+        .footer {
+            margin-top: 120px;
+            padding-top: 40px;
+            border-top: 1px solid var(--border);
+        }
+
+        .footer-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .footer-text {
+            font-size: 12px;
+            line-height: 1.7;
+            color: var(--secondary);
+        }
+
+        .footer-text a {
+            color: var(--secondary);
+            text-decoration: underline;
+            text-decoration-color: var(--tertiary);
+            transition: all 0.2s ease;
+        }
+
+        .footer-text a:hover {
+            color: var(--primary);
+            text-decoration-color: var(--primary);
+        }
+
         @media (max-width: 1200px) {
             .blog-view {
-                padding: 56px 40px;
+                padding: 100px 40px 80px;
                 gap: 32px;
             }
         }
@@ -241,7 +274,7 @@
                 flex-direction: column;
             }
 
-            .site-sidebar {
+            .sidebar {
                 position: static;
                 width: 100%;
                 border-right: none;
@@ -258,7 +291,7 @@
             .blog-view {
                 margin-left: 0;
                 width: 100%;
-                padding: 40px 24px 80px;
+                padding: 80px 24px 60px;
                 flex-direction: column;
             }
 
@@ -292,7 +325,7 @@
             }
 
             .blog-view {
-                padding: 32px 16px 72px;
+                padding: 60px 16px 48px;
             }
 
             .post-heading {
@@ -313,16 +346,7 @@
 <body>
     <a class="skip-to-main" href="#main-content">Skip to main content</a>
     <div class="site-shell">
-        <nav class="site-sidebar site-nav" aria-label="Main navigation" data-nav data-nav-root="../">
-            <header class="logo">Eduard Luta</header>
-            <ul class="nav-menu">
-                <li><a href="../index.html">🏠 Home</a></li>
-                <li><a href="../about.html">👤 About Me</a></li>
-                <li><a href="../blog.html" class="active" aria-current="page">✍️ Blog</a></li>
-                <li><a href="../principles.html">💎 Principles</a></li>
-                <li><a href="../worth-the-time.html">⭐ Worth the time</a></li>
-            </ul>
-        </nav>
+        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav data-nav-root="../"></nav>
         <main id="main-content" class="blog-view" tabindex="-1">
             <aside class="posts-panel" aria-label="Blog posts">
                 <div class="posts-panel__title">Blog</div>
@@ -335,11 +359,13 @@
                     <div class="post-meta" id="postDate"></div>
                 </header>
                 <div id="postContent" class="post-body"></div>
+                <div data-footer></div>
             </article>
         </main>
     </div>
 
     <script src="../nav.js"></script>
+    <script src="../footer.js"></script>
     <script>
         const posts = [
             {

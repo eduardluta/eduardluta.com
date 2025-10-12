@@ -110,7 +110,7 @@
         .main-content {
             margin-left: 220px;
             flex: 1;
-            padding: 100px 60px;
+            padding: 120px 60px 80px;
             display: flex;
             align-items: flex-start;
             justify-content: center;
@@ -329,7 +329,7 @@
             .main-content {
                 margin-left: 0;
                 flex: 1;
-                padding: 60px 20px;
+                padding: 80px 20px 60px;
                 justify-content: center;
                 width: 100%;
             }
@@ -391,7 +391,7 @@
         /* Extra small screens - improved mobile experience */
         @media (max-width: 480px) {
             .main-content {
-                padding: 40px 16px;
+                padding: 60px 16px 48px;
             }
 
             .project-card {
@@ -407,7 +407,7 @@
         /* Medium screens */
         @media (min-width: 769px) and (max-width: 1200px) {
             .main-content {
-                padding: 80px 40px;
+                padding: 100px 40px 80px;
             }
 
             .hero {
@@ -434,7 +434,7 @@
         /* Large screens */
         @media (min-width: 1201px) {
             .main-content {
-                padding: 100px 60px;
+                padding: 120px 60px 80px;
             }
 
             .hero {
@@ -495,16 +495,7 @@
     <a href="#main-content" class="skip-to-main">Skip to main content</a>
     <div class="container">
         <!-- Side Menu -->
-        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav>
-            <header class="logo">Eduard Luta</header>
-            <ul class="nav-menu">
-                <li><a href="index.html" class="active" aria-current="page">🏠 Home</a></li>
-                <li><a href="about.html">👤 About Me</a></li>
-                <li><a href="blog.html">✍️ Blog</a></li>
-                <li><a href="principles.html">💎 Principles</a></li>
-                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
-            </ul>
-        </nav>
+        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav></nav>
 
         <!-- Main Content -->
         <main class="main-content" id="main-content">
@@ -606,19 +597,11 @@
                     </ul>
                 </section>
 
-                <!-- Footer Section -->
-                <footer class="footer">
-                    <h2 class="footer-title">reach</h2>
-                    <p class="footer-text">
-                        connect on <a href="https://x.com/eduardluta" target="_blank" rel="noopener noreferrer">X</a> 
-                        <a href="https://github.com/eduardluta" target="_blank" rel="noopener noreferrer">GitHub</a> 
-                        <a href="https://linkedin.com/in/eduardluta" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
-                        - or send me an email at <a href="mailto:hello@eduardluta.com">hello@eduardluta.com</a>
-                    </p>
-                </footer>
+                <div data-footer></div>
             </div>
         </main>
     </div>
     <script src="nav.js"></script>
+    <script src="footer.js"></script>
 </body>
 </html>
