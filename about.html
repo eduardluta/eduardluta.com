@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About Eduard Luta — entrepreneur focused on building durable brands through practical storytelling and growth systems.">
+    <meta name="author" content="Eduard Luta">
+    <meta name="theme-color" content="#000000">
+
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="About — Eduard Luta">
+    <meta property="og:description" content="A brief introduction to Eduard Luta, the companies he builds, and how he works.">
+    <meta property="og:url" content="https://eduardluta.com/about.html">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="About — Eduard Luta">
+    <meta name="twitter:description" content="Entrepreneur focused on durable brands through practical storytelling and growth systems.">
+
+    <title>About — Eduard Luta</title>
+    <link rel="stylesheet" href="nav.css">
+    <style>
+        :root {
+            --background: #000;
+            --primary: #fff;
+            --secondary: #ccc;
+            --tertiary: #666;
+            --accent: #f09000;
+            --border: #222;
+            --font-mono: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "andale mono", monospace;
+        }
+
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            font-family: var(--font-mono);
+            font-size: 16px;
+            line-height: 1.7;
+            color: var(--primary);
+            background-color: var(--background);
+            background-image: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+            background-size: 30px 30px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        ::selection {
+            background-color: var(--accent);
+            color: var(--background);
+        }
+
+        a {
+            color: inherit;
+            text-decoration: underline;
+            text-decoration-color: var(--tertiary);
+            transition: text-decoration-color 0.2s ease;
+        }
+
+        a:hover {
+            text-decoration-color: var(--primary);
+        }
+
+        .skip-to-main {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            padding: 8px 16px;
+            background-color: var(--accent);
+            color: var(--background);
+            text-decoration: none;
+            font-size: 14px;
+            z-index: 100;
+        }
+
+        .skip-to-main:focus {
+            top: 0;
+        }
+
+        *:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        .page-shell {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        .main {
+            margin-left: 220px;
+            width: calc(100% - 220px);
+            padding: 96px 104px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 640px;
+        }
+
+        .content section + section {
+            margin-top: 72px;
+        }
+
+        h1, h2 {
+            font-size: 24px;
+            font-weight: 600;
+            margin: 0 0 16px;
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+
+        p {
+            margin: 0 0 24px;
+            color: var(--secondary);
+        }
+
+        ul {
+            margin: 0;
+            padding-left: 22px;
+            color: var(--secondary);
+        }
+
+        ul li + li {
+            margin-top: 12px;
+        }
+
+        .meta-block {
+            color: var(--tertiary);
+            font-size: 14px;
+            margin-top: -8px;
+            margin-bottom: 32px;
+        }
+
+        .list-title {
+            margin-bottom: 8px;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        @media (max-width: 1024px) {
+            .main {
+                padding: 72px 56px;
+            }
+        }
+
+        @media (max-width: 720px) {
+            .page-shell {
+                flex-direction: column;
+            }
+
+            .main {
+                margin-left: 0;
+                width: 100%;
+                padding: 56px 24px 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a class="skip-to-main" href="#main">Skip to main content</a>
+    <div class="page-shell">
+        <nav class="site-sidebar site-nav" aria-label="Main navigation" data-nav>
+            <header class="logo">Eduard Luta</header>
+            <ul class="nav-menu">
+                <li><a href="index.html">🏠 Home</a></li>
+                <li><a href="about.html" class="active" aria-current="page">👤 About Me</a></li>
+                <li><a href="blog.html">✍️ Blog</a></li>
+                <li><a href="principles.html">💎 Principles</a></li>
+                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
+            </ul>
+        </nav>
+
+        <main class="main" id="main" tabindex="-1">
+            <article class="content">
+                <section>
+                    <h1>Hi, I’m Eduard.</h1>
+                    <p>I’m an entrepreneur focused on building durable brands through practical storytelling and growth systems. I enjoy working with teams that ship consistently and stay close to their customers.</p>
+                    <p class="meta-block">Based between Zug and Prishtina. Working in English, Albanian, and German.</p>
+                </section>
+
+                <section>
+                    <h2>Now</h2>
+                    <ul>
+                        <li><strong>dua.com</strong> — co-founder, leading growth and product storytelling for the largest matchmaking platform dedicated to the Albanian diaspora.</li>
+                        <li><strong>MIK Group</strong> — operating partner at our 40+ person growth agency focused on SEO, creative, and AI-led performance marketing.</li>
+                        <li><strong>Spotted</strong> — supporting hospitality brands with positioning, launch strategy, and loyalty programs that people actually keep.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Previously</h2>
+                    <p>I spent the last decade launching ventures inside media, consumer apps, and e-commerce. Highlights include spinning up a European marketing studio from zero to 500+ clients, leading brand turnarounds for legacy companies, and investing in teams building tools for marketplaces and food systems.</p>
+                </section>
+
+                <section>
+                    <h2>How I like to work</h2>
+                    <ul>
+                        <li>Keep teams small and decisions reversible.</li>
+                        <li>Ship progress updates weekly — momentum is a tactic.</li>
+                        <li>Root every plan in customer language, not slide decks.</li>
+                        <li>Stay default-alive; cash flow is a strategy, not an outcome.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Elsewhere</h2>
+                    <p>Writing lives on the <a href="blog.html">blog</a>. You can reach me on <a href="https://x.com/eduardluta" target="_blank" rel="noopener noreferrer">X</a>, <a href="https://github.com/eduardluta" target="_blank" rel="noopener noreferrer">GitHub</a>, <a href="https://linkedin.com/in/eduardluta" target="_blank" rel="noopener noreferrer">LinkedIn</a>, or directly via <a href="mailto:hello@eduardluta.com">hello@eduardluta.com</a>.</p>
+                </section>
+            </article>
+        </main>
+    </div>
+
+    <script src="nav.js"></script>
+</body>
+</html>
