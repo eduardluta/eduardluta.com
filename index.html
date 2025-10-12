@@ -19,6 +19,7 @@
     <meta name="twitter:description" content="Entrepreneur and digital marketing strategist building brands through AI-driven strategy.">
     
     <title>Eduard Luta</title>
+    <link rel="stylesheet" href="nav.css">
     <style>
         :root {
             --background: #000;
@@ -103,45 +104,6 @@
             position: fixed;
             height: 100vh;
             border-right: 1px solid #222;
-        }
-
-        .logo {
-            font-size: 14px;
-            font-weight: 700;
-            margin: 16px;
-            padding: 6px 8px;
-            color: var(--primary);
-        }
-
-        .nav-menu {
-            list-style: none;
-            padding: 0 16px;
-            color: var(--primary);
-        }
-
-        .nav-menu li {
-            margin-bottom: 20px;
-        }
-
-        .nav-menu a {
-            text-decoration: none;
-            color: inherit;
-            font-size: 14px;
-            line-height: 1.2em;
-            transition: all 0.3s ease;
-            padding: 6px 8px;
-            display: block;
-            border-radius: 0.5rem;
-            cursor: pointer;
-        }
-
-        .nav-menu a:hover {
-            color: var(--primary);
-        }
-
-        .nav-menu a.active {
-            background-color: #222;
-            color: var(--primary);
         }
 
         /* Main Content */
@@ -363,21 +325,6 @@
                 padding: 0;
             }
 
-            .logo {
-                margin: 16px;
-            }
-
-            .nav-menu {
-                display: flex;
-                gap: 10px;
-                flex-wrap: wrap;
-                padding: 0 16px 16px 16px;
-            }
-
-            .nav-menu li {
-                margin-bottom: 0;
-            }
-
             .main-content {
                 margin-left: 0;
                 flex: 1;
@@ -444,14 +391,6 @@
         @media (max-width: 480px) {
             .main-content {
                 padding: 40px 16px;
-            }
-
-            .logo {
-                font-size: 14px;
-            }
-
-            .nav-menu {
-                padding: 0 12px 12px 12px;
             }
 
             .project-card {
@@ -555,17 +494,15 @@
     <a href="#main-content" class="skip-to-main">Skip to main content</a>
     <div class="container">
         <!-- Side Menu -->
-        <nav class="sidebar" aria-label="Main navigation" data-nav>
-            <noscript>
-                <header class="logo">Eduard Luta</header>
-                <ul class="nav-menu">
-                    <li><a href="index.html" class="active" aria-current="page">🏠 Home</a></li>
-                    <li><a href="about.html">👤 About Me</a></li>
-                    <li><a href="blog.html">✍️ Blog</a></li>
-                    <li><a href="principles.html">💎 Principles</a></li>
-                    <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
-                </ul>
-            </noscript>
+        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav>
+            <header class="logo">Eduard Luta</header>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="active" aria-current="page">🏠 Home</a></li>
+                <li><a href="about.html">👤 About Me</a></li>
+                <li><a href="blog.html">✍️ Blog</a></li>
+                <li><a href="principles.html">💎 Principles</a></li>
+                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
+            </ul>
         </nav>
 
         <!-- Main Content -->

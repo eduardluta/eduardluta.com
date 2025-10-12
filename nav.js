@@ -47,19 +47,48 @@
 
     document.querySelectorAll('[data-nav]').forEach((nav) => {
         const root = nav.dataset.navRoot || '';
-        const itemsMarkup = NAV_ITEMS.map((item) => {
+        nav.classList.add('site-nav');
+
+        let header = nav.querySelector('.logo');
+        if (!header) {
+            header = document.createElement('header');
+            header.className = 'logo';
+            header.textContent = 'Eduard Luta';
+            nav.prepend(header);
+        } else {
+            header.textContent = 'Eduard Luta';
+        }
+
+        let menu = nav.querySelector('.nav-menu');
+        if (!menu) {
+            menu = document.createElement('ul');
+            menu.className = 'nav-menu';
+            nav.appendChild(menu);
+        }
+
+        const fragment = document.createDocumentFragment();
+
+        NAV_ITEMS.forEach((item) => {
+            const li = document.createElement('li');
+            const link = document.createElement('a');
             const href = `${root}${item.href}`;
             const isActive = item.isActive(currentPath);
-            const activeClass = isActive ? ' class="active"' : '';
-            const ariaCurrent = isActive ? ' aria-current="page"' : '';
-            return `<li><a href="${href}"${activeClass}${ariaCurrent}>${item.icon} ${item.label}</a></li>`;
-        }).join('');
 
-        nav.innerHTML = `
-            <header class="logo">Eduard Luta</header>
-            <ul class="nav-menu">
-                ${itemsMarkup}
-            </ul>
-        `;
+            link.href = href;
+            link.textContent = `${item.icon} ${item.label}`;
+
+            if (isActive) {
+                link.classList.add('active');
+                link.setAttribute('aria-current', 'page');
+            } else {
+                link.classList.remove('active');
+                link.removeAttribute('aria-current');
+            }
+
+            li.appendChild(link);
+            fragment.appendChild(li);
+        });
+
+        menu.replaceChildren(fragment);
     });
 })();

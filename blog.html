@@ -17,6 +17,7 @@
     <meta name="twitter:description" content="Essays and notes by Eduard Luta on entrepreneurship, digital marketing, and building products.">
 
     <title>Blog – Eduard Luta</title>
+    <link rel="stylesheet" href="nav.css">
     <style>
         :root {
             --background: #000;
@@ -103,48 +104,6 @@
             padding: 0;
             z-index: 5;
             height: 100vh;
-        }
-
-        .logo {
-            font-size: 14px;
-            font-weight: 700;
-            margin: 16px;
-            padding: 6px 8px;
-            color: var(--primary);
-        }
-
-        .nav-menu {
-            list-style: none;
-            padding: 0 16px;
-            margin: 0;
-            color: var(--primary);
-        }
-
-        .nav-menu li {
-            margin-bottom: 20px;
-        }
-
-        .nav-menu a {
-            text-decoration: none;
-            color: inherit;
-            font-size: 14px;
-            line-height: 1.2em;
-            transition: all 0.3s ease;
-            padding: 6px 8px;
-            display: block;
-            border-radius: 0.5rem;
-            cursor: pointer;
-        }
-
-        .nav-menu a:hover {
-            color: var(--primary);
-        }
-
-        .nav-menu a.active,
-        .nav-menu a[aria-current="page"] {
-            background-color: #222;
-            color: var(--primary);
-            font-weight: 600;
         }
 
         .blog-view {
@@ -296,17 +255,6 @@
                 margin: 16px;
             }
 
-            .nav-menu {
-                display: flex;
-                gap: 10px;
-                flex-wrap: wrap;
-                padding: 0 16px 16px 16px;
-            }
-
-            .nav-menu li {
-                margin-bottom: 0;
-            }
-
             .blog-view {
                 margin-left: 0;
                 width: 100%;
@@ -343,11 +291,6 @@
                 font-size: 15px;
             }
 
-            .nav-menu {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-
             .blog-view {
                 padding: 32px 16px 72px;
             }
@@ -370,17 +313,15 @@
 <body>
     <a class="skip-to-main" href="#main-content">Skip to main content</a>
     <div class="site-shell">
-        <nav class="site-sidebar" aria-label="Main navigation" data-nav>
-            <noscript>
-                <header class="logo">Eduard Luta</header>
-                <ul class="nav-menu">
-                    <li><a href="index.html">🏠 Home</a></li>
-                    <li><a href="about.html">👤 About Me</a></li>
-                    <li><a href="blog.html" class="active" aria-current="page">✍️ Blog</a></li>
-                    <li><a href="principles.html">💎 Principles</a></li>
-                    <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
-                </ul>
-            </noscript>
+        <nav class="site-sidebar site-nav" aria-label="Main navigation" data-nav>
+            <header class="logo">Eduard Luta</header>
+            <ul class="nav-menu">
+                <li><a href="index.html">🏠 Home</a></li>
+                <li><a href="about.html">👤 About Me</a></li>
+                <li><a href="blog.html" class="active" aria-current="page">✍️ Blog</a></li>
+                <li><a href="principles.html">💎 Principles</a></li>
+                <li><a href="worth-the-time.html">⭐ Worth the time</a></li>
+            </ul>
         </nav>
         <main id="main-content" class="blog-view" tabindex="-1">
             <aside class="posts-panel" aria-label="Blog posts">
