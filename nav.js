@@ -53,11 +53,20 @@
         if (!header) {
             header = document.createElement('header');
             header.className = 'logo';
-            header.textContent = 'Eduard Luta';
             nav.prepend(header);
-        } else {
-            header.textContent = 'Eduard Luta';
         }
+
+        // Create or update the home link inside the logo
+        let homeLink = header.querySelector('a');
+        if (!homeLink) {
+            homeLink = document.createElement('a');
+            header.innerHTML = '';
+            header.appendChild(homeLink);
+        }
+        homeLink.href = `${root}index.html`;
+        homeLink.textContent = 'Eduard Luta';
+        homeLink.style.textDecoration = 'none';
+        homeLink.style.color = 'inherit';
 
         let menu = nav.querySelector('.nav-menu');
         if (!menu) {

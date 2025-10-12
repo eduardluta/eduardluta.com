@@ -68,7 +68,7 @@
 
         .skip-to-main {
             position: absolute;
-            top: -40px;
+            top: -100px;
             left: 0;
             padding: 8px 16px;
             background-color: var(--accent);
@@ -95,7 +95,7 @@
         .main {
             margin-left: 220px;
             width: calc(100% - 220px);
-            padding: 96px 104px;
+            padding: 120px 60px 80px;
             display: flex;
             justify-content: center;
         }
@@ -106,50 +106,57 @@
         }
 
         .content section + section {
-            margin-top: 72px;
+            margin-top: 48px;
         }
 
         h1, h2 {
-            font-size: 24px;
+            font-size: 14px;
             font-weight: 600;
-            margin: 0 0 16px;
+            margin: 0 0 10px;
+            font-family: var(--font-sans);
         }
 
         h1 {
-            font-size: 28px;
+            font-size: 19px;
+            margin-bottom: 8px;
         }
 
         p {
-            margin: 0 0 24px;
+            margin: 0 0 16px;
             color: var(--secondary);
+            font-size: 13px;
+            line-height: 1.7;
         }
 
         ul {
             margin: 0;
-            padding-left: 22px;
+            padding-left: 18px;
             color: var(--secondary);
+            font-size: 12px;
+            line-height: 1.7;
         }
 
         ul li + li {
-            margin-top: 12px;
+            margin-top: 8px;
         }
 
         .meta-block {
             color: var(--tertiary);
-            font-size: 14px;
-            margin-top: -8px;
-            margin-bottom: 32px;
+            font-size: 11px;
+            margin-top: -2px;
+            margin-bottom: 20px;
         }
 
         .list-title {
-            margin-bottom: 8px;
+            margin-bottom: 4px;
             color: var(--primary);
             font-weight: 600;
+            font-size: 12px;
         }
 
         @media (max-width: 1024px) {
             .main {
-                padding: 72px 56px;
+                padding: 100px 40px 80px;
             }
         }
 
@@ -161,7 +168,21 @@
             .main {
                 margin-left: 0;
                 width: 100%;
-                padding: 56px 24px 80px;
+                padding: 80px 24px 60px;
+            }
+
+            .content section + section {
+                margin-top: 40px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .main {
+                padding: 60px 20px 48px;
+            }
+
+            .content section + section {
+                margin-top: 36px;
             }
         }
     </style>

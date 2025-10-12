@@ -5,38 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Page not found">
     <title>404 – Eduard Luta</title>
+    <link rel="stylesheet" href="common.css">
     <style>
-        :root {
-            --background: #000;
-            --primary: #fff;
-            --secondary: #ccc;
-            --tertiary: #666;
-            --accent: #f09000;
-            --border: #222;
-            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            --font-mono: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Andale Mono", monospace;
-        }
-
-        *, *::before, *::after {
-            box-sizing: border-box;
-        }
-
-        html {
-            scroll-behavior: smooth;
-        }
-
         body {
-            margin: 0;
-            font-family: var(--font-mono);
-            background-color: var(--background);
-            background-image: radial-gradient(circle, rgba(255, 255, 255, 0.12) 1px, transparent 1px);
-            background-size: 32px 32px;
-            color: var(--primary);
-            line-height: 1.7;
-            font-size: 16px;
-            text-rendering: optimizeLegibility;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -44,23 +15,12 @@
             padding: 24px;
         }
 
-        ::selection {
-            background-color: var(--accent);
-            color: var(--primary);
-        }
-
         a {
-            color: inherit;
             text-decoration: underline;
         }
 
         a:hover {
             color: var(--accent);
-        }
-
-        a:focus-visible {
-            outline: 2px solid var(--accent);
-            outline-offset: 2px;
         }
 
         .error-container {
@@ -149,14 +109,6 @@
             }
         }
 
-        @media (prefers-reduced-motion: reduce) {
-            *, *::before, *::after {
-                animation-duration: 0.001ms !important;
-                animation-iteration-count: 1 !important;
-                transition-duration: 0.001ms !important;
-                scroll-behavior: auto !important;
-            }
-        }
     </style>
 </head>
 <body>

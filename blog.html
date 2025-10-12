@@ -74,7 +74,7 @@
 
         .skip-to-main {
             position: absolute;
-            top: -40px;
+            top: -100px;
             left: 0;
             padding: 8px 16px;
             background-color: var(--accent);
@@ -109,7 +109,7 @@
         .blog-view {
             flex: 1;
             margin-left: 220px;
-            padding: 64px 72px;
+            padding: 120px 72px 80px;
             display: flex;
             gap: 48px;
             align-items: flex-start;
@@ -137,15 +137,15 @@
         }
 
         .posts-panel__title {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 4px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 6px;
         }
 
         .posts-panel__description {
-            font-size: 13px;
+            font-size: 11px;
             color: var(--tertiary);
-            margin-bottom: 20px;
+            margin-bottom: 24px;
         }
 
         .posts-list {
@@ -171,16 +171,16 @@
         }
 
         .post-link .post-title {
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 500;
             display: block;
-            margin-bottom: 4px;
+            margin-bottom: 3px;
         }
 
         .post-link .post-date {
-            font-size: 12px;
+            font-size: 10px;
             color: var(--tertiary);
-            letter-spacing: 0.04em;
+            letter-spacing: 0.05em;
             text-transform: uppercase;
         }
 
@@ -192,22 +192,24 @@
 
         .post-heading {
             font-family: var(--font-sans);
-            font-size: 32px;
-            line-height: 1.1;
-            font-weight: 700;
-            margin-bottom: 12px;
+            font-size: 24px;
+            line-height: 1.2;
+            font-weight: 600;
+            margin-bottom: 10px;
         }
 
         .post-meta {
-            font-size: 12px;
-            letter-spacing: 0.06em;
+            font-size: 10px;
+            letter-spacing: 0.08em;
             text-transform: uppercase;
             color: var(--tertiary);
-            margin-bottom: 32px;
+            margin-bottom: 28px;
         }
 
         .post-detail p {
-            margin-bottom: 20px;
+            margin-bottom: 18px;
+            font-size: 14px;
+            line-height: 1.7;
         }
 
         .post-detail a {
@@ -231,7 +233,7 @@
 
         @media (max-width: 1200px) {
             .blog-view {
-                padding: 56px 40px;
+                padding: 100px 40px 80px;
                 gap: 32px;
             }
         }
@@ -258,7 +260,7 @@
             .blog-view {
                 margin-left: 0;
                 width: 100%;
-                padding: 40px 24px 80px;
+                padding: 80px 24px 60px;
                 flex-direction: column;
             }
 
@@ -282,7 +284,7 @@
             }
 
             .post-heading {
-                font-size: 28px;
+                font-size: 22px;
             }
         }
 
@@ -292,11 +294,11 @@
             }
 
             .blog-view {
-                padding: 32px 16px 72px;
+                padding: 60px 16px 48px;
             }
 
             .post-heading {
-                font-size: 24px;
+                font-size: 20px;
             }
         }
 

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Things worth the time — curated recommendations by Eduard Luta on movies, articles, videos, books, and more.">
+    <meta name="author" content="Eduard Luta">
+    <meta name="theme-color" content="#000000">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Worth the Time – Eduard Luta">
+    <meta property="og:description" content="Curated recommendations on movies, articles, videos, books, and more.">
+    <meta property="og:url" content="https://eduardluta.com/worth-the-time">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Worth the Time – Eduard Luta">
+    <meta name="twitter:description" content="Curated recommendations on movies, articles, videos, books, and more.">
+
+    <title>Worth the Time – Eduard Luta</title>
+    <link rel="stylesheet" href="common.css">
+    <link rel="stylesheet" href="nav.css">
+    <style>
+        .page-title {
+            font-size: 19px;
+        }
+
+        .page-description {
+            font-size: 12px;
+        }
+
+        .timeline {
+            position: relative;
+        }
+
+        .year-section {
+            margin-bottom: 80px;
+        }
+
+        .year-header {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 32px;
+            color: var(--primary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .items-list {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+        }
+
+        .item-card {
+            transition: opacity 0.2s ease;
+        }
+
+        .item-card:hover {
+            opacity: 0.8;
+        }
+
+        .item-header {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 8px;
+            align-items: center;
+        }
+
+        .item-icon {
+            font-size: 14px;
+            flex-shrink: 0;
+            opacity: 0.5;
+        }
+
+        .item-meta {
+            flex: 1;
+        }
+
+        .item-category {
+            font-size: 9px;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .item-title {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--primary);
+            margin-top: 10px;
+            margin-bottom: 4px;
+            line-height: 1.4;
+        }
+
+        .item-link {
+            text-decoration: none;
+            color: var(--primary);
+            transition: color 0.2s ease;
+        }
+
+        .item-link:hover {
+            color: var(--accent);
+        }
+
+        .item-source {
+            font-size: 10px;
+            color: var(--tertiary);
+            margin-bottom: 12px;
+        }
+
+        .item-preview {
+            margin: 12px 0;
+        }
+
+        .item-preview img {
+            width: 50%;
+            height: auto;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            display: block;
+        }
+
+        .item-comment {
+            font-size: 12px;
+            line-height: 1.6;
+            color: var(--secondary);
+            margin-top: 10px;
+        }
+
+        .item-date {
+            font-size: 9px;
+            color: var(--tertiary);
+            margin-top: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .external-link-icon {
+            display: inline-block;
+            margin-left: 2px;
+            opacity: 0.4;
+            font-size: 11px;
+        }
+
+        @media (max-width: 768px) {
+            .year-section {
+                margin-bottom: 64px;
+            }
+
+            .items-list {
+                gap: 28px;
+            }
+
+            .item-preview img {
+                width: 70%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .year-section {
+                margin-bottom: 56px;
+            }
+
+            .items-list {
+                gap: 24px;
+            }
+
+            .item-preview img {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="#main-content" class="skip-to-main">Skip to main content</a>
+    <div class="container">
+        <nav class="sidebar site-nav" aria-label="Main navigation" data-nav>
+            <header class="logo">Eduard Luta</header>
+            <ul class="nav-menu">
+                <li><a href="index.html">🏠 Home</a></li>
+                <li><a href="about.html">👤 About Me</a></li>
+                <li><a href="blog.html">✍️ Blog</a></li>
+                <li><a href="principles.html">💎 Principles</a></li>
+                <li><a href="worth-the-time.html" class="active" aria-current="page">⭐ Worth the time</a></li>
+            </ul>
+        </nav>
+
+        <main class="main-content" id="main-content">
+            <div class="content-wrapper">
+                <header class="page-header">
+                    <h1 class="page-title">Worth the Time</h1>
+                    <p class="page-description">
+                        A curated collection of things I've found valuable — movies, articles, videos, books, and more.
+                        Each with a note on why I think it's worth your time.
+                    </p>
+                </header>
+
+                <div class="timeline">
+                    <!-- 2025 Section -->
+                    <section class="year-section">
+                        <h2 class="year-header">2025</h2>
+                        <div class="items-list">
+                            <!-- Movie Example -->
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">🎬</div>
+                                    <div class="item-category">Movie</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://www.imdb.com/title/tt0468569/" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        The Dark Knight
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">IMDB</div>
+                                <div class="item-comment">
+                                    A masterclass in storytelling and character development. Heath Ledger's Joker remains one of cinema's most compelling villains, and the film's exploration of chaos vs. order is as relevant today as ever.
+                                </div>
+                                <div class="item-date">Oct 12, 2025</div>
+                            </article>
+
+                            <!-- Article Example with Image -->
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">📰</div>
+                                    <div class="item-category">Article</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://www.paulgraham.com/startupideas.html" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        How to Get Startup Ideas
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">paulgraham.com</div>
+                                <div class="item-preview">
+                                    <img src="https://picsum.photos/800/400" alt="Article preview" loading="lazy">
+                                </div>
+                                <div class="item-comment">
+                                    Paul Graham's timeless advice on finding startup ideas by solving problems you have yourself. The best ideas often come from noticing things that are missing in your own life.
+                                </div>
+                                <div class="item-date">Oct 10, 2025</div>
+                            </article>
+
+                            <!-- YouTube Video Example -->
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">🎥</div>
+                                    <div class="item-category">Video</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        Building Products Users Love
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">YouTube</div>
+                                <div class="item-comment">
+                                    An insightful talk on product development and user-centric design. The speaker breaks down how to really understand your users and build something they'll actually use and recommend.
+                                </div>
+                                <div class="item-date">Oct 5, 2025</div>
+                            </article>
+
+                            <!-- Book Example -->
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">📚</div>
+                                    <div class="item-category">Book</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://www.amazon.com/dp/0143115766" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        The Hard Thing About Hard Things by Ben Horowitz
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">Amazon</div>
+                                <div class="item-comment">
+                                    The most honest book about entrepreneurship I've read. Horowitz doesn't sugarcoat the challenges of running a company — from layoffs to tough decisions. Essential reading for anyone building a business.
+                                </div>
+                                <div class="item-date">Sep 28, 2025</div>
+                            </article>
+
+                            <!-- Twitter Post Example -->
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">🐦</div>
+                                    <div class="item-category">Twitter Thread</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://twitter.com/naval/status/1002103360646823936" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        Naval's How to Get Rich (without getting lucky)
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">@naval on X</div>
+                                <div class="item-comment">
+                                    One of the most valuable Twitter threads ever written. Naval distills wealth creation into actionable principles. I revisit this regularly and always find new insights.
+                                </div>
+                                <div class="item-date">Sep 15, 2025</div>
+                            </article>
+                        </div>
+                    </section>
+
+                    <!-- 2024 Section -->
+                    <section class="year-section">
+                        <h2 class="year-header">2024</h2>
+                        <div class="items-list">
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">🎙️</div>
+                                    <div class="item-category">Podcast</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://example.com/podcast" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        Building in Public with Indie Hackers
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">Indie Hackers Podcast</div>
+                                <div class="item-comment">
+                                    Great conversation about transparency in business. The guest shares their journey building a SaaS product completely in public, including revenue numbers and challenges.
+                                </div>
+                                <div class="item-date">Dec 20, 2024</div>
+                            </article>
+
+                            <article class="item-card">
+                                <div class="item-header">
+                                    <div class="item-icon">🛠️</div>
+                                    <div class="item-category">Tool</div>
+                                </div>
+                                <h3 class="item-title">
+                                    <a href="https://obsidian.md" target="_blank" rel="noopener noreferrer" class="item-link">
+                                        Obsidian
+                                        <span class="external-link-icon">↗</span>
+                                    </a>
+                                </h3>
+                                <div class="item-source">obsidian.md</div>
+                                <div class="item-comment">
+                                    The best note-taking app I've ever used. Markdown-based, local-first, and the graph view helps me connect ideas in ways I never could with traditional notes. Game-changer for knowledge management.
+                                </div>
+                                <div class="item-date">Nov 5, 2024</div>
+                            </article>
+                        </div>
+                    </section>
+                </div>
+                <div data-footer></div>
+            </div>
+        </main>
+    </div>
+    <script src="nav.js"></script>
+    <script src="footer.js"></script>
+</body>
+</html>
