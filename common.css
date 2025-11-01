@@ -32,12 +32,15 @@ html {
 
 body {
     font-family: var(--font-mono);
-    background-color: var(--background);
-    background-image: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
-    background-size: 30px 30px;
-    color: var(--primary);
+    background-color: #000;
+    background-image: url('css/stars-pattern.svg');
+    background-size: 400px 400px;
+    background-repeat: repeat;
+    color: var(--secondary);
     line-height: 1.7em;
     font-size: 16px;
+    letter-spacing: -0.02em;
+    word-wrap: break-word;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
