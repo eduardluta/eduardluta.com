@@ -39,16 +39,18 @@
 
         body {
             margin: 0;
-            font-family: var(--font-mono);
+            font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono",
+                         Menlo, "andale mono", monospace;
             font-size: 16px;
-            line-height: 1.7;
+            line-height: 1.7em;
             letter-spacing: -0.02em;
-            color: var(--secondary);
+            color: #ccc;
             background-color: #000;
             background-image: url('css/stars-pattern.svg');
             background-size: 400px 400px;
             background-repeat: repeat;
             word-wrap: break-word;
+            font-weight: normal;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
         }
@@ -115,7 +117,7 @@
         }
 
         .content {
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .content section + section {
@@ -133,9 +135,11 @@
 
         p {
             margin: 0 0 16px;
-            color: var(--secondary);
-            font-size: 14px;
-            line-height: 1.7;
+            color: #ccc;
+            font-size: 16px;
+            line-height: 1.7em;
+            letter-spacing: -0.02em;
+            font-weight: normal;
         }
 
         .intro-text {
@@ -145,9 +149,10 @@
         ul {
             margin: 0;
             padding-left: 18px;
-            color: var(--secondary);
-            font-size: 14px;
-            line-height: 1.7;
+            color: #ccc;
+            font-size: 16px;
+            line-height: 1.7em;
+            letter-spacing: -0.02em;
         }
 
         ul li {

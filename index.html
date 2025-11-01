@@ -70,18 +70,20 @@
         }
 
         body {
-            font-family: var(--font-mono);
+            font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono",
+                         Menlo, "andale mono", monospace;
             background-color: #000;
             background-image: url('css/stars-pattern.svg');
             background-size: 400px 400px;
             background-repeat: repeat;
-            color: var(--secondary);
+            color: #ccc;
             line-height: 1.7em;
             font-size: 16px;
             letter-spacing: -0.02em;
             word-wrap: break-word;
             overflow-wrap: break-word;
             margin: 0;
+            font-weight: normal;
             text-rendering: optimizeLegibility;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
@@ -127,7 +129,7 @@
         /* Hero Section */
         .hero {
             margin-bottom: 80px;
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .hero p {
@@ -136,7 +138,7 @@
             color: var(--secondary);
             font-weight: 400;
             margin-bottom: 32px;
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .hero a {
@@ -150,6 +152,35 @@
             text-decoration-color: var(--primary);
         }
 
+        /* Container for centering */
+        .intro-container {
+            max-width: 768px;
+            margin-bottom: 40px;
+        }
+
+        /* The exact paragraph styling from lucas.love */
+        .intro-text {
+            font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono",
+                         Menlo, "andale mono", monospace !important;
+            font-size: 16px !important;
+            line-height: 1.7em !important;
+            letter-spacing: -0.02em !important;
+            color: #ccc !important;
+            margin: 0 0 16px !important;
+            word-wrap: break-word;
+            font-weight: normal !important;
+        }
+
+        /* Link styling */
+        .intro-text a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        .intro-text a:hover {
+            color: #f09000;
+        }
+
         /* Projects/Building Section */
         .section-title {
             font-size: 12px;
@@ -158,7 +189,7 @@
             margin-bottom: 32px;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .projects-grid {
@@ -166,7 +197,7 @@
             flex-direction: column;
             gap: 32px;
             margin-bottom: 80px;
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .project-card {
@@ -228,7 +259,7 @@
         /* Recent Notes/Blog Section */
         .blog-section {
             margin-bottom: 80px;
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .blog-title {
@@ -283,7 +314,7 @@
             margin-top: 120px;
             padding-top: 40px;
             border-top: 1px solid var(--border);
-            max-width: 640px;
+            max-width: 768px;
         }
 
         .footer-title {
@@ -502,17 +533,17 @@
         <!-- Main Content -->
         <main class="main-content" id="main-content">
             <div class="content-wrapper">
-                <section class="hero">
-                    <p>
-                        Hello, I'm Eduard Luta — entrepreneur and digital marketing strategist.
+                <div class="intro-container">
+                    <p class="intro-text">
+                        Hello, I'm Eduard Luta – entrepreneur and digital marketing strategist.
                     </p>
-                    <p>
+                    <p class="intro-text">
                         I build and grow brands like dua.com, spotted, and mikgroup through AI-driven storytelling and strategy.
                     </p>
-                    <p>
+                    <p class="intro-text">
                         This is where I share my work, thoughts, things worth the time and lessons on building companies that last.
                     </p>
-                </section>
+                </div>
 
                 <!-- Building/Projects Section -->
                 <section>
