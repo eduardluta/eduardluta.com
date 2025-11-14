@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "Welcome to the Blog"
-date: 2025-01-14 10:00:00 +0100
-author: Eduard Luta
-tags: [meta, introduction]
-excerpt: "First post on the new CMS-powered blog. Testing the setup and exploring what's possible."
+date: 2025-01-14
+slug: "welcome-to-the-blog"
 ---
 
 This is the first post created with Decap CMS.

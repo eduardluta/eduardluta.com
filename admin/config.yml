@@ -1,53 +1,24 @@
 backend:
   name: github
   repo: eduardluta/eduardluta.com
-  branch: main # or master, depending on your default branch
-  base_url: https://eduardluta.com # Your site URL
-  auth_endpoint: /api/auth # GitHub OAuth endpoint
+  branch: main
+  base_url: https://eduardluta.com # Update this with your Vercel URL after OAuth setup
+  auth_endpoint: /api/auth
 
-# Allow editing without pulling latest changes (useful for single-user)
 publish_mode: simple
 
-# Media files configuration
-media_folder: "images/uploads" # Where media files will be stored
-public_folder: "/images/uploads" # Path to media files in the public site
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
 
 collections:
-  # Homepage editing
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "index.html"
-        fields:
-          - { label: "Body", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
-
-  # Blog posts
+  # Blog posts only - these become part of blog.html
   - name: "posts"
     label: "Blog Posts"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Author", name: "author", widget: "string", default: "Eduard Luta" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
-      - { label: "Featured Image", name: "image", widget: "image", required: false }
-      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  # Thoughts/Notes collection
-  - name: "thoughts"
-    label: "Thoughts"
-    folder: "_thoughts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "thought" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Slug", name: "slug", widget: "string", hint: "URL-friendly identifier (e.g., 'my-blog-post')" }
       - { label: "Body", name: "body", widget: "markdown" }

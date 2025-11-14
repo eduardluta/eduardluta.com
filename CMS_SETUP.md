@@ -1,239 +1,265 @@
 # Decap CMS Setup Guide
 
-This website now includes Decap CMS (formerly Netlify CMS) for easy content management. Follow these steps to get it up and running.
+Simple CMS for managing blog posts on eduardluta.com.
 
-## What's Included
+## What This Does
 
-- **Admin Interface**: Access at `/admin` to manage content
-- **Collections**:
-  - **Pages**: Edit homepage HTML directly
-  - **Blog Posts**: Full-featured blog posts in `_posts/`
-  - **Thoughts**: Shorter notes in `_thoughts/`
-- **Media Management**: Upload images to `images/uploads/`
-- **Jekyll Integration**: GitHub Pages automatically builds your site
+- **Admin Interface**: Write blog posts at `/admin` with a nice markdown editor
+- **Your Design Stays**: Blog frontend (blog.html) looks exactly the same
+- **Simple Workflow**: Write in CMS → Save → Build → Push to GitHub
 
-## Quick Start
+## How It Works
 
-### 1. Enable GitHub Pages
+```
+Write post in /admin
+    ↓
+Saved to _posts/my-post.md
+    ↓
+Run: npm run build
+    ↓
+Generates: blog-posts.js
+    ↓
+blog.html loads it automatically
+```
 
-1. Go to your repository settings on GitHub
-2. Navigate to **Pages**
-3. Set source to your main/master branch
-4. Save and wait for deployment
+## Setup Steps
 
-### 2. Set Up GitHub OAuth (Required for Admin Access)
+### 1. Install Dependencies
 
-The admin interface needs GitHub authentication. You have two options:
+```bash
+npm install
+```
 
-#### Option A: Deploy OAuth Server to Vercel (Recommended)
+### 2. Set Up GitHub OAuth
 
-1. **Create a GitHub OAuth App**:
-   - Go to https://github.com/settings/developers
-   - Click "New OAuth App"
-   - Fill in:
-     - **Application name**: `Eduard Luta CMS`
-     - **Homepage URL**: `https://eduardluta.com`
-     - **Authorization callback URL**: `https://your-project.vercel.app/api/callback`
-   - Click "Register application"
-   - Copy the **Client ID** and generate a **Client Secret**
+The CMS needs authentication to save posts to GitHub.
 
-2. **Deploy to Vercel**:
-   ```bash
-   # Install Vercel CLI
-   npm install -g vercel
+**A. Create GitHub OAuth App**
 
-   # From your project directory
-   vercel
+1. Go to https://github.com/settings/developers
+2. Click "New OAuth App"
+3. Fill in:
+   - **Application name**: `Eduard Luta CMS`
+   - **Homepage URL**: `https://eduardluta.com`
+   - **Authorization callback URL**: `https://your-vercel-url.vercel.app/api/callback` (you'll get this after step B)
+4. Click "Register application"
+5. Copy the **Client ID** and generate a **Client Secret**
 
-   # Follow the prompts, then set environment variables:
-   vercel env add OAUTH_CLIENT_ID
-   # Paste your GitHub Client ID
+**B. Deploy OAuth Server to Vercel**
 
-   vercel env add OAUTH_CLIENT_SECRET
-   # Paste your GitHub Client Secret
+```bash
+# Install Vercel CLI
+npm install -g vercel
 
-   # Redeploy with environment variables
-   vercel --prod
-   ```
+# Deploy
+vercel
 
-3. **Update CMS Configuration**:
-   - Edit `admin/config.yml`
-   - Change these lines:
-     ```yaml
-     base_url: https://your-project.vercel.app
-     auth_endpoint: /api/auth
-     ```
-   - Replace `your-project.vercel.app` with your actual Vercel URL
+# Add environment variables
+vercel env add OAUTH_CLIENT_ID
+# Paste your GitHub Client ID
 
-#### Option B: Use Netlify Identity (Alternative)
+vercel env add OAUTH_CLIENT_SECRET
+# Paste your GitHub Client Secret
 
-If you prefer not to set up your own OAuth server:
+# Redeploy with env vars
+vercel --prod
+```
 
-1. Deploy your site to Netlify (in addition to GitHub Pages)
-2. Enable Netlify Identity in your Netlify dashboard
-3. Update `admin/config.yml`:
-   ```yaml
-   backend:
-     name: git-gateway
-     branch: main
-   ```
+Copy your Vercel URL (e.g., `https://your-project.vercel.app`)
 
-### 3. Access the Admin Interface
+**C. Update GitHub OAuth App**
 
-Once OAuth is configured:
+1. Go back to https://github.com/settings/developers
+2. Edit your OAuth App
+3. Update **Authorization callback URL** to: `https://your-vercel-url.vercel.app/api/callback`
+
+**D. Update CMS Configuration**
+
+Edit `admin/config.yml` line 5:
+
+```yaml
+base_url: https://your-vercel-url.vercel.app
+```
+
+### 3. Commit and Push
+
+```bash
+git add admin/config.yml
+git commit -m "Configure CMS OAuth"
+git push
+```
+
+### 4. Start Writing!
 
 1. Visit `https://eduardluta.com/admin`
 2. Click "Login with GitHub"
-3. Authorize the application
-4. Start editing!
+3. Authorize the app
+4. Start creating posts!
 
-## Using the CMS
+## Daily Workflow
 
-### Creating a Blog Post
+### Writing a New Post
 
 1. Go to `/admin`
-2. Click **Blog Posts** → **New Blog Post**
+2. Click "Blog Posts" → "New Blog Post"
 3. Fill in:
-   - Title
-   - Publish Date
-   - Content (use markdown)
-   - Tags (optional)
-   - Featured Image (optional)
-4. Click **Publish**
-5. Your post will be committed to GitHub
-6. GitHub Pages will automatically rebuild your site
+   - **Title**: Your post title
+   - **Date**: Publication date
+   - **Slug**: URL-friendly name (e.g., `my-new-post`)
+   - **Body**: Your content in markdown
+4. Click "Save"
+5. The CMS commits the markdown file to `_posts/`
 
-### Creating a Thought
+### Publishing to Your Site
 
-1. Go to `/admin`
-2. Click **Thoughts** → **New Thought**
-3. Fill in title, date, and content
-4. Click **Publish**
+After saving posts in the CMS:
 
-### Editing the Homepage
+```bash
+# Pull latest posts from GitHub
+git pull
 
-1. Go to `/admin`
-2. Click **Pages** → **Homepage**
-3. Edit the HTML directly
-4. Click **Publish**
+# Generate blog-posts.js
+npm run build
 
-### Uploading Images
+# Commit and push
+git add blog-posts.js
+git commit -m "Update blog posts"
+git push
+```
 
-1. While editing any content, click the image icon
-2. Upload or select an image
-3. Images are saved to `images/uploads/`
-4. The CMS will insert the correct image path
+Your blog.html will automatically load the new posts!
+
+### Local Development (Optional)
+
+Watch for changes and auto-rebuild:
+
+```bash
+npm run watch
+```
+
+This watches `_posts/` and rebuilds `blog-posts.js` whenever you save.
 
 ## File Structure
 
 ```
 eduardluta.com/
 ├── admin/
-│   ├── index.html          # CMS admin interface
-│   └── config.yml          # CMS configuration
-├── _posts/                 # Blog posts (markdown)
-├── _thoughts/              # Thoughts (markdown)
-├── _layouts/               # Jekyll templates
-│   ├── default.html
-│   ├── post.html
-│   └── thought.html
-├── images/uploads/         # Media files
-├── api/                    # OAuth serverless functions
+│   ├── index.html       # CMS interface
+│   └── config.yml       # CMS configuration
+├── _posts/              # Blog posts (markdown)
+│   └── 2025-01-14-welcome-to-the-blog.md
+├── images/uploads/      # Uploaded media
+├── api/                 # OAuth serverless functions
 │   ├── auth.js
 │   └── callback.js
-├── _config.yml             # Jekyll configuration
-└── index.html              # Homepage
+├── blog.html            # Your blog page (unchanged)
+├── blog-posts.js        # Auto-generated (gitignored)
+├── build-posts.js       # Build script
+└── package.json         # Node dependencies
 ```
 
-## Local Development
+## How Blog Posts Work
 
-To test Jekyll locally:
-
-```bash
-# Install dependencies
-bundle install
-
-# Run local server
-bundle exec jekyll serve
-
-# Visit http://localhost:4000
+**Before (manual HTML):**
+```javascript
+const posts = [
+  { slug: "my-post", title: "My Post", content: "<p>...</p>" }
+];
 ```
 
-Note: The CMS admin won't work locally unless you configure it for local development.
+**After (CMS + markdown):**
+1. Write in CMS: `_posts/2025-01-14-my-post.md`
+2. Run: `npm run build`
+3. Generates: `blog-posts.js` (same format as before)
+4. `blog.html` loads it exactly the same way
+
+**Your visitors see zero difference!**
 
 ## Troubleshooting
 
 ### Can't log in to /admin
 
-- Check that your OAuth server is running (Vercel deployment)
-- Verify environment variables are set correctly
-- Check the callback URL matches your OAuth app settings
+- Check Vercel deployment is running
+- Verify environment variables: `vercel env ls`
+- Check OAuth app callback URL matches Vercel URL
 - Look at browser console for errors
 
-### Posts not showing up
+### Posts not showing on blog.html
 
-- Check that files are in `_posts/` or `_thoughts/`
-- Verify front matter is correct (YAML between `---`)
-- Check GitHub Pages build status
-- May take a few minutes for GitHub Pages to rebuild
+- Did you run `npm run build` after pulling new posts?
+- Check `blog-posts.js` exists and has your posts
+- Look at browser console for JavaScript errors
+- Make sure `blog.html` loads `<script src="blog-posts.js"></script>`
 
-### Images not loading
+### Build script errors
 
-- Verify images are in `images/uploads/`
-- Check image paths start with `/images/uploads/`
-- GitHub Pages may take a moment to publish new images
+```bash
+# Make sure dependencies are installed
+npm install
 
-## Advanced Configuration
-
-### Customizing Collections
-
-Edit `admin/config.yml` to add fields, change folders, or modify the editor:
-
-```yaml
-collections:
-  - name: "posts"
-    label: "Blog Posts"
-    folder: "_posts"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      # Add more fields here
+# Check for syntax errors in markdown files
+# Front matter must be valid YAML between ---
 ```
 
-### Changing the Branch
+### Images not uploading in CMS
 
-By default, CMS commits to `main`. To change:
+- Check `images/uploads/` folder exists and is writable
+- Verify `media_folder` in `admin/config.yml` is correct
+- Check GitHub permissions (OAuth scope includes repo write)
+
+## Advanced: Automating Builds
+
+Currently you run `npm run build` manually. To automate:
+
+**Option A: GitHub Actions**
+
+Create `.github/workflows/build-blog.yml`:
 
 ```yaml
-backend:
-  branch: your-branch-name
+name: Build Blog Posts
+
+on:
+  push:
+    paths:
+      - '_posts/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm install
+      - run: npm run build
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-build blog posts"
+          file_pattern: blog-posts.js
 ```
 
-### Editorial Workflow
+**Option B: Netlify/Vercel Site Build**
 
-Enable draft/review workflow:
+Deploy your site to Netlify/Vercel with build command: `npm run build`
 
-```yaml
-publish_mode: editorial_workflow
-```
+## Alternative: No Build Step
 
-This creates PRs for each post instead of committing directly.
+If you don't want any build process, you can:
+
+1. Load markdown directly in browser
+2. Use a markdown parser like `marked.js`
+3. Fetch `_posts/*.md` files via fetch API
+4. Parse and render on the fly
+
+Trade-off: Slightly slower page load, but simpler workflow.
 
 ## Resources
 
-- [Decap CMS Documentation](https://decapcms.org/docs/)
-- [Jekyll Documentation](https://jekyllrb.com/docs/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Vercel Documentation](https://vercel.com/docs)
-
-## Support
-
-If you encounter issues:
-
-1. Check the [Decap CMS GitHub Issues](https://github.com/decaporg/decap-cms/issues)
-2. Review the browser console for errors
-3. Verify your OAuth setup
-4. Check GitHub Pages build logs
+- [Decap CMS Docs](https://decapcms.org/docs/)
+- [Marked.js (markdown parser)](https://marked.js.org/)
+- [Vercel Docs](https://vercel.com/docs)
 
 ---
 
-**Note**: Remember to keep your OAuth Client Secret secure. Never commit it to your repository. Always use environment variables for sensitive data.
+**Questions?** Check the browser console first, then review OAuth setup.

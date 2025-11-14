@@ -1,12 +1,5 @@
-# Jekyll
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Ruby
-.bundle/
-vendor/
+# Auto-generated files
+blog-posts.js
 
 # Node
 node_modules/
