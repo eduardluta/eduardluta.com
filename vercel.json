@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/auth.js": {
+      "memory": 128,
+      "maxDuration": 10
+    },
+    "api/callback.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "OAUTH_CLIENT_ID": "@oauth-client-id",
+    "OAUTH_CLIENT_SECRET": "@oauth-client-secret"
+  }
+}

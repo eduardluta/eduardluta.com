@@ -1,0 +1,17 @@
+{
+  "name": "eduardluta-cms",
+  "version": "1.0.0",
+  "description": "Eduard Luta personal website with Decap CMS",
+  "private": true,
+  "scripts": {
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
