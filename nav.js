@@ -7,12 +7,6 @@
             isActive: (path) => path === '/' || path.endsWith('/index.html')
         },
         {
-            href: 'about.html',
-            label: 'About Me',
-            icon: '👤',
-            isActive: (path) => path.endsWith('/about.html')
-        },
-        {
             href: 'blog.html',
             label: 'Blog',
             icon: '✍️',
