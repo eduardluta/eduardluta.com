@@ -348,12 +348,8 @@
 
     <script src="nav.js"></script>
     <script src="footer.js"></script>
-    <!-- Blog posts loaded from auto-generated file -->
-    <script src="blog-posts.js"></script>
     <script>
-        // Fallback in case blog-posts.js hasn't been generated yet
-        if (typeof posts === 'undefined') {
-            const posts = [
+        const posts = [
             {
                 slug: "independence-vs-autonomy",
                 title: "Independence vs. Autonomy",
@@ -423,7 +419,6 @@
                 `
             }
         ];
-        }
 
         const postsList = document.getElementById('postsList');
         const postTitle = document.getElementById('postTitle');
