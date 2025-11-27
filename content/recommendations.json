@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "title": "The Dark Knight",
+      "url": "https://www.imdb.com/title/tt0468569/",
+      "category": "Movie",
+      "source": "IMDB",
+      "comment": "A masterclass in storytelling and character development. Heath Ledger's Joker remains one of cinema's most compelling villains, and the film's exploration of chaos vs. order is as relevant today as ever.",
+      "date": "2025-10-12",
+      "image": ""
+    },
+    {
+      "title": "How to Get Startup Ideas",
+      "url": "https://www.paulgraham.com/startupideas.html",
+      "category": "Article",
+      "source": "paulgraham.com",
+      "comment": "Paul Graham's timeless advice on finding startup ideas by solving problems you have yourself. The best ideas often come from noticing things that are missing in your own life.",
+      "date": "2025-10-10",
+      "image": ""
+    },
+    {
+      "title": "Building Products Users Love",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "category": "Video",
+      "source": "YouTube",
+      "comment": "An insightful talk on product development and user-centric design. The speaker breaks down how to really understand your users and build something they'll actually use and recommend.",
+      "date": "2025-10-05",
+      "image": ""
+    },
+    {
+      "title": "The Hard Thing About Hard Things by Ben Horowitz",
+      "url": "https://www.amazon.com/dp/0143115766",
+      "category": "Book",
+      "source": "Amazon",
+      "comment": "The most honest book about entrepreneurship I've read. Horowitz doesn't sugarcoat the challenges of running a company — from layoffs to tough decisions. Essential reading for anyone building a business.",
+      "date": "2025-09-28",
+      "image": ""
+    },
+    {
+      "title": "Naval's How to Get Rich (without getting lucky)",
+      "url": "https://twitter.com/naval/status/1002103360646823936",
+      "category": "Twitter Thread",
+      "source": "@naval on X",
+      "comment": "One of the most valuable Twitter threads ever written. Naval distills wealth creation into actionable principles. I revisit this regularly and always find new insights.",
+      "date": "2025-09-15",
+      "image": ""
+    },
+    {
+      "title": "Building in Public with Indie Hackers",
+      "url": "https://example.com/podcast",
+      "category": "Podcast",
+      "source": "Indie Hackers Podcast",
+      "comment": "Great conversation about transparency in business. The guest shares their journey building a SaaS product completely in public, including revenue numbers and challenges.",
+      "date": "2024-12-20",
+      "image": ""
+    },
+    {
+      "title": "Obsidian",
+      "url": "https://obsidian.md",
+      "category": "Tool",
+      "source": "obsidian.md",
+      "comment": "The best note-taking app I've ever used. Markdown-based, local-first, and the graph view helps me connect ideas in ways I never could with traditional notes. Game-changer for knowledge management.",
+      "date": "2024-11-05",
+      "image": ""
+    }
+  ]
+}

@@ -6,13 +6,13 @@
     <meta name="description" content="Eduard Luta — entrepreneur and digital marketing strategist. Building and growing brands through AI-driven storytelling and strategy.">
     <meta name="author" content="Eduard Luta">
     <meta name="theme-color" content="#000000">
-    
+
     <!-- Open Graph / Social Media -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Eduard Luta">
     <meta property="og:description" content="Entrepreneur and digital marketing strategist building brands through AI-driven strategy.">
     <meta property="og:url" content="https://eduardluta.com">
-    
+
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Eduard Luta">
@@ -24,6 +24,7 @@
 
     <title>Eduard Luta</title>
     <link rel="stylesheet" href="nav.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <style>
         :root {
             --background: #000;
@@ -544,105 +545,25 @@
         <!-- Main Content -->
         <main class="main-content" id="main-content">
             <div class="content-wrapper">
-                <div class="intro-container">
-                    <p class="intro-text">
-                        I'm Eduard Luta - friend, father, husband & entrepreneur.
-                    </p>
-                    <p class="intro-text">
-                        I spent +10 years in marketing and a few in the dating industry. I build things at the intersection of AI and meaning – dua.com for Albanians seeking love, MIK Group for businesses seeking growth.
-                    </p>
-                    <p class="intro-text">
-                        Here I write about what's real: consciousness, code, marketing, and the patterns connecting them all.
-                    </p>
-                    <p class="intro-text">
-                        No status games. Just thoughts worth sharing and events worth documenting.
-                    </p>
+                <div class="intro-container" id="introContainer">
+                    <!-- Content loaded dynamically -->
                 </div>
 
-                <p class="meta-block">Based between Zug and Prishtina. Working in English, Albanian, and German.</p>
+                <p class="meta-block" id="metaBlock"></p>
 
                 <!-- Building/Projects Section -->
                 <section>
                     <h2 class="section-title">Building</h2>
-                    <div class="projects-grid">
-                        <div class="project-card">
-                            <div class="project-icon" style="background-color: #ff6b35;">
-                                💕
-                            </div>
-                            <div class="project-content">
-                                <div class="project-header">
-                                    <h3 class="project-title">dua.com</h3>
-                                    <a href="#" class="project-link">Learn more →</a>
-                                </div>
-                                <p class="project-description">
-                                    Albanian Dating App with more than 1 Million Users.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="project-card">
-                            <div class="project-icon" style="background-color: #5865f2;">
-                                🚀
-                            </div>
-                            <div class="project-content">
-                                <div class="project-header">
-                                    <h3 class="project-title">MIK Group</h3>
-                                    <a href="#" class="project-link">Learn more →</a>
-                                </div>
-                                <p class="project-description">
-                                    Digital Marketing Agency in Switzerland since 2011, +500 Clients, specialized in SEO (AI)
-                                </p>
-                            </div>
-                        </div>
+                    <div class="projects-grid" id="projectsGrid">
+                        <!-- Content loaded dynamically -->
                     </div>
                 </section>
 
                 <!-- Recent Notes/Blog Section -->
                 <section class="blog-section">
                     <h2 class="blog-title">Recent notes:</h2>
-                    <ul class="blog-list">
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Independence vs. Autonomy</span>
-                                <span class="blog-date">Aug 10, 2025</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Note about cars</span>
-                                <span class="blog-date">Aug 13, 2025</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Why I do programming</span>
-                                <span class="blog-date">Jul 24, 2025</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Giaccification</span>
-                                <span class="blog-date">Jun 4, 2025</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Burn your journals out</span>
-                                <span class="blog-date">Jun 22, 2024</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Practicing the Art of Posession</span>
-                                <span class="blog-date">May 24, 2023</span>
-                            </a>
-                        </li>
-                        <li class="blog-item">
-                            <a href="#" class="blog-link">
-                                <span class="blog-post-title">Regardless</span>
-                                <span class="blog-date">Jul 16, 2022</span>
-                            </a>
-                        </li>
+                    <ul class="blog-list" id="blogList">
+                        <!-- Content loaded dynamically -->
                     </ul>
                 </section>
 
@@ -652,5 +573,136 @@
     </div>
     <script src="nav.js"></script>
     <script src="footer.js"></script>
+    <script>
+        // Parse frontmatter from markdown
+        function parseFrontmatter(md) {
+            const match = md.match(/^---\n([\s\S]*?)\n---/);
+            if (!match) return {};
+
+            const frontmatter = {};
+            match[1].split('\n').forEach(line => {
+                const [key, ...valueParts] = line.split(':');
+                if (key && valueParts.length) {
+                    frontmatter[key.trim()] = valueParts.join(':').trim();
+                }
+            });
+            return frontmatter;
+        }
+
+        // Format date for display
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+
+        // Load post files list from index
+        async function loadPostFiles() {
+            try {
+                const response = await fetch('/content/posts.json');
+                const data = await response.json();
+                return data.posts || [];
+            } catch (e) {
+                console.error('Failed to load posts index:', e);
+                return [];
+            }
+        }
+
+        // Load homepage content
+        async function loadHomepage() {
+            try {
+                const response = await fetch('/content/homepage.json');
+                const data = await response.json();
+
+                // Load intro paragraphs
+                const introContainer = document.getElementById('introContainer');
+                data.intro.forEach(item => {
+                    const p = document.createElement('p');
+                    p.className = 'intro-text';
+                    p.textContent = item.text;
+                    introContainer.appendChild(p);
+                });
+
+                // Load meta line
+                document.getElementById('metaBlock').textContent = data.meta;
+
+                // Load projects
+                const projectsGrid = document.getElementById('projectsGrid');
+                data.projects.forEach(project => {
+                    const card = document.createElement('div');
+                    card.className = 'project-card';
+                    card.innerHTML = `
+                        <div class="project-icon" style="background-color: ${project.color};">
+                            ${project.emoji}
+                        </div>
+                        <div class="project-content">
+                            <div class="project-header">
+                                <h3 class="project-title">${project.title}</h3>
+                                <a href="${project.link || '#'}" class="project-link">Learn more →</a>
+                            </div>
+                            <p class="project-description">${project.description}</p>
+                        </div>
+                    `;
+                    projectsGrid.appendChild(card);
+                });
+            } catch (e) {
+                console.error('Failed to load homepage content:', e);
+            }
+        }
+
+        // Load recent blog posts
+        async function loadRecentPosts() {
+            const blogList = document.getElementById('blogList');
+            const postFiles = await loadPostFiles();
+            const posts = [];
+
+            for (const slug of postFiles) {
+                try {
+                    const response = await fetch(`/content/blog/${slug}.md`);
+                    if (response.ok) {
+                        const md = await response.text();
+                        const frontmatter = parseFrontmatter(md);
+                        posts.push({
+                            slug: slug,
+                            title: frontmatter.title || slug,
+                            date: frontmatter.date || ''
+                        });
+                    }
+                } catch (e) {
+                    console.error(`Failed to load post: ${slug}`, e);
+                }
+            }
+
+            // Sort by date descending and take top 7
+            posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+            const recentPosts = posts.slice(0, 7);
+
+            recentPosts.forEach(post => {
+                const li = document.createElement('li');
+                li.className = 'blog-item';
+                li.innerHTML = `
+                    <a href="/blog.html#${post.slug}" class="blog-link">
+                        <span class="blog-post-title">${post.title}</span>
+                        <span class="blog-date">${formatDate(post.date)}</span>
+                    </a>
+                `;
+                blogList.appendChild(li);
+            });
+        }
+
+        // Initialize
+        loadHomepage();
+        loadRecentPosts();
+
+        // Netlify Identity redirect
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 </html>

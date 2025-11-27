@@ -23,6 +23,7 @@
     <title>Principles – Eduard Luta</title>
     <link rel="stylesheet" href="common.css">
     <link rel="stylesheet" href="nav.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <style>
 
         .principles-list {
@@ -72,27 +73,8 @@
                     </p>
                 </header>
 
-                <div class="principles-list">
-                    <p class="principle-item">Start before you're ready.</p>
-                    <p class="principle-item">Make it work, then make it right, then make it fast.</p>
-                    <p class="principle-item">Focus on what you can control.</p>
-                    <p class="principle-item">Ship often, learn faster.</p>
-                    <p class="principle-item">Clarity over cleverness.</p>
-                    <p class="principle-item">Consistency compounds.</p>
-                    <p class="principle-item">Build in public, learn in public.</p>
-                    <p class="principle-item">Done is better than perfect.</p>
-                    <p class="principle-item">Listen more than you speak.</p>
-                    <p class="principle-item">Question assumptions, especially your own.</p>
-                    <p class="principle-item">Optimize for learning, not looking smart.</p>
-                    <p class="principle-item">Energy management over time management.</p>
-                    <p class="principle-item">Write to clarify your thinking.</p>
-                    <p class="principle-item">Default to action.</p>
-                    <p class="principle-item">Simple scales, complex breaks.</p>
-                    <p class="principle-item">Trust the process, but verify the results.</p>
-                    <p class="principle-item">Build systems, not goals.</p>
-                    <p class="principle-item">Stay curious, stay humble.</p>
-                    <p class="principle-item">Help others without expecting anything back.</p>
-                    <p class="principle-item">Your network is your net worth.</p>
+                <div class="principles-list" id="principlesList">
+                    <!-- Content loaded dynamically -->
                 </div>
                 <div data-footer></div>
             </div>
@@ -100,5 +82,37 @@
     </div>
     <script src="nav.js"></script>
     <script src="footer.js"></script>
+    <script>
+        // Load principles from JSON
+        async function loadPrinciples() {
+            try {
+                const response = await fetch('/content/principles.json');
+                const data = await response.json();
+                const container = document.getElementById('principlesList');
+
+                data.principles.forEach(item => {
+                    const p = document.createElement('p');
+                    p.className = 'principle-item';
+                    p.textContent = item.text;
+                    container.appendChild(p);
+                });
+            } catch (e) {
+                console.error('Failed to load principles:', e);
+            }
+        }
+
+        loadPrinciples();
+
+        // Netlify Identity redirect
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 </html>

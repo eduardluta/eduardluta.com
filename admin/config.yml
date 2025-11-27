@@ -1,0 +1,101 @@
+# Decap CMS Configuration for eduardluta.com
+#
+# SETUP OPTIONS:
+#
+# Option 1: Deploy to Netlify (Recommended - Easiest)
+# - Push this repo to GitHub
+# - Connect to Netlify (free tier)
+# - Enable Netlify Identity in Site Settings > Identity
+# - Enable Git Gateway in Site Settings > Identity > Services
+# - Invite yourself as a user
+# - Visit yourdomain.com/admin to login
+#
+# Option 2: Stay on GitHub Pages
+# - You'll need to set up an OAuth app and use a third-party auth provider
+# - See: https://decapcms.org/docs/github-backend/#authentication
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+# Slug settings
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  # Blog Posts
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Posts Index (must be updated when adding new posts)
+  - name: "posts-index"
+    label: "Posts Index"
+    file: "content/posts.json"
+    fields:
+      - label: "Posts"
+        name: "posts"
+        widget: "list"
+        field: { label: "Slug", name: "slug", widget: "string" }
+
+  # Principles
+  - name: "principles"
+    label: "Principles"
+    file: "content/principles.json"
+    fields:
+      - label: "Principles"
+        name: "principles"
+        widget: "list"
+        fields:
+          - { label: "Principle", name: "text", widget: "string" }
+
+  # Worth the Time
+  - name: "recommendations"
+    label: "Worth the Time"
+    file: "content/recommendations.json"
+    fields:
+      - label: "Items"
+        name: "items"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+          - label: "Category"
+            name: "category"
+            widget: "select"
+            options: ["Movie", "Article", "Video", "Book", "Twitter Thread", "Podcast", "Tool"]
+          - { label: "Source", name: "source", widget: "string" }
+          - { label: "Comment", name: "comment", widget: "text" }
+          - { label: "Date Added", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+          - { label: "Image URL (optional)", name: "image", widget: "string", required: false }
+
+  # Homepage
+  - name: "homepage"
+    label: "Homepage"
+    file: "content/homepage.json"
+    fields:
+      - label: "Intro Paragraphs"
+        name: "intro"
+        widget: "list"
+        fields:
+          - { label: "Paragraph", name: "text", widget: "text" }
+      - { label: "Meta Line", name: "meta", widget: "string" }
+      - label: "Projects"
+        name: "projects"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Emoji", name: "emoji", widget: "string" }
+          - { label: "Color (hex)", name: "color", widget: "string", default: "#5865f2" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Link", name: "link", widget: "string", required: false }

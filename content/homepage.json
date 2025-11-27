@@ -1,0 +1,25 @@
+{
+  "intro": [
+    { "text": "I'm Eduard Luta - friend, father, husband & entrepreneur." },
+    { "text": "I spent +10 years in marketing and a few in the dating industry. I build things at the intersection of AI and meaning – dua.com for Albanians seeking love, MIK Group for businesses seeking growth." },
+    { "text": "Here I write about what's real: consciousness, code, marketing, and the patterns connecting them all." },
+    { "text": "No status games. Just thoughts worth sharing and events worth documenting." }
+  ],
+  "meta": "Based between Zug and Prishtina. Working in English, Albanian, and German.",
+  "projects": [
+    {
+      "title": "dua.com",
+      "emoji": "💕",
+      "color": "#ff6b35",
+      "description": "Albanian Dating App with more than 1 Million Users.",
+      "link": "#"
+    },
+    {
+      "title": "MIK Group",
+      "emoji": "🚀",
+      "color": "#5865f2",
+      "description": "Digital Marketing Agency in Switzerland since 2011, +500 Clients, specialized in SEO (AI)",
+      "link": "#"
+    }
+  ]
+}
