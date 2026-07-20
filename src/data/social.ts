@@ -8,13 +8,25 @@ export type SocialPost = {
   href: string;
   /** Universal caption — not translated; mirrors the native post. */
   caption: string;
-  /** Engagement summary (placeholder until wired to live feeds). */
+  /** Engagement summary. */
   meta: string;
-  /** Relative date label — localized chrome (placeholder until wired to live feeds). */
+  /** Relative date label — localized chrome. */
   date: Record<Lang, string>;
   /** Media aspect for image posts; text posts have no media. */
   media?: 'square' | 'portrait';
+  /** Local optimized image path (e.g. /social/ig-123.webp) for live posts. */
+  image?: string;
+  /** Unix ms of the original post, for recency sorting (live posts only). */
+  timestamp?: number;
 };
+
+/**
+ * Curated fallback wall. Shown when the live Instagram/TikTok feed is not
+ * configured (no tokens) or fails to fetch, so the wall always looks complete.
+ * When the live feed IS present, the Instagram/TikTok entries here are replaced
+ * by real posts and only the X / LinkedIn entries below are kept (those two
+ * platforms have no practical public API — edit them by hand).
+ */
 
 // Social posts are universal and mixed-language — they mirror the real accounts and
 // will be wired to live feeds later. Engagement counts, dates and media are placeholders.
@@ -64,5 +76,5 @@ export const posts: SocialPost[] = [
   },
 ];
 
-/** The two posts featured in the "From the feeds" block on the home page. */
-export const featuredPosts: SocialPost[] = [posts[0], posts[1]];
+/** Rename the curated set for clarity — it is the fallback wall. */
+export const curatedPosts = posts;

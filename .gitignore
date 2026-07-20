@@ -1,5 +1,8 @@
 # build output
 dist/
+# generated social feed + cached feed images (rebuilt from the platform APIs)
+src/data/social-feed.json
+public/social/
 # generated types & cache
 .astro/
 # dependencies

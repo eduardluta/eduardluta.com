@@ -2,7 +2,7 @@
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { localizePath } from '../../i18n/utils';
 import { bio } from '../../data/home';
-import { featuredPosts } from '../../data/social';
+import { getFeaturedPosts } from '../../lib/social';
 import type { Article } from '../../lib/writing';
 import PostList from '../PostList.astro';
 import SocialCard from '../SocialCard.astro';
@@ -14,6 +14,7 @@ interface Props {
 const { lang, articles } = Astro.props;
 const t = useTranslations(lang);
 const latest = articles.slice(0, 3);
+const featuredPosts = getFeaturedPosts();
 ---
 
 <h1 class="hero-tagline">{t('site.tagline')}</h1>

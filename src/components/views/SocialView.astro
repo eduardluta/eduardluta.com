@@ -1,6 +1,6 @@
 ---
 import { useTranslations, type Lang } from '../../i18n/ui';
-import { posts } from '../../data/social';
+import { getSocialFeed } from '../../lib/social';
 import SocialCard from '../SocialCard.astro';
 
 interface Props {
@@ -8,6 +8,7 @@ interface Props {
 }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const posts = getSocialFeed();
 ---
 
 <h1 class="view-title">{t('social.title')}</h1>

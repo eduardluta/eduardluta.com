@@ -27,7 +27,22 @@ const isImage = Boolean(post.media);
 
   {isImage ? (
     <>
-      <div class={`media-slot media-slot--${post.media}`} aria-hidden="true"></div>
+      <div
+        class={`media-slot media-slot--${post.media}${post.image ? '' : ' media-slot--empty'}`}
+        aria-hidden={post.image ? undefined : 'true'}
+      >
+        {post.image && (
+          <img
+            class="media-img"
+            src={post.image}
+            alt={post.caption}
+            loading="lazy"
+            decoding="async"
+            width={720}
+            height={post.media === 'portrait' ? 1280 : 720}
+          />
+        )}
+      </div>
       <div class="card-body">
         <p class="card-caption">{post.caption}</p>
         <div class="card-meta">{post.meta}</div>
