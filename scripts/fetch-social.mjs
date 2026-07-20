@@ -148,8 +148,31 @@ async function fetchInstagram(now) {
   return out;
 }
 
-async function fetchTikTok(now) {
-  const token = process.env.TIKTOK_TOKEN;
+// TikTok access tokens expire in ~24h, so at build time we mint a fresh one from
+// the long-lived (~365d) refresh token. TIKTOK_TOKEN is still honored for a quick
+// within-the-day test.
+async function resolveTikTokToken() {
+  const { TIKTOK_TOKEN, TIKTOK_REFRESH_TOKEN, TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET } = process.env;
+  if (TIKTOK_REFRESH_TOKEN && TIKTOK_CLIENT_KEY && TIKTOK_CLIENT_SECRET) {
+    const params = new URLSearchParams({
+      client_key: TIKTOK_CLIENT_KEY,
+      client_secret: TIKTOK_CLIENT_SECRET,
+      grant_type: 'refresh_token',
+      refresh_token: TIKTOK_REFRESH_TOKEN,
+    });
+    const { ok, body } = await fetchJson('https://open.tiktokapis.com/v2/oauth/token/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: params.toString(),
+    });
+    if (ok && body?.access_token) return body.access_token;
+    console.warn('[social] TikTok token refresh failed:', body?.error_description || body?.error || 'HTTP');
+    return null;
+  }
+  return TIKTOK_TOKEN || null;
+}
+
+async function fetchTikTok(now, token) {
   if (!token) return [];
   const fields = 'id,title,video_description,cover_image_url,share_url,like_count,comment_count,view_count,create_time';
   const { ok, body } = await fetchJson(`https://open.tiktokapis.com/v2/video/list/?fields=${fields}`, {
@@ -192,10 +215,16 @@ async function fetchTikTok(now) {
 
 async function main() {
   const now = Date.now();
-  const configured = Boolean(process.env.INSTAGRAM_TOKEN || process.env.TIKTOK_TOKEN);
+  const hasTikTokCreds = Boolean(
+    process.env.TIKTOK_TOKEN || (process.env.TIKTOK_REFRESH_TOKEN && process.env.TIKTOK_CLIENT_KEY)
+  );
+  const tiktokToken = hasTikTokCreds
+    ? await resolveTikTokToken().catch((e) => (console.warn('[social] TikTok auth error:', e.message), null))
+    : null;
 
+  const configured = Boolean(process.env.INSTAGRAM_TOKEN || tiktokToken);
   if (!configured) {
-    console.log('[social] No INSTAGRAM_TOKEN / TIKTOK_TOKEN set — using curated fallback wall.');
+    console.log('[social] No Instagram/TikTok credentials set — using curated fallback wall.');
     writeFileSync(FEED_FILE, JSON.stringify({ generatedAt: null, posts: [] }, null, 2));
     return;
   }
@@ -205,7 +234,7 @@ async function main() {
 
   const [ig, tt] = await Promise.all([
     fetchInstagram(now).catch((e) => (console.warn('[social] IG error:', e.message), [])),
-    fetchTikTok(now).catch((e) => (console.warn('[social] TikTok error:', e.message), [])),
+    fetchTikTok(now, tiktokToken).catch((e) => (console.warn('[social] TikTok error:', e.message), [])),
   ]);
 
   const posts = [...ig, ...tt].sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));

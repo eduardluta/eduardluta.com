@@ -118,10 +118,16 @@ If no tokens are set, the wall shows the curated fallback, so nothing breaks.
 4. In Netlify set `INSTAGRAM_TOKEN` (and optionally `INSTAGRAM_USER_ID`).
    ⚠️ Long-lived tokens expire ~60 days — refresh it before then.
 
-**TikTok**:
-1. Create an app at [developers.tiktok.com](https://developers.tiktok.com) with the **Display API** and the `video.list` scope.
-2. Complete the OAuth flow to get a user access token.
-3. In Netlify set `TIKTOK_TOKEN`.
+**TikTok** (access tokens expire in ~24h, so we use the refresh-token flow):
+1. Create an app at [developers.tiktok.com](https://developers.tiktok.com), add **Login Kit**, and request the `user.info.basic` + `video.list` scopes.
+2. Register a redirect URI (e.g. `https://eduardluta.com/`).
+3. Put `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REDIRECT_URI` in `.env`, then run:
+   ```
+   npm run tiktok:auth                 # prints an authorize URL — open + approve
+   npm run tiktok:auth "<redirected URL>"   # exchanges the code, saves the refresh token
+   ```
+4. Copy `TIKTOK_REFRESH_TOKEN` (+ client key/secret) into Netlify. The build mints a
+   fresh access token from it each time. The refresh token lasts ~365 days.
 
 **Keep it fresh** (optional): create a Netlify **build hook** (Site configuration →
 Build hooks) and set its URL as `NETLIFY_BUILD_HOOK`. The scheduled function
