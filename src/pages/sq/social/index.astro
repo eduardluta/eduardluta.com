@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SocialView from '../../../components/views/SocialView.astro';
+import { useTranslations, SITE_NAME } from '../../../i18n/ui';
+import { localizePath } from '../../../i18n/utils';
+import { breadcrumbSchema } from '../../../lib/schema';
+
+const lang = 'sq';
+const t = useTranslations(lang);
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${t('social.title')} — ${SITE_NAME}`}
+  description={t('social.description')}
+  jsonLd={breadcrumbSchema([
+    { name: SITE_NAME, url: localizePath('/', lang) },
+    { name: t('social.title'), url: localizePath('/social/', lang) },
+  ])}
+>
+  <SocialView lang={lang} />
+</BaseLayout>

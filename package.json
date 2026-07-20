@@ -1,0 +1,25 @@
+{
+  "name": "eduardluta.com",
+  "version": "1.0.0",
+  "description": "Personal website of Eduard Luta — bilingual (EN/SQ) Astro static site.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "assets": "node scripts/gen-assets.mjs",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "@fontsource/ibm-plex-mono": "^5.1.1",
+    "astro": "^5.1.1",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.9",
+    "sharp": "^0.33.5",
+    "typescript": "^5.9.3"
+  }
+}

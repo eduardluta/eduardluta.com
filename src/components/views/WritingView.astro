@@ -1,0 +1,38 @@
+---
+import { useTranslations, type Lang } from '../../i18n/ui';
+import { recommendations } from '../../data/recommendations';
+import type { Article } from '../../lib/writing';
+import PostList from '../PostList.astro';
+
+interface Props {
+  lang: Lang;
+  articles: Article[];
+}
+const { lang, articles } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<h1 class="view-title">{t('writing.title')}</h1>
+<p class="view-sub">{t('writing.subtitle')}</p>
+
+<PostList lang={lang} articles={articles} variant="writing" />
+
+<section class="worth" aria-labelledby="worth-title">
+  <h2 class="view-title" id="worth-title">{t('worth.title')}</h2>
+  <p class="view-sub" style="margin-bottom:22px">{t('worth.subtitle')}</p>
+  <div>
+    {recommendations.map((rec) => (
+      <div class="worth-item">
+        <div class="worth-head">
+          {rec.url ? (
+            <a class="worth-name" href={rec.url} target="_blank" rel="noopener noreferrer">{rec.title}</a>
+          ) : (
+            <span class="worth-name">{rec.title}</span>
+          )}
+          <span class="worth-cat">{rec.category[lang]}</span>
+        </div>
+        <p class="worth-note">{rec.note[lang]}</p>
+      </div>
+    ))}
+  </div>
+</section>

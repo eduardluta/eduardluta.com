@@ -1,0 +1,18 @@
+---
+import { useTranslations, type Lang } from '../../i18n/ui';
+import { posts } from '../../data/social';
+import SocialCard from '../SocialCard.astro';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<h1 class="view-title">{t('social.title')}</h1>
+<p class="view-sub" style="margin-bottom:28px">{t('social.subtitle')}</p>
+
+<div class="wall">
+  {posts.map((post) => <SocialCard post={post} lang={lang} />)}
+</div>

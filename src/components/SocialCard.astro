@@ -1,0 +1,42 @@
+---
+import type { SocialPost } from '../data/social';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  post: SocialPost;
+  lang: Lang;
+}
+const { post, lang } = Astro.props;
+const isImage = Boolean(post.media);
+---
+
+<a
+  class={`card ${isImage ? 'card--fill' : 'card--pad'}`}
+  href={post.href}
+  target="_blank"
+  rel="noopener noreferrer me"
+  aria-label={`${post.platform} — ${post.caption}`}
+>
+  <div class="card-head">
+    <span class="card-plat">
+      <span class="card-tag">{post.platform}</span>
+      <span class="card-handle">{post.handle}</span>
+    </span>
+    <span class="card-date">{post.date[lang]}</span>
+  </div>
+
+  {isImage ? (
+    <>
+      <div class={`media-slot media-slot--${post.media}`} aria-hidden="true"></div>
+      <div class="card-body">
+        <p class="card-caption">{post.caption}</p>
+        <div class="card-meta">{post.meta}</div>
+      </div>
+    </>
+  ) : (
+    <>
+      <p class="card-caption">{post.caption}</p>
+      <div class="card-meta">{post.meta}</div>
+    </>
+  )}
+</a>

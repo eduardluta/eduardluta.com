@@ -1,0 +1,55 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleView from '../../components/views/ArticleView.astro';
+import { useTranslations, SITE_NAME } from '../../i18n/ui';
+import { localizePath, isoDate } from '../../i18n/utils';
+import { SITE } from '../../consts';
+import { getArticles, type Article } from '../../lib/writing';
+import { articleSchema, breadcrumbSchema, personSchema } from '../../lib/schema';
+
+export const getStaticPaths = (async () => {
+  const articles = await getArticles('en');
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  article: Article;
+}
+const { article } = Astro.props;
+const lang = 'en';
+const t = useTranslations(lang);
+
+const url = new URL(localizePath(`/writing/${article.slug}/`, lang), SITE).href;
+const published = isoDate(article.data.date);
+const ogImage = new URL('/og-default.png', SITE).href;
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${article.data.title} — ${SITE_NAME}`}
+  description={article.data.description}
+  ogType="article"
+  publishedTime={published}
+  jsonLd={[
+    personSchema(),
+    articleSchema({
+      title: article.data.title,
+      description: article.data.description,
+      url,
+      datePublished: published,
+      lang,
+      image: ogImage,
+    }),
+    breadcrumbSchema([
+      { name: SITE_NAME, url: localizePath('/', lang) },
+      { name: t('writing.title'), url: localizePath('/writing/', lang) },
+      { name: article.data.title, url: localizePath(`/writing/${article.slug}/`, lang) },
+    ]),
+  ]}
+>
+  <ArticleView lang={lang} article={article} />
+</BaseLayout>

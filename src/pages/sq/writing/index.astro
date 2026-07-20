@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import WritingView from '../../../components/views/WritingView.astro';
+import { useTranslations, SITE_NAME } from '../../../i18n/ui';
+import { localizePath } from '../../../i18n/utils';
+import { getArticles } from '../../../lib/writing';
+import { breadcrumbSchema } from '../../../lib/schema';
+
+const lang = 'sq';
+const t = useTranslations(lang);
+const articles = await getArticles(lang);
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${t('writing.title')} — ${SITE_NAME}`}
+  description={t('writing.description')}
+  jsonLd={breadcrumbSchema([
+    { name: SITE_NAME, url: localizePath('/', lang) },
+    { name: t('writing.title'), url: localizePath('/writing/', lang) },
+  ])}
+>
+  <WritingView lang={lang} articles={articles} />
+</BaseLayout>

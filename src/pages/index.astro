@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HomeView from '../components/views/HomeView.astro';
+import { useTranslations, SITE_NAME } from '../i18n/ui';
+import { getArticles } from '../lib/writing';
+import { personSchema, websiteSchema } from '../lib/schema';
+
+const lang = 'en';
+const t = useTranslations(lang);
+const articles = await getArticles(lang);
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${SITE_NAME} — ${t('site.tagline')}`}
+  description={t('site.description')}
+  jsonLd={[personSchema(), websiteSchema()]}
+>
+  <HomeView lang={lang} articles={articles} />
+</BaseLayout>

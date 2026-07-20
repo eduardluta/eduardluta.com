@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BuildingView from '../../components/views/BuildingView.astro';
+import { useTranslations, SITE_NAME } from '../../i18n/ui';
+import { localizePath } from '../../i18n/utils';
+import { breadcrumbSchema } from '../../lib/schema';
+
+const lang = 'en';
+const t = useTranslations(lang);
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${t('building.title')} — ${SITE_NAME}`}
+  description={t('building.description')}
+  jsonLd={breadcrumbSchema([
+    { name: SITE_NAME, url: localizePath('/', lang) },
+    { name: t('building.title'), url: localizePath('/building/', lang) },
+  ])}
+>
+  <BuildingView lang={lang} />
+</BaseLayout>

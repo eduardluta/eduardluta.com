@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations, SITE_NAME } from '../i18n/ui';
+
+const lang = 'en';
+const t = useTranslations('en');
+const sq = useTranslations('sq');
+
+// Netlify serves this single /404.html for unknown URLs in both languages, so we
+// swap the copy to Albanian client-side when the path is under /sq/.
+const sqStrings = {
+  title: sq('notFound.title'),
+  body: sq('notFound.body'),
+  home: sq('notFound.home'),
+  site: SITE_NAME,
+};
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${t('notFound.title')} — ${SITE_NAME}`}
+  description={t('notFound.body')}
+  noindex={true}
+>
+  <h1 class="view-title" data-nf-title>{t('notFound.title')}</h1>
+  <p class="view-sub" data-nf-body>{t('notFound.body')}</p>
+  <a class="article-back" style="margin-bottom:0" href="/" data-nf-home>{t('notFound.home')}</a>
+
+  <script
+    is:inline
+    set:html={`(function () {
+      if (location.pathname.indexOf('/sq/') !== 0) return;
+      var m = ${JSON.stringify(sqStrings)};
+      document.documentElement.lang = 'sq';
+      var set = function (sel, text) { var el = document.querySelector(sel); if (el) el.textContent = text; };
+      set('[data-nf-title]', m.title);
+      set('[data-nf-body]', m.body);
+      var home = document.querySelector('[data-nf-home]');
+      if (home) { home.textContent = m.home; home.setAttribute('href', '/sq/'); }
+      document.title = m.title + ' — ' + m.site;
+    })();`}
+  />
+</BaseLayout>

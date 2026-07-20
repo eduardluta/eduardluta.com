@@ -1,0 +1,22 @@
+---
+import { useTranslations, type Lang } from '../../i18n/ui';
+import { principles } from '../../data/principles';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<h1 class="view-title">{t('principles.title')}</h1>
+<p class="view-sub" style="margin-bottom:26px">{t('principles.subtitle')}</p>
+
+<ol class="principles">
+  {principles.map((principle, i) => (
+    <li class="principle">
+      <span class="principle-idx" aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>
+      <span class="principle-text">{principle[lang]}</span>
+    </li>
+  ))}
+</ol>

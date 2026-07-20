@@ -1,0 +1,43 @@
+---
+import { useTranslations, type Lang } from '../../i18n/ui';
+import { localizePath } from '../../i18n/utils';
+import { bio } from '../../data/home';
+import { featuredPosts } from '../../data/social';
+import type { Article } from '../../lib/writing';
+import PostList from '../PostList.astro';
+import SocialCard from '../SocialCard.astro';
+
+interface Props {
+  lang: Lang;
+  articles: Article[];
+}
+const { lang, articles } = Astro.props;
+const t = useTranslations(lang);
+const latest = articles.slice(0, 3);
+---
+
+<h1 class="hero-tagline">{t('site.tagline')}</h1>
+
+<div class="bio">
+  {bio.map((p) => <p class={p.muted ? 'muted' : undefined}>{p.text[lang]}</p>)}
+</div>
+
+<p class="currently">{t('home.currently')}</p>
+
+<section class="block block--first" aria-labelledby="lw-eyebrow">
+  <div class="block-head">
+    <span class="eyebrow" id="lw-eyebrow">{t('home.latestWriting')}</span>
+    <a class="block-link" href={localizePath('/writing/', lang)}>{t('home.allWriting')}</a>
+  </div>
+  <PostList lang={lang} articles={latest} variant="home" />
+</section>
+
+<section class="block" aria-labelledby="ff-eyebrow">
+  <div class="block-head">
+    <span class="eyebrow" id="ff-eyebrow">{t('home.fromFeeds')}</span>
+    <a class="block-link" href={localizePath('/social/', lang)}>{t('home.socialWall')}</a>
+  </div>
+  <div class="feeds">
+    {featuredPosts.map((post) => <SocialCard post={post} lang={lang} />)}
+  </div>
+</section>

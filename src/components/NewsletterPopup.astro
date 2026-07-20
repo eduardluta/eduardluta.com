@@ -1,0 +1,53 @@
+---
+import { useTranslations, type Lang } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<div class="nl-overlay" data-nl-overlay role="dialog" aria-modal="true" aria-labelledby="nl-heading" hidden>
+  <div class="nl-modal">
+    <button class="nl-close" type="button" data-nl-close aria-label={t('nl.close')}>×</button>
+
+    <form data-nl-form novalidate>
+      <div class="nl-eyebrow">{t('nl.eyebrow')}</div>
+      <h2 class="nl-heading" id="nl-heading">{t('nl.heading')}</h2>
+      <p class="nl-body">{t('nl.body')}</p>
+      <div class="nl-fields">
+        <input
+          class="nl-input"
+          data-nl-email
+          type="email"
+          name="email"
+          autocomplete="email"
+          placeholder={t('nl.placeholder')}
+          aria-label={t('nl.emailLabel')}
+          aria-describedby="nl-error"
+          required
+        />
+        <p class="nl-error" id="nl-error" data-nl-error role="alert" aria-live="polite"></p>
+        <button class="nl-submit" type="submit" data-nl-submit>{t('nl.subscribe')}</button>
+      </div>
+    </form>
+
+    <div class="nl-done" data-nl-done>
+      <div class="nl-eyebrow">{t('nl.eyebrow')}</div>
+      <h2 class="nl-heading">{t('nl.doneHeading')}</h2>
+      <p class="nl-body" style="margin-bottom:0">{t('nl.doneBody')}</p>
+    </div>
+  </div>
+</div>
+
+<script
+  type="application/json"
+  data-nl-strings
+  set:html={JSON.stringify({
+    invalid: t('nl.errInvalid'),
+    network: t('nl.errNetwork'),
+    sending: t('nl.sending'),
+    subscribe: t('nl.subscribe'),
+  })}
+/>

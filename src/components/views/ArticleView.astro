@@ -1,0 +1,32 @@
+---
+import { render } from 'astro:content';
+import { useTranslations, type Lang } from '../../i18n/ui';
+import { localizePath, formatDateLong, isoDate } from '../../i18n/utils';
+import type { Article } from '../../lib/writing';
+
+interface Props {
+  lang: Lang;
+  article: Article;
+}
+const { lang, article } = Astro.props;
+const t = useTranslations(lang);
+const { Content } = await render(article);
+---
+
+<a class="article-back" href={localizePath('/writing/', lang)}>{t('article.back')}</a>
+
+<article>
+  <div class="article-date">
+    <time datetime={isoDate(article.data.date)}>{formatDateLong(article.data.date, lang)}</time>
+  </div>
+  <h1 class="article-title">{article.data.title}</h1>
+  <div class="article-body">
+    <Content />
+  </div>
+</article>
+
+<div class="article-foot">
+  <a class="article-back" style="margin-bottom:0" href={localizePath('/writing/', lang)}>
+    {t('article.backToWriting')} →
+  </a>
+</div>
