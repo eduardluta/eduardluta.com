@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PrinciplesView from '../../../components/views/PrinciplesView.astro';
+import { useTranslations, SITE_NAME } from '../../../i18n/ui';
+import { localizePath } from '../../../i18n/utils';
+import { breadcrumbSchema } from '../../../lib/schema';
+
+const lang = 'sq';
+const t = useTranslations(lang);
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${t('principles.title')} — ${SITE_NAME}`}
+  description={t('principles.description')}
+  jsonLd={breadcrumbSchema([
+    { name: SITE_NAME, url: localizePath('/', lang) },
+    { name: t('principles.title'), url: localizePath('/principles/', lang) },
+  ])}
+>
+  <PrinciplesView lang={lang} />
+</BaseLayout>

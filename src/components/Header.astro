@@ -1,0 +1,49 @@
+---
+import { useTranslations, SITE_NAME, type Lang } from '../i18n/ui';
+import { localizePath, stripLangFromPath, getAlternates } from '../i18n/utils';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const base = stripLangFromPath(Astro.url.pathname);
+const section = base === '/' ? 'home' : base.split('/').filter(Boolean)[0];
+
+const navItems = [
+  { key: 'writing', label: t('nav.writing'), path: '/writing/' },
+  { key: 'building', label: t('nav.building'), path: '/building/' },
+  { key: 'principles', label: t('nav.principles'), path: '/principles/' },
+  { key: 'social', label: t('nav.social'), path: '/social/' },
+] as const;
+
+const alternates = getAlternates(Astro.url.pathname);
+---
+
+<header class="hdr">
+  <a class="wordmark" href={localizePath('/', lang)} aria-label={`${SITE_NAME} — ${t('nav.home')}`}>
+    {SITE_NAME}
+  </a>
+  <nav class="nav" aria-label="Primary">
+    {navItems.map((item) => (
+      <a
+        href={localizePath(item.path, lang)}
+        aria-current={section === item.key ? 'page' : undefined}
+      >
+        {item.label}
+      </a>
+    ))}
+    <span class="seg" role="group" aria-label={t('nav.langLabel')}>
+      <a class="lang-btn" href={alternates.en} aria-current={lang === 'en' ? 'true' : undefined} lang="en" hreflang="en">EN</a>
+      <a class="lang-btn" href={alternates.sq} aria-current={lang === 'sq' ? 'true' : undefined} lang="sq" hreflang="sq">SQ</a>
+    </span>
+    <button
+      class="theme-btn"
+      type="button"
+      data-theme-toggle
+      aria-label={t('nav.themeToggle')}
+      title={t('nav.themeToggle')}
+    >◐</button>
+  </nav>
+</header>

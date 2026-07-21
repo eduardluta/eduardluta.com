@@ -1,0 +1,41 @@
+---
+import { useTranslations, SITE_EMAIL, social, type Lang } from '../i18n/ui';
+import { localizePath } from '../i18n/utils';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const connect = [
+  { label: 'GitHub', href: social.github },
+  { label: 'LinkedIn', href: social.linkedin },
+  { label: 'Instagram', href: social.instagram },
+  { label: 'TikTok', href: social.tiktok },
+  { label: 'X', href: social.x },
+];
+---
+
+<footer class="site-footer">
+  <div class="footer-cols">
+    <div style="max-width:360px">
+      <div class="footer-eyebrow">{t('footer.getInTouch')}</div>
+      <a class="footer-email" href={`mailto:${SITE_EMAIL}`}>{SITE_EMAIL}</a>
+      <p class="footer-line">{t('footer.touchLine')}</p>
+    </div>
+    <div>
+      <div class="footer-eyebrow">{t('footer.connect')}</div>
+      <div class="connect">
+        {connect.map((c) => (
+          <a href={c.href} target="_blank" rel="noopener noreferrer me">{c.label}</a>
+        ))}
+      </div>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <a href={localizePath('/privacy/', lang)}>{t('footer.privacy')}</a>
+    <span aria-hidden="true">·</span>
+    <a href={localizePath('/terms/', lang)}>{t('footer.terms')}</a>
+  </div>
+</footer>
