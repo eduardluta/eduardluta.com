@@ -46,6 +46,7 @@ async function main() {
   await png(iconSvg(180), 180, 'apple-touch-icon.png');
   await png(iconSvg(192), 192, 'icon-192.png');
   await png(iconSvg(512), 512, 'icon-512.png');
+  await png(iconSvg(1024), 1024, 'icon-1024.png');
 
   await sharp(Buffer.from(ogSvg)).png().toFile(join(PUBLIC, 'og-default.png'));
   console.log('  ✓ og-default.png');

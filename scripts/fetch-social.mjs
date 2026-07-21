@@ -16,6 +16,7 @@
 //   SOCIAL_TT_LIMIT       (optional) number of TikTok posts, default 4
 
 import sharp from 'sharp';
+import { readRefreshToken, writeRefreshToken, closeStore } from './token-store.mjs';
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -152,22 +153,35 @@ async function fetchInstagram(now) {
 // the long-lived (~365d) refresh token. TIKTOK_TOKEN is still honored for a quick
 // within-the-day test.
 async function resolveTikTokToken() {
-  const { TIKTOK_TOKEN, TIKTOK_REFRESH_TOKEN, TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET } = process.env;
-  if (TIKTOK_REFRESH_TOKEN && TIKTOK_CLIENT_KEY && TIKTOK_CLIENT_SECRET) {
-    const params = new URLSearchParams({
-      client_key: TIKTOK_CLIENT_KEY,
-      client_secret: TIKTOK_CLIENT_SECRET,
-      grant_type: 'refresh_token',
-      refresh_token: TIKTOK_REFRESH_TOKEN,
-    });
-    const { ok, body } = await fetchJson('https://open.tiktokapis.com/v2/oauth/token/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: params.toString(),
-    });
-    if (ok && body?.access_token) return body.access_token;
-    console.warn('[social] TikTok token refresh failed:', body?.error_description || body?.error || 'HTTP');
-    return null;
+  const { TIKTOK_TOKEN, TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET } = process.env;
+  if (TIKTOK_CLIENT_KEY && TIKTOK_CLIENT_SECRET) {
+    // Prefer the rotating token persisted in the DB; fall back to the env seed.
+    const stored = await readRefreshToken('tiktok').catch(() => null);
+    const refreshToken = stored || process.env.TIKTOK_REFRESH_TOKEN;
+    if (refreshToken) {
+      const params = new URLSearchParams({
+        client_key: TIKTOK_CLIENT_KEY,
+        client_secret: TIKTOK_CLIENT_SECRET,
+        grant_type: 'refresh_token',
+        refresh_token: refreshToken,
+      });
+      const { ok, body } = await fetchJson('https://open.tiktokapis.com/v2/oauth/token/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: params.toString(),
+      });
+      if (ok && body?.access_token) {
+        // TikTok rotates the refresh token — persist the new one for next build.
+        if (body.refresh_token && body.refresh_token !== refreshToken) {
+          await writeRefreshToken('tiktok', body.refresh_token).catch((e) =>
+            console.warn('[social] could not persist rotated TikTok refresh token:', e.message)
+          );
+        }
+        return body.access_token;
+      }
+      console.warn('[social] TikTok token refresh failed:', body?.error_description || body?.error || 'HTTP');
+      return null;
+    }
   }
   return TIKTOK_TOKEN || null;
 }
@@ -216,7 +230,7 @@ async function fetchTikTok(now, token) {
 async function main() {
   const now = Date.now();
   const hasTikTokCreds = Boolean(
-    process.env.TIKTOK_TOKEN || (process.env.TIKTOK_REFRESH_TOKEN && process.env.TIKTOK_CLIENT_KEY)
+    process.env.TIKTOK_TOKEN || (process.env.TIKTOK_CLIENT_KEY && process.env.TIKTOK_CLIENT_SECRET)
   );
   const tiktokToken = hasTikTokCreds
     ? await resolveTikTokToken().catch((e) => (console.warn('[social] TikTok auth error:', e.message), null))
@@ -240,6 +254,7 @@ async function main() {
   const posts = [...ig, ...tt].sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));
   writeFileSync(FEED_FILE, JSON.stringify({ generatedAt: new Date(now).toISOString(), posts }, null, 2));
   console.log(`[social] Wrote ${posts.length} live posts (IG ${ig.length}, TikTok ${tt.length}).`);
+  await closeStore();
 }
 
 main().catch((err) => {

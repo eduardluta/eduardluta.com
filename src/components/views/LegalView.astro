@@ -1,0 +1,24 @@
+---
+import type { Lang } from '../../i18n/ui';
+import type { LegalDoc } from '../../data/legal';
+
+interface Props {
+  lang: Lang;
+  doc: LegalDoc;
+}
+const { lang, doc } = Astro.props;
+---
+
+<h1 class="view-title">{doc.title[lang]}</h1>
+<p class="view-sub" style="margin-bottom:34px">{doc.updated[lang]}</p>
+
+<div class="legal">
+  {doc.sections.map((section) => (
+    <section class="legal-section">
+      <h2 class="legal-heading">{section.heading[lang]}</h2>
+      {section.paras[lang].map((para) => (
+        <p class="legal-para">{para}</p>
+      ))}
+    </section>
+  ))}
+</div>

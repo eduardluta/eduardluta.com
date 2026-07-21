@@ -71,6 +71,8 @@ export const ui = {
     'footer.getInTouch': 'Get in touch',
     'footer.touchLine': 'Have something real to talk about? I read every message.',
     'footer.connect': 'Connect',
+    'footer.privacy': 'Privacy',
+    'footer.terms': 'Terms',
 
     'nl.eyebrow': 'Newsletter',
     'nl.heading': 'Stay in the loop.',
@@ -137,6 +139,8 @@ export const ui = {
     'footer.getInTouch': 'Të flasim',
     'footer.touchLine': 'Ke diçka të vërtetë për të biseduar? I lexoj të gjitha mesazhet.',
     'footer.connect': 'Lidhu',
+    'footer.privacy': 'Privatësia',
+    'footer.terms': 'Kushtet',
 
     'nl.eyebrow': 'Buletin',
     'nl.heading': 'Qëndro në rrjedhë.',

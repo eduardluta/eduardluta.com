@@ -662,6 +662,30 @@ a.project-name:hover {
   border-top: 1px solid rgba(var(--ink-rgb), 0.12);
 }
 
+/* Legal (privacy / terms) ----------------------------------------------- */
+.legal {
+  max-width: var(--measure-article);
+}
+.legal-section {
+  margin-bottom: 26px;
+}
+.legal-heading {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 8px;
+}
+.legal-para {
+  font-size: 13.5px;
+  line-height: 1.75;
+  color: rgba(var(--ink-rgb), 0.78);
+  margin-bottom: 10px;
+  text-wrap: pretty;
+}
+.legal-para:last-child {
+  margin-bottom: 0;
+}
+
 /* Footer ---------------------------------------------------------------- */
 .site-footer {
   padding-top: 34px;
@@ -706,6 +730,16 @@ a.project-name:hover {
   align-items: flex-start;
 }
 .connect a:hover {
+  color: var(--accent);
+}
+.footer-legal {
+  margin-top: 24px;
+  display: flex;
+  gap: 10px;
+  font-size: 11px;
+  color: var(--muted);
+}
+.footer-legal a:hover {
   color: var(--accent);
 }
 

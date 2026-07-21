@@ -1,5 +1,6 @@
 ---
 import { useTranslations, SITE_EMAIL, social, type Lang } from '../i18n/ui';
+import { localizePath } from '../i18n/utils';
 
 interface Props {
   lang: Lang;
@@ -31,5 +32,10 @@ const connect = [
         ))}
       </div>
     </div>
+  </div>
+  <div class="footer-legal">
+    <a href={localizePath('/privacy/', lang)}>{t('footer.privacy')}</a>
+    <span aria-hidden="true">·</span>
+    <a href={localizePath('/terms/', lang)}>{t('footer.terms')}</a>
   </div>
 </footer>

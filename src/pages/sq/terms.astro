@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LegalView from '../../components/views/LegalView.astro';
+import { SITE_NAME } from '../../i18n/ui';
+import { terms } from '../../data/legal';
+
+const lang = 'sq';
+---
+
+<BaseLayout lang={lang} title={`${terms.title[lang]} — ${SITE_NAME}`} description={terms.description[lang]}>
+  <LegalView lang={lang} doc={terms} />
+</BaseLayout>

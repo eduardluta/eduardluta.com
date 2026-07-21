@@ -14,6 +14,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { hasStore, writeRefreshToken, closeStore } from './token-store.mjs';
 
 const ENV_PATH = join(dirname(fileURLToPath(import.meta.url)), '..', '.env');
 const SCOPE = 'user.info.basic,video.list';
@@ -84,13 +85,21 @@ async function exchange(codeInput) {
     process.exit(1);
   }
   upsertEnv('TIKTOK_REFRESH_TOKEN', body.refresh_token);
-  console.log('\n✓ Success. Saved TIKTOK_REFRESH_TOKEN to .env.');
+  let seededDb = false;
+  if (hasStore()) {
+    seededDb = await writeRefreshToken('tiktok', body.refresh_token).catch((e) => {
+      console.warn('  (could not seed the DB token store:', e.message + ')');
+      return false;
+    });
+    await closeStore();
+  }
+  console.log('\n✓ Success. Saved TIKTOK_REFRESH_TOKEN to .env' + (seededDb ? ' and the DB store.' : '.'));
   console.log(`  open_id: ${body.open_id}`);
   console.log(`  scope:   ${body.scope}`);
   console.log(`  refresh token valid ~${Math.round((body.refresh_expires_in || 0) / 86400)} days.`);
-  console.log('\nFor production, add this to Netlify env vars:');
-  console.log(`  TIKTOK_REFRESH_TOKEN = ${body.refresh_token}`);
+  console.log('\nFor production, add these to Netlify env vars:');
   console.log('  TIKTOK_CLIENT_KEY / TIKTOK_CLIENT_SECRET (same as .env)');
+  console.log(`  TIKTOK_REFRESH_TOKEN  (seed value — the DB store keeps it fresh after the first build)`);
   console.log('\nNow run:  npm run feed   (then npm run build) to fetch your videos.\n');
 }
 
