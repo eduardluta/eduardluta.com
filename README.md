@@ -5,20 +5,22 @@ site: bio, writing with a full article reader, projects, principles, a social
 wall, and a newsletter capture. Monospace, warm paper / warm‑charcoal themes,
 one pine accent.
 
-Built with **[Astro](https://astro.build)** and deployed on **Netlify**. No CMS —
-content lives natively in the repo as Markdown + typed data, pre‑rendered to
-static HTML for best‑in‑class SEO.
+Built with **[Astro](https://astro.build)** and deployed on **Railway** as a Node
+server (Express wrapping the Astro handler). No CMS — content lives natively in
+the repo as Markdown + typed data, pre‑rendered to static HTML for best‑in‑class SEO.
 
 ## Tech
 
-- **Astro 5** — static output, per‑page URLs, view transitions.
+- **Astro 5** — prerendered pages + one on‑demand API route, per‑page URLs, view transitions.
+- **Server** — `@astrojs/node` (middleware mode) behind [`server.mjs`](server.mjs)
+  (Express): security headers, legacy 301s, static + asset caching.
 - **i18n** — English at the root (`/`), Albanian under `/sq/`, cross‑linked with
   `hreflang`. Content collections carry both languages.
 - **SEO** — per‑page title/description, canonical, `hreflang` (incl. `x-default`),
   Open Graph + Twitter cards, JSON‑LD (`Person`, `WebSite`, `BlogPosting`,
   `BreadcrumbList`), `sitemap-index.xml`, `robots.txt`.
 - **Fonts** — IBM Plex Mono, self‑hosted via `@fontsource` (no CLS, no third party).
-- **Newsletter** — Netlify serverless function → Railway Postgres.
+- **Newsletter** — Astro API route (`/api/subscribe/`) → Railway Postgres.
 
 ## Develop
 
@@ -30,7 +32,7 @@ npm run preview    # serve the built dist/ locally
 npm run assets     # regenerate favicons + OG image (public/*.png)
 ```
 
-Node 22 is pinned (`.nvmrc`, `netlify.toml`).
+Node 22 is pinned (`.nvmrc`, `package.json` `engines`, `railway.json`).
 
 ## Project structure
 
@@ -46,7 +48,8 @@ src/
   components/                         # Header, Footer, NewsletterPopup, cards, views
   scripts/app.ts                      # theme toggle + newsletter behaviour
   pages/                              # EN at root, SQ under /sq/
-netlify/functions/subscribe.mjs       # newsletter → Railway
+src/pages/api/subscribe.ts             # newsletter API → Railway Postgres
+server.mjs                             # Express wrapper: headers, redirects, static
 public/                               # favicon, icons, OG image, robots.txt, manifest
 db/schema.sql                         # subscribers table
 scripts/gen-assets.mjs                # PNG icon + OG generator
@@ -77,25 +80,20 @@ update automatically. Dates drive ordering (newest first).
 Other content (bio, principles, "worth the time", projects, social wall) lives in
 `src/data/*.ts` and `src/i18n/ui.ts` as `{ en, sq }` pairs.
 
-## Newsletter → Railway (one-time setup)
+## Newsletter → Railway Postgres
 
-The signup popup POSTs to `/api/subscribe`, which the Netlify function
-`netlify/functions/subscribe.mjs` handles by inserting into a Railway Postgres
-database. To wire it up:
+The signup popup POSTs to `/api/subscribe/`, an Astro API route
+([`src/pages/api/subscribe.ts`](src/pages/api/subscribe.ts)) that inserts into the
+Railway Postgres database. Same project as the app, so:
 
-1. **Create a Postgres database on [Railway](https://railway.app)** → New Project
-   → *Provision PostgreSQL*.
-2. **Copy the connection string** — in the Postgres service, *Variables* →
-   `DATABASE_URL` (use the public URL, e.g.
-   `postgresql://postgres:…@…proxy.rlwy.net:PORT/railway`).
-3. *(Optional)* apply `db/schema.sql` in Railway's query console. The function
-   also creates the `subscribers` table automatically on first call.
-4. **In Netlify** → Site settings → *Environment variables* → add
-   `DATABASE_URL` = the value from step 2. Redeploy.
+1. In your Railway project, add a **Postgres** service.
+2. On the app service, set `DATABASE_URL = ${{ Postgres.DATABASE_URL }}` (the
+   internal reference — private network, no TLS, faster). Redeploy.
+3. *(Optional)* apply [`db/schema.sql`](db/schema.sql); the route also creates the
+   `subscribers` table on first call.
 
-That's it — the function reads `DATABASE_URL` at runtime; it is never committed.
-Locally, copy `.env.example` to `.env` and run with `netlify dev` to exercise the
-function.
+The route reads `DATABASE_URL` at runtime; it is never committed. Locally, copy
+`.env.example` to `.env` (use the Postgres *public* URL) and run `npm start`.
 
 Responses: `201` new signup · `409` already subscribed (treated as success) ·
 `400` invalid email · `503` `DATABASE_URL` not set · `500` DB error.
@@ -115,7 +113,7 @@ If no tokens are set, the wall shows the curated fallback, so nothing breaks.
 1. Switch the IG account to **Business or Creator** and link it to a Facebook Page.
 2. Create an app at [developers.facebook.com](https://developers.facebook.com) and add **Instagram Graph API**.
 3. Generate a **long-lived access token** (`instagram_basic`) and note your IG Business account id.
-4. In Netlify set `INSTAGRAM_TOKEN` (and optionally `INSTAGRAM_USER_ID`).
+4. Set `INSTAGRAM_TOKEN` (and optionally `INSTAGRAM_USER_ID`) in the Railway service.
    ⚠️ Long-lived tokens expire ~60 days — refresh it before then.
 
 **TikTok** (access tokens expire in ~24h, so we use the refresh-token flow):
@@ -126,26 +124,31 @@ If no tokens are set, the wall shows the curated fallback, so nothing breaks.
    npm run tiktok:auth                 # prints an authorize URL — open + approve
    npm run tiktok:auth "<redirected URL>"   # exchanges the code, saves the refresh token
    ```
-4. Copy `TIKTOK_REFRESH_TOKEN` (+ client key/secret) into Netlify. The build mints a
-   fresh access token from it each time. The refresh token lasts ~365 days.
+4. Set `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` in Railway.
+   The build mints a fresh access token each time and persists the rotated refresh
+   token in Postgres (so it keeps working). The refresh token lasts ~365 days.
 
-**Keep it fresh** (optional): create a Netlify **build hook** (Site configuration →
-Build hooks) and set its URL as `NETLIFY_BUILD_HOOK`. The scheduled function
-[`refresh-social.mjs`](netlify/functions/refresh-social.mjs) triggers a rebuild
-daily so the feed stays current. Adjust the cron in that file to taste.
+**Keeping it fresh:** the feed is fetched at build time, so it refreshes on every
+deploy. For automatic daily refresh, add a scheduled redeploy on Railway (a cron
+service that triggers a redeploy via the Railway API) — a small follow-up.
 
 Run `npm run feed` locally (with a `.env`) to fetch without a full build.
 
-## Deploy (Netlify)
+## Deploy (Railway)
 
-`netlify.toml` already configures everything:
+[`railway.json`](railway.json) configures the build/start; Railway (Nixpacks) runs
+`npm run build` then `npm start` ([`server.mjs`](server.mjs)), reading `PORT` from
+the environment.
 
-- Build command `npm run build`, publish `dist/`, functions `netlify/functions/`.
-- `/api/subscribe` → the function; 301s from the old URLs (`/blog*`, etc.).
-- Security + cache headers.
+1. Create a Railway **project** and deploy this repo (add the service from GitHub).
+2. Add a **Postgres** service in the same project.
+3. On the app service → **Variables**, set:
+   - `DATABASE_URL = ${{ Postgres.DATABASE_URL }}`
+   - `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN`
+4. Add the **custom domain** `eduardluta.com` on the app service and point DNS at
+   the target Railway gives you (CNAME/A). Railway provisions HTTPS automatically.
 
-Connect the repo to Netlify, set the `DATABASE_URL` env var, and deploy. Point the
-`eduardluta.com` domain at the site (DNS is already on Netlify).
+Redirects, security headers, and asset caching are handled in `server.mjs`.
 
 ## Notes
 

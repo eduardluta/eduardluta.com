@@ -1,41 +1,30 @@
-// Netlify serverless function (v2) — records newsletter signups in a Railway
-// Postgres database. The connection string is supplied via the DATABASE_URL
-// environment variable (set in Netlify → Site settings → Environment variables);
-// it is never committed to the repo.
-//
-// Responses:
-//   201  new subscriber stored
-//   409  already subscribed (treated as success by the client)
-//   400  missing / invalid email
-//   405  wrong method
-//   503  DATABASE_URL not configured
-//   500  database error
-
+import type { APIRoute } from 'astro';
 import pg from 'pg';
 
-const { Pool } = pg;
+// Rendered on demand (the rest of the site is prerendered/static).
+export const prerender = false;
 
+const { Pool } = pg;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-// Reuse the pool across warm invocations.
-let pool;
-let schemaReady;
+let pool: pg.Pool | undefined;
+let schemaReady: Promise<unknown> | undefined;
 
-// Verify TLS against a provided CA when available; otherwise fall back to
-// Railway's public proxy, whose cert is outside the default CA bundle. Set
-// PGSSLROOTCERT (the CA PEM) in Netlify to enable strict verification.
-function sslConfig() {
+function sslConfig(url: string): pg.PoolConfig['ssl'] {
   if (process.env.PGSSLROOTCERT) {
     return { ca: process.env.PGSSLROOTCERT, rejectUnauthorized: true };
   }
+  // Railway internal networking (…​.railway.internal) does not use TLS.
+  if (url.includes('.railway.internal')) return false;
+  // Public proxies present certs outside the default CA bundle.
   return { rejectUnauthorized: false };
 }
 
-function getPool() {
+function getPool(url: string): pg.Pool {
   if (!pool) {
     pool = new Pool({
-      connectionString: process.env.DATABASE_URL,
-      ssl: sslConfig(),
+      connectionString: url,
+      ssl: sslConfig(url),
       max: 3,
       idleTimeoutMillis: 10_000,
       connectionTimeoutMillis: 8_000,
@@ -44,7 +33,7 @@ function getPool() {
   return pool;
 }
 
-async function ensureSchema(client) {
+function ensureSchema(client: pg.PoolClient) {
   if (!schemaReady) {
     schemaReady = client
       .query(`
@@ -57,8 +46,6 @@ async function ensureSchema(client) {
         );
         CREATE INDEX IF NOT EXISTS subscribers_created_at_idx ON subscribers (created_at DESC);
       `)
-      // Don't cache a rejected promise, or every later request re-fails until
-      // the container recycles.
       .catch((err) => {
         schemaReady = undefined;
         throw err;
@@ -67,40 +54,35 @@ async function ensureSchema(client) {
   return schemaReady;
 }
 
-function json(body, status) {
+function json(body: unknown, status: number) {
   return new Response(JSON.stringify(body), {
     status,
     headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' },
   });
 }
 
-export default async (req) => {
-  if (req.method !== 'POST') {
-    return json({ error: 'method_not_allowed' }, 405);
-  }
+export const POST: APIRoute = async ({ request }) => {
+  const url = process.env.DATABASE_URL;
+  if (!url) return json({ error: 'not_configured' }, 503);
 
-  if (!process.env.DATABASE_URL) {
-    return json({ error: 'not_configured' }, 503);
-  }
-
-  let payload;
+  let payload: Record<string, unknown>;
   try {
-    payload = await req.json();
+    payload = await request.json();
   } catch {
     return json({ error: 'invalid_json' }, 400);
   }
 
   const email = String(payload?.email ?? '').trim().toLowerCase();
-  const lang = ['en', 'sq'].includes(payload?.lang) ? payload.lang : null;
+  const lang = payload?.lang === 'en' || payload?.lang === 'sq' ? payload.lang : null;
   const source = typeof payload?.source === 'string' ? payload.source.slice(0, 60) : 'popup';
 
   if (!email || email.length > 320 || !EMAIL_RE.test(email)) {
     return json({ error: 'invalid_email' }, 400);
   }
 
-  let client;
+  let client: pg.PoolClient | undefined;
   try {
-    client = await getPool().connect();
+    client = await getPool(url).connect();
     await ensureSchema(client);
     const result = await client.query(
       `INSERT INTO subscribers (email, lang, source)
@@ -109,10 +91,7 @@ export default async (req) => {
        RETURNING id;`,
       [email, lang, source]
     );
-
-    if (result.rowCount === 0) {
-      return json({ status: 'already_subscribed' }, 409);
-    }
+    if (result.rowCount === 0) return json({ status: 'already_subscribed' }, 409);
     return json({ status: 'subscribed' }, 201);
   } catch (err) {
     console.error('subscribe error:', err);

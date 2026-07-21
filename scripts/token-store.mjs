@@ -12,17 +12,20 @@ const { Pool } = pg;
 
 let pool;
 
-function sslConfig() {
+function sslConfig(url) {
   if (process.env.PGSSLROOTCERT) return { ca: process.env.PGSSLROOTCERT, rejectUnauthorized: true };
+  // Railway internal networking (…​.railway.internal) does not use TLS.
+  if (url.includes('.railway.internal')) return false;
   return { rejectUnauthorized: false };
 }
 
 function getPool() {
-  if (!process.env.DATABASE_URL) return null;
+  const url = process.env.DATABASE_URL;
+  if (!url) return null;
   if (!pool) {
     pool = new Pool({
-      connectionString: process.env.DATABASE_URL,
-      ssl: sslConfig(),
+      connectionString: url,
+      ssl: sslConfig(url),
       max: 2,
       connectionTimeoutMillis: 8_000,
     });
