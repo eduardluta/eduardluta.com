@@ -34,6 +34,10 @@ const REDIRECTS = {
   '/worth-the-time.html': '/writing/',
 };
 app.use((req, res, next) => {
+  // Collapse index.html onto its clean directory URL (/index.html -> /, /x/index.html -> /x/).
+  if (req.path.endsWith('/index.html')) {
+    return res.redirect(301, req.path.slice(0, -'index.html'.length));
+  }
   const to = REDIRECTS[req.path] ?? (req.path === '/blog' || req.path.startsWith('/blog/') ? '/writing/' : null);
   if (to) return res.redirect(301, to);
   next();

@@ -1,0 +1,29 @@
+name: Refresh social feed
+
+# The TikTok/social wall is fetched at build time (scripts/fetch-social.mjs),
+# so it only updates on deploy. This triggers a daily Railway redeploy to pull
+# in new posts. It safely no-ops until a RAILWAY_TOKEN secret is added.
+on:
+  schedule:
+    - cron: '17 6 * * *' # daily ~06:17 UTC
+  workflow_dispatch: {} # allow manual "Run workflow"
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Railway redeploy (rebuilds → refetches the feed)
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+          # eduardluta.com service in the "perceptive-transformation" project.
+          SERVICE_ID: 67ebef0b-19fa-4304-a8b8-dd02393991ec
+        run: |
+          if [ -z "$RAILWAY_TOKEN" ]; then
+            echo "RAILWAY_TOKEN not set — skipping."
+            echo "To enable daily refresh: create a Project/Service token in Railway"
+            echo "(Project → Settings → Tokens) and add it as the repo secret RAILWAY_TOKEN"
+            echo "(GitHub → Settings → Secrets and variables → Actions)."
+            exit 0
+          fi
+          npm i -g @railway/cli@latest
+          railway redeploy --service "$SERVICE_ID" --yes
