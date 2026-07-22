@@ -36,12 +36,14 @@ export const privacy: LegalDoc = {
       paras: {
         en: [
           'Newsletter: if you subscribe, we store the email address you enter and your language preference so we can send occasional updates. Nothing more.',
-          'Server logs: our host (Netlify) may record standard request data such as IP address and browser type to operate and secure the site.',
+          'Server logs: our host (Railway) may record standard request data such as IP address and browser type to operate and secure the site.',
+          'Analytics: we use Google Analytics to understand, in aggregate, how the site is visited (pages viewed, approximate region, device type). This data is not used for advertising, and we have disabled sharing it with other Google products.',
           'There are no advertising trackers, and we do not build profiles about you.',
         ],
         sq: [
           'Buletini: nëse regjistroheni, ruajmë adresën e email-it që shkruani dhe preferencën tuaj të gjuhës, që të dërgojmë përditësime herë pas here. Asgjë më shumë.',
-          'Regjistrat e serverit: pritësi ynë (Netlify) mund të regjistrojë të dhëna standarde kërkese si adresa IP dhe lloji i shfletuesit, për të operuar dhe siguruar faqen.',
+          'Regjistrat e serverit: pritësi ynë (Railway) mund të regjistrojë të dhëna standarde kërkese si adresa IP dhe lloji i shfletuesit, për të operuar dhe siguruar faqen.',
+          'Analitika: përdorim Google Analytics për të kuptuar, në mënyrë të përmbledhur, si vizitohet faqja (faqet e para, rajoni i përafërt, lloji i pajisjes). Këto të dhëna nuk përdoren për reklama dhe e kemi çaktivizuar ndarjen e tyre me produktet e tjera të Google.',
           'Nuk ka gjurmues reklamash dhe nuk ndërtojmë profile për ju.',
         ],
       },

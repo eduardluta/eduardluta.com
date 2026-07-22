@@ -108,6 +108,21 @@ const t = useTranslations(lang);
       <script type="application/ld+json" set:html={JSON.stringify(data)} />
     ))}
 
+    <!-- Google Analytics (gtag.js) — production only, so local/dev visits never
+         pollute the data. SPA navigations (Astro view transitions) are captured
+         by GA4 enhanced measurement's history-change tracking. -->
+    {import.meta.env.PROD && (
+      <>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-61J937ZMBP"></script>
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-61J937ZMBP');
+        </script>
+      </>
+    )}
+
     <!-- No-flash theme: applied before first paint AND re-applied after every
          view-transition swap (which resets <html> attributes). -->
     <script is:inline>

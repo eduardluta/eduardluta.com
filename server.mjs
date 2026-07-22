@@ -22,7 +22,7 @@ app.use((_req, res, next) => {
   res.setHeader('Strict-Transport-Security', 'max-age=63072000; includeSubDomains; preload');
   res.setHeader(
     'Content-Security-Policy',
-    "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; object-src 'none'"
+    "default-src 'self'; img-src 'self' data: https://*.google-analytics.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://*.googletagmanager.com; font-src 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; object-src 'none'"
   );
   next();
 });
