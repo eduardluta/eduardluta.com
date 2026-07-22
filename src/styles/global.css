@@ -132,7 +132,7 @@ body.nl-open {
 }
 .main {
   flex: 1;
-  padding-top: 104px;
+  padding-top: 48px;
 }
 
 /* Header ---------------------------------------------------------------- */
@@ -574,7 +574,7 @@ a.project-name:hover {
   letter-spacing: 0.02em;
   color: var(--accent);
   display: inline-block;
-  margin-bottom: 48px;
+  margin-bottom: 28px;
 }
 .article-back:hover {
   opacity: 0.65;
