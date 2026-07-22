@@ -12,7 +12,7 @@ export type Lang = keyof typeof languages;
 export const defaultLang: Lang = 'en';
 
 export const SITE_NAME = 'Eduard Luta';
-export const SITE_EMAIL = 'hello@eduardluta.com';
+export const SITE_EMAIL = 'info@eduardluta.com';
 
 // Social profiles — universal, used in the footer and the social wall.
 export const social = {
