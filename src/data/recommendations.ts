@@ -1,34 +1,22 @@
-import type { Localized } from './home';
-
 export type Recommendation = {
-  title: string;
-  category: Localized;
-  note: Localized;
-  /** External link. Omitted when there is no canonical URL yet. */
-  url?: string;
+  /** The content itself, readable in place. Separate paragraphs with \n\n. */
+  text: string;
+  /** Source link shown below the text. */
+  source?: { label: string; url: string };
 };
 
-/** "Worth the time" — films, essays, tools & threads worth returning to. */
+/** "Worth the time" — words worth returning to, readable right here. */
 export const recommendations: Recommendation[] = [
   {
-    title: 'Life is an internal game played in an external arena.',
-    category: { en: 'Tweet', sq: 'Postim' },
-    note: { en: 'The inner game, in one line.', sq: 'Loja e brendshme, në një fjali.' },
-    url: 'https://x.com/Stealx/status/2079389763312767164',
+    text: 'Life is an internal game played in an external arena.',
+    source: { label: '@Stealx', url: 'https://x.com/Stealx/status/2079389763312767164' },
   },
   {
-    title: 'You need to burn.',
-    category: { en: 'Tweet', sq: 'Postim' },
-    note: {
-      en: 'On getting your spark back: no half-assing — double down and level up.',
-      sq: 'Për ta rikthyer shkëndijën: pa gjysmë-masa — dyfisho dhe ngjitu një nivel.',
-    },
-    url: 'https://x.com/rachcorrine/status/2078556350246773156',
+    text: 'The quickest way to “get your spark back” is to literally light yourself on fire. You’ve got to burn baby. You’re depressed bc you’re not being insane enough. Double. Down. The world does not reward half ass. All in or out. You’re thinking too small. You’ve accepted your current reality as the only reality. Bullshit. You need to write a list of the most insane asks you could ever dream of. “I am a NYT best selling author. I am the founder of a Fortune 500 company. I paint for a living and I make a damn good living.” Ask and you shall receive. Embody and you become. Flip the fucking script. Your current ceiling is now the floor. Level up.\n\nYou need to burn.',
+    source: { label: '@rachcorrine', url: 'https://x.com/rachcorrine/status/2078556350246773156' },
   },
   {
-    title: 'Naval — How to Get Rich',
-    category: { en: 'Thread', sq: 'Temë' },
-    note: { en: 'Wealth creation distilled into principles.', sq: 'Krijimi i pasurisë, i përmbledhur në parime.' },
-    url: 'https://twitter.com/naval/status/1002103360646823936',
+    text: 'Naval — How to Get Rich: wealth creation distilled into principles.',
+    source: { label: '@naval', url: 'https://twitter.com/naval/status/1002103360646823936' },
   },
 ];

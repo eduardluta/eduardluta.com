@@ -322,31 +322,24 @@ body.nl-open {
 .worth-item:last-child {
   border-bottom: none;
 }
-.worth-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 16px;
-  margin-bottom: 6px;
-}
-.worth-name {
+.worth-text {
   font-size: 13px;
+  line-height: 1.75;
+  max-width: 560px;
 }
-a.worth-name:hover {
-  color: var(--accent);
+.worth-text + .worth-text {
+  margin-top: 10px;
 }
-.worth-cat {
+.worth-source {
+  display: inline-block;
+  margin-top: 10px;
   font-size: 10px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--accent);
-  white-space: nowrap;
 }
-.worth-note {
-  font-size: 12px;
-  line-height: 1.6;
-  color: var(--muted);
-  max-width: 460px;
+.worth-source:hover {
+  color: var(--ink);
 }
 
 /* Building -------------------------------------------------------------- */

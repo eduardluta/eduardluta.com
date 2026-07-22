@@ -23,15 +23,14 @@ const t = useTranslations(lang);
   <div>
     {recommendations.map((rec) => (
       <div class="worth-item">
-        <div class="worth-head">
-          {rec.url ? (
-            <a class="worth-name" href={rec.url} target="_blank" rel="noopener noreferrer">{rec.title}</a>
-          ) : (
-            <span class="worth-name">{rec.title}</span>
-          )}
-          <span class="worth-cat">{rec.category[lang]}</span>
-        </div>
-        <p class="worth-note">{rec.note[lang]}</p>
+        {rec.text.split('\n\n').map((para) => (
+          <p class="worth-text">{para}</p>
+        ))}
+        {rec.source && (
+          <a class="worth-source" href={rec.source.url} target="_blank" rel="noopener noreferrer">
+            {rec.source.label} ↗
+          </a>
+        )}
       </div>
     ))}
   </div>

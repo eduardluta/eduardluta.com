@@ -49,7 +49,7 @@ export const ui = {
     'writing.description':
       "Essays and notes by Eduard Luta on consciousness, code, marketing, and the patterns connecting them all.",
     'worth.title': 'Worth the time',
-    'worth.subtitle': 'Films, essays, tools & threads I keep coming back to.',
+    'worth.subtitle': 'Words I keep coming back to.',
 
     'building.title': 'Building',
     'building.subtitle': "Things I'm making at the intersection of AI and meaning.",
@@ -117,7 +117,7 @@ export const ui = {
     'writing.description':
       'Ese dhe shënime nga Eduard Luta për vetëdijen, kodin, marketingun dhe modelet që i lidhin të gjitha.',
     'worth.title': 'Ia vlen koha',
-    'worth.subtitle': 'Filma, ese, vegla & tema tek të cilat kthehem.',
+    'worth.subtitle': 'Fjalë tek të cilat kthehem.',
 
     'building.title': 'Projekte',
     'building.subtitle': 'Gjëra që po ndërtoj në kryqëzimin e AI-së dhe kuptimit.',
