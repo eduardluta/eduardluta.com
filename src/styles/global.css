@@ -568,13 +568,18 @@ a.project-name:hover {
 /* Article --------------------------------------------------------------- */
 /* Long-form reading: IBM Plex Serif for the body, IBM Plex Mono kept as the
    signature detail on meta/labels/captions. Column widened via .wrap--wide. */
+.article-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 32px;
+}
 .article-back {
   font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.02em;
   color: var(--accent);
-  display: inline-block;
-  margin-bottom: 28px;
 }
 .article-back:hover {
   opacity: 0.65;
@@ -585,7 +590,6 @@ a.project-name:hover {
   letter-spacing: 0.09em;
   text-transform: uppercase;
   color: var(--muted);
-  margin-bottom: 20px;
 }
 .article-title {
   font-family: var(--font-serif);

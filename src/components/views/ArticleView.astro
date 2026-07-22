@@ -13,12 +13,12 @@ const t = useTranslations(lang);
 const { Content } = await render(article);
 ---
 
-<a class="article-back" href={localizePath('/writing/', lang)}>{t('article.back')}</a>
+<div class="article-topbar">
+  <a class="article-back" href={localizePath('/writing/', lang)}>{t('article.back')}</a>
+  <time class="article-date" datetime={isoDate(article.data.date)}>{formatDateLong(article.data.date, lang)}</time>
+</div>
 
 <article>
-  <div class="article-date">
-    <time datetime={isoDate(article.data.date)}>{formatDateLong(article.data.date, lang)}</time>
-  </div>
   <h1 class="article-title">{article.data.title}</h1>
   <div class="article-body">
     <Content />
