@@ -22,11 +22,45 @@ const meta = JSON.parse(metaMatch[1]);
 const slug = meta.slug || path.basename(rawPath, '.md');
 let body = raw.slice(metaMatch[0].length).trim();
 
-// --- description: prefer the leading *italic standfirst*, else META.desc ---
-let description = (meta.desc || '').replace(/\s+/g, ' ').trim();
+const decodeEntities = (s) =>
+  String(s)
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&#x27;/g, "'").replace(/&nbsp;/g, ' ');
+body = decodeEntities(body);
+meta.title = decodeEntities(meta.title);
+
+// Drop Medium highlight-annotation lines (e.g. "You highlighted", "Valon Asani highlighted").
+body = body
+  .split('\n\n')
+  .filter((p) => !/^(you|[A-ZÀ-Ý][\wÀ-ÿ.'’-]*(?:\s+[A-ZÀ-Ý][\wÀ-ÿ.'’-]*){0,3})\s+highlighted$/i.test(p.trim()))
+  .join('\n\n')
+  .trim();
+
+// --- description: leading *italic standfirst* → first real paragraph → META ---
+let description = '';
 const stand = body.match(/^\s*\*([^*][^\n]*?)\*\s*(?:\n|$)/);
-if (stand) description = stand[1].trim();
-if (description.length > 200) description = description.slice(0, 197).replace(/\s+\S*$/, '') + '…';
+if (stand) {
+  description = stand[1].trim();
+} else {
+  for (const p of body.split('\n\n')) {
+    const s = p.trim();
+    if (!s || s.startsWith('![') || /^#{1,6}\s/.test(s) || s.startsWith('>') || s.startsWith('```')) continue;
+    if (/^[-—*\s]+$/.test(s)) continue; // divider lines
+    const clean = s
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/[*_`#>]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (clean.length >= 30) { description = clean; break; }
+  }
+  if (!description) description = (meta.desc || '').replace(/\s+/g, ' ').trim();
+}
+if (description.length > 160) {
+  const cut = description.slice(0, 160);
+  const lastEnd = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  description = lastEnd > 80 ? cut.slice(0, lastEnd + 1).trim() : cut.replace(/\s+\S*$/, '').trim() + '…';
+}
 
 // --- download images -> webp, build url map -------------------------------
 const imgRe = /!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g;
