@@ -10,7 +10,7 @@ I can’t say how much I admire Paulo Coelho, not for being such a genius and pr
 
 I’m in love with “the Zahir”, I can’t wait to read it, and I push it as much as possible not to finish the book.
 
-![The Zahir — Paulo Coelho](/writing/acomodador/acomodador-1.webp)
+![The Zahir — Paulo Coelho](/writing/acomodador/acomodador-1.webp)  
 *The Zahir — Paulo Coelho*
 
 Last night at a nice, good fire with my brother and my friend, I stubbed on the Acomodador! Whenever I read Paulo, I’m ready to be faced with a genius thought and some very deep words that would take me on a journey on its own. Maybe years in the past, maybe a couple of weeks, maybe a new idea that joins the many that already dwell in my head, maybe a new string that connects the dots and gives clarity, or even a journey to the future to fantasize about everything and nothing.
@@ -37,7 +37,7 @@ Driblings were made, passes were thrown, and goals were scored on both sides. Go
 
 What a game, me shining on every move, David vs Goliath, the three years younger „German“ leading the fifth graders to the finals. A draw match after 20 Minutes, so penalties it is. And as fate wants it, I have the final shoot, deciding our fate.
 
-I strike the iron, and we lose. But it wasn’t that we lost, our story was gone. The fifth graders didn’t make it. I was responsible for that. That was my Acomendador. That brought doubt in me forever, playing big games with great audiences. As soon as the audience went too big, I didn’t bring it.
+I strike the iron, and we lose. But it wasn’t that we lost, our story was gone. The fifth graders didn’t make it. I was responsible for that. That was my Acomendador. That brought doubt in me forever, playing big games with great audiences. As soon as the audience went too big, I didn’t bring it.  
 No matter whether it is the final or a game of the afternoon. In the normal games, I was God on the field, before too many people, nothing.
 
 I was the living Zeno effect!

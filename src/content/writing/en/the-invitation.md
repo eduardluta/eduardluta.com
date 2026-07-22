@@ -10,7 +10,7 @@ In this world bursting with possibilities, where you could be anything, have you
 
 Have you ever looked at yourself in the mirror, seen your true self, and turned away in disbelief, doubting and denying that version of yourself?
 
-I’m certain you have. And it’s no accident this article found its way to you. This isn’t just an article;** it’s the invitation from your higher self to live life to its fullest and pursue excellence.**
+I’m certain you have. And it’s no accident this article found its way to you. This isn’t just an article; **it’s the invitation from your higher self to live life to its fullest and pursue excellence.**
 
 *For if you don’t, while today might seem ordinary, there will come a day when, on your last breath, you’ll be confronted with the monumental figure of what you might have been — the epitome of unrealised dreams, missed chances and wasted potential. Imagine the agony: that void, the chasm between your current self and all you could have been.*
 

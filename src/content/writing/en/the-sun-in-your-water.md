@@ -6,7 +6,7 @@ description: "Why most of what you drink runs straight through you — and how t
 
 *Why most of what you drink runs straight through you — and how to actually feed your body with light.*
 
-![The Sun In Your Water](/writing/the-sun-in-your-water/the-sun-in-your-water-1.webp)
+![The Sun In Your Water](/writing/the-sun-in-your-water/the-sun-in-your-water-1.webp)  
 *The Sun In Your Water*
 
 I love ideas that make me question things I believed so deeply, I never even thought to question them.
@@ -19,7 +19,7 @@ These are the ideas worth sitting with. And this one is a good one.
 
 ## Adam & Eve — From Light to Matter
 
-![Adam & Eve](/writing/the-sun-in-your-water/the-sun-in-your-water-2.webp)
+![Adam & Eve](/writing/the-sun-in-your-water/the-sun-in-your-water-2.webp)  
 *Adam & Eve*
 
 *What if the story of Adam and Eve was never about shame, or knowledge but actually about* **food?**
@@ -50,7 +50,7 @@ Before we go anywhere with the sun, you have to know about a Japanese researcher
 
 Emoto did something simple and stubborn: he took water samples, exposed them to different inputs — written words, spoken words, music, prayers — then froze them and photographed the ice crystals under a microscope.
 
-![Masaru Emoto — The Hidden Messages in Water](/writing/the-sun-in-your-water/the-sun-in-your-water-3.webp)
+![Masaru Emoto — The Hidden Messages in Water](/writing/the-sun-in-your-water/the-sun-in-your-water-3.webp)  
 *Masaru Emoto — The Hidden Messages in Water*
 
 What he found:
@@ -95,7 +95,7 @@ Take a clean glass bottle. Fill it with purified water — not distilled. Put it
 
 Summer: 4 hours. Winter: 6 to 8 hours.
 
-![Suncharged Water](/writing/the-sun-in-your-water/the-sun-in-your-water-4.webp)
+![Suncharged Water](/writing/the-sun-in-your-water/the-sun-in-your-water-4.webp)  
 *Suncharged Water*
 
 The sun's infrared energy restructures the water. It charges it. Now when you drink it, your body recognizes it as something it can actually use — the same kind of energy it expects from a tomato pulled off the vine, from a watermelon, from a glass of fresh-pressed orange juice.
@@ -152,7 +152,7 @@ And in our time, one man reopened that doorway in front of 21 medical doctors wi
 
 ## The Man Who Lived 411 Days On Sun And Water
 
-![Hira Ratan Manek — HRM](/writing/the-sun-in-your-water/the-sun-in-your-water-5.webp)
+![Hira Ratan Manek — HRM](/writing/the-sun-in-your-water/the-sun-in-your-water-5.webp)  
 *Hira Ratan Manek — HRM*
 
 Indian engineer. Born 1937. Retired from his family's shipping business in 1992 and dedicated himself to studying sun gazing — the same practice the Egyptians, the Greeks, the Native Americans, and the Jain monks all practiced thousands of years ago.
@@ -165,14 +165,14 @@ This was not some guru in a cave with no witnesses. He was monitored the entire 
 
 He was later studied at Thomas Jefferson University and the University of Pennsylvania in Philadelphia. NASA showed interest. The team examining his brain was led by Dr. Andrew Newberg, a leading authority on the brain. They found two things that should not happen in a 60+ year old man:
 
-> → The grey matter in his brain was regenerating, not deteriorating.
+> → The grey matter in his brain was regenerating, not deteriorating.  
 > → His pineal gland had grown — it measured 8x11mm, when at his age it should have shrunk to around 6x6mm.
 
 This isn't theory. This isn't a TikTok wellness trend. This is documented under medical observation, with photographs, blood work, and brain scans. HRM lived until 2022, when he died at 85 in Kozhikode, India.
 
 ## The Pineal Gland: Your Antenna To The Source
 
-![Pineal Gland — Suncharging your body](/writing/the-sun-in-your-water/the-sun-in-your-water-6.webp)
+![Pineal Gland — Suncharging your body](/writing/the-sun-in-your-water/the-sun-in-your-water-6.webp)  
 *Pineal Gland — Suncharging your body*
 
 We need to slow down on this gland, because it's the whole bridge between the physical and the spiritual side of this story.
@@ -181,19 +181,19 @@ The pineal gland is a tiny pinecone-shaped structure sitting almost exactly in t
 
 Then we found out what it actually does:
 
-> → It produces melatonin — the hormone that runs your sleep-wake cycle, your circadian rhythm, your daily energy.
-> → It produces serotonin — the neurotransmitter that runs your mood, your sense of well-being, your baseline happiness.
-> → It contains photoreceptor cells — the same kind of cells that are in your retina. Your pineal gland literally has eyes inside your skull. Why? Because it responds to light.
+> → It produces melatonin — the hormone that runs your sleep-wake cycle, your circadian rhythm, your daily energy.  
+> → It produces serotonin — the neurotransmitter that runs your mood, your sense of well-being, your baseline happiness.  
+> → It contains photoreceptor cells — the same kind of cells that are in your retina. Your pineal gland literally has eyes inside your skull. Why? Because it responds to light.  
 > → It produces DMT — the same molecule released in profound spiritual experiences, near-death experiences, and ayahuasca journeys.
 
 Now look at what every spiritual tradition for the last 5,000 years has called this exact spot:
 
-> → The Hindus call it the Ajna — the Third Eye chakra.
-> → The Egyptians drew it as the Eye of Horus — and the cross-section of the human brain matches that symbol almost perfectly.
-> → Descartes called it "the seat of the soul" — the place where mind and body meet.
+> → The Hindus call it the Ajna — the Third Eye chakra.  
+> → The Egyptians drew it as the Eye of Horus — and the cross-section of the human brain matches that symbol almost perfectly.  
+> → Descartes called it "the seat of the soul" — the place where mind and body meet.  
 > → The Catholic Church carved an 8-foot pinecone and put it in the courtyard of the Vatican. The Court of the Pinecone.
 
-![The Court of the Pinecone in Vatican](/writing/the-sun-in-your-water/the-sun-in-your-water-7.webp)
+![The Court of the Pinecone in Vatican](/writing/the-sun-in-your-water/the-sun-in-your-water-7.webp)  
 *The Court of the Pinecone in Vatican*
 
 Every culture, on every continent, with no contact with each other, pointed at the same gland and said: *this is where you connect to something higher.*
@@ -212,7 +212,7 @@ Your antenna has been buried.
 
 ## Sun Gazing: The Full Protocol
 
-![Sungazing](/writing/the-sun-in-your-water/the-sun-in-your-water-8.webp)
+![Sungazing](/writing/the-sun-in-your-water/the-sun-in-your-water-8.webp)  
 *Sungazing*
 
 > **Doctrine and Covenants 88:67** "And if your eye be single to my glory, your whole bodies shall be filled with light, and there shall be no darkness in you; and that body which is filled with light comprehendeth all things."
@@ -221,17 +221,17 @@ This is the exact protocol HRM taught around the world. It is safe if you respec
 
 **The Non-Negotiable Rules**
 
-> → Only during the safe window: the first hour after sunrise, OR the last hour before sunset. Outside that window, the UV will damage your retina. No exceptions.
-> → Stand barefoot on the earth — on grass, dirt, sand, or stone. Not on tile, not on concrete with shoes. Connection to the ground is part of the protocol.
-> → No glasses, no contacts, no glass between you and the sun. Direct light only.
-> → Drink a glass of sun-charged water before and after. The practice is cleansing — the water carries the toxins out.
-> → Blink naturally. Don't strain. If your eyes water, let them water. Don't wipe them — just blink.
+> → Only during the safe window: the first hour after sunrise, OR the last hour before sunset. Outside that window, the UV will damage your retina. No exceptions.  
+> → Stand barefoot on the earth — on grass, dirt, sand, or stone. Not on tile, not on concrete with shoes. Connection to the ground is part of the protocol.  
+> → No glasses, no contacts, no glass between you and the sun. Direct light only.  
+> → Drink a glass of sun-charged water before and after. The practice is cleansing — the water carries the toxins out.  
+> → Blink naturally. Don't strain. If your eyes water, let them water. Don't wipe them — just blink.  
 > → Cloudy day? Gaze at the spot where you know the sun is.
 
-**The Build-Up: 10 Seconds A Day**
-Day 1: 10 seconds.
-Day 2: 20 seconds.
-Day 3: 30 seconds.
+**The Build-Up: 10 Seconds A Day** 
+Day 1: 10 seconds.  
+Day 2: 20 seconds.  
+Day 3: 30 seconds.  
 Add 10 seconds every single day. That's it. No shortcuts.
 
 Already comfortable looking at the sunrise? Don't jump ahead. Start where you are and add 10 seconds a day. If you're comfortable at 30 seconds today, you're at 40 tomorrow. The discipline is the practice.
@@ -260,13 +260,13 @@ Meanwhile, the sun rises every single morning, and we drive past it on the way t
 
 > Think about that for a second.
 
-**Every plant on this planet runs on sunlight. Every fruit you've ever eaten is concentrated sunlight.** ** Every cell of your body was built by an organism that ate something that ate something that ate sunlight.** The sun is not a metaphor. The sun is the actual energy source of every breath you take.
+**Every plant on this planet runs on sunlight. Every fruit you've ever eaten is concentrated sunlight.** **Every cell of your body was built by an organism that ate something that ate something that ate sunlight.** The sun is not a metaphor. The sun is the actual energy source of every breath you take.
 
 > And we forgot.
 
 Our ancestors didn't. The Egyptians built temples to the sun. The Greeks called him Apollo. The Inca called him Inti. The Albanians have an entire layer of pre-Christian symbolism around the sun and the eagle.
 
-![Double-headed eagle with star/sun-like symbol](/writing/the-sun-in-your-water/the-sun-in-your-water-9.webp)
+![Double-headed eagle with star/sun-like symbol](/writing/the-sun-in-your-water/the-sun-in-your-water-9.webp)  
 *Double-headed eagle with star/sun-like symbol*
 
 ## What To Do This Week

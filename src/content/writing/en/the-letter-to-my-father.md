@@ -18,7 +18,7 @@ When you think about that, there is nothing more important and impactful than th
 
 It took me a lifetime :), literally a lifetime, to figure out and come to an understanding and conclusion as to why, from all infinite possibilities and combinations, I choose exactly you. It’s become clear there was no better choice I could have made. Now, I see that everything aligns perfectly, just as it was meant to be, PERFECT!
 
-There is nothing in this world, nothing in this life, that I would go back and change. My love for you two, my dear parents, surpasses all.
+There is nothing in this world, nothing in this life, that I would go back and change. My love for you two, my dear parents, surpasses all.  
 It’s hard to envision anyone else who could have better equipped me for life’s journey and instilled in me such profound values and beliefs. I now also understand why Edison, Edona & Edon made the same decision and chose exactly this loving family you two created.
 
 I take pride in believing I was the first to recognize your potential and value simply because it brings joy to acknowledge the blessing of having such incredible parents.
@@ -35,10 +35,10 @@ Just like the rest of us, you also chose your parents before you entered this li
 
 Hard decisions lead to a great life, but in this case, you thought not for a lifetime but for generations ahead, which again shows your wisdom and greatness.
 
-It took some time, but I’ve realized the essence behind the saying: “When someone hits you on the cheek, show them the other."
+It took some time, but I’ve realized the essence behind the saying: “When someone hits you on the cheek, show them the other."  
 Initially, I thought my role was to break the cycle of a weak man in this family and become the greatest man of this bloodline that has ever lived, not for the sake of becoming that, but for the sake of correcting the wrongdoings of you and the others.
 
-Now, I see that perspective was wrong, misguided, and fueled by ego rather than understanding. You are the greatest man our bloodline has ever seen and experienced, laying down a legacy of love, unity, pride, and freedom for future generations.
+Now, I see that perspective was wrong, misguided, and fueled by ego rather than understanding. You are the greatest man our bloodline has ever seen and experienced, laying down a legacy of love, unity, pride, and freedom for future generations.  
 Your vision and soul surpass anything I could have imagined, defining what it means to be a loving father. Your example, the oldest and wisest among us, reveals the true power of love and the profound impact one individual can have on the legacy of our lineage.
 
 I now see that my life mission is the same as the father's wish for his child, the same wish that you have for me, the same that I have for myself: to exceed you and become an even better person than you are. For such a great mission, I am privileged, ready and deeply grateful.

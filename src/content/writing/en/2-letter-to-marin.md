@@ -12,7 +12,7 @@ I’ve cursed the sky in anger, frustrated that I can’t live those days with y
 
 As I wallow in self-pity, wishing I could relive our past years, I realize my heart is full of memories and overflowing with love for you. Not just today, but since the very first moment. So many memories, so much laughter, so many words spoken, countless kisses, endless hugs, countless games, too many “I love you-s.”
 
-Tears fill my eyes as I write this letter to you. I’ve made a promise to both of us: I will write you a letter every year, a ritual for your birthday:
+Tears fill my eyes as I write this letter to you. I’ve made a promise to both of us: I will write you a letter every year, a ritual for your birthday:  
 **A letter from your Father!**
 
 A letter to my child, for the future, with its importance, meaning, and message to be fully understood only much later in life.
@@ -53,7 +53,7 @@ I want to end this letter with the words of the great psychologist Viktor Frankl
 
 > Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness. In fact, freedom is in danger of degenerating into mere arbitrariness unless it is lived in terms of responsibleness.
 
-With love, Babi ❤
+With love, Babi ❤  
 Prishtine, 17.08.2024
 
 ![](/writing/2-letter-to-marin/2-letter-to-marin-1.webp)

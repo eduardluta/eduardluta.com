@@ -12,11 +12,11 @@ You hope I can sail with you forever. This sounds great, but I am not your etern
 
 Maybe you are not ready to go alone, but you need to know that one of my highest goals was to give you an enhanced starting point in life and a horizon of a life worth living. As we always go further because we stand on the shoulders of Giants that lived before us, you will participate in this life through my achievements. My friends, my greatest gift to you will always be there to lead you towards your Angel of Destiny.
 
-- Edison — The Joyboy who will be your best friend and teach you to preserve your childishness, acceptance, and love.
-- Ilir — Your Leonardo da Vinci, who will give you clarity and advantages to conquer this world.
-- Maxi — The wise general who is your rock in the waves, who will teach you how to endure and stay tall when life teaches you the hard lessons.
-- Valon — Your Godfather, the Visionary who will expand your consciousness and horizons to teach you to fly higher than you ever thought was possible.
-- Edon — The wise and courageous warrior who will lead you to greatness and crazy experiences.
+- Edison — The Joyboy who will be your best friend and teach you to preserve your childishness, acceptance, and love.  
+- Ilir — Your Leonardo da Vinci, who will give you clarity and advantages to conquer this world.  
+- Maxi — The wise general who is your rock in the waves, who will teach you how to endure and stay tall when life teaches you the hard lessons.  
+- Valon — Your Godfather, the Visionary who will expand your consciousness and horizons to teach you to fly higher than you ever thought was possible.  
+- Edon — The wise and courageous warrior who will lead you to greatness and crazy experiences.  
 - Erblin — Your safe shot, who will always be there for you no matter what.
 
 All human beings are created equal, but this only applies in the context of law and rights. It has nothing to do with economic and cultural advantages. Your biggest asset in this life will never be the assets or opportunities before you but the fortress in your mind, which we will build together and fill with courage.

@@ -24,30 +24,30 @@ I tried to remove everything: dogma, indoctrination, centuries of church politic
 
 And ohhh my god — what a beautiful journey.
 
-Because you come to see and learn about the man. The perfect man. Who taught truth and embodied it. Who was actually very clear about the religious authorities of his time: they lost their way. They didn’t get it.** Sound familiar?**
+Because you come to see and learn about the man. The perfect man. Who taught truth and embodied it. Who was actually very clear about the religious authorities of his time: they lost their way. They didn’t get it. **Sound familiar?**
 
 ## The Betrayal Everyone Knows
 
-One of the most important events in that story is the** betrayal of Judas.** Everybody knows it. Judas has the deepest place in Hell — even Dante put him there, in the mouth of Satan himself.
+One of the most important events in that story is the **betrayal of Judas.** Everybody knows it. Judas has the deepest place in Hell — even Dante put him there, in the mouth of Satan himself.
 
 ![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-2.webp)
 
-But what do the Gnostics think about it?
+But what do the Gnostics think about it?  
 Tada. What a surprise. Down the rabbit hole we go…
 
 ## Three Types of Humans
 
 First, we need to understand that Gnostics see humanity in three spiritual capacities:
 
-**Hylics** → Live entirely in material reality. Asleep.
-**Psychics** → Religious, moral, but surface-level. Following rules without understanding.
-**Pneumatics **→ Carry a divine spark. Capable of gnosis — direct knowing. *All after all, a weird name for the special ones :)*
+**Hylics** → Live entirely in material reality. Asleep.  
+**Psychics** → Religious, moral, but surface-level. Following rules without understanding.  
+**Pneumatics** → Carry a divine spark. Capable of gnosis — direct knowing. *All after all, a weird name for the special ones :)*
 
 > Pneumatics don’t just believe. They *see*.
 
 They often feel alienated. They understand patterns others can’t perceive. They are rare. Isolated. Misunderstood.
 
-In Gnosticism, Jesus’ role is not to save everyone.
+In Gnosticism, Jesus’ role is not to save everyone.  
 **It’s to awaken the pneumatics.**
 
 ## The One Who Actually Understood
@@ -58,8 +58,8 @@ The other disciples? They misunderstand Jesus. Completely. They worship the wron
 
 Judas alone understands:
 
-- That Jesus is not here to build a religion
-- That Jesus’ death is necessary for the cosmic plan
+- That Jesus is not here to build a religion  
+- That Jesus’ death is necessary for the cosmic plan  
 - That the physical body is not the true self
 
 Jesus explicitly tells Judas:
@@ -68,7 +68,7 @@ Jesus explicitly tells Judas:
 
 **Read that again.**
 
-**The body must be handed over. The divine Christ must be released from flesh. ** Someone must do what is cosmically necessary but humanly unbearable.
+**The body must be handed over. The divine Christ must be released from flesh.** Someone must do what is cosmically necessary but humanly unbearable.
 
 **That someone is Judas.**
 
@@ -78,11 +78,11 @@ Jesus explicitly tells Judas:
 
 From the Gnostic perspective:
 
-Betrayal = surface-level interpretation.
+Betrayal = surface-level interpretation.  
 Obedience to hidden truth = deeper reality.
 
-Judas does what no other disciple can psychologically bear.
-What no moral believer would agree to.
+Judas does what no other disciple can psychologically bear.  
+What no moral believer would agree to.  
 What no loyal follower would dare to do.
 
 Here’s the reframe that broke my brain:
@@ -97,13 +97,13 @@ That’s not villainy. That’s tragic loyalty of the highest order.
 
 Step back. Look at it from systems thinking:
 
-- Insiders maintain the system
-- Outsiders expose or break it
+- Insiders maintain the system  
+- Outsiders expose or break it  
 - The system always destroys the breaker
 
 Judas is the necessary disruptor.
 
-From inside the system → he’s a monster.
+From inside the system → he’s a monster.  
 From outside the system → he’s the catalyst.
 
 The Gnostics mythologized this pattern. But the pattern itself? It’s everywhere. In every revolution. Every paradigm shift. Every time someone does the “wrong” thing that history later calls necessary.
@@ -120,7 +120,7 @@ A truth-bearer who had nowhere left to stand.
 
 **The symbolic meaning**: Whether by hanging, execution, erasure, or mythic disappearance — the form doesn’t matter.
 
-The meaning is clear: *The system cannot tolerate the one who sees through it.*Jesus is executed. Judas is erased. Mary Magdalene is silenced.
+The meaning is clear: *The system cannot tolerate the one who sees through it.*Jesus is executed. Judas is erased. Mary Magdalene is silenced.  
 Same pattern. Different method.
 
 ## What If We Got It All Wrong?
@@ -129,7 +129,7 @@ Have you ever been in a situation where you would ask a loved one to do the obvi
 
 How is that different from controversial acts of a minority that move the needle of history?
 
-**This is crazy food for thought. ** It has not left me in the same place since I truly understood it.
+**This is crazy food for thought.** It has not left me in the same place since I truly understood it.
 
 Think about it: Jesus knew all along this would happen. He let it happen. He *needed* it to happen.
 
@@ -139,7 +139,7 @@ The Vatican is perhaps the best institution in history at controlling narrative.
 
 What if the Gnostics were telling a truth that power couldn’t allow to exist?
 
-They silenced them then. They’re still silencing them now.
+They silenced them then. They’re still silencing them now.  
 You will rarely hear this perspective. Until you go looking for it.
 
 ## The Crack
@@ -150,15 +150,15 @@ I’m not here to tell you what to believe.
 
 I’m here because my own beliefs cracked wide open. And once you see something, you can’t unsee it.
 
-The question isn’t whether this is “true” in some absolute sense.
+The question isn’t whether this is “true” in some absolute sense.  
 The question is: *What else have we accepted without examination?*
 
-Who else got labeled the villain because the winners wrote the story?
+Who else got labeled the villain because the winners wrote the story?  
 What other friends got called traitors?
 
-**Snowden** → Exposed the spies. Became the hunted.
-**Galileo** → Said Earth moves. Church said heresy.
-**Semmelweis** → Said wash your hands. Died in an asylum.
+**Snowden** → Exposed the spies. Became the hunted.  
+**Galileo** → Said Earth moves. Church said heresy.  
+**Semmelweis** → Said wash your hands. Died in an asylum.  
 **Assange** → Let the truth leak. They made sure he couldn’t.
 
 The crack in my understanding of this story has become a crack in my understanding of everything.

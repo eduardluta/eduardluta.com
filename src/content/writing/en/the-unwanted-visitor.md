@@ -12,10 +12,10 @@ The story is just amazing. A wise and successful man — William Parrish (Anthon
 
 I will not go further into the movie, as no teaser is worth the entertainment that you get 🙌
 
-However, in real life, we may not be wealthy, healthy, and aware, especially in our last days, when the unwanted visitor comes to visit us.
+However, in real life, we may not be wealthy, healthy, and aware, especially in our last days, when the unwanted visitor comes to visit us.  
 It is just a moment when we know that our time has passed.
 
-So it’s time to use the good times to prepare for the bad times.
+So it’s time to use the good times to prepare for the bad times.  
 It’s time to prepare the final and last act of rebellion in this life :)
 
 **The Day after the unwanted visitor came….**
@@ -34,10 +34,10 @@ No, not my style 😏
 
 At my funeral, I don’t want people to cry. I don’t want a sad funeral, I don’t want my last day to be remembered like that.
 
-I want to have a show with music ([this should be the first song](https://www.youtube.com/watch)), food and drinks, a stage, and a great fucking awesome public. I want friends and family there to share stories, experiences, and moments that we **lived **together.
+I want to have a show with music ([this should be the first song](https://www.youtube.com/watch)), food and drinks, a stage, and a great fucking awesome public. I want friends and family there to share stories, experiences, and moments that we **lived** together.
 
-I don’t want people to be sad, because I lived a dream life.
-I want them to laugh and use the day to open up my portal for the next life with love, laughter, and compassion. **Laugh motherflowers **🤣🤣
+I don’t want people to be sad, because I lived a dream life.  
+I want them to laugh and use the day to open up my portal for the next life with love, laughter, and compassion. **Laugh motherflowers** 🤣🤣
 
 ![](/writing/the-unwanted-visitor/the-unwanted-visitor-3.webp)
 
@@ -57,38 +57,38 @@ PS:
 
 **Death is nothing at all**
 
-Death is nothing at all.
-I have only slipped away to the next room.
-I am I and you are you.
-Whatever we were to each other,
+Death is nothing at all.  
+I have only slipped away to the next room.  
+I am I and you are you.  
+Whatever we were to each other,  
 That, we still are.
 
-Call me by my old familiar name.
-Speak to me in the easy way
-which you always used.
-Put no difference into your tone.
+Call me by my old familiar name.  
+Speak to me in the easy way  
+which you always used.  
+Put no difference into your tone.  
 Wear no forced air of solemnity or sorrow.
 
-Laugh as we always laughed
-at the little jokes we enjoyed together.
-Play, smile, think of me. Pray for me.
-Let my name be ever the household word
-that it always was.
-Let it be spoken without effect.
+Laugh as we always laughed  
+at the little jokes we enjoyed together.  
+Play, smile, think of me. Pray for me.  
+Let my name be ever the household word  
+that it always was.  
+Let it be spoken without effect.  
 Without the trace of a shadow on it.
 
-Life means all that it ever meant.
-It is the same that it ever was.
-There is absolute unbroken continuity.
-Why should I be out of mind
+Life means all that it ever meant.  
+It is the same that it ever was.  
+There is absolute unbroken continuity.  
+Why should I be out of mind  
 because I am out of sight?
 
-I am but waiting for you.
-For an interval.
-Somewhere. Very near.
+I am but waiting for you.  
+For an interval.  
+Somewhere. Very near.  
 Just around the corner.
 
-All is well.
-Nothing is hurt; nothing is lost.
-One brief moment and all will be as it was before.
+All is well.  
+Nothing is hurt; nothing is lost.  
+One brief moment and all will be as it was before.  
 How we shall laugh at the trouble of parting when we meet again!

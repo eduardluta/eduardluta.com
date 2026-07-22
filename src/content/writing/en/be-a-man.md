@@ -28,7 +28,7 @@ So there I was, at my desk, in my office, playing Dota while my son ran through 
 
 I listened to the back-and-forth between a highly pregnant mother and her almost-five-year-old son (he’ll be five in a week) about how not to repeat that mistake. **At that moment, two things happened:**
 
-1. First, I remembered a video ↓ — this specific one — and replayed it in my mind: [You Become A Man When You Become Responsible For Other People | Shia LaBeouf](https://www.youtube.com/watch)
+1. First, I remembered a video ↓ — this specific one — and replayed it in my mind: [You Become A Man When You Become Responsible For Other People | Shia LaBeouf](https://www.youtube.com/watch)  
 2. Second, I realized that I’m still not fully taking responsibility in my life — for my family, for myself, for my future, for my legacy. I’m still that little kid who didn’t have a PlayStation or PC and wanted to play like everyone else.
 
 It hit me how pathetic I was at 34, chasing the never-ending highs of childhood desires. Instead of putting in the work to learn, build, and upgrade myself, my family, and my company, I was playing like a child — even after I’d just told my own child to stop.

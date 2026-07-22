@@ -18,7 +18,7 @@ It’s a question that forces you to evaluate your life deeply. It’s not just 
 
 A table of values hangs over every people. Behold it is the table of its overcoming; behold, it is the voice of its will to the power.
 
-**Will to power: divine grace **=> the concept of “self-overcoming” and transcending to the superhuman. The idea is that certain inner qualities elevate man above the rest of nature.
+**Will to power: divine grace** => the concept of “self-overcoming” and transcending to the superhuman. The idea is that certain inner qualities elevate man above the rest of nature.
 
 [https://www.youtube.com/watch?app=desktop&v=o41lW4TJxzM](https://www.youtube.com/watch)
 
@@ -28,10 +28,10 @@ The Superman the man who is master of himself. But to master oneself is the hard
 
 No one has yet possessed this strength! There is a lake which one day denied it to itself to flow away and threw up a man at the place where it formerly flowed away. Since then this lake is risen higher and higher. Perhaps man will rise higher and higher from that time when he no longer does (the no value activities and sabotages himself) that what man of high value should do.
 
-> Sum, ergo cogito: cogito ergo sum
+> Sum, ergo cogito: cogito ergo sum  
 > I am, therefore I think: I think, therefore I am.
 
-**We are astronauts of the spirit! ** All those brave birds which fly out into the distance, into the farthest distance — it is certain! Somewhere or other they will be unable to go on and will perch down on a mast or a bare cliff-face — and they will even be thankful for this miserable accommodation!
+**We are astronauts of the spirit!** All those brave birds which fly out into the distance, into the farthest distance — it is certain! Somewhere or other they will be unable to go on and will perch down on a mast or a bare cliff-face — and they will even be thankful for this miserable accommodation!
 
 But who could venture to infer from that, that there was not an immense open space before them, that they had flown as far as they could fly! All our great teachers and predecessors have at last come to a stop… it will be the same with you and me!
 

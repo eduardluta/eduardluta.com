@@ -12,12 +12,12 @@ Sounds nothing special, but for me, it was. Even though we played Fifa a lot in 
 
 But in the meantime, I realized that without fun and excitement, nothing is worth doing. So to trick myself into the grey zone, I asked for it as a gift!
 
-**So two things happened: **1. I got into it for a few days and really spent 1–2 hours every night playing it. Which got less and less with time, but as with many things in life, I understood that to play alone, is no fun.
+**So two things happened:** 1. I got into it for a few days and really spent 1–2 hours every night playing it. Which got less and less with time, but as with many things in life, I understood that to play alone, is no fun.  
 2. I started to spend a lot more time with my brothers, as we gathered to play Fifa and challenged each other with some crazy bets, which made it worth every penny! Even more quality time I got. :)
 
 *Again, invest in what makes you happy and amplify it with people you love.*
 
-But that’s not the point of this article, I want to share.
+But that’s not the point of this article, I want to share.  
 One of the first games I bought, was “The Witcher 3", as I loved the Netflix Series. Still waiting to finish“The Dune” books, so I can dive into “The Witcher” books.
 
 ![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-2.webp)
@@ -26,7 +26,7 @@ So in this game, you take the role of “Geralt of Rivia — The Witcher” and 
 
 As this is a classical RPG (Role Play Game) you will have to build up your character, fulfill quests and fight all over the place.
 
-The interesting part here are the quests:
+The interesting part here are the quests:  
 They start with some never-ending side quests like finding a missing cat or an old frying pan for some old woman to gather experience and money and up to the main quests fulfilling your gameplay and killing the monsters.
 
 And at one point after a few hours in the game, I found myself in an old village, going from one side quest to another. All in pursuit of being more prepared and getting better equipment before I tackle the main quest: Killing the Dragon!
@@ -37,8 +37,8 @@ And with every fulfilled side quest, my confidence was reduced to a new low. I w
 
 The game became boring, and I lost interest rapidly.
 
-It hit me in a moment: I have become delusional in a Game.
-I have created a parallel universe, in which I seek perfection for the sake of not losing time and progress, which made me lose excitement and fun. A negative sum game.
+It hit me in a moment: I have become delusional in a Game.  
+I have created a parallel universe, in which I seek perfection for the sake of not losing time and progress, which made me lose excitement and fun. A negative sum game.  
 In the end, it was not even worth fighting the fucking Dragon, because the loop of perfection never ends.
 
 With every challenge we don’t face, we let fear get into us. The problem you ignore fuels itself with your fear and becomes bigger, which leads to even more fear and let it become even bigger.
@@ -57,5 +57,5 @@ I think momentum is one of the most crucial things in life that we have, but it 
 
 Keep the eyes on the Dragon, don’t get fooled by side quests, and always know why you are doing what you do.
 
-Now when we lose sometimes touch with side topics in meetings, I always refer to “Keep the eyes on the Dragon” that's why we are here today.
+Now when we lose sometimes touch with side topics in meetings, I always refer to “Keep the eyes on the Dragon” that's why we are here today.  
 Let’s finish the important stuff and then go after all the other things. Focus and momentum are one of the most powerful duo’s that we have in life.

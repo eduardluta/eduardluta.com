@@ -4,7 +4,7 @@ date: 2025-11-11
 description: "I never planned to write something this profound, let alone begin what might become a series."
 ---
 
-I never planned to write something this profound, let alone begin what might become a series. It started simply: I wanted to understand the connection between **Ivermectin, Fenbendazole, and parasites **— especially parasites — because my mother is fighting cancer.
+I never planned to write something this profound, let alone begin what might become a series. It started simply: I wanted to understand the connection between **Ivermectin, Fenbendazole, and parasites**— especially parasites — because my mother is fighting cancer.
 
 During my Ayahuasca ceremony earlier this year, we collectively saw that what needed healing wasn’t just the body, but the parasites — physical and energetic — living within and feeding from us. That moment cracked something open in my mind; an inception that hasn’t left me since. It keeps calling me back.
 
@@ -18,11 +18,11 @@ Once this image takes root, we can descend to the pragmatic: parasites are organ
 
 They eat your food, drain your energy, multiply endlessly. But here’s what’s truly terrifying — over time, they shape your thoughts, emotions, and behavior. The longer they remain, the more parasitic you become. The host mirrors the invader.
 
-> **The malarial parasite ****alone**** has killed more people throughout history than all wars combined.**
+> **The malarial parasite alone has killed more people throughout history than all wars combined.**
 
 **What kind of parasites exist?**
 
-Scientists classify human parasites into **three main groups**.
+Scientists classify human parasites into **three main groups**.  
 Together, they make up roughly 320 known species that infect humans — from microscopic invaders to worms that can grow several meters long.
 
 ### 1. Helminths — The Worms
@@ -35,12 +35,12 @@ Think about that. A 9-meter parasite — that’s the length of two cars — coi
 
 This isn’t a temporary infection you fight off like a cold. This is a lifetime roommate you never agreed to host.
 
-![Type of Helminths (Parasitic Worms)](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-1.webp)
+![Type of Helminths (Parasitic Worms)](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-1.webp)  
 *Type of Helminths (Parasitic Worms)*
 
-- **Nematodes** (roundworms): Including Ascaris, which infects 1 billion people worldwide
-- **Cestodes** (tapeworms): Can grow up to 9 meter long in your intestines
-- **Trematodes** (flukes): Flat worms that burrow into your liver, lungs, or blood
+- **Nematodes** (roundworms): Including Ascaris, which infects 1 billion people worldwide  
+- **Cestodes** (tapeworms): Can grow up to 9 meter long in your intestines  
+- **Trematodes** (flukes): Flat worms that burrow into your liver, lungs, or blood  
 - **Acanthocephalans** (thorny-headed worms): Named for their hooked proboscis that literally anchors into your intestinal wall like a biological grappling hook — particularly common in Eastern Europe and areas where people eat raw fish
 
 Together, these groups make up around **250 of the 320 known species** that infect humans. The **helminths** are the most common — not as deadly as protozoa, but they drain vitality, stunt growth, and weaken immune systems on a planetary scale.
@@ -51,8 +51,8 @@ Protozoa are **single-celled organisms** so small they can only be seen under a 
 
 ![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-2.webp)
 
-- **Giardia lamblia:** Turns your intestines into a war zone, causing severe digestive chaos.
-- **Toxoplasma gondii:** Infects 30–50% of the global population and has been shown to alter behavior and risk perception.
+- **Giardia lamblia:** Turns your intestines into a war zone, causing severe digestive chaos.  
+- **Toxoplasma gondii:** Infects 30–50% of the global population and has been shown to alter behavior and risk perception.  
 - **Plasmodium (Malaria):** The most lethal of all — responsible for more human deaths than any war in history.
 
 These account for roughly **70–90 of the known species**, though their global reach and mutation rate make them disproportionately dangerous. The **protozoa** are the most lethal. They’re small, adaptable, and capable of hijacking both biology and behavior.
@@ -73,7 +73,7 @@ These live **on** the body rather than inside it, feeding on blood and skin whil
 
 ![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-3.webp)
 
-- **Lice, mites, and ticks:** Far more than a nuisance — they are carriers of serious infections.
+- **Lice, mites, and ticks:** Far more than a nuisance — they are carriers of serious infections.  
 - **Scabies:** Caused by microscopic mites that burrow beneath the skin, triggering intense itching and inflammation.
 
 This final group includes around **20–30 species** that directly parasitize humans — but their role as **vectors** (transmitters) multiplies their overall impact.
@@ -116,7 +116,7 @@ The instructions said: After treating animals, you cannot use the milk for 6 day
 
 **That’s when everything clicked. The dominoes fell.**
 
-![Panacur 250mg](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-4.webp)
+![Panacur 250mg](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-4.webp)  
 *Panacur 250mg*
 
 **The Economics of Infection**
@@ -135,7 +135,7 @@ The crazy part? All grazing animals get parasites in their lifetime. It’s guar
 
 > **In your stomach.**
 
-![Tapeworms, like this one imaged using a scanning electron micrograph, weaken their victims but don’t typically kill them.](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-5.webp)
+![Tapeworms, like this one imaged using a scanning electron micrograph, weaken their victims but don’t typically kill them.](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-5.webp)  
 *Tapeworms, like this one imaged using a scanning electron micrograph, weaken their victims but don’t typically kill them.*
 
 ## Not Dead in the Stomach
@@ -152,15 +152,15 @@ GG.
 
 This is where the medical system completely breaks down.
 
-**They’re looking for the parasite. But there is no the parasite **— there are billions of possible ecosystems, each creating its own frequency of decay.
+**They’re looking for the parasite. But there is no the parasite**— there are billions of possible ecosystems, each creating its own frequency of decay.
 
 Western medicine tests for individual species: Giardia, pinworms, a specific fluke. They’re not seeing the network. You test negative for the one thing they checked — they tell you you’re fine.
 
 Meanwhile, **you’re hosting 7 different species they never looked for,** creating a combination that’s never been studied, producing symptoms that don’t match any textbook.
 
-The combination determines everything.
-Toxoplasma + Ascaris = anxious and tired.
-Add Giardia + liver flukes = aggressive and depressed.
+The combination determines everything.  
+Toxoplasma + Ascaris = anxious and tired.  
+Add Giardia + liver flukes = aggressive and depressed.  
 Same parasites, different combinations, different symphonies.
 
 This is why “chronic fatigue” has different root causes in different people. Why treatments work for one but not another. Why symptoms shift as the ecosystem evolves. The medical system is looking for singular causes in a multi-dimensional problem.
@@ -171,7 +171,7 @@ This isn’t just about parasites — it’s about how complexity creates invisi
 
 ## **The Human Numbers Nobody Talks About**
 
-Here’s what no one tells you: **between 30–70% of adults in the Balkans could be carrying parasites right now. ** Most have no idea. The range is so wide because nobody’s really counting — and that’s not an accident.
+Here’s what no one tells you: **between 30–70% of adults in the Balkans could be carrying parasites right now.** Most have no idea. The range is so wide because nobody’s really counting — and that’s not an accident.
 
 **There are four reasons governments here pretend this doesn’t exist.**
 
@@ -191,9 +191,9 @@ The lack of data isn’t proof of low infection — it’s proof of willful blin
 
 Because these are subclinical infections — your body learns to coexist with the invaders. Like a dysfunctional relationship where you forget what normal feels like. The symptoms get renamed:
 
-- Chronic fatigue becomes “just how I am”
-- Digestive issues become “sensitive stomach”
-- Brain fog becomes “not a morning person”
+- Chronic fatigue becomes “just how I am”  
+- Digestive issues become “sensitive stomach”  
+- Brain fog becomes “not a morning person”  
 - Anxiety becomes “that’s just life in the Balkans”
 
 The parasites don’t want to kill you — they want to ride you. They take just enough to survive while keeping you functional enough to feed them. You adapt to feeling like that and call it normal.
@@ -224,7 +224,7 @@ That’s why people run away from this place. They don’t know why exactly, but
 
 > **Spiritually seen, parasites are demons.**
 
-![Tapeword x200](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-6.webp)
+![Tapeword x200](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-6.webp)  
 *Tapeword x200*
 
 Think about what demons do — possess you, feed on your energy, make you act against your own interest. They enter through weakness, change you from within, make you crave what harms you, turn you into a vehicle for spreading their influence.
@@ -241,7 +241,7 @@ In the Balkans, where 80–90% carry parasites, you have an entire possessed pop
 
 Terrifying because we’re not dealing with bad habits — we’re dealing with biological and spiritual possession that self-perpetuates.
 
-> **Liberating because now you know what you’re fighting. You’re not crazy for feeling something is fundamentally wrong.** ** You’re surrounded by the possessed, and they will try to possess you too.****That’s why deworming isn’t just health — it’s spiritual liberation.** When you kill parasites, you’re performing an exorcism.
+> **Liberating because now you know what you’re fighting. You’re not crazy for feeling something is fundamentally wrong.** **You’re surrounded by the possessed, and they will try to possess you too.That’s why deworming isn’t just health — it’s spiritual liberation.** When you kill parasites, you’re performing an exorcism.
 
 When you refuse contaminated meat, you’re refusing demons entry. When you leave this place, you’re fleeing possession.
 
@@ -271,5 +271,5 @@ The physical parasites create psychological parasites create social parasites cr
 
 — —
 
-11.11.2025 — Prishtinë
+11.11.2025 — Prishtinë  
 To be continued PART 2

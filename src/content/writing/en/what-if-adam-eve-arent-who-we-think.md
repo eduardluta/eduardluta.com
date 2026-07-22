@@ -18,21 +18,21 @@ In Gnostic teachings, both Yahweh (the Hebrew God) and Allah (the Islamic God) a
 
 ## Sophia’s Mistake and the Birth of the Demiurge
 
-In Gnostic cosmology, reality begins with the supreme, unknowable **Monad **— the true God, from whom emanates divine beings called Aeons, paired male and female as syzygies:
+In Gnostic cosmology, reality begins with the supreme, unknowable **Monad**— the true God, from whom emanates divine beings called Aeons, paired male and female as syzygies:
 
-- Nous (Mind) & Aletheia (Truth)
-- Logos (Word) & Zoe (Life)
-- Anthropos (Man) & Ecclesia (Church or Assembly)
-- Bythios (Profound) & Mixis (Mixture)
-- Ageratos (Ageless) & Henosis (Union)
-- Autophyes (Self-originated) & Hedone (Pleasure)
-- Acinetos (Immovable) & Syncrasis (Commixture)
-- Monogenes (Only-begotten) & Macaria (Blessedness)
-- Paracletus (Comforter) & Pistis (Faith)
-- Patricos (Paternal) & Elpis (Hope)
-- Metricos (Maternal) & Agape (Love)
-- Ainos (Praise) & Synesis (Intelligence)
-- Ecclesiasticus (Son of Ecclesia) & Macariotes (Blessedness)
+- Nous (Mind) & Aletheia (Truth)  
+- Logos (Word) & Zoe (Life)  
+- Anthropos (Man) & Ecclesia (Church or Assembly)  
+- Bythios (Profound) & Mixis (Mixture)  
+- Ageratos (Ageless) & Henosis (Union)  
+- Autophyes (Self-originated) & Hedone (Pleasure)  
+- Acinetos (Immovable) & Syncrasis (Commixture)  
+- Monogenes (Only-begotten) & Macaria (Blessedness)  
+- Paracletus (Comforter) & Pistis (Faith)  
+- Patricos (Paternal) & Elpis (Hope)  
+- Metricos (Maternal) & Agape (Love)  
+- Ainos (Praise) & Synesis (Intelligence)  
+- Ecclesiasticus (Son of Ecclesia) & Macariotes (Blessedness)  
 - Theletos (Perfect) & Sophia (Wisdom), the youngest Aeon
 
 Sophia, longing to know the Monad independently, mistakenly birthed Yaldabaoth — a flawed, ignorant creator unaware of the higher spiritual realm. Thus was born the Demiurge — meaning “craftsman” or “artisan” — who, in Gnostic tradition, **is the flawed creator of our material universe.** Known as Yaldabaoth, Samael, or Yahweh, this being constructed the physical cosmos in ignorance, falsely believing himself to be the ultimate deity, and inadvertently imprisoning humanity in a realm separated from true spiritual reality.
@@ -41,12 +41,12 @@ Sophia, longing to know the Monad independently, mistakenly birthed Yaldabaoth �
 
 To enforce his dominion over humanity and maintain cosmic ignorance, Yaldabaoth created a council of Archons, rulers over the chaotic heavens. These include:
 
-- Yaldabaoth (Forethought)
-- Yao (Mastery)
-- Sabaoth (Divinity)
-- Adonaios (Kingship)
-- Eloaios (Envy)
-- Oriaios (Wealth)
+- Yaldabaoth (Forethought)  
+- Yao (Mastery)  
+- Sabaoth (Divinity)  
+- Adonaios (Kingship)  
+- Eloaios (Envy)  
+- Oriaios (Wealth)  
 - Astaphaios (Wisdom — Sophia’s fallen reflection)
 
 Together, these Archons perpetuate suffering, ignorance, and spiritual blindness, imprisoning humanity in the material realm and preventing the realization of their divine origin.

@@ -4,7 +4,7 @@ date: 2025-11-01
 description: "I dream to have lived a fulfilled life. To have created so much that it still gives me purpose when I’m old."
 ---
 
-I dream to have lived a fulfilled life.
+I dream to have lived a fulfilled life.  
 To have created so much that it still gives me purpose when I’m old.
 
 To have created life, hosted my children into this world, helped them grow up, given them a childhood worth remembering, and fought for and with them in life.
