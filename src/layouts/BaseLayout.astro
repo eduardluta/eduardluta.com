@@ -4,6 +4,11 @@ import '@fontsource/ibm-plex-mono/300.css';
 import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/500.css';
 import '@fontsource/ibm-plex-mono/600.css';
+// IBM Plex Serif — the long-form reading face for article bodies (same type family).
+import '@fontsource/ibm-plex-serif/400.css';
+import '@fontsource/ibm-plex-serif/400-italic.css';
+import '@fontsource/ibm-plex-serif/600.css';
+import '@fontsource/ibm-plex-serif/600-italic.css';
 import '../styles/global.css';
 
 import { SITE } from '../consts';
@@ -23,6 +28,8 @@ interface Props {
   modifiedTime?: string;
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   noindex?: boolean;
+  /** Widen the content column (used by the article reader). */
+  wide?: boolean;
 }
 
 const {
@@ -35,6 +42,7 @@ const {
   modifiedTime,
   jsonLd,
   noindex = false,
+  wide = false,
 } = Astro.props;
 
 const pathname = Astro.url.pathname;
@@ -128,7 +136,7 @@ const t = useTranslations(lang);
   <body>
     <a class="skip-link" href="#main-content">{t('nav.skip')}</a>
     <div class="shell">
-      <div class="wrap">
+      <div class:list={['wrap', { 'wrap--wide': wide }]}>
         <Header lang={lang} />
         <main class="main" id="main-content" tabindex="-1">
           <slot />
