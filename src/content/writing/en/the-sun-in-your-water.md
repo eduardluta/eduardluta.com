@@ -165,7 +165,8 @@ This was not some guru in a cave with no witnesses. He was monitored the entire 
 
 He was later studied at Thomas Jefferson University and the University of Pennsylvania in Philadelphia. NASA showed interest. The team examining his brain was led by Dr. Andrew Newberg, a leading authority on the brain. They found two things that should not happen in a 60+ year old man:
 
-> → The grey matter in his brain was regenerating, not deteriorating.  
+> → The grey matter in his brain was regenerating, not deteriorating.
+>
 > → His pineal gland had grown — it measured 8x11mm, when at his age it should have shrunk to around 6x6mm.
 
 This isn't theory. This isn't a TikTok wellness trend. This is documented under medical observation, with photographs, blood work, and brain scans. HRM lived until 2022, when he died at 85 in Kozhikode, India.
@@ -181,16 +182,22 @@ The pineal gland is a tiny pinecone-shaped structure sitting almost exactly in t
 
 Then we found out what it actually does:
 
-> → It produces melatonin — the hormone that runs your sleep-wake cycle, your circadian rhythm, your daily energy.  
-> → It produces serotonin — the neurotransmitter that runs your mood, your sense of well-being, your baseline happiness.  
-> → It contains photoreceptor cells — the same kind of cells that are in your retina. Your pineal gland literally has eyes inside your skull. Why? Because it responds to light.  
+> → It produces melatonin — the hormone that runs your sleep-wake cycle, your circadian rhythm, your daily energy.
+>
+> → It produces serotonin — the neurotransmitter that runs your mood, your sense of well-being, your baseline happiness.
+>
+> → It contains photoreceptor cells — the same kind of cells that are in your retina. Your pineal gland literally has eyes inside your skull. Why? Because it responds to light.
+>
 > → It produces DMT — the same molecule released in profound spiritual experiences, near-death experiences, and ayahuasca journeys.
 
 Now look at what every spiritual tradition for the last 5,000 years has called this exact spot:
 
-> → The Hindus call it the Ajna — the Third Eye chakra.  
-> → The Egyptians drew it as the Eye of Horus — and the cross-section of the human brain matches that symbol almost perfectly.  
-> → Descartes called it "the seat of the soul" — the place where mind and body meet.  
+> → The Hindus call it the Ajna — the Third Eye chakra.
+>
+> → The Egyptians drew it as the Eye of Horus — and the cross-section of the human brain matches that symbol almost perfectly.
+>
+> → Descartes called it "the seat of the soul" — the place where mind and body meet.
+>
 > → The Catholic Church carved an 8-foot pinecone and put it in the courtyard of the Vatican. The Court of the Pinecone.
 
 ![The Court of the Pinecone in Vatican](/writing/the-sun-in-your-water/the-sun-in-your-water-7.webp)  
@@ -221,14 +228,19 @@ This is the exact protocol HRM taught around the world. It is safe if you respec
 
 **The Non-Negotiable Rules**
 
-> → Only during the safe window: the first hour after sunrise, OR the last hour before sunset. Outside that window, the UV will damage your retina. No exceptions.  
-> → Stand barefoot on the earth — on grass, dirt, sand, or stone. Not on tile, not on concrete with shoes. Connection to the ground is part of the protocol.  
-> → No glasses, no contacts, no glass between you and the sun. Direct light only.  
-> → Drink a glass of sun-charged water before and after. The practice is cleansing — the water carries the toxins out.  
-> → Blink naturally. Don't strain. If your eyes water, let them water. Don't wipe them — just blink.  
+> → Only during the safe window: the first hour after sunrise, OR the last hour before sunset. Outside that window, the UV will damage your retina. No exceptions.
+>
+> → Stand barefoot on the earth — on grass, dirt, sand, or stone. Not on tile, not on concrete with shoes. Connection to the ground is part of the protocol.
+>
+> → No glasses, no contacts, no glass between you and the sun. Direct light only.
+>
+> → Drink a glass of sun-charged water before and after. The practice is cleansing — the water carries the toxins out.
+>
+> → Blink naturally. Don't strain. If your eyes water, let them water. Don't wipe them — just blink.
+>
 > → Cloudy day? Gaze at the spot where you know the sun is.
 
-**The Build-Up: 10 Seconds A Day** 
+**The Build-Up: 10 Seconds A Day**  
 Day 1: 10 seconds.  
 Day 2: 20 seconds.  
 Day 3: 30 seconds.  

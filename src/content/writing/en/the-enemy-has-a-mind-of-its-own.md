@@ -27,7 +27,7 @@ If we were to grade these entities not on their ability to do math, but on their
 
 These are the most primitive predators. They do not hunt; they wait. A tick acts like a biological motion sensor that sits dormant in the grass, sometimes for years, waiting for a single signal.
 
-- **The Logic:** Purely reactive. They operate on a single line of code: **IF [Heat + Movement] THEN [Latch On].** 
+- **The Logic:** Purely reactive. They operate on a single line of code: **IF [Heat + Movement] THEN [Latch On].**  
 - **The Flaw:** Zero discrimination. They don’t check *what* they are biting. They will attach to anything that triggers their sensors, whether it is a human, a dog, or a piece of warm cloth. They are blind mechanisms that cannot distinguish the target — they just react.
 
 ## 2. Pinworms: The Night Raiders
@@ -181,7 +181,7 @@ What is at play is not merely isolated tactics, but long-term strategies, decept
 
 The variables are mathematically impossible to model perfectly.
 
-- **The Enemy:** There are over **200 distinct types of cancer**, **500+ known human parasites**, and **3,500+ species of mosquitoes, and so on.** 
+- **The Enemy:** There are over **200 distinct types of cancer**, **500+ known human parasites**, and **3,500+ species of mosquitoes, and so on.**  
 - **The “Civilian” Population:** The **38 trillion bacteria** in your gut (Microbiome) that can act as allies or turn into enemies depending on the environment.  
 - **The Terrain:** Factor in co-infections, blood type, genetic predisposition, and **Epigenetics** — how your stress and trauma literally toggle your genes on and off.  
 - **The Environmental Noise:** Heavy metals, microplastics, mold, glyphosate, and endless industrial chemicals interacting with your immune system in unpredictable ways.
@@ -211,7 +211,7 @@ To defeat the malware, we must first identify the operating system it runs on. I
 - **Lifespan:** A single adult worm can live inside a human host for **10 to 30 years**. They are not transient visitors; they are long-term residents.  
 - **Defense:** They are incredibly difficult to kill because they physically hide. Some species encase themselves in protective cysts within muscle tissue or organs (like the liver or lungs), effectively building a bunker that immune cells and drugs cannot penetrate.
 
-**Protozoa (The Micro-Replicators): The Strategy of Immortality** 
+**Protozoa (The Micro-Replicators): The Strategy of Immortality**  
 These are microscopic, single-celled organisms (Giardia, Amoebas). They do not live long as individuals; instead, they rely on speed.
 
 - **Lifespan:** While a single cell dies quickly, the *colony* is biologically immortal. They live on a stopwatch, not a calendar. An individual cell might exist for only 8 hours before splitting. They don’t try to survive; they try to double. Through rapid binary fission (splitting in two), they produce endless generations. A protozoan infection can persist for decades, not because the individual survives, but because the lineage never breaks.

@@ -75,7 +75,7 @@ Slow. Steady. Patient. It was divine timing whispering:
 > *“It will not go as fast as you think.”*
 
 Then, after failure, came the **praying mantis**.  
-I’ve now seen it three times in three weekends — I never saw them before, and surely not weekend after weekend. **Synchronistic archetype!** 
+I’ve now seen it three times in three weekends — I never saw them before, and surely not weekend after weekend. **Synchronistic archetype!**  
 A symbol of stillness. Of prayer. Of patience. It tells me:
 
 > *“Pray and believe. Don’t rush. Stay aligned.”*
@@ -91,7 +91,7 @@ Granted another chance. Healthy. Able. Able to **create**.
 What a beauty it is to go through this.  
 To be broken and rebuilt by the divine hand itself.
 
-I remind myself every day: **This shall pass too.** 
+I remind myself every day: **This shall pass too.**  
 Every day I come one step closer to freedom, to beating the demons, to making peace with them, to letting them go, to accepting my guilt and building something out of it.
 
 I see now that **action and creation** are the antidotes to the valley of death.  
@@ -99,7 +99,7 @@ Because victims do not create, and victims do not act.
 So I will **create**, I will **build**, as much as possible -  
 to accelerate my ascent toward the future that God has already written for me.
 
-**This shall pass too.** 
+**This shall pass too.**  
 I just need to breathe & do pushups.  
 The antidote (The Praying Mantis): calm, centered, strong, ready.
 
@@ -112,6 +112,6 @@ To trust that every moment of pain is sacred preparation.
 To rebuild myself — small, steady, consistent — until I emerge forged and whole again.
 
 God is not against me. The creator is testing me, improving & updating me.  
-He is within me, **debugging the parts of me that cannot go where I’m destined to go.** 
+He is within me, **debugging the parts of me that cannot go where I’m destined to go.**  
 And I will not stop walking — until I come out the other side,  
 **better, stronger, unshakable.**
