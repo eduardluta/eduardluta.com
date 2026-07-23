@@ -7,11 +7,10 @@ interface Props {
   lang: Lang;
 }
 const { post, lang } = Astro.props;
-const isImage = Boolean(post.media);
 ---
 
 <a
-  class={`card ${isImage ? 'card--fill' : 'card--pad'}`}
+  class="card card--pad"
   href={post.href}
   target="_blank"
   rel="noopener noreferrer me"
@@ -25,33 +24,12 @@ const isImage = Boolean(post.media);
     <span class="card-date">{post.date[lang]}</span>
   </div>
 
-  {isImage ? (
-    <>
-      <div
-        class={`media-slot media-slot--${post.media}${post.image ? '' : ' media-slot--empty'}`}
-        aria-hidden={post.image ? undefined : 'true'}
-      >
-        {post.image && (
-          <img
-            class="media-img"
-            src={post.image}
-            alt={post.caption}
-            loading="lazy"
-            decoding="async"
-            width={720}
-            height={post.media === 'portrait' ? 1280 : 720}
-          />
-        )}
-      </div>
-      <div class="card-body">
-        <p class="card-caption">{post.caption}</p>
-        <div class="card-meta">{post.meta}</div>
-      </div>
-    </>
-  ) : (
-    <>
-      <p class="card-caption">{post.caption}</p>
-      <div class="card-meta">{post.meta}</div>
-    </>
-  )}
+  <div class="card-row">
+    {post.image && (
+      <img class="card-thumb" src={post.image} alt="" loading="lazy" decoding="async" width={72} height={72} />
+    )}
+    <p class="card-caption">{post.caption}</p>
+  </div>
+
+  <div class="card-meta">{post.meta}</div>
 </a>
