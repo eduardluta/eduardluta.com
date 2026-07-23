@@ -5,6 +5,7 @@
 import sharp from 'sharp';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { readdirSync, existsSync, statSync } from 'node:fs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PUBLIC = join(__dirname, '..', 'public');
@@ -41,6 +42,22 @@ async function png(svg, size, name) {
   console.log('  ✓', name);
 }
 
+// 128px square list thumbnails for the writing index, one per essay that has
+// images (source of truth: public/writing/<slug>/<slug>-1.webp). Skipped when
+// already newer than the source.
+async function genWritingThumbs() {
+  const writingDir = join(PUBLIC, 'writing');
+  const dirs = readdirSync(writingDir, { withFileTypes: true }).filter((d) => d.isDirectory());
+  for (const dir of dirs) {
+    const src = join(writingDir, dir.name, `${dir.name}-1.webp`);
+    if (!existsSync(src)) continue;
+    const out = join(writingDir, dir.name, 'thumb.webp');
+    if (existsSync(out) && statSync(out).mtimeMs > statSync(src).mtimeMs) continue;
+    await sharp(src).resize(128, 128, { fit: 'cover' }).webp({ quality: 65 }).toFile(out);
+    console.log('  ✓', `writing/${dir.name}/thumb.webp`);
+  }
+}
+
 async function main() {
   console.log('Generating raster assets…');
   await png(iconSvg(180), 180, 'apple-touch-icon.png');
@@ -50,6 +67,8 @@ async function main() {
 
   await sharp(Buffer.from(ogSvg)).png().toFile(join(PUBLIC, 'og-default.png'));
   console.log('  ✓ og-default.png');
+
+  await genWritingThumbs();
   console.log('Done.');
 }
 

@@ -282,25 +282,67 @@ body.nl-open {
 /* Writing list ---------------------------------------------------------- */
 .post-row {
   display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 16px;
-  padding: 11px 0;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 12px 0;
   border-bottom: 1px solid rgba(var(--ink-rgb), 0.1);
 }
 .post-row:last-child {
   border-bottom: none;
 }
+.post-thumb {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border: 1px solid rgba(var(--ink-rgb), 0.14);
+}
+.post-row:hover .post-thumb {
+  opacity: 0.85;
+}
+.post-thumb--letter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--accent);
+  background: rgba(var(--ink-rgb), 0.03);
+}
+.post-body {
+  flex: 1;
+  min-width: 0;
+}
+.post-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
 .post-title {
+  flex: 1;
   font-size: 13px;
 }
 .post-row:hover .post-title {
   color: var(--accent);
 }
-.post-date {
+.post-meta {
   font-size: 11px;
   color: var(--muted);
   white-space: nowrap;
+}
+.post-desc {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: 3px;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 13px;
+  line-height: 1.6;
+  color: rgba(var(--ink-rgb), 0.72);
+  text-wrap: pretty;
 }
 .writing-list .post-row {
   padding: 14px 0;
@@ -923,6 +965,15 @@ a.project-name:hover {
   }
   .main {
     padding-top: 56px;
+  }
+  /* Narrow screens: the date / reading-time meta sits under the title for every
+     row, instead of competing with it for line width. */
+  .post-line {
+    display: block;
+  }
+  .post-meta {
+    display: block;
+    margin-top: 2px;
   }
   .hdr {
     flex-wrap: wrap;

@@ -2,6 +2,7 @@
 title: "Red Book — The Diary of the Soul"
 date: 2025-04-25
 description: "I first learned about C. G. Jung through the concept of synchronicities — those strange coincidences that seem too meaningful to be random."
+teaser: "“Jung intentionally induced himself into a state of psychosis — for at least six years.”"
 ---
 
 ![C. G. Jung](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-1.webp)  

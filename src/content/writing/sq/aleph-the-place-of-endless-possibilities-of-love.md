@@ -2,6 +2,7 @@
 title: "Aleph: Vendi i mundësive të pafundme të dashurisë"
 date: 2024-06-16
 description: "Jeta është një varg vendimesh, ngjarjesh dhe momentesh të ndërlidhura që formësojnë rrugët tona."
+teaser: "E ke dashur njeriun, idenë e atij njeriu, idenë e asaj lidhjeje — apo atë se kush ishe ti vetë në atë lidhje?"
 ---
 
 ![Pikë drite vezulluese në qendër të rrathëve kozmikë të ndërlidhur, mes yjesh dhe galaktikash](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)

@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Lang } from '../i18n/ui';
 import { localizePath, stripLangFromPath } from '../i18n/utils';
@@ -46,6 +47,12 @@ export async function getArticleSlugSets(): Promise<Record<Lang, Set<string>>> {
 export function firstBodyImage(body: string | undefined): string | null {
   const match = body?.match(/!\[[^\]]*\]\((\/[^)\s]+)\)/);
   return match ? match[1] : null;
+}
+
+/** Root-relative path of the pre-generated list thumbnail (see scripts/gen-assets.mjs),
+ * or null for essays without images. Build-time only — the site is fully prerendered. */
+export function getThumb(slug: string): string | null {
+  return existsSync(`public/writing/${slug}/thumb.webp`) ? `/writing/${slug}/thumb.webp` : null;
 }
 
 /** Approximate word count of the raw markdown body (images/links stripped). */

@@ -2,6 +2,7 @@
 title: "The Demons Are Real, They’re Just Smaller Than We Thought"
 date: 2025-11-11
 description: "I never planned to write something this profound, let alone begin what might become a series."
+teaser: "“When you kill parasites, you’re performing an exorcism.”"
 ---
 
 I never planned to write something this profound, let alone begin what might become a series. It started simply: I wanted to understand the connection between **Ivermectin, Fenbendazole, and parasites**— especially parasites — because my mother is fighting cancer.

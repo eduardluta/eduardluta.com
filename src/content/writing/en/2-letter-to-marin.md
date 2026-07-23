@@ -2,6 +2,7 @@
 title: "#2 Letter to Marin"
 date: 2024-08-18
 description: "Another year has passed, and I find myself more in awe of you than ever before. You’ve grown into a stubborn, joyful tornado, with a mind entirely of your own!"
+teaser: "“You heal my inner child while I help you grow into a man.”"
 ---
 
 Dear Marin

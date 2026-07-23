@@ -2,6 +2,7 @@
 title: "#2 Letër për Marinin"
 date: 2024-08-18
 description: "Edhe një vit kaloi, dhe unë mahnitem me ty më shumë se kurrë më parë. Je bërë një tornado kokëfortë dhe plot gëzim, me një mendje krejtësisht tënden!"
+teaser: "“Ti e shëron fëmijën tim të brendshëm, ndërsa unë të ndihmoj të rritesh burrë.”"
 ---
 
 I dashur Marin

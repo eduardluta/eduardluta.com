@@ -2,6 +2,7 @@
 title: "Living dangerously — An Antithesis of the current narrative!"
 date: 2024-08-31
 description: "On Nietzsche's eternal recurrence and the will to power: why self-overcoming, integrity, and living dangerously make a life worth choosing again and again."
+teaser: "Would you see this as a demonic doom in the eternal or would you want this life, exactly as it is, “once more and innumerable times more”?"
 ---
 
 > Take up thy Cross, and follow me!

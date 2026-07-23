@@ -2,6 +2,7 @@
 title: "Aleph: The Place of Endless Possibilities of Love"
 date: 2024-06-16
 description: "Life is a series of interconnected decisions, events, and moments that shape our paths."
+teaser: "Did you love the person, the idea of that person, the idea of that relationship — or who you were in that relationship?"
 ---
 
 ![Radiant point of light at the center of interconnected cosmic rings, stars, and galaxies](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)

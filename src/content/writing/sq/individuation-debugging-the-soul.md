@@ -2,6 +2,7 @@
 title: "Individuacioni: Debugging i Shpirtit"
 date: 2025-11-02
 description: "Nuk e di saktësisht si arrita këtu, por e shoh veten pikërisht aty ku duhet të jem. I humbur, por jo i braktisur."
+teaser: "“Ai është brenda meje, duke i bërë debug pjesëve të mia që s'mund të shkojnë atje ku jam i destinuar të shkoj.”"
 ---
 
 ![Figurë me kapuç prej kodi të ndritshëm mes demonësh të pyllit, me breshkë e murgeshë lutëse te këmbët](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)

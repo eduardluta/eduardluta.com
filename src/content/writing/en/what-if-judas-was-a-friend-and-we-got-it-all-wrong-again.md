@@ -2,6 +2,7 @@
 title: "What if Judas, was a friend! And we got it all wrong, again!"
 date: 2026-01-13
 description: "What if Judas wasn't a traitor? The Gnostic Gospel of Judas reframes him as the one disciple who understood Jesus — loyal enough to be hated forever."
+teaser: "What if the most hated man in history was actually the most loyal?"
 ---
 
 What if the most hated man in history was actually the most loyal?

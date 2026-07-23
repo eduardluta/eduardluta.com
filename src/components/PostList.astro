@@ -1,6 +1,8 @@
 ---
 import type { Lang } from '../i18n/ui';
+import { useTranslations } from '../i18n/ui';
 import type { Article } from '../lib/writing';
+import { countWords, getThumb } from '../lib/writing';
 import { localizePath, formatDateShort, isoDate } from '../i18n/utils';
 
 interface Props {
@@ -9,15 +11,32 @@ interface Props {
   variant?: 'home' | 'writing';
 }
 const { lang, articles, variant = 'home' } = Astro.props;
+const t = useTranslations(lang);
+const readingMinutes = (article: Article) => Math.max(1, Math.round(countWords(article.body) / 200));
+const titleInitial = (title: string) => title.replace(/^["“”'‘’]+/, '').charAt(0);
 ---
 
 <div class={variant === 'writing' ? 'writing-list' : ''}>
-  {articles.map((article) => (
-    <a class="post-row" href={localizePath(`/writing/${article.slug}/`, lang)}>
-      <span class="post-title">{article.data.title}</span>
-      <time class="post-date" datetime={isoDate(article.data.date)}>
-        {formatDateShort(article.data.date)}
-      </time>
-    </a>
-  ))}
+  {articles.map((article) => {
+    const thumb = getThumb(article.slug);
+    return (
+      <a class="post-row" href={localizePath(`/writing/${article.slug}/`, lang)}>
+        {thumb ? (
+          <img class="post-thumb" src={thumb} alt="" width="64" height="64" loading="lazy" decoding="async" />
+        ) : (
+          <span class="post-thumb post-thumb--letter" aria-hidden="true">{titleInitial(article.data.title)}</span>
+        )}
+        <span class="post-body">
+          <span class="post-line">
+            <span class="post-title">{article.data.title}</span>
+            <span class="post-meta">
+              <time datetime={isoDate(article.data.date)}>{formatDateShort(article.data.date)}</time>
+              {` · ${readingMinutes(article)} ${t('writing.minRead')}`}
+            </span>
+          </span>
+          <span class="post-desc">{article.data.teaser ?? article.data.description}</span>
+        </span>
+      </a>
+    );
+  })}
 </div>

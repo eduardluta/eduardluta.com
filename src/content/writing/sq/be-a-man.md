@@ -2,6 +2,7 @@
 title: "BËHU BURRË!"
 date: 2024-08-11
 description: "Mendja ime, si e shumë të tjerëve, i lidh pikat mes mendimeve të ndryshme, duke krijuar një varg idesh që të çon te një përfundim, një ide a një koncept."
+teaser: "“Më ra si grusht: sa patetik isha — 34 vjeç, duke vrapuar pas kënaqësive të pafundme të dëshirave të fëmijërisë.”"
 ---
 
 Mendja ime, si e shumë të tjerëve, i lidh pikat mes mendimeve të ndryshme, duke krijuar një varg idesh që të çon te një përfundim, një ide a një koncept. Shpesh këto mendime janë tepër të ndërlikuara, ndaj i thjeshtojmë duke ndarë vetëm përfundimin — por kjo është si të lexosh përmbledhjen e një libri: e mirë, po i mungon konteksti. Sot do të përpiqem të ndaj jo vetëm mendimet e mia, por edhe pak nga konteksti pas tyre.

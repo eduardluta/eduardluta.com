@@ -2,6 +2,7 @@
 title: "“Po sikur Adami dhe Eva të mos jenë ata që mendojmë?”"
 date: 2025-07-07
 description: "Po sikur Zoti i Zanafillës të jetë Demiurgu gnostik? Historia e Adamit dhe Evës rilexuar përmes teksteve të Nag Hammadit, ku gjarpri sjell çlirim, jo mëkat."
+teaser: "Po sikur hyjnia xheloze e ndëshkuese që kërkon adhurim ekskluziv të mos jetë qenia supreme që përfytyrojmë — por diçka shumë më e errët?"
 ---
 
 **1 .Hypostasis of the Archons***Në këtë traktat gnostik sethian (shek. 2ᵉ/3ᵉ e.s.), “arkontët” (sundimtarët) e krijuan Adamin nga dheu, por nuk mundën ta gjallëronin. Një ***frymë qiellore*** hyn në të, por arkontët e dëbojnë me dhunë atë frymë — duke u orvatur madje ta përdhunojnë. Ajo ikën duke u shndërruar në pemë, duke lënë pas një hije të quajtur “Eva”. Pastaj, ***përmes gjarprit***, ajo u flet Adamit dhe Evës, duke i nxitur të hanë nga Pema e Njohjes, që ta rifitojnë vetëdijen e tyre hyjnore. Arkontët më pas i dëbojnë, duke e dënuar njerëzimin me një jetë harrese dhe mundimi*

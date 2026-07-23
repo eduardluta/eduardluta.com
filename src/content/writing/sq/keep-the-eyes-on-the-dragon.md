@@ -2,6 +2,7 @@
 title: "Mbaji sytë te Dragoi"
 date: 2023-07-30
 description: "Mësimi nga Witcher 3: sa më shumë side quest-e, aq më i madh bëhet Dragoi. Përballu me sfidën herët, ruaje fokusin dhe ndërto momentum në jetë."
+teaser: "“E çmendura ishte se sa më shumë kohë kaloja me side quest-e, aq më shumë kohë kaloja me side quest-e.”"
 ---
 
 ![Syri i zjarrtë portokalli i një dragoi, i rrethuar nga luspa të errëta](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)

@@ -2,6 +2,7 @@
 title: "Demonët janë realë, thjesht janë më të vegjël se ç'kujtonim"
 date: 2025-11-11
 description: "Kurrë nuk kisha planifikuar të shkruaja diçka kaq të thellë, e lëre më të nisja atë që mund të bëhet një seri."
+teaser: "“Kur vret parazitë, po kryen një ekzorcizëm.”"
 ---
 
 Kurrë nuk kisha planifikuar të shkruaja diçka kaq të thellë, e lëre më të nisja atë që mund të bëhet një seri. Nisi thjesht: doja të kuptoja lidhjen mes **Ivermektinës, Fenbendazolit dhe parazitëve**— sidomos parazitëve — sepse nëna ime po lufton kancerin.

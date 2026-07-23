@@ -2,6 +2,7 @@
 title: "Keep the eyes on the Dragon"
 date: 2023-07-30
 description: "How getting lost in Witcher 3 side quests taught me that chasing perfection feeds fear — face the dragon early, keep your focus, and build momentum."
+teaser: "“The crazy thing was, the more time I spent on side quests, the more time I spent on side quests.”"
 ---
 
 ![Close-up of a dragon's fiery orange eye surrounded by dark scales](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)

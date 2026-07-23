@@ -2,6 +2,7 @@
 title: "Acomodador"
 date: 2024-01-28
 description: "Paulo Coelho’s ‘acomodador’ — the giving-up point — traced through my own life: a missed penalty in a fifth-grade final and a first love that ran away."
+teaser: "“In the normal games, I was God on the field, before too many people, nothing.”"
 ---
 
 > The acomodador or giving-up point: there is always an event in our lives that is responsible for us failing to progress: a trauma, a particularly bitter defeat, a disappointment in love, even a victory that we did not quite understand, can make cowards of us and prevent us from moving on. As part of the process of increasing his hidden powers, the shaman must first free himself from that giving-up point and, to do so, he must review his while life and find out where it occured. – Paulo Coelho, The Zahir

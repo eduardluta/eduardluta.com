@@ -2,6 +2,7 @@
 title: "Sikur e vetmja gjë që doja…"
 date: 2023-07-31
 description: "Sikur e vetmja gjë që doja të ishte të ulesha e të flisja me ty, a do të më dëgjoje?"
+teaser: "Në këtë botë ku të gjithë kërkojnë të gjenden, kush të kërkon ty?"
 ---
 
 ![Pikturë e një burri me flokë të thinjur, ulur i menduar nën një pemë të vjetër](/writing/if-all-i-wanted-to-do/if-all-i-wanted-to-do-1.webp)

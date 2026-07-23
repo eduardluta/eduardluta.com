@@ -2,6 +2,7 @@
 title: "Ftesa!"
 date: 2023-10-14
 description: "Në këtë botë plot e përplot me mundësi, ku mund të bëhesh gjithçka, a je ndier ndonjëherë i bllokuar mes mediokritetit, duke pëshpëritur dëshira në zbrazëti?"
+teaser: "“Do të vijë një ditë kur, me frymën e fundit, do të përballesh me figurën madhështore të asaj që mund të kishe qenë.”"
 ---
 
 I dashur ______

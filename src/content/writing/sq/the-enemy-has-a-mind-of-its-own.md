@@ -2,6 +2,7 @@
 title: "Armiku ka mendjen e vet"
 date: 2025-12-20
 description: "Një renditje e armiqve tanë biologjikë sipas dinakërisë — nga rriqrat te kanceri — dhe si parazitët krijojnë në heshtje inflamacionin kronik që ushqen tumoret."
+teaser: "Nëse ilaçi është inteligjent, sa të zgjuar janë demonët kundër të cilëve po luftojmë?"
 ---
 
 Lufta kundër kancerit — ndoshta entiteti biologjik më demonik që njeh njeriu. Në këtë betejë, mëson jo vetëm ta përqafosh çdo grimcë informacioni, por edhe ta çmosh çdo pixel fati që na e fal jeta.

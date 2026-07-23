@@ -2,6 +2,7 @@
 title: "Acomodador"
 date: 2024-01-28
 description: "Acomodador-i i Paulo Coelhos — pika e dorëzimit — i gjetur në jetën time: një penallti e humbur në finalen e klasës së pestë dhe një dashuri e parë që iku."
+teaser: "“Në ndeshjet e zakonshme isha Zot në fushë; para shumë njerëzve, asgjë.”"
 ---
 
 > Acomodador-i, ose pika e dorëzimit: në jetën tonë ka gjithmonë një ngjarje që mban përgjegjësinë pse nuk ecim përpara: një traumë, një humbje veçanërisht e hidhur, një zhgënjim në dashuri, madje edhe një fitore që s’e kuptuam kurrë deri në fund, mund të na bëjnë frikacakë dhe të na pengojnë të vazhdojmë tutje. Si pjesë e procesit të zgjimit të fuqive të tij të fshehura, shamani duhet së pari të çlirohet nga ajo pikë dorëzimi dhe, për ta bërë këtë, duhet ta rishikojë gjithë jetën e vet dhe të gjejë se ku ndodhi. – Paulo Coelho, The Zahir

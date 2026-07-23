@@ -2,6 +2,7 @@
 title: "Ishte veç një ëndërr, për të luajtur?"
 date: 2023-04-11
 description: "Po sikur jeta të jetë veç një ëndërr? Po sikur të jetë një ëndërr për të luajtur dhe për t'u kënaqur? Imagjino sikur e gjithë jeta të jetë thjesht një lojë!"
+teaser: "“Koha ishte aq e parëndësishme: e matnim me qejf, jo me orë.”"
 ---
 
 ![Siluetë njeriu nën qiellin plot yje, me një citat për jetën si ëndërr](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)

@@ -2,6 +2,7 @@
 title: "Të jetosh rrezikshëm — një antitezë e narrativës aktuale!"
 date: 2024-08-31
 description: "Mbi rikthimin e përjetshëm të Nietzsche-s dhe vullnetin për fuqi: pse vetëtejkalimi dhe jeta e rrezikshme e bëjnë jetën të denjë për t'u jetuar sërish."
+teaser: "A do ta shihje këtë si një mallkim demonik në përjetësi, apo do ta doje këtë jetë “edhe një herë dhe pafundësisht herë të tjera”?"
 ---
 
 > Merre kryqin tënd dhe më ndiq!

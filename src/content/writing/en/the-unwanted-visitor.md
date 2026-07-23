@@ -2,6 +2,7 @@
 title: "The unwanted visitor"
 date: 2025-06-22
 description: "I love the movie „Meet Joe Black“ and if I would have to pick a favorite movie, that would be it."
+teaser: "“At my funeral, I don’t want people to cry.”"
 ---
 
 ![Brad Pitt and Anthony Hopkins in tuxedos in a scene from Meet Joe Black](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)

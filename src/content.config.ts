@@ -12,6 +12,8 @@ const writing = defineCollection({
     /** Set when an essay is meaningfully edited after publishing; feeds dateModified / lastmod. */
     updated: z.coerce.date().optional(),
     description: z.string(),
+    /** List-page hook: a striking quote or question from the essay itself. Falls back to description. */
+    teaser: z.string().optional(),
     /** Topic tags shared verbatim between the en/sq pair; feed schema keywords. */
     tags: z.array(z.string()).default([]),
     /** Explicit social-card image (ideally 1200x630). Falls back to the first body image for JSON-LD only. */

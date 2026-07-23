@@ -2,6 +2,7 @@
 title: "The Enemy Has a Mind of Its Own"
 date: 2025-12-20
 description: "Ranking humanity's biological enemies by cunning — from ticks to cancer — and how parasites quietly engineer the chronic inflammation that breeds tumors."
+teaser: "If the medicine is intelligent, how smart are the demons we are fighting against?"
 ---
 
 The war against cancer — perhaps the most demonic biological entity known to man. In this battle, you learn not only to embrace every particle of information but to cherish every pixel of fortune life grants us.

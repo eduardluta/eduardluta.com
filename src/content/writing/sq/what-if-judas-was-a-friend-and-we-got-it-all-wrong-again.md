@@ -2,6 +2,7 @@
 title: "Po sikur Juda të ketë qenë mik! Dhe ne e paskemi kuptuar krejt gabim, prapë!"
 date: 2026-01-13
 description: "Po sikur Juda të mos ketë qenë tradhtar? Ungjilli gnostik e tregon si dishepullin e vetëm që e kuptoi Jezusin — aq besnik sa pranoi urrejtjen e përjetshme."
+teaser: "Po sikur njeriu më i urryer në histori të ketë qenë në të vërtetë më besniku?"
 ---
 
 Po sikur njeriu më i urryer në histori të ketë qenë në të vërtetë më besniku?

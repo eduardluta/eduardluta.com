@@ -2,6 +2,7 @@
 title: "Red Book — Ditari i shpirtit"
 date: 2025-04-25
 description: "Me C. G. Jungun u njoha për herë të parë përmes konceptit të sinkroniciteteve — atyre përputhjeve të çuditshme që duken tepër kuptimplota për të qenë të rastësishme."
+teaser: "“Jungu e futi veten qëllimisht në një gjendje psikoze — për të paktën gjashtë vjet.”"
 ---
 
 ![C. G. Jung](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-1.webp)  

@@ -2,6 +2,7 @@
 title: "Dielli në ujin tënd"
 date: 2026-05-06
 description: "Pse pjesa më e madhe e asaj që pi kalon nëpër ty pa lënë gjurmë — dhe si ta ushqesh trupin vërtet me dritë."
+teaser: "“Rënia ishte të ngrënit.”"
 ---
 
 *Pse pjesa më e madhe e asaj që pi kalon nëpër ty pa lënë gjurmë — dhe si ta ushqesh trupin vërtet me dritë.*

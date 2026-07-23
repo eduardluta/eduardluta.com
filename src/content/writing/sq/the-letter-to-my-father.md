@@ -2,6 +2,7 @@
 title: "Letra, Babait tim!"
 date: 2024-06-17
 description: "Teksa ulem të ta shkruaj këtë letër, më mbush një ndjenjë mirënjohjeje dhe reflektimi."
+teaser: "“Sapo e kuptova se trauma jote më e madhe ishte dhurata jonë më e madhe…”"
 ---
 
 ![Ilustrim i një djali dhe një burri me mjekër të thinjur duke lexuar letra në një dhomë me qirinj](/writing/the-letter-to-my-father/the-letter-to-my-father-1.webp)

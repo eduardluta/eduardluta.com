@@ -2,6 +2,7 @@
 title: "Individuation: Debugging the Soul"
 date: 2025-11-02
 description: "I don’t know exactly how I got here, but I see myself right where I must be. Lost, but not abandoned."
+teaser: "“He is within me, debugging the parts of me that cannot go where I’m destined to go.”"
 ---
 
 ![Hooded figure of glowing code in a demon-filled forest, turtle and mantis at his feet](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)

@@ -50,6 +50,7 @@ export const ui = {
     'writing.subtitle': "Notes on what's real.",
     'writing.description':
       "Essays and notes by Eduard Luta on consciousness, code, marketing, and the patterns connecting them all.",
+    'writing.minRead': 'min read',
     'worth.title': 'Worth the time',
     'worth.subtitle': 'Words I keep coming back to.',
 
@@ -119,6 +120,7 @@ export const ui = {
     'writing.subtitle': 'Shënime për atë që është e vërtetë.',
     'writing.description':
       'Ese dhe shënime nga Eduard Luta për vetëdijen, kodin, marketingun dhe modelet që i lidhin të gjitha.',
+    'writing.minRead': 'min lexim',
     'worth.title': 'Ia vlen koha',
     'worth.subtitle': 'Fjalë tek të cilat kthehem.',
 

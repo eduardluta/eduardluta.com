@@ -2,6 +2,7 @@
 title: "It was only just a dream, to play?"
 date: 2023-04-11
 description: "What if life is only just a dream? And what if it’s only a dream to play, and enjoy? Imagine if the whole life is just a game!"
+teaser: "“Time was so irrelevant because we measured it with fun and not with hours.”"
 ---
 
 ![Silhouetted figure under a starry night sky with a quote about life being a dream](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)

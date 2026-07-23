@@ -2,6 +2,7 @@
 title: "BE A MAN!"
 date: 2024-08-11
 description: "My mind, like many others, connects the dots between different thoughts, creating a train of ideas that leads to a conclusion, an idea, or a concept."
+teaser: "“It hit me how pathetic I was at 34, chasing the never-ending highs of childhood desires.”"
 ---
 
 My mind, like many others, connects the dots between different thoughts, creating a train of ideas that leads to a conclusion, an idea, or a concept. Often, these thoughts are too complex, so we simplify by sharing just the conclusion — but that’s like reading the summary of a book: it’s good, but lacks context. Today, I’ll try to share not just my thoughts, but also some of the context behind them.

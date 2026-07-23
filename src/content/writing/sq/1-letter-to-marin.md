@@ -2,6 +2,7 @@
 title: "#1 Letër Marinit"
 date: 2024-06-17
 description: "Ti shpreson që unë të lundroj me ty përgjithmonë. Tingëllon bukur, por unë nuk jam kapiteni yt i përjetshëm."
+teaser: "“Unë nuk mund të të varros me duart e mia ty, që të dua pa kushte, nën pasuri e përtaci.”"
 ---
 
 ![Babai përqafon të birin buzë detit në perëndim, me një anije me vela dhe një letër të shkruar me dorë](/writing/1-letter-to-marin/1-letter-to-marin-1.webp)

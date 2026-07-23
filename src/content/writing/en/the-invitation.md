@@ -2,6 +2,7 @@
 title: "The Invitation!"
 date: 2023-10-14
 description: "In this world bursting with possibilities, where you could be anything, have you ever felt trapped amid mediocrity, whispering wishes into the void?"
+teaser: "“There will come a day when, on your last breath, you’ll be confronted with the monumental figure of what you might have been.”"
 ---
 
 Dear ______

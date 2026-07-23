@@ -2,6 +2,7 @@
 title: "9/11 Simulimi zbulohet — nëse guxon ta shohësh"
 date: 2025-11-15
 description: "Një ditë që s’do ta harroj kurrë, s’mund ta harroj. A është fundi apo fillimi? Nëse po, i çka?"
+teaser: "“Realiteti nuk kishte nevojë për ceremoninë tonë; e kishte të planifikuar të vetën.”"
 ---
 
 Një ditë që s’do ta harroj kurrë, s’mund ta harroj. A është fundi apo fillimi? Nëse po, i çka?

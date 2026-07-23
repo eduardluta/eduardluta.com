@@ -2,6 +2,7 @@
 title: "#1 Letter to Marin"
 date: 2024-06-17
 description: "You hope I can sail with you forever. This sounds great, but I am not your eternal captain."
+teaser: "“I cannot bury you, who I love unconditionally, with wealth and laziness with my own hands.”"
 ---
 
 ![Father embracing his son by the sea at sunset, with a sailing ship and handwritten letter](/writing/1-letter-to-marin/1-letter-to-marin-1.webp)

@@ -2,6 +2,7 @@
 title: "The Sun In Your Water"
 date: 2026-05-06
 description: "Why most of what you drink runs straight through you — and how to actually feed your body with light."
+teaser: "“The fall was eating.”"
 ---
 
 *Why most of what you drink runs straight through you — and how to actually feed your body with light.*

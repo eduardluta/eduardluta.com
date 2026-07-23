@@ -2,6 +2,7 @@
 title: "Mysafiri i paftuar"
 date: 2025-06-22
 description: "E dua filmin „Meet Joe Black“ dhe po të më duhej të zgjidhja një film të preferuar, do të ishte ai."
+teaser: "“Në varrimin tim nuk dua që njerëzit të qajnë.”"
 ---
 
 ![Brad Pitt dhe Anthony Hopkins me smoking në një skenë nga filmi Meet Joe Black](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)
