@@ -1,7 +1,7 @@
 ---
 title: "Acomodador"
 date: 2024-01-28
-description: "I can’t say how much I admire Paulo Coelho, not for being such a genius and producing life-changing Books & Stories, but for being so humble and showing us…"
+description: "Paulo Coelho’s ‘acomodador’ — the giving-up point — traced through my own life: a missed penalty in a fifth-grade final and a first love that ran away."
 ---
 
 > The acomodador or giving-up point: there is always an event in our lives that is responsible for us failing to progress: a trauma, a particularly bitter defeat, a disappointment in love, even a victory that we did not quite understand, can make cowards of us and prevent us from moving on. As part of the process of increasing his hidden powers, the shaman must first free himself from that giving-up point and, to do so, he must review his while life and find out where it occured. – Paulo Coelho, The Zahir
@@ -15,7 +15,7 @@ I’m in love with “the Zahir”, I can’t wait to read it, and I push it as 
 
 Last night at a nice, good fire with my brother and my friend, I stubbed on the Acomodador! Whenever I read Paulo, I’m ready to be faced with a genius thought and some very deep words that would take me on a journey on its own. Maybe years in the past, maybe a couple of weeks, maybe a new idea that joins the many that already dwell in my head, maybe a new string that connects the dots and gives clarity, or even a journey to the future to fantasize about everything and nothing.
 
-![](/writing/acomodador/acomodador-2.webp)
+![A wood fire burning in a living-room fireplace, warm evening light](/writing/acomodador/acomodador-2.webp)
 
 Nevertheless, with him, you are always on a real adventure and must be prepared for everything!
 

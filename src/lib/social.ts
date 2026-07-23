@@ -1,6 +1,6 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { curatedPosts, type SocialPost } from '../data/social';
+import type { SocialPost } from '../data/social';
 
 // Written at build time by scripts/fetch-social.mjs (see `npm run build`).
 const FEED_PATH = join(process.cwd(), 'src/data/social-feed.json');
@@ -15,19 +15,9 @@ function readLiveFeed(): SocialPost[] {
   }
 }
 
-/**
- * The full social wall. When the live Instagram/TikTok feed is configured, it is
- * merged (newest first) with the manually-curated X / LinkedIn entries. When it
- * is not configured, the whole curated placeholder set is shown instead.
- */
+/** The full social wall — live posts only, newest first. */
 export function getSocialFeed(): SocialPost[] {
-  const live = readLiveFeed();
-  if (live.length === 0) return curatedPosts;
-  const manual = curatedPosts.filter(
-    (p) => p.platform === 'X / Twitter' || p.platform === 'LinkedIn'
-  );
-  const byRecency = [...live].sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));
-  return [...byRecency, ...manual];
+  return readLiveFeed().sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));
 }
 
 /** The two posts for the home "From the feeds" block — an image card + a text card. */

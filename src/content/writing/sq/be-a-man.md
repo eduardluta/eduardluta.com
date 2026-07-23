@@ -6,7 +6,7 @@ description: "Mendja ime, si e shumë të tjerëve, i lidh pikat mes mendimeve t
 
 Mendja ime, si e shumë të tjerëve, i lidh pikat mes mendimeve të ndryshme, duke krijuar një varg idesh që të çon te një përfundim, një ide a një koncept. Shpesh këto mendime janë tepër të ndërlikuara, ndaj i thjeshtojmë duke ndarë vetëm përfundimin — por kjo është si të lexosh përmbledhjen e një libri: e mirë, po i mungon konteksti. Sot do të përpiqem të ndaj jo vetëm mendimet e mia, por edhe pak nga konteksti pas tyre.
 
-![](/writing/be-a-man/be-a-man-1.webp)
+![Shkrimi "BE A MAN!" me shkronja të bardha të trasha mbi sfond të zi](/writing/be-a-man/be-a-man-1.webp)
 
 — — —
 

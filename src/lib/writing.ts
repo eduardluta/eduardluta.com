@@ -29,15 +29,33 @@ export async function getAllArticleParams(): Promise<Article[]> {
   });
 }
 
-/** The set of article slugs that exist in each language. */
+/** The set of article slugs that exist in each language. Applies the same PROD
+ * draft filter as getArticles so hreflang alternates never point at unbuilt pages. */
 export async function getArticleSlugSets(): Promise<Record<Lang, Set<string>>> {
-  const entries = await getCollection('writing');
+  const entries = await getCollection('writing', ({ data }) => import.meta.env.PROD ? !data.draft : true);
   const sets: Record<Lang, Set<string>> = { en: new Set(), sq: new Set() };
   for (const entry of entries) {
     const { lang, slug } = parseId(entry.id);
     sets[lang].add(slug);
   }
   return sets;
+}
+
+/** First markdown image path in an article body (root-relative), or null. Used
+ * as the BlogPosting schema image when no explicit heroImage is set. */
+export function firstBodyImage(body: string | undefined): string | null {
+  const match = body?.match(/!\[[^\]]*\]\((\/[^)\s]+)\)/);
+  return match ? match[1] : null;
+}
+
+/** Approximate word count of the raw markdown body (images/links stripped). */
+export function countWords(body: string | undefined): number {
+  if (!body) return 0;
+  return body
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .split(/\s+/)
+    .filter(Boolean).length;
 }
 
 /**

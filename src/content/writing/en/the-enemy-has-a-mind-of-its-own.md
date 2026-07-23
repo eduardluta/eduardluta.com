@@ -1,7 +1,7 @@
 ---
 title: "The Enemy Has a Mind of Its Own"
 date: 2025-12-20
-description: "The war against cancer — perhaps the most demonic biological entity known to man. In this battle, you learn not only to embrace every particle of information…"
+description: "Ranking humanity's biological enemies by cunning — from ticks to cancer — and how parasites quietly engineer the chronic inflammation that breeds tumors."
 ---
 
 The war against cancer — perhaps the most demonic biological entity known to man. In this battle, you learn not only to embrace every particle of information but to cherish every pixel of fortune life grants us.
@@ -46,7 +46,7 @@ A step up from ticks because they understand **timing**. They affect millions of
 
 **🧠 IQ: 90** **Archetype:** *The Drone (by the way there are +3'500 species but only 100 responsible for majority of human disease).*
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-3.webp)
+![Close-up of a mosquito feeding on reddened human skin](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-3.webp)
 
 Mosquitoes are a massive technological upgrade. They are not just predators; they are the logistics division of the parasitic army. They solve the single biggest problem parasites face: **Mobility.**
 
@@ -143,7 +143,7 @@ This protozoan doesn’t just hide; it rewires the host’s personality to ensur
 - **The Result:** It gently nudges the human brain toward recklessness. Infected subjects show slower reaction times yet higher risk-taking behavior.  
 - **The evidence:** Infection is linked to a **2.6x higher risk of traffic accidents**, as well as higher rates of schizophrenia and rage disorders. It is chemically manipulating your perception of reality to serve its own survival.
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-6.webp)
+![Diagram of the toxoplasmosis transmission cycle from cats to humans](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-6.webp)
 
 ## 9. Cryptococcus: The Trojan Horse
 
@@ -314,7 +314,7 @@ Parasites destabilize regulation, degrade immune oversight, and normalize chaos.
 What appears as separate threats is, in reality, a **layered sabotage**:  
 long-term infiltration followed by internal takeover. Strategy becomes sabotage — not from outside, but from within.
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-9.webp)
+![Illustration of a parasite emitting toxic signals that turn inflamed cells into a tumor](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-9.webp)
 
 ## How Parasites Push Cancer Into Existence
 
@@ -341,7 +341,7 @@ In certain infections, the damage goes even deeper.
 
 > **This is why specific parasites are now classified by the World Health Organization as Group 1 Human Carcinogens. They are confirmed killers.**
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-10.webp)
+![Table pairing parasites like flukes and roundworms with the cancers they trigger](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-10.webp)
 
 **Not because the parasite became cancer — but because it trained the terrain.**
 

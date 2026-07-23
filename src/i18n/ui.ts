@@ -13,6 +13,8 @@ export const defaultLang: Lang = 'en';
 
 export const SITE_NAME = 'Eduard Luta';
 export const SITE_EMAIL = 'info@eduardluta.com';
+/** X (Twitter) handle for twitter:site / twitter:creator cards. Keep in sync with social.x below. */
+export const X_HANDLE = '@eduardluta';
 
 // Social profiles — universal, used in the footer and the social wall.
 export const social = {
@@ -27,7 +29,7 @@ export const ui = {
   en: {
     'site.tagline': 'Friend, father, husband & entrepreneur.',
     'site.description':
-      'Eduard Luta — friend, father, husband & entrepreneur building at the intersection of AI and meaning. dua.com for Albanians seeking love, MIK Group for businesses seeking growth.',
+      'Eduard Luta — friend, father, husband & entrepreneur building at the intersection of AI and meaning: dua.com for love, MIK Group for growth.',
 
     'nav.writing': 'Writing',
     'nav.building': 'Building',
@@ -58,12 +60,13 @@ export const ui = {
 
     'principles.title': 'Principles',
     'principles.subtitle': 'How I try to operate.',
-    'principles.description': 'Twenty short principles Eduard Luta tries to operate by.',
+    'principles.description':
+      'Twenty short principles Eduard Luta tries to operate by — on truth, focus, family, building, and staying human while working with AI.',
 
     'social.title': 'Social',
-    'social.subtitle': 'Straight from my feeds — Instagram, X, LinkedIn & TikTok, one place.',
+    'social.subtitle': 'Straight from my feeds — X & TikTok, one place.',
     'social.description':
-      "Eduard Luta across Instagram, X, LinkedIn and TikTok — one place for the feeds.",
+      "Eduard Luta across X and TikTok — one place for the feeds.",
 
     'article.back': '← Writing',
     'article.backToWriting': 'Back to all writing',
@@ -95,7 +98,7 @@ export const ui = {
   sq: {
     'site.tagline': 'Mik, baba, bashkëshort & sipërmarrës.',
     'site.description':
-      'Eduard Luta — mik, baba, bashkëshort & sipërmarrës që ndërton në kryqëzimin e AI-së dhe kuptimit. dua.com për shqiptarët në kërkim të dashurisë, MIK Group për bizneset në kërkim të rritjes.',
+      'Eduard Luta — mik, baba, bashkëshort & sipërmarrës që ndërton në kryqëzimin e AI-së dhe kuptimit: dua.com për dashuri, MIK Group për rritje.',
 
     'nav.writing': 'Shkrime',
     'nav.building': 'Projekte',
@@ -126,12 +129,13 @@ export const ui = {
 
     'principles.title': 'Parime',
     'principles.subtitle': 'Si përpiqem të veproj.',
-    'principles.description': 'Njëzet parime të shkurtra sipas të cilave përpiqet të veprojë Eduard Luta.',
+    'principles.description':
+      'Njëzet parime të shkurtra sipas të cilave përpiqet të veprojë Eduard Luta — për të vërtetën, fokusin, familjen, ndërtimin dhe njerëzoren në epokën e AI-së.',
 
     'social.title': 'Rrjetet',
-    'social.subtitle': 'Drejt nga rrjetet e mia — Instagram, X, LinkedIn & TikTok, në një vend.',
+    'social.subtitle': 'Drejt nga rrjetet e mia — X & TikTok, në një vend.',
     'social.description':
-      'Eduard Luta në Instagram, X, LinkedIn dhe TikTok — të gjitha rrjetet në një vend.',
+      'Eduard Luta në X dhe TikTok — të gjitha rrjetet në një vend.',
 
     'article.back': '← Shkrime',
     'article.backToWriting': 'Kthehu te të gjitha shkrimet',

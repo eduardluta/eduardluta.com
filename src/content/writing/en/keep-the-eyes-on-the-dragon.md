@@ -1,10 +1,10 @@
 ---
 title: "Keep the eyes on the Dragon"
 date: 2023-07-30
-description: "Recently, I got myself a PlayStation 5 :)"
+description: "How getting lost in Witcher 3 side quests taught me that chasing perfection feeds fear — face the dragon early, keep your focus, and build momentum."
 ---
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)
+![Close-up of a dragon's fiery orange eye surrounded by dark scales](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)
 
 Recently, I got myself a PlayStation 5 :)
 
@@ -20,7 +20,7 @@ But in the meantime, I realized that without fun and excitement, nothing is wort
 But that’s not the point of this article, I want to share.  
 One of the first games I bought, was “The Witcher 3", as I loved the Netflix Series. Still waiting to finish“The Dune” books, so I can dive into “The Witcher” books.
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-2.webp)
+![The Witcher 3: Wild Hunt cover art with Geralt gripping his sword](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-2.webp)
 
 So in this game, you take the role of “Geralt of Rivia — The Witcher” and explore “the Continent” throughout the gameplay.
 
@@ -49,7 +49,7 @@ The crazy thing, is I’m not like that in real life. When it comes to taking ma
 
 But here no. Was this version of me, not me? Do I act like this also in other spheres of life? Have I mastered my professional me and let the other parts down?
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-3.webp)
+![Witcher 3 gameplay screenshot of Geralt fighting a dragon in a forest](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-3.webp)
 
 So I faced the fucking Dragon, which turned out to be not difficult at all. Not worthy of a second thought. Maybe because I was better prepared, maybe because it was never a thing. But one thing I know for sure is, It could have been done much earlier and I would have had much more fun.
 

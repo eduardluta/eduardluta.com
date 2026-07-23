@@ -1,4 +1,46 @@
+# eduardluta.com — everything is crawlable, for search engines and AI assistants alike.
+# Named groups REPLACE the * group for that bot (no inheritance): if a Disallow is
+# ever added under *, mirror it in every named group below.
+
 User-agent: *
+Allow: /
+
+# Search engine crawlers
+User-agent: bingbot
+Allow: /
+
+# AI crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://eduardluta.com/sitemap-index.xml

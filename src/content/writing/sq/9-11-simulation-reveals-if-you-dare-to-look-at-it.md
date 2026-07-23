@@ -24,7 +24,7 @@ Teksa qëndroja pranë trupit të dajës, u shfaq një flutur — ose ajo që me
 
 Dallimi ka rëndësi. Fluturat shndërrohen në dritën e ditës; fluturat e natës orientohen me hënë e me yje. Njëra e kërkon dritën; tjetra e gjen rrugën përmes errësirës. Sot, në pikëllimin tim, më duhej më shumë urtësia e fluturës së natës sesa bukuria e fluturës.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-1.webp)
+![Një flutur nate ngjyrë kafe pushon mbi një sipërfaqe të bezhtë](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-1.webp)
 
 ## Ceremonia e anuluar
 
@@ -52,7 +52,7 @@ Sot, duke lexuar për teorinë e simulimit teksa i përjetoj këto sinkronicitet
 
 Besoj se ka një Zot, me po aq bindje sa besoj se ky është një simulim.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-2.webp)
+![Burrë me xhup të zi vështron një qytet kodrinor në vjeshtë](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-2.webp)
 
 ## Mësimi
 
@@ -84,7 +84,7 @@ Të nesërmen zgjohem dhe e kam harruar fare ditëlindjen time. Kur m’u kujtua
 
 Në fakt, pastaj e kuptova se nuk ka realitet tjetër përveç atij ku ndodhem, kështu që më mirë ta pranoj. Shpejt dita u bë më interesante, fillova ta kuptoj atë që pashë (ose të paktën të lidh ndonjë pikë aty-këtu) dhe ta shoh bukurinë në gjithë këtë. U kujdesa vetëm që ditën ta mbyllja me familjen time, në shtëpi.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-3.webp)
+![Burrë dhe djalë i vogël me pizhame mbajnë tullumbace ari me numrin 36 në shtëpi](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-3.webp)
 
 Një gjë e marr me vete nga gjithë këto kohë intensive: Kur vdekja është pranë, ajo pastron gjithçka. Zjarri rreth portalit që të nxjerr nga ky simulim pastron çdo fije, çdo iluzion të rremë dhe çdo gënjeshtër, për këdo që ka guxim ta shohë, ta vërë në dyshim ose ta prekë duke u mbajtur pas të vdekurit. Pashë në vdekje një bukuri që ende nuk e kuptoj.
 

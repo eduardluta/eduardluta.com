@@ -1,10 +1,10 @@
 ---
 title: "Mbaji sytë te Dragoi"
 date: 2023-07-30
-description: "Kohët e fundit i bleva vetes një PlayStation 5 :)"
+description: "Mësimi nga Witcher 3: sa më shumë side quest-e, aq më i madh bëhet Dragoi. Përballu me sfidën herët, ruaje fokusin dhe ndërto momentum në jetë."
 ---
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)
+![Syri i zjarrtë portokalli i një dragoi, i rrethuar nga luspa të errëta](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-1.webp)
 
 Kohët e fundit i bleva vetes një PlayStation 5 :)
 
@@ -20,7 +20,7 @@ Por ndërkohë e kuptova se pa qejf dhe pa emocion, asgjë nuk ia vlen. Kështu 
 Por s’është kjo poenta që dua ta ndaj me këtë shkrim.  
 Një nga lojërat e para që bleva ishte “The Witcher 3”, sepse seriali në Netflix më kishte pëlqyer shumë. Ende pres t’i mbaroj librat e “The Dune”, që pastaj të zhytem te librat e “The Witcher”.
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-2.webp)
+![Kopertina e lojës The Witcher 3: Wild Hunt me Geralt-in që shtrëngon shpatën](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-2.webp)
 
 Në këtë lojë merr rolin e “Geralt of Rivia — The Witcher” dhe eksploron “Kontinentin” gjatë gjithë gameplay-it.
 
@@ -49,7 +49,7 @@ E çmendura është se në jetën reale nuk jam ashtu. Kur vjen puna për të ve
 
 Por këtu jo. Ky version i imi — a isha vërtet unë? A veproj kështu edhe në sfera të tjera të jetës? A e kam çuar në majë veten profesionale dhe i kam lënë pas dore pjesët e tjera?
 
-![](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-3.webp)
+![Pamje nga loja Witcher 3: Geralt-i duke luftuar një dragua në pyll](/writing/keep-the-eyes-on-the-dragon/keep-the-eyes-on-the-dragon-3.webp)
 
 Kështu që u përballa me Dragoin e mutit, që doli se s’ishte fare i vështirë. As që e meritonte gjithë atë mendje. Ndoshta sepse isha më i përgatitur, ndoshta sepse s’kishte qenë kurrë ndonjë punë e madhe. Por një gjë e di me siguri: mund ta kisha bërë shumë më herët dhe do të isha argëtuar shumë më tepër.
 

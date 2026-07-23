@@ -1,5 +1,5 @@
 ---
-import { useTranslations, type Lang } from '../../i18n/ui';
+import { social, useTranslations, type Lang } from '../../i18n/ui';
 import { getSocialFeed } from '../../lib/social';
 import SocialCard from '../SocialCard.astro';
 
@@ -14,6 +14,18 @@ const posts = getSocialFeed();
 <h1 class="view-title">{t('social.title')}</h1>
 <p class="view-sub" style="margin-bottom:28px">{t('social.subtitle')}</p>
 
-<div class="wall">
-  {posts.map((post) => <SocialCard post={post} lang={lang} />)}
-</div>
+{posts.length > 0 ? (
+  <div class="wall">
+    {posts.map((post) => <SocialCard post={post} lang={lang} />)}
+  </div>
+) : (
+  <p class="view-sub">
+    <a href={social.x} target="_blank" rel="noopener noreferrer me">X</a>
+    {' · '}
+    <a href={social.tiktok} target="_blank" rel="noopener noreferrer me">TikTok</a>
+    {' · '}
+    <a href={social.instagram} target="_blank" rel="noopener noreferrer me">Instagram</a>
+    {' · '}
+    <a href={social.linkedin} target="_blank" rel="noopener noreferrer me">LinkedIn</a>
+  </p>
+)}

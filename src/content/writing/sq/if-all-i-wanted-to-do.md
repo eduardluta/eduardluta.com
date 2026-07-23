@@ -4,7 +4,7 @@ date: 2023-07-31
 description: "Sikur e vetmja gjë që doja të ishte të ulesha e të flisja me ty, a do të më dëgjoje?"
 ---
 
-![](/writing/if-all-i-wanted-to-do/if-all-i-wanted-to-do-1.webp)
+![Pikturë e një burri me flokë të thinjur, ulur i menduar nën një pemë të vjetër](/writing/if-all-i-wanted-to-do/if-all-i-wanted-to-do-1.webp)
 
 Sikur e vetmja gjë që doja  
 të ishte të ulesha e të flisja me ty,  

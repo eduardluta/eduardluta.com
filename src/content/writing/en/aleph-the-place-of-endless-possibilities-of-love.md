@@ -4,7 +4,7 @@ date: 2024-06-16
 description: "Life is a series of interconnected decisions, events, and moments that shape our paths."
 ---
 
-![](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)
+![Radiant point of light at the center of interconnected cosmic rings, stars, and galaxies](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)
 
 Life is a series of interconnected decisions, events, and moments that shape our paths. Along this journey, we cross paths with those who leave a permanent impact on us and touch our hearts forever. Sometimes, despite the best intentions and deepest connections, life circumstances lead us apart. Yet, even when we are no longer together, the memories of those beautiful moments remain, offering solace and a reminder of what once was and what could have been.
 
@@ -20,7 +20,7 @@ Until now, I called that point — Point Zero, but now I call it the Aleph since
 
 > Aleph is the point in space and time that contains all other points, offering a view of everything in the universe simultaneously from every angle.
 
-![](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-2.webp)
+![The aleph-null symbol: Hebrew letter aleph with a subscript zero](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-2.webp)
 
 This first encounter, where everything was still possible and untouched by the passage of time, becomes a sanctuary in your mind. It is a place where you can revisit the person you once cherished, a haven where all the memories, especially the good ones, reside. The Aleph is the most beautiful moment etched in your memory, a snapshot of pure potential and unblemished connection.
 

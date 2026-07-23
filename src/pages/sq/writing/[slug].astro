@@ -5,8 +5,8 @@ import ArticleView from '../../../components/views/ArticleView.astro';
 import { useTranslations, SITE_NAME } from '../../../i18n/ui';
 import { localizePath, isoDate } from '../../../i18n/utils';
 import { SITE } from '../../../consts';
-import { getArticles, type Article } from '../../../lib/writing';
-import { articleSchema, breadcrumbSchema, personSchema } from '../../../lib/schema';
+import { getArticles, firstBodyImage, countWords, type Article } from '../../../lib/writing';
+import { articleSchema, breadcrumbSchema } from '../../../lib/schema';
 
 export const getStaticPaths = (async () => {
   const articles = await getArticles('sq');
@@ -25,7 +25,14 @@ const t = useTranslations(lang);
 
 const url = new URL(localizePath(`/writing/${article.slug}/`, lang), SITE).href;
 const published = isoDate(article.data.date);
-const ogImage = new URL('/og-default.png', SITE).href;
+const modified = article.data.updated ? isoDate(article.data.updated) : undefined;
+// Social cards keep the 1200x630 default unless an explicit heroImage is set
+// (body images are mostly small/portrait); JSON-LD gets the real article image.
+const cardImage = article.data.heroImage ?? '/og-default.png';
+const schemaImage = new URL(
+  article.data.heroImage ?? firstBodyImage(article.body) ?? '/og-default.png',
+  SITE
+).href;
 ---
 
 <BaseLayout
@@ -34,16 +41,21 @@ const ogImage = new URL('/og-default.png', SITE).href;
   title={`${article.data.title} — ${SITE_NAME}`}
   description={article.data.description}
   ogType="article"
+  image={cardImage}
+  imageAlt={article.data.heroImageAlt ?? article.data.title}
   publishedTime={published}
+  modifiedTime={modified}
   jsonLd={[
-    personSchema(),
     articleSchema({
       title: article.data.title,
       description: article.data.description,
       url,
       datePublished: published,
+      dateModified: modified,
       lang,
-      image: ogImage,
+      image: schemaImage,
+      wordCount: countWords(article.body),
+      tags: article.data.tags,
     }),
     breadcrumbSchema([
       { name: SITE_NAME, url: localizePath('/', lang) },

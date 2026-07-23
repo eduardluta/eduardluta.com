@@ -1,7 +1,7 @@
 ---
 title: "“What if Adam & Eve Aren’t Who We Think?”"
 date: 2025-07-07
-description: "1 .Hypostasis of the ArchonsIn this Sethian Gnostic tractate (2ᵉ/3ᵉ c. CE), the “archons” (rulers) created Adam out of earth but could not animate him."
+description: "What if the God of Genesis is the Gnostic Demiurge? Retelling Adam and Eve through Nag Hammadi texts, where the serpent brings liberation, not sin."
 ---
 
 **1 .Hypostasis of the Archons***In this Sethian Gnostic tractate (2ᵉ/3ᵉ c. CE), the “archons” (rulers) created Adam out of earth but could not animate him. A ***heavenly spirit*** enters him, but the archons violently expel that spirit — attempting even to rape her. She flees by becoming a tree, leaving behind a shadow called “Eve.” Then, ***through the serpent***, she speaks to Adam and Eve, urging them to eat from the Tree of Knowledge so they can reclaim their divine insight. The archons then exile them, dooming humanity to a life of forgetfulness and toil*

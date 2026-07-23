@@ -14,7 +14,7 @@ Jam i sigurt që po. Dhe nuk është rastësi që ky artikull erdhi pikërisht t
 
 *Sepse nëse nuk e bën, ndonëse dita e sotme mund të duket e zakonshme, do të vijë një ditë kur, me frymën e fundit, do të përballesh me figurën madhështore të asaj që mund të kishe qenë — mishërimin e ëndrrave të parealizuara, të shanseve të humbura dhe të potencialit të shpërdoruar. Imagjinoje agoninë: atë boshllëk, humnerën mes vetes sate të tanishme dhe gjithçkaje që mund të kishe qenë.*
 
-![](/writing/the-invitation/the-invitation-1.webp)
+![Figurë eterike me petk të bardhë dhe krahë të hapur, e mbështjellë nga një dritë verbuese](/writing/the-invitation/the-invitation-1.webp)
 
 Këtu na çon të gjithëve një jetë e shpërdoruar, nëse e pranojmë mesataren. Dhe ti nuk e ke atë të drejtë! Sepse nuk ka tragjedi më të madhe sesa ta shpërdorosh potencialin tënd të vërtetë.
 

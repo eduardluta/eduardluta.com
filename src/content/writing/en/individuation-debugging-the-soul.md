@@ -4,7 +4,7 @@ date: 2025-11-02
 description: "I don’t know exactly how I got here, but I see myself right where I must be. Lost, but not abandoned."
 ---
 
-![](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)
+![Hooded figure of glowing code in a demon-filled forest, turtle and mantis at his feet](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)
 
 I don’t know exactly how I got here, but I see myself right where I must be. Lost, but not abandoned. I’m at all levels of hell, accompanied by my regrets who became demons, already accustomed to the universe I’m in. My questions are still whether this is part of the same simulation, or if I’ve escaped into a parallel side quest — my own hell.
 

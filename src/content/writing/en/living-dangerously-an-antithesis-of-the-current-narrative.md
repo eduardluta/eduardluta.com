@@ -1,12 +1,12 @@
 ---
 title: "Living dangerously — An Antithesis of the current narrative!"
 date: 2024-08-31
-description: "The heaviest burden: “What, if some day or night, a demon were to steal after you into your loneliest loneliness and say to you: ‘This life, as you now live it…"
+description: "On Nietzsche's eternal recurrence and the will to power: why self-overcoming, integrity, and living dangerously make a life worth choosing again and again."
 ---
 
 > Take up thy Cross, and follow me!
 
-![](/writing/living-dangerously-an-antithesis-of-the-current-narrative/living-dangerously-an-antithesis-of-the-current-narrative-1.webp)
+![Distressed white stencil text reading "Live Dangerously" on a black background](/writing/living-dangerously-an-antithesis-of-the-current-narrative/living-dangerously-an-antithesis-of-the-current-narrative-1.webp)
 
 The heaviest burden: “What, if some day or night, a demon were to steal after you into your loneliest loneliness and say to you: ‘This life, as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh… must return to you — all in the same succession and sequence — even this spider and this moonlight between the trees and even this moment and I myself. The eternal hourglass of existence is turned over again and again — and you with it, speck of dust!
 

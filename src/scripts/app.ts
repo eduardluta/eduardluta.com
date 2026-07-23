@@ -60,8 +60,11 @@ function isValidEmail(v: string): boolean {
 }
 
 function reflectTheme(theme: string) {
-  const meta = document.querySelector('meta[name="theme-color"]');
-  if (meta) meta.setAttribute('content', theme === 'dark' ? '#15130f' : '#f7f4ee');
+  // Both media-paired theme-color tags get the active color so the manual
+  // override wins regardless of which one the UA matches.
+  document
+    .querySelectorAll('meta[name="theme-color"]')
+    .forEach((meta) => meta.setAttribute('content', theme === 'dark' ? '#15130f' : '#f7f4ee'));
   document
     .querySelectorAll<HTMLButtonElement>('[data-theme-toggle]')
     .forEach((b) => b.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false'));

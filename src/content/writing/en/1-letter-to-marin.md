@@ -4,7 +4,7 @@ date: 2024-06-17
 description: "You hope I can sail with you forever. This sounds great, but I am not your eternal captain."
 ---
 
-![](/writing/1-letter-to-marin/1-letter-to-marin-1.webp)
+![Father embracing his son by the sea at sunset, with a sailing ship and handwritten letter](/writing/1-letter-to-marin/1-letter-to-marin-1.webp)
 
 Dear Marin
 

@@ -1,7 +1,7 @@
 ---
 title: "Armiku ka mendjen e vet"
 date: 2025-12-20
-description: "Lufta kundër kancerit — ndoshta entiteti biologjik më demonik që njeh njeriu. Në këtë betejë, mëson jo vetëm ta përqafosh çdo grimcë informacioni…"
+description: "Një renditje e armiqve tanë biologjikë sipas dinakërisë — nga rriqrat te kanceri — dhe si parazitët krijojnë në heshtje inflamacionin kronik që ushqen tumoret."
 ---
 
 Lufta kundër kancerit — ndoshta entiteti biologjik më demonik që njeh njeriu. Në këtë betejë, mëson jo vetëm ta përqafosh çdo grimcë informacioni, por edhe ta çmosh çdo pixel fati që na e fal jeta.
@@ -46,7 +46,7 @@ Një shkallë më lart se rriqrat, sepse e kuptojnë **kohën e duhur**. Prekin 
 
 **🧠 IQ: 90** **Arketipi:** *Droni (meqë ra fjala, ka +3'500 lloje, por vetëm 100 janë përgjegjëse për shumicën e sëmundjeve te njerëzit).*
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-3.webp)
+![Mushkonjë nga afër duke pirë gjak mbi lëkurën e skuqur të njeriut](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-3.webp)
 
 Mushkonjat janë një përmirësim teknologjik masiv. S’janë thjesht grabitqare; janë divizioni logjistik i ushtrisë parazitare. Zgjidhin problemin më të madh që kanë parazitët: **lëvizshmërinë.**
 
@@ -143,7 +143,7 @@ Ky protozoar nuk fshihet vetëm; e rilidh personalitetin e bujtësit për të si
 - **Rezultati:** E shtyn butësisht trurin e njeriut drejt pamaturisë. Personat e infektuar shfaqin kohë reagimi më të ngadalta, por sjellje me më shumë rrezik.  
 - **Dëshmia:** Infeksioni lidhet me një **rrezik 2,6x më të lartë për aksidente trafiku**, si dhe me nivele më të larta të skizofrenisë dhe çrregullimeve të tërbimit. Po e manipulon kimikisht perceptimin tënd të realitetit për t’i shërbyer mbijetesës së vet.
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-6.webp)
+![Diagram i ciklit të transmetimit të toksoplazmozës, nga macet te njerëzit](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-6.webp)
 
 ## 9. Kriptokoku: kali i Trojës
 
@@ -314,7 +314,7 @@ Parazitët e destabilizojnë rregullimin, e degradojnë mbikëqyrjen imune dhe e
 Ajo që duket si kërcënime të veçanta, në realitet është një **sabotim me shtresa**:  
 infiltrim afatgjatë i ndjekur nga marrja e kontrollit nga brenda. Strategjia bëhet sabotim — jo nga jashtë, por nga brenda.
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-9.webp)
+![Ilustrim i një paraziti që lëshon sinjale toksike, duke i shndërruar qelizat e inflamuara në tumor](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-9.webp)
 
 ## Si e nxjerrin parazitët kancerin në ekzistencë
 
@@ -341,7 +341,7 @@ Në disa infeksione, dëmi shkon edhe më thellë.
 
 > **Ja pse disa parazitë të veçantë tashmë klasifikohen nga Organizata Botërore e Shëndetësisë si Kancerogjenë të Grupit 1 për njeriun. Janë vrasës të konfirmuar.**
 
-![](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-10.webp)
+![Tabelë që lidh parazitë si motëzat dhe krimbat me kancerët që shkaktojnë](/writing/the-enemy-has-a-mind-of-its-own/the-enemy-has-a-mind-of-its-own-10.webp)
 
 **Jo sepse paraziti u bë kancer — por sepse e stërviti terrenin.**
 

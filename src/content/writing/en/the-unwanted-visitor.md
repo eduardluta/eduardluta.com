@@ -4,7 +4,7 @@ date: 2025-06-22
 description: "I love the movie „Meet Joe Black“ and if I would have to pick a favorite movie, that would be it."
 ---
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)
+![Brad Pitt and Anthony Hopkins in tuxedos in a scene from Meet Joe Black](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)
 
 I love the movie „Meet Joe Black“ and if I would have to pick a favorite movie, that would be it.
 
@@ -22,7 +22,7 @@ It’s time to prepare the final and last act of rebellion in this life :)
 
 This day will come. It’s just that simple. The only thing we can do is embrace and prepare ourselves for the moment of departure, and maybe the days after :)
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-2.webp)
+![Anthony Hopkins beside his quote that none of us are getting out of here alive](/writing/the-unwanted-visitor/the-unwanted-visitor-2.webp)
 
 I have thought very deeply about my funeral and the way I want to leave this wonderful experience.
 
@@ -39,7 +39,7 @@ I want to have a show with music ([this should be the first song](https://www.yo
 I don’t want people to be sad, because I lived a dream life.  
 I want them to laugh and use the day to open up my portal for the next life with love, laughter, and compassion. **Laugh motherflowers** 🤣🤣
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-3.webp)
+![Man in a suit laughing heartily, the classic Goodfellas laughing meme](/writing/the-unwanted-visitor/the-unwanted-visitor-3.webp)
 
 I want them to remember I tried my best and did mistakes and corrected some and made some others, but also did some good here and there.
 
@@ -49,7 +49,7 @@ At the end of the day, I want that my friends and family (you know who you are) 
 
 To my wife, my soul mate, you were the best thing I ever had. And you know that I only wanted you to live fully. So don’t waste your time on grieving and live life. Find love again and enjoy every day you have.
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-4.webp)
+![Seneca bust on a starry background with his quote about knowing how to die well](/writing/the-unwanted-visitor/the-unwanted-visitor-4.webp)
 
 …. end of draft one
 

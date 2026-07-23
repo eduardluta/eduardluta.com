@@ -15,7 +15,7 @@ Later, through reading books like *Man’s Search for Meaning* by Viktor Frankl,
 
 But what fascinated me most was how differently he saw it. He didn’t just study psychology from the outside — he crossed over to the other side to live it. Jung intentionally induced himself into a state of psychosis — for at least six years.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-2.webp)
+![Winged, haloed elder in ornate robes, one of Jung's visionary Red Book paintings](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-2.webp)
 
 He let the visions come, he recorded them, he lived them — all to receive and understand the messages from the depths of the soul.  
 At one point, he even communicated with a figure named Philemon — a spirit he believed had also visited Buddha, Muhammad, and Christ.  
@@ -25,7 +25,7 @@ He chose the latter — and because of that, the world received a new way to und
 When I first came across Jung’s *Red Book*, I didn’t know what to expect.  
 It wasn’t just a book — it was a diary of the soul. A living record of a man who dared to step beyond the borders of rational thinking and map the landscape of his own inner world.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-3.webp)
+![Open volumes of Jung's Red Book showing calligraphic pages and colorful symbolic paintings](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-3.webp)
 
 The *Red Book* wasn’t published until many decades after Jung’s death.  
 It stayed hidden, locked away, maybe because it was too personal, too raw, too much for the world to understand at the time. And maybe Jung knew that its real meaning would only unfold much later, just like the symbols inside the book unfold for each person through their own life.
@@ -50,7 +50,7 @@ Another thing that really spoke to me:
 Life doesn’t just bring the spirit of the time — the surface events and culture we live through — but also the spirit of the depths, the deeper forces moving underneath. Through synchronicities, life tries to send us messages.  
 And the more we live on autopilot — unaware and unconscious — the more we miss them. Most of the time, we only understand these moments much later, when we have lived enough to see their meaning unfold.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-4.webp)
+![Jung quote defining synchronicity as meaningful coincidence, white text on black](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-4.webp)
 
 Keeping a book like this — a diary of the soul — is not about telling a straight story. It’s about watching something unfold. It’s about seeing the invisible thread that connects moments, images, and feelings across time.  
 Jung called it *Liber Novus*, the Red Book, but to me, it feels like something very old — a way to let the soul speak without forcing it into simple explanations.

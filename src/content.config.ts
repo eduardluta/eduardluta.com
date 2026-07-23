@@ -9,7 +9,14 @@ const writing = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
+    /** Set when an essay is meaningfully edited after publishing; feeds dateModified / lastmod. */
+    updated: z.coerce.date().optional(),
     description: z.string(),
+    /** Topic tags shared verbatim between the en/sq pair; feed schema keywords. */
+    tags: z.array(z.string()).default([]),
+    /** Explicit social-card image (ideally 1200x630). Falls back to the first body image for JSON-LD only. */
+    heroImage: z.string().optional(),
+    heroImageAlt: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

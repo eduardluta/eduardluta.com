@@ -4,7 +4,7 @@ date: 2025-06-22
 description: "E dua filmin „Meet Joe Black“ dhe po të më duhej të zgjidhja një film të preferuar, do të ishte ai."
 ---
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)
+![Brad Pitt dhe Anthony Hopkins me smoking në një skenë nga filmi Meet Joe Black](/writing/the-unwanted-visitor/the-unwanted-visitor-1.webp)
 
 E dua filmin „Meet Joe Black“ dhe po të më duhej të zgjidhja një film të preferuar, do të ishte ai.
 
@@ -22,7 +22,7 @@ Prandaj është koha t'i shfrytëzojmë kohët e mira për t'u përgatitur për 
 
 Kjo ditë do të vijë. Kaq e thjeshtë është. E vetmja gjë që mund të bëjmë është ta përqafojmë çastin e ikjes dhe të përgatitemi për të, e ndoshta edhe për ditët pas tij :)
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-2.webp)
+![Anthony Hopkins pranë citatit të tij se askush s'del i gjallë nga kjo jetë](/writing/the-unwanted-visitor/the-unwanted-visitor-2.webp)
 
 Kam menduar shumë thellë për varrimin tim dhe për mënyrën se si dua ta lë këtë përvojë të mrekullueshme.
 
@@ -39,7 +39,7 @@ Dua një shfaqje me muzikë ([kjo duhet të jetë kënga e parë](https://www.yo
 Nuk dua që njerëzit të trishtohen, sepse unë e jetova jetën si në ëndërr.  
 Dua të qeshin dhe ta përdorin atë ditë për të ma hapur portalin drejt jetës tjetër me dashuri, të qeshura e dhembshuri. **Qeshni, motherflowers** 🤣🤣
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-3.webp)
+![Burrë me kostum duke qeshur me gjithë shpirt, meme-ja e njohur nga Goodfellas](/writing/the-unwanted-visitor/the-unwanted-visitor-3.webp)
 
 Dua të më kujtojnë që u përpoqa sa munda dhe bëra gabime — disa i ndreqa, disa të reja i bëra — por bëra edhe ndonjë të mirë aty-këtu.
 
@@ -49,7 +49,7 @@ Në fund të fundit, dua që miqtë dhe familja ime (ju e dini kush jeni) të b�
 
 Gruas sime, shpirtit tim binjak: ti ishe gjëja më e mirë që kam pasur ndonjëherë. Dhe ti e di se unë kam dashur vetëm që ti të jetosh plotësisht. Prandaj mos e harxho kohën me zi, po jetoje jetën. Gjeje dashurinë sërish dhe shijoje çdo ditë që ke.
 
-![](/writing/the-unwanted-visitor/the-unwanted-visitor-4.webp)
+![Busti i Senekës në sfond yjor, me citatin se jeton keq ai që s'di të vdesë mirë](/writing/the-unwanted-visitor/the-unwanted-visitor-4.webp)
 
 …. fundi i draftit të parë
 

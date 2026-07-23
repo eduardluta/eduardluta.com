@@ -24,7 +24,7 @@ As I stood near my uncle’s body, a butterfly appeared — or what I thought wa
 
 The distinction matters. Butterflies transform in daylight; moths navigate by moon and stars. One seeks the light; the other finds its way through darkness . Today, in my grief, I needed the moth’s wisdom more than the butterfly’s beauty.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-1.webp)
+![A brown moth with triangular wings resting on a beige textured surface](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-1.webp)
 
 ## The Cancelled Ceremony
 
@@ -52,7 +52,7 @@ Today, reading about simulation theory while experiencing these synchronicities,
 
 I believe there is a God, with as much conviction that this is a simulation.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-2.webp)
+![Man in a black winter coat gazing over a hillside town in autumn](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-2.webp)
 
 ## The Teaching
 
@@ -84,7 +84,7 @@ The next day, I wake up and have forgotten completely about my birthday. When I 
 
 Actually I then understood there is no other reality than where I am, so I better accept it. Soon the day became more interesting, I began to understand what I saw (or at least connect a dot here and there) and see the beauty in all of this. I just made sure that I finished the day with my family at home.
 
-![](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-3.webp)
+![Man and young boy in pajamas holding gold number 36 balloons at home](/writing/9-11-simulation-reveals-if-you-dare-to-look-at-it/9-11-simulation-reveals-if-you-dare-to-look-at-it-3.webp)
 
 One thing I take with me from all these intense times: When death is around, it purifies everything. The fire around the portal out of this simulation purifies every string, every false illusion and lie to everyone brave enough to look at it, doubt it, or touch it by holding on to the dead. I saw a beauty in death I still do not understand.
 

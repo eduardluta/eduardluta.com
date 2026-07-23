@@ -56,4 +56,4 @@ I want to end this letter with the words of the great psychologist Viktor Frankl
 With love, Babi ❤  
 Prishtine, 17.08.2024
 
-![](/writing/2-letter-to-marin/2-letter-to-marin-1.webp)
+![Father and son embracing beside a hand-painted Happy Father's Day sign](/writing/2-letter-to-marin/2-letter-to-marin-1.webp)

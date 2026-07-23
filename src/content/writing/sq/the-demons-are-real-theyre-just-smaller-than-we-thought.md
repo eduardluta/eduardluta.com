@@ -49,7 +49,7 @@ Së bashku, këto grupe përbëjnë rreth **250 nga 320 speciet e njohura** që 
 
 Protozoat janë **organizma njëqelizorë** aq të vegjël sa mund të shihen vetëm nën mikroskop. Mos u gënje nga madhësia e tyre — janë ndër parazitët më vdekjeprurës që njeh njerëzimi.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-2.webp)
+![Tabelë e etiketuar me tetë protozoa, përfshirë Giardian, Plasmodiumin dhe Toksoplazmën](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-2.webp)
 
 - **Giardia lamblia:** I kthen zorrët tua në zonë lufte, duke shkaktuar kaos të rëndë të tretjes.  
 - **Toxoplasma gondii:** Infekton 30–50% të popullsisë globale dhe është vërtetuar se ndryshon sjelljen dhe perceptimin e rrezikut.  
@@ -71,7 +71,7 @@ Ndërsa krimbat jetojnë me dekada, protozoat riprodhohen në mënyrë eksponenc
 
 Këta jetojnë **mbi** trup e jo brenda tij, duke u ushqyer me gjak dhe lëkurë ndërkohë që transmetojnë sëmundje të tjera.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-3.webp)
+![Tabelë me foto ektoparazitësh: pleshta, mushkonja, rriqra, morra, çimka dhe akarianë](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-3.webp)
 
 - **Morrat, akarianët dhe rriqrat:** Shumë më tepër se një bezdi — janë bartës të infeksioneve serioze.  
 - **Zgjebja:** E shkaktuar nga akarianët mikroskopikë që futen nën lëkurë, duke sjellë kruajtje të fortë dhe inflamacion.
@@ -233,7 +233,7 @@ Parazitët bëjnë pikërisht këtë. Hyjnë përmes mishit të kontaminuar, man
 
 Studimet tregojnë se ndryshojnë personalitetin, rrisin ankthin, ulin aftësitë njohëse. Fjalë për fjalë e pushtojnë sistemin tënd biologjik.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-7.webp)
+![Ilustrim i një dore që rrotullon një disk brenda kokës së hapur të një njeriu, sytë të hipnotizuar](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-7.webp)
 
 Në Ballkan, ku 80–90% bartin parazitë, ke një popullsi të tërë të pushtuar. Dhe çfarë bëjnë të pushtuarit? Krijojnë sisteme që e përjetësojnë pushtimin. Nuk i trajtojnë kafshët. Tallen me ata që pastrohen. Parazitët kanë fituar — kanë krijuar një kulturë që u siguron mbijetesën.
 

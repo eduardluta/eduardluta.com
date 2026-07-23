@@ -13,7 +13,7 @@ To see the fruits of my life — and the new branches growing from theirs, all t
 
 As an old tree, I see myself… roots deep in the earth, branches reaching toward the sky, watching new growth emerge from my seeds.
 
-![](/writing/the-dream-im-dreaming/the-dream-im-dreaming-1.webp)
+![Old tree with massive sprawling roots beside a forest path, sunlight filtering through the canopy](/writing/the-dream-im-dreaming/the-dream-im-dreaming-1.webp)
 
 I want to die knowing that my children have grown up, become independent men and women, full of life force, and have created their families and their children.
 
@@ -27,7 +27,7 @@ What a dream would it be, for this old tree to see the fruits bearing their own 
 
 “What beauty it would be, if they ask for advice and find shelter under my branches. What an adventure it would be, in my old days, to care about life through multiple parallel lives being lived in front of me, and be able to commit, help, support, share moments there.
 
-![](/writing/the-dream-im-dreaming/the-dream-im-dreaming-2.webp)
+![Video still of a joyful elderly man in white dancing among a cheering multigenerational family](/writing/the-dream-im-dreaming/the-dream-im-dreaming-2.webp)
 
 But let me dream in this state just a bit more. What a dream would it be, to not be the only tree in the forest, but surrounded by others who weathered the same storms, whose roots intertwined with mine through the years. Friends who stood tall beside me through rain and wind, who shared the same sunshine moments. What a dream would it be, to be part of a forest worth looking up to, each tree with its own story, but all standing together.
 

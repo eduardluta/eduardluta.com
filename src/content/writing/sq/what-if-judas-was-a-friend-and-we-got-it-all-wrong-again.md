@@ -1,12 +1,12 @@
 ---
 title: "Po sikur Juda të ketë qenë mik! Dhe ne e paskemi kuptuar krejt gabim, prapë!"
 date: 2026-01-13
-description: "Po sikur njeriu më i urryer në histori të ketë qenë në të vërtetë më besniku?"
+description: "Po sikur Juda të mos ketë qenë tradhtar? Ungjilli gnostik e tregon si dishepullin e vetëm që e kuptoi Jezusin — aq besnik sa pranoi urrejtjen e përjetshme."
 ---
 
 Po sikur njeriu më i urryer në histori të ketë qenë në të vërtetë më besniku?
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-1.webp)
+![Pikturë mesjetare ku Juda puth Jezusin natën, i rrethuar nga ushtarë me heshta](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-1.webp)
 
 Pasi u zhyta në perspektivën gnostike mbi [Adamin & Evën, Monadën dhe Demiurgun, Sofinë dhe Arkonët](/sq/writing/what-if-adam-eve-arent-who-we-think/) — m’u rrotullua koka. Ishte një nga ato momente kur zhvendosesh drejt së panjohurës dhe çarja zgjerohet.
 
@@ -30,7 +30,7 @@ Sepse arrin ta shohësh dhe ta njohësh njeriun. Njeriun e përsosur. Që mëson
 
 Një nga ngjarjet më të rëndësishme në atë histori është **tradhtia e Judës.** E njeh gjithkush. Juda e ka vendin më të thellë në Ferr — edhe Dante e vendosi aty, në gojën e vetë Satanit.
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-2.webp)
+![Gravurë e Gustave Doré-së nga Ferri i Dantes: Luciferi gjigant me krahë duke gllabëruar një mëkatar](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-2.webp)
 
 Po gnostikët çfarë mendojnë për të?  
 Tada. Çfarë befasie. Futemi prapë thellë në rabbit hole…
@@ -74,7 +74,7 @@ Jezusi i thotë Judës shkoqur:
 
 ## Besnikëri tragjike
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-3.webp)
+![Pikturë ku Jezusi përqafon me butësi një burrë flokëgjatë të mbështjellë me mantel të kuq](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-3.webp)
 
 Nga perspektiva gnostike:
 
@@ -144,7 +144,7 @@ Rrallë do ta dëgjosh këtë perspektivë. Derisa të dalësh e ta kërkosh vet
 
 ## Çarja
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-4.webp)
+![Njeri i parë nga pas, me kokën e çarë si guaskë veze prej nga del fjala THINK](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-4.webp)
 
 Nuk jam këtu të të them çfarë të besosh.
 

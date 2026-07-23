@@ -1,7 +1,7 @@
 ---
 title: "Acomodador"
 date: 2024-01-28
-description: "Nuk kam fjalë sa e admiroj Paulo Coelhon, jo pse është gjeni dhe prodhon Libra e Tregime që ta ndryshojnë jetën, por pse është kaq i thjeshtë dhe na tregon…"
+description: "Acomodador-i i Paulo Coelhos — pika e dorëzimit — i gjetur në jetën time: një penallti e humbur në finalen e klasës së pestë dhe një dashuri e parë që iku."
 ---
 
 > Acomodador-i, ose pika e dorëzimit: në jetën tonë ka gjithmonë një ngjarje që mban përgjegjësinë pse nuk ecim përpara: një traumë, një humbje veçanërisht e hidhur, një zhgënjim në dashuri, madje edhe një fitore që s’e kuptuam kurrë deri në fund, mund të na bëjnë frikacakë dhe të na pengojnë të vazhdojmë tutje. Si pjesë e procesit të zgjimit të fuqive të tij të fshehura, shamani duhet së pari të çlirohet nga ajo pikë dorëzimi dhe, për ta bërë këtë, duhet ta rishikojë gjithë jetën e vet dhe të gjejë se ku ndodhi. – Paulo Coelho, The Zahir
@@ -15,7 +15,7 @@ Jam i dashuruar me “The Zahir”, mezi pres ta lexoj, dhe e shtyj sa mundem ve
 
 Mbrëmë, rreth një zjarri të mirë me vëllain dhe një shok, u ndesha me Acomodador-in! Sa herë që lexoj Paulon, jam gati të përballem me një mendim gjenial dhe ca fjalë shumë të thella që më marrin në një udhëtim më vete. Ndoshta vite prapa në kohë, ndoshta nja dy javë, ndoshta një ide e re që u bashkohet të shumtave që tashmë banojnë në kokën time, ndoshta një fije e re që i lidh pikat dhe sjell qartësi, ose edhe një udhëtim në të ardhmen për të fantazuar për gjithçka e për asgjë.
 
-![](/writing/acomodador/acomodador-2.webp)
+![Zjarr i ndezur në oxhakun e dhomës së ndenjes, me dritë të ngrohtë mbrëmjeje](/writing/acomodador/acomodador-2.webp)
 
 Sido që të jetë, me të je gjithmonë në një aventurë të vërtetë dhe duhet të jesh gati për gjithçka!
 

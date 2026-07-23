@@ -1,12 +1,12 @@
 ---
 title: "What if Judas, was a friend! And we got it all wrong, again!"
 date: 2026-01-13
-description: "What if the most hated man in history was actually the most loyal?"
+description: "What if Judas wasn't a traitor? The Gnostic Gospel of Judas reframes him as the one disciple who understood Jesus — loyal enough to be hated forever."
 ---
 
 What if the most hated man in history was actually the most loyal?
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-1.webp)
+![Medieval painting of Judas kissing Jesus at night, surrounded by soldiers with spears](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-1.webp)
 
 After diving into the Gnostic perspective on [Adam & Eve, the Monad and the Demiurge, Sophia and the Archons](/writing/what-if-adam-eve-arent-who-we-think/) — my head got turned around. It was one of those moments where you shift toward the unknown and the crack widens.
 
@@ -30,7 +30,7 @@ Because you come to see and learn about the man. The perfect man. Who taught tru
 
 One of the most important events in that story is the **betrayal of Judas.** Everybody knows it. Judas has the deepest place in Hell — even Dante put him there, in the mouth of Satan himself.
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-2.webp)
+![Gustave Doré engraving of a giant winged Lucifer devouring a sinner in Dante's Inferno](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-2.webp)
 
 But what do the Gnostics think about it?  
 Tada. What a surprise. Down the rabbit hole we go…
@@ -74,7 +74,7 @@ Jesus explicitly tells Judas:
 
 ## Tragic Loyalty
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-3.webp)
+![Painting of Jesus tenderly embracing a long-haired man wrapped in a red robe](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-3.webp)
 
 From the Gnostic perspective:
 
@@ -144,7 +144,7 @@ You will rarely hear this perspective. Until you go looking for it.
 
 ## The Crack
 
-![](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-4.webp)
+![Man seen from behind, his head cracked open like an eggshell, releasing the word THINK](/writing/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again/what-if-judas-was-a-friend-and-we-got-it-all-wrong-again-4.webp)
 
 I’m not here to tell you what to believe.
 

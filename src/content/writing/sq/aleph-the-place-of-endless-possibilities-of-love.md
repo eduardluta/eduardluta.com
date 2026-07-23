@@ -4,7 +4,7 @@ date: 2024-06-16
 description: "Jeta është një varg vendimesh, ngjarjesh dhe momentesh të ndërlidhura që formësojnë rrugët tona."
 ---
 
-![](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)
+![Pikë drite vezulluese në qendër të rrathëve kozmikë të ndërlidhur, mes yjesh dhe galaktikash](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-1.webp)
 
 Jeta është një varg vendimesh, ngjarjesh dhe momentesh të ndërlidhura që formësojnë rrugët tona. Gjatë këtij udhëtimi na kryqëzohen rrugët me njerëz që lënë gjurmë të pashlyeshme te ne dhe na e prekin zemrën përgjithmonë. Ndonjëherë, edhe me qëllimet më të mira dhe lidhjet më të thella, rrethanat e jetës na ndajnë. E megjithatë, edhe kur nuk jemi më bashkë, kujtimet e atyre momenteve të bukura mbeten — na ngushëllojnë dhe na kujtojnë atë që dikur ishte dhe atë që mund të kishte qenë.
 
@@ -20,7 +20,7 @@ Deri tani atë pikë e quaja — Pika Zero, por tani e quaj Aleph, sepse e përj
 
 > Aleph është pika në hapësirë dhe kohë që i përmban të gjitha pikat e tjera, duke ofruar një pamje të gjithçkaje në univers, njëkohësisht dhe nga çdo kënd.
 
-![](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-2.webp)
+![Simboli alef-zero: shkronja hebraike alef me një zero të vogël poshtë](/writing/aleph-the-place-of-endless-possibilities-of-love/aleph-the-place-of-endless-possibilities-of-love-2.webp)
 
 Ky takim i parë, ku gjithçka ishte ende e mundur dhe e paprekur nga kalimi i kohës, bëhet një vend i shenjtë në mendjen tënde. Është një vend ku mund ta rivizitosh njeriun që dikur e ke pasur aq për zemër, një strehë ku banojnë të gjitha kujtimet, veçanërisht ato të mirat. Aleph-i është momenti më i bukur i gdhendur në kujtesën tënde, një fotografi e potencialit të pastër dhe e lidhjes së panjollosur.
 

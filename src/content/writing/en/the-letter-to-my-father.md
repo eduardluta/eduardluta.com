@@ -4,7 +4,7 @@ date: 2024-06-17
 description: "As I sit down to write this letter to you, I’m filled with a sense of gratitude and reflection."
 ---
 
-![](/writing/the-letter-to-my-father/the-letter-to-my-father-1.webp)
+![Illustration of a boy and a gray-bearded man reading handwritten letters in a candlelit study](/writing/the-letter-to-my-father/the-letter-to-my-father-1.webp)
 
 My loving Father
 

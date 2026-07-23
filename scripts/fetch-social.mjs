@@ -1,17 +1,24 @@
-// Build-time social feed fetcher. Pulls recent Instagram + TikTok posts, caches
-// and optimizes their images locally (platform CDN URLs are signed and expire, so
-// they MUST be downloaded at build), and writes src/data/social-feed.json which
-// the site reads. Runs before `astro build` (see package.json).
+// Build-time social feed fetcher. Pulls recent X + Instagram + TikTok posts,
+// caches and optimizes their images locally (platform CDN URLs are signed and
+// expire, so they MUST be downloaded at build), and writes
+// src/data/social-feed.json which the site reads. Runs before `astro build`
+// (see package.json).
 //
 // Fully resilient: missing tokens or any API/network failure just yields an empty
-// (or partial) feed and the site falls back to the curated wall. It never throws
-// out, so a flaky platform can never break a deploy.
+// (or partial) feed. It never throws out, so a flaky platform can never break a
+// deploy.
 //
-// Required env (set in Netlify → Environment variables):
+// Required env (set in Railway → service Variables):
+//   X_BEARER_TOKEN        X API v2 app Bearer token (pay-per-use project).
+//                         Reading our own tweets bills as "owned reads"
+//                         ($0.001/resource) — a daily build costs cents/month.
+//   X_USER_ID             (optional) numeric X user id; skips one user-lookup
+//                         read per build when set
 //   INSTAGRAM_TOKEN       long-lived Instagram Graph API access token
 //   INSTAGRAM_USER_ID     (optional) IG Business account id; if set, queries
 //                         graph.facebook.com/{id}/media, else graph.instagram.com/me/media
 //   TIKTOK_TOKEN          TikTok Display API user access token
+//   SOCIAL_X_LIMIT        (optional) number of tweets, default 3
 //   SOCIAL_IG_LIMIT       (optional) number of IG posts, default 6
 //   SOCIAL_TT_LIMIT       (optional) number of TikTok posts, default 4
 
@@ -28,10 +35,12 @@ const FEED_FILE = join(ROOT, 'src', 'data', 'social-feed.json');
 
 const IG_HANDLE = '@eduard.luta';
 const TT_HANDLE = '@eduardluta';
+const X_USERNAME = 'eduardluta';
 const IG_GRAPH = 'v21.0';
 
 const IG_LIMIT = Number(process.env.SOCIAL_IG_LIMIT || 6);
 const TT_LIMIT = Number(process.env.SOCIAL_TT_LIMIT || 4);
+const X_LIMIT = Number(process.env.SOCIAL_X_LIMIT || 3);
 
 const FETCH_TIMEOUT = 15_000;
 
@@ -149,6 +158,79 @@ async function fetchInstagram(now) {
   return out;
 }
 
+// X (Twitter) via the official API v2 with an app Bearer token. We read only our
+// own recent tweets (no replies/retweets), which bills at the cheap "owned reads"
+// rate on the pay-per-use plan. Media photos are cached locally like IG/TikTok;
+// text-only tweets render as typographic cards.
+async function fetchX(now) {
+  const token = process.env.X_BEARER_TOKEN;
+  if (!token) return [];
+  const headers = { Authorization: `Bearer ${token}` };
+
+  let userId = process.env.X_USER_ID;
+  if (!userId) {
+    const { ok, body } = await fetchJson(`https://api.x.com/2/users/by/username/${X_USERNAME}`, { headers });
+    userId = body?.data?.id;
+    if (!ok || !userId) {
+      console.warn('[social] X user lookup failed:', body?.title || body?.detail || 'HTTP');
+      return [];
+    }
+  }
+
+  const params = new URLSearchParams({
+    // API minimum is 5; we slice down to X_LIMIT after filtering.
+    max_results: '5',
+    exclude: 'replies,retweets',
+    'tweet.fields': 'created_at,public_metrics,attachments',
+    expansions: 'attachments.media_keys',
+    'media.fields': 'url,preview_image_url,type',
+  });
+  const { ok, body } = await fetchJson(`https://api.x.com/2/users/${userId}/tweets?${params}`, { headers });
+  if (!ok || !Array.isArray(body?.data)) {
+    console.warn('[social] X fetch failed:', body?.title || body?.detail || 'HTTP');
+    return [];
+  }
+  const mediaByKey = new Map((body.includes?.media || []).map((m) => [m.media_key, m]));
+
+  const out = [];
+  for (const tw of body.data.slice(0, X_LIMIT)) {
+    try {
+      const ms = Date.parse(tw.created_at) || now;
+      const pm = tw.public_metrics || {};
+      const meta = [
+        pm.retweet_count > 0 && `${compact(pm.retweet_count)} reposts`,
+        pm.like_count > 0 && `${compact(pm.like_count)} likes`,
+      ]
+        .filter(Boolean)
+        .join(' · ');
+      // Media/quote t.co links at the end of the text are noise on a card.
+      const text = (tw.text || '').replace(/\s*https:\/\/t\.co\/\S+\s*$/g, '').trim();
+      if (!text && !tw.attachments) continue;
+
+      const post = {
+        platform: 'X / Twitter',
+        handle: `@${X_USERNAME}`,
+        href: `https://x.com/${X_USERNAME}/status/${tw.id}`,
+        caption: truncate(text, 240),
+        meta,
+        date: relativeDate(ms, now),
+        timestamp: ms,
+      };
+      const firstKey = tw.attachments?.media_keys?.[0];
+      const media = firstKey ? mediaByKey.get(firstKey) : null;
+      const imgUrl = media?.url || media?.preview_image_url;
+      if (imgUrl) {
+        post.image = await cacheImage(imgUrl, `x-${tw.id}.webp`, 'square');
+        post.media = 'square';
+      }
+      out.push(post);
+    } catch (err) {
+      console.warn(`[social] skipped tweet ${tw.id}:`, err.message);
+    }
+  }
+  return out;
+}
+
 // TikTok access tokens expire in ~24h, so at build time we mint a fresh one from
 // the long-lived (~365d) refresh token. TIKTOK_TOKEN is still honored for a quick
 // within-the-day test.
@@ -236,9 +318,9 @@ async function main() {
     ? await resolveTikTokToken().catch((e) => (console.warn('[social] TikTok auth error:', e.message), null))
     : null;
 
-  const configured = Boolean(process.env.INSTAGRAM_TOKEN || tiktokToken);
+  const configured = Boolean(process.env.X_BEARER_TOKEN || process.env.INSTAGRAM_TOKEN || tiktokToken);
   if (!configured) {
-    console.log('[social] No Instagram/TikTok credentials set — using curated fallback wall.');
+    console.log('[social] No X/Instagram/TikTok credentials set — wall will be empty.');
     writeFileSync(FEED_FILE, JSON.stringify({ generatedAt: null, posts: [] }, null, 2));
     return;
   }
@@ -246,14 +328,15 @@ async function main() {
   rmSync(IMG_DIR, { recursive: true, force: true });
   mkdirSync(IMG_DIR, { recursive: true });
 
-  const [ig, tt] = await Promise.all([
+  const [x, ig, tt] = await Promise.all([
+    fetchX(now).catch((e) => (console.warn('[social] X error:', e.message), [])),
     fetchInstagram(now).catch((e) => (console.warn('[social] IG error:', e.message), [])),
     fetchTikTok(now, tiktokToken).catch((e) => (console.warn('[social] TikTok error:', e.message), [])),
   ]);
 
-  const posts = [...ig, ...tt].sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));
+  const posts = [...x, ...ig, ...tt].sort((a, b) => (b.timestamp ?? 0) - (a.timestamp ?? 0));
   writeFileSync(FEED_FILE, JSON.stringify({ generatedAt: new Date(now).toISOString(), posts }, null, 2));
-  console.log(`[social] Wrote ${posts.length} live posts (IG ${ig.length}, TikTok ${tt.length}).`);
+  console.log(`[social] Wrote ${posts.length} live posts (X ${x.length}, IG ${ig.length}, TikTok ${tt.length}).`);
   await closeStore();
 }
 

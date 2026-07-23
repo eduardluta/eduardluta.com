@@ -4,7 +4,7 @@ date: 2023-04-11
 description: "What if life is only just a dream? And what if it’s only a dream to play, and enjoy? Imagine if the whole life is just a game!"
 ---
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)
+![Silhouetted figure under a starry night sky with a quote about life being a dream](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)
 
 What if life is only just a dream?  
 And what if it’s only a dream to play, and enjoy?  
@@ -13,7 +13,7 @@ Imagine if the whole life is just a game!
 A game where only those who enjoy it the most win.  
 Only the one who has fun can develop his avatar into his final form.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-2.webp)
+![Anime warrior with glowing white hair powering up in a radiant purple aura](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-2.webp)
 
 To achieve anything you have to enjoy it. It should be fun, otherwise, it’s just work and work is boring and we don’t do boring for long.
 
@@ -27,7 +27,7 @@ And when I think about this, I also clearly understand that the programming is s
 
 Just think for a moment: school, work, institutions, government, super serious. No place for fun.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-3.webp)
+![Vintage phrenology head diagram dividing the mind into labeled trait compartments](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-3.webp)
 
 On the other side: think about the family, think about the normal family dinners, it’s super serious.
 
@@ -43,7 +43,7 @@ And that’s these little moments in between all of this stuff, that's the spont
 
 I think as a child we never had a problem having real fun, like super fun all the time. That’s why time was so irrelevant because we measured it with fun and not with hours.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-4.webp)
+![Children joyfully leaping through a garden sprinkler on a sunny backyard lawn](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-4.webp)
 
 I’m pretty sure, that this part of losing fun all starts, when we start to not be our authentic version anymore. The moment when the taboos get into our life, the moment when we start playing the status game.
 

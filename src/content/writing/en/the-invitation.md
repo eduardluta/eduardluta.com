@@ -14,7 +14,7 @@ I’m certain you have. And it’s no accident this article found its way to you
 
 *For if you don’t, while today might seem ordinary, there will come a day when, on your last breath, you’ll be confronted with the monumental figure of what you might have been — the epitome of unrealised dreams, missed chances and wasted potential. Imagine the agony: that void, the chasm between your current self and all you could have been.*
 
-![](/writing/the-invitation/the-invitation-1.webp)
+![Ethereal figure in a white robe, arms outstretched, dissolving into blinding light](/writing/the-invitation/the-invitation-1.webp)
 
 This is where a wasted life will lead everyone if we accept the average. And you have no right to that! Because there is no greater tragedy than wasting your true potential.
 

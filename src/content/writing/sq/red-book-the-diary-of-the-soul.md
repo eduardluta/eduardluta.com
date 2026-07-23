@@ -15,7 +15,7 @@ Më vonë, duke lexuar libra si *Man’s Search for Meaning* i Viktor Franklit d
 
 Por ajo që më magjepsi më së shumti ishte sa ndryshe e shihte ai. Ai nuk e studioi psikologjinë vetëm nga jashtë — ai kaloi në anën tjetër për ta jetuar. Jungu e futi veten qëllimisht në një gjendje psikoze — për të paktën gjashtë vjet.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-2.webp)
+![Plak me krahë dhe aureolë të artë, nga pikturat vizionare të Librit të Kuq të Jungut](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-2.webp)
 
 Ai i la vegimet të vinin, i shënoi, i jetoi — gjithçka për t’i marrë dhe për t’i kuptuar mesazhet nga thellësitë e shpirtit.  
 Në një moment, ai madje komunikoi me një figurë të quajtur Philemon — një shpirt që, sipas tij, i kishte vizituar edhe Budën, Muhamedin dhe Krishtin.  
@@ -25,7 +25,7 @@ Ai zgjodhi të dytën — dhe falë kësaj, bota mori një mënyrë të re për 
 Kur hasa për herë të parë në *Red Book* (Librin e Kuq) të Jungut, nuk dija çfarë të prisja.  
 Nuk ishte thjesht një libër — ishte një ditar i shpirtit. Një dëshmi e gjallë e një njeriu që guxoi të kalonte përtej kufijve të mendimit racional dhe të skiconte hartën e botës së vet të brendshme.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-3.webp)
+![Vëllime të hapura të Librit të Kuq me faqe kaligrafike dhe piktura simbolike plot ngjyra](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-3.webp)
 
 *Red Book* nuk u botua veçse shumë dekada pas vdekjes së Jungut.  
 Qëndroi i fshehur, i mbyllur diku, ndoshta sepse ishte tepër personal, tepër i zhveshur — shumë përtej asaj që bota mund ta kuptonte atëherë. Dhe ndoshta Jungu e dinte se kuptimi i tij i vërtetë do të shpalosej vetëm shumë më vonë, ashtu siç shpalosen simbolet brenda librit për secilin njeri përmes jetës së vet.
@@ -50,7 +50,7 @@ Edhe diçka tjetër që më preku vërtet:
 Jeta nuk sjell vetëm frymën e kohës — ngjarjet sipërfaqësore dhe kulturën që jetojmë — por edhe frymën e thellësive, forcat më të thella që lëvizin nën sipërfaqe. Përmes sinkroniciteteve, jeta përpiqet të na dërgojë mesazhe.  
 Dhe sa më shumë që jetojmë në autopilot — të pavëmendshëm dhe të pavetëdijshëm — aq më shumë na ikin ato. Shumicën e kohës, këto momente i kuptojmë vetëm shumë më vonë, kur kemi jetuar mjaftueshëm për të parë si shpaloset kuptimi i tyre.
 
-![](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-4.webp)
+![Citat i Jungut për sinkronicitetin si përputhje kuptimplote, tekst i bardhë mbi sfond të zi](/writing/red-book-the-diary-of-the-soul/red-book-the-diary-of-the-soul-4.webp)
 
 Të mbash një libër të tillë — një ditar të shpirtit — nuk do të thotë të tregosh një histori me fill të drejtë. Do të thotë të shohësh diçka duke u shpalosur. Do të thotë ta shohësh fillin e padukshëm që lidh momentet, imazhet dhe ndjenjat përgjatë kohës.  
 Jungu e quajti *Liber Novus*, Libri i Kuq, por mua më duket si diçka shumë e lashtë — një mënyrë për ta lënë shpirtin të flasë pa e futur me zor në shpjegime të thjeshta.

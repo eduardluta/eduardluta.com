@@ -4,7 +4,7 @@ date: 2025-11-02
 description: "Nuk e di saktësisht si arrita këtu, por e shoh veten pikërisht aty ku duhet të jem. I humbur, por jo i braktisur."
 ---
 
-![](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)
+![Figurë me kapuç prej kodi të ndritshëm mes demonësh të pyllit, me breshkë e murgeshë lutëse te këmbët](/writing/individuation-debugging-the-soul/individuation-debugging-the-soul-1.webp)
 
 Nuk e di saktësisht si arrita këtu, por e shoh veten pikërisht aty ku duhet të jem. I humbur, por jo i braktisur. Jam në të gjitha nivelet e ferrit, i shoqëruar nga pendimet e mia që u bënë demonë, tashmë i mësuar me universin ku ndodhem. Pyetjet e mia mbeten ende: a është kjo pjesë e të njëjtit simulim, apo kam ikur në një side quest paralel — ferrin tim personal.
 

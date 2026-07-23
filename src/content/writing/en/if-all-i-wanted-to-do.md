@@ -4,7 +4,7 @@ date: 2023-07-31
 description: "If all I wanted to do would be to sit and talk to you, would you listen?"
 ---
 
-![](/writing/if-all-i-wanted-to-do/if-all-i-wanted-to-do-1.webp)
+![Painting of a gray-haired man sitting thoughtfully beneath an old tree at dusk](/writing/if-all-i-wanted-to-do/if-all-i-wanted-to-do-1.webp)
 
 If all I wanted to do  
 would be to sit and talk to you,  

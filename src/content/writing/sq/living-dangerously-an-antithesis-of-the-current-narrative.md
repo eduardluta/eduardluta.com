@@ -1,12 +1,12 @@
 ---
 title: "Të jetosh rrezikshëm — një antitezë e narrativës aktuale!"
 date: 2024-08-31
-description: "Barra më e rëndë: “Po sikur një ditë a një natë, një demon të të vinte fshehurazi në vetminë tënde më të vetmuar e të të thoshte: ‘Këtë jetë, ashtu siç po e jeton tani…"
+description: "Mbi rikthimin e përjetshëm të Nietzsche-s dhe vullnetin për fuqi: pse vetëtejkalimi dhe jeta e rrezikshme e bëjnë jetën të denjë për t'u jetuar sërish."
 ---
 
 > Merre kryqin tënd dhe më ndiq!
 
-![](/writing/living-dangerously-an-antithesis-of-the-current-narrative/living-dangerously-an-antithesis-of-the-current-narrative-1.webp)
+![Mbishkrimi "Live Dangerously" me shkronja të bardha të vjetruara mbi sfond të zi](/writing/living-dangerously-an-antithesis-of-the-current-narrative/living-dangerously-an-antithesis-of-the-current-narrative-1.webp)
 
 Barra më e rëndë: “Po sikur një ditë a një natë, një demon të të vinte fshehurazi në vetminë tënde më të vetmuar e të të thoshte: ‘Këtë jetë, ashtu siç po e jeton dhe siç e ke jetuar deri tani, do të duhet ta jetosh edhe një herë dhe pafundësisht herë të tjera; dhe në të s’do të ketë asgjë të re, por çdo dhimbje e çdo gëzim, çdo mendim e çdo psherëtimë… do të të kthehen sërish — të gjitha në të njëjtën radhë e rrjedhë — madje edhe kjo merimangë dhe kjo dritë hëne mes pemëve, madje edhe ky çast dhe unë vetë. Klepsidra e përjetshme e ekzistencës përmbyset sërish e sërish — dhe ti bashkë me të, grimcë pluhuri!
 

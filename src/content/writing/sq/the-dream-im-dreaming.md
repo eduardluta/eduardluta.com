@@ -13,7 +13,7 @@ T’i shoh frytet e jetës sime — dhe degët e reja që rriten nga jeta e tyre
 
 Si një pemë e vjetër e shoh veten… me rrënjë thellë në tokë, me degë që zgjaten drejt qiellit, duke parë si mbin jetë e re nga farat e mia.
 
-![](/writing/the-dream-im-dreaming/the-dream-im-dreaming-1.webp)
+![Pemë e vjetër me rrënjë të fuqishme anës një shtegu pylli, me diell mes gjetheve](/writing/the-dream-im-dreaming/the-dream-im-dreaming-1.webp)
 
 Dua të vdes duke e ditur se fëmijët e mi janë rritur, janë bërë burra e gra të pavarur, plot forcë jete, dhe kanë krijuar familjet e tyre dhe fëmijët e tyre.
 
@@ -27,7 +27,7 @@ Dikë që nuk hoqi dorë kurrë nga vetja, nga familja dhe miqtë e tij. Të kuj
 
 “Çfarë bukurie do të ishte, po të më kërkonin këshillë e të gjenin strehë nën degët e mia. Çfarë aventure do të ishte, në pleqërinë time, të kujdesem për jetën përmes shumë jetëve paralele që jetohen para syve të mi, dhe të mund të përkushtohem, të ndihmoj, të mbështes, të ndaj momente bashkë me ta.
 
-![](/writing/the-dream-im-dreaming/the-dream-im-dreaming-2.webp)
+![Pamje videoje: një burrë i moshuar me të bardha vallëzon i gëzuar, i rrethuar nga një familje festuese shumëbrezash](/writing/the-dream-im-dreaming/the-dream-im-dreaming-2.webp)
 
 Por më lër të ëndërroj edhe pak në këtë gjendje. Çfarë ëndrre do të ishte, të mos jem pema e vetme në pyll, por i rrethuar nga të tjerë që i përballuan të njëjtat stuhi, rrënjët e të cilëve u gërshetuan me të miat ndër vite. Miq që qëndruan të papërkulur pranë meje në shi e në erë, që i ndanë me mua të njëjtat çaste me diell. Çfarë ëndrre do të ishte, të jem pjesë e një pylli që ia vlen ta shikosh me admirim, ku secila pemë ka historinë e vet, por të gjitha qëndrojnë bashkë.
 

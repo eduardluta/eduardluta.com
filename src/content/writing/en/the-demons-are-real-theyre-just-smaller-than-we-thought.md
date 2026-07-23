@@ -49,7 +49,7 @@ Together, these groups make up around **250 of the 320 known species** that infe
 
 Protozoa are **single-celled organisms** so small they can only be seen under a microscope. Don’t let their size fool you — they’re among the deadliest parasites known to humankind.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-2.webp)
+![Labeled chart of eight protozoa including Giardia, Plasmodium, and Toxoplasma](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-2.webp)
 
 - **Giardia lamblia:** Turns your intestines into a war zone, causing severe digestive chaos.  
 - **Toxoplasma gondii:** Infects 30–50% of the global population and has been shown to alter behavior and risk perception.  
@@ -71,7 +71,7 @@ While worms live for decades, protozoa reproduce exponentially. A tapeworm might
 
 These live **on** the body rather than inside it, feeding on blood and skin while transmitting other diseases.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-3.webp)
+![Photo chart of ectoparasites: fleas, mosquitoes, ticks, lice, bedbugs, mites, and more](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-3.webp)
 
 - **Lice, mites, and ticks:** Far more than a nuisance — they are carriers of serious infections.  
 - **Scabies:** Caused by microscopic mites that burrow beneath the skin, triggering intense itching and inflammation.
@@ -233,7 +233,7 @@ Parasites do exactly this. They enter through contaminated meat, manipulate your
 
 Studies show they change personality, increase anxiety, decrease cognition. They literally possess your biological system.
 
-![](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-7.webp)
+![Illustration of a hand spinning a record inside a person's opened head, hypnotized eyes](/writing/the-demons-are-real-theyre-just-smaller-than-we-thought/the-demons-are-real-theyre-just-smaller-than-we-thought-7.webp)
 
 In the Balkans, where 80–90% carry parasites, you have an entire possessed population. And what do the possessed do? They create systems that perpetuate possession. They don’t treat animals. They mock those who cleanse. The parasites have won — they’ve created a culture that ensures their survival.
 

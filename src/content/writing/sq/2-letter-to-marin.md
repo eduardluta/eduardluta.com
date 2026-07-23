@@ -56,4 +56,4 @@ Dua ta mbyll këtë letër me fjalët e psikologut të madh Viktor Frankl:
 Me dashuri, Babi ❤  
 Prishtinë, 17 gusht 2024
 
-![](/writing/2-letter-to-marin/2-letter-to-marin-1.webp)
+![Babë e bir të përqafuar pranë një tabele të pikturuar për Ditën e Babait](/writing/2-letter-to-marin/2-letter-to-marin-1.webp)

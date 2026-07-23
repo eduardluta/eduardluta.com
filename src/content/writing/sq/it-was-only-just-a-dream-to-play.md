@@ -4,7 +4,7 @@ date: 2023-04-11
 description: "Po sikur jeta të jetë veç një ëndërr? Po sikur të jetë një ëndërr për të luajtur dhe për t'u kënaqur? Imagjino sikur e gjithë jeta të jetë thjesht një lojë!"
 ---
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)
+![Siluetë njeriu nën qiellin plot yje, me një citat për jetën si ëndërr](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-1.webp)
 
 Po sikur jeta të jetë veç një ëndërr?  
 Po sikur të jetë veç një ëndërr për të luajtur dhe për t'u kënaqur?  
@@ -13,7 +13,7 @@ Imagjino sikur e gjithë jeta të jetë thjesht një lojë!
 Një lojë ku fitojnë vetëm ata që kënaqen më së shumti.  
 Vetëm ai që argëtohet mund ta zhvillojë avatarin e vet deri në formën përfundimtare.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-2.webp)
+![Luftëtar anime me flokë të bardhë vezullues, i rrethuar nga një aurë e ndritshme](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-2.webp)
 
 Për të arritur çfarëdo, duhet ta shijosh. Duhet të jetë qejf, përndryshe është thjesht punë — dhe puna është e mërzitshme, e ne nuk durojmë gjatë gjëra të mërzitshme.
 
@@ -27,7 +27,7 @@ Dhe kur e mendoj këtë, e kuptoj qartë edhe se programimi ynë është aq anti
 
 Mendo veç për një moment: shkolla, puna, institucionet, qeveria — super serioze. S'ka vend për qejf.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-3.webp)
+![Ilustrim i vjetër frenologjie që e ndan mendjen në kutiza me tipare të etiketuara](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-3.webp)
 
 Në anën tjetër: mendo familjen, mendo darkat e zakonshme familjare — super serioze.
 
@@ -43,7 +43,7 @@ Dhe ato janë këto momente të vogla mes gjithë kësaj: idetë spontane, çilt
 
 Mendoj se si fëmijë kurrë s'kemi pasur problem të argëtohemi vërtet — qejf i madh gjithë kohën. Prandaj koha ishte aq e parëndësishme: e matnim me qejf, jo me orë.
 
-![](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-4.webp)
+![Fëmijë duke kërcyer plot gëzim nëpër ujin e spërkatëses në oborr](/writing/it-was-only-just-a-dream-to-play/it-was-only-just-a-dream-to-play-4.webp)
 
 Jam pothuajse i sigurt se kjo humbje e qejfit nis atëherë kur fillojmë të mos jemi më versioni ynë autentik. Momenti kur tabutë hyjnë në jetën tonë, momenti kur fillojmë ta luajmë lojën e statusit.
 

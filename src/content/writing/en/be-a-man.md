@@ -6,7 +6,7 @@ description: "My mind, like many others, connects the dots between different tho
 
 My mind, like many others, connects the dots between different thoughts, creating a train of ideas that leads to a conclusion, an idea, or a concept. Often, these thoughts are too complex, so we simplify by sharing just the conclusion — but that’s like reading the summary of a book: it’s good, but lacks context. Today, I’ll try to share not just my thoughts, but also some of the context behind them.
 
-![](/writing/be-a-man/be-a-man-1.webp)
+![Bold white block letters spelling "BE A MAN!" on a black background](/writing/be-a-man/be-a-man-1.webp)
 
 — — —
 
