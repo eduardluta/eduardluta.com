@@ -64,7 +64,7 @@ export function articleSchema(opts: {
     inLanguage: opts.lang,
     datePublished: opts.datePublished,
     dateModified: opts.dateModified ?? opts.datePublished,
-    mainEntityOfPage: { '@type': 'WebPage', '@id': opts.url },
+    mainEntityOfPage: { '@id': `${opts.url}#webpage` },
     url: opts.url,
     image: opts.image,
     isAccessibleForFree: true,

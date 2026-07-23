@@ -42,9 +42,10 @@ const schemaImage = new URL(
   description={article.data.description}
   ogType="article"
   image={cardImage}
-  imageAlt={article.data.heroImageAlt ?? article.data.title}
+  imageAlt={article.data.heroImage ? article.data.heroImageAlt ?? article.data.title : undefined}
   publishedTime={published}
   modifiedTime={modified}
+  pageSchema={{ mainEntity: { '@id': `${url}#article` } }}
   jsonLd={[
     articleSchema({
       title: article.data.title,

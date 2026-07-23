@@ -10,7 +10,9 @@ export async function GET(context: APIContext) {
     title: `${SITE_NAME} — Shkrime`,
     description:
       'Ese dhe shënime nga Eduard Luta për vetëdijen, kodin, marketingun dhe modelet që i lidhin të gjitha.',
-    site: context.site!,
+    // Channel <link> = the HTML page this feed corresponds to. Item links are
+    // root-relative, so they still resolve against the origin.
+    site: new URL('/sq/writing/', context.site).href,
     items: articles.map((article) => ({
       title: article.data.title,
       pubDate: article.data.date,

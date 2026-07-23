@@ -6,8 +6,9 @@
 // The key is public by design: hosting /<key>.txt at the site root is what proves
 // domain control (see public/<key>.txt). Fail-soft throughout — a flaky ping must
 // never affect the server.
-import { readFile } from 'node:fs/promises';
+import { readFile, writeFile, access } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 
 const HOST = 'eduardluta.com';
@@ -24,6 +25,16 @@ async function urlsFromSitemap() {
 
 async function ping() {
   try {
+    // One ping per deployment: a process-supervisor crash loop inside the same
+    // container must not resubmit unchanged URLs (IndexNow deprioritizes hosts
+    // that spam identical submissions). Fresh deploys get a fresh filesystem.
+    const marker = join(
+      tmpdir(),
+      `indexnow-${process.env.RAILWAY_DEPLOYMENT_ID ?? 'local'}`
+    );
+    if (await access(marker).then(() => true, () => false)) return;
+    await writeFile(marker, new Date().toISOString());
+
     const urlList = await urlsFromSitemap();
     if (urlList.length === 0) return;
     const res = await fetch('https://api.indexnow.org/indexnow', {

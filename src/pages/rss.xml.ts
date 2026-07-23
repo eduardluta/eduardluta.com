@@ -10,7 +10,9 @@ export async function GET(context: APIContext) {
     title: `${SITE_NAME} — Writing`,
     description:
       "Essays and notes by Eduard Luta on consciousness, code, marketing, and the patterns connecting them all.",
-    site: context.site!,
+    // Channel <link> = the HTML page this feed corresponds to. Item links are
+    // root-relative, so they still resolve against the origin.
+    site: new URL('/writing/', context.site).href,
     items: articles.map((article) => ({
       title: article.data.title,
       pubDate: article.data.date,

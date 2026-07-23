@@ -35,6 +35,9 @@ const REDIRECTS = {
   '/worth-the-time.html': '/writing/',
 };
 app.use((req, res, next) => {
+  // Never build a redirect from a path that could be read as protocol-relative
+  // (//evil.com) or backslash-normalized by browsers — open-redirect guard.
+  if (req.path.startsWith('//') || req.path.includes('\\')) return next();
   // Preserve query strings across redirects (e.g. utm params).
   const qs = req.originalUrl.includes('?')
     ? req.originalUrl.slice(req.originalUrl.indexOf('?'))
@@ -78,9 +81,9 @@ const port = Number(process.env.PORT) || 4321;
 const host = process.env.HOST || '0.0.0.0';
 app.listen(port, host, () => {
   console.log(`eduardluta.com listening on http://${host}:${port}`);
-  // IndexNow: tell Bing & friends the deployed URLs changed. Railway-only (the
-  // env var only exists there), fire-and-forget, fail-soft inside the script.
-  if (process.env.RAILWAY_ENVIRONMENT_NAME) {
+  // IndexNow: tell Bing & friends the deployed URLs changed. Production-only,
+  // fire-and-forget, fail-soft inside the script (which also dedupes per deploy).
+  if (process.env.RAILWAY_ENVIRONMENT_NAME === 'production') {
     import('./scripts/indexnow-ping.mjs').catch(() => {});
   }
 });
