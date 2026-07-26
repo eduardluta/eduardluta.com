@@ -715,6 +715,40 @@ a.project-name:hover {
   letter-spacing: 0.03em;
   color: var(--muted);
 }
+.article-embed {
+  width: 100%;
+  margin: 44px 0;
+}
+.article-embed iframe {
+  display: block;
+  width: 100%;
+  border: 1px solid rgba(var(--ink-rgb), 0.12);
+  border-radius: 6px;
+  background: rgba(var(--ink-rgb), 0.04);
+}
+.article-embed--video iframe {
+  aspect-ratio: 16 / 9;
+  height: auto;
+}
+.article-embed--linkedin {
+  max-width: 560px;
+  margin-inline: auto;
+}
+.article-embed--linkedin iframe {
+  min-height: 760px;
+}
+.article-embed .article-embed-caption {
+  margin: 12px 0 0;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  color: var(--muted);
+}
+.article-embed .article-embed-caption em {
+  font-style: normal;
+}
 .article-body hr {
   border: 0;
   height: 1px;
