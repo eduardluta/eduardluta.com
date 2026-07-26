@@ -18,8 +18,9 @@ const { Content } = await render(article);
   <time class="article-date" datetime={isoDate(article.data.date)}>{formatDateLong(article.data.date, lang)}</time>
 </div>
 
-<article>
+<article class:list={['article', { 'article--feature': article.data.standfirst }]}>
   <h1 class="article-title">{article.data.title}</h1>
+  {article.data.standfirst && <p class="article-standfirst">{article.data.standfirst}</p>}
   <div class="article-body">
     <Content />
   </div>

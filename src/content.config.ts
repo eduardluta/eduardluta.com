@@ -12,6 +12,8 @@ const writing = defineCollection({
     /** Set when an essay is meaningfully edited after publishing; feeds dateModified / lastmod. */
     updated: z.coerce.date().optional(),
     description: z.string(),
+    /** Optional editorial deck displayed between the title and article body. */
+    standfirst: z.string().optional(),
     /** List-page hook: a striking quote or question from the essay itself. Falls back to description. */
     teaser: z.string().optional(),
     /** Topic tags shared verbatim between the en/sq pair; feed schema keywords. */

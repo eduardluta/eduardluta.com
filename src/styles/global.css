@@ -620,6 +620,15 @@ a.project-name:hover {
   margin-bottom: 36px;
   text-wrap: balance;
 }
+.article-standfirst {
+  max-width: 650px;
+  margin: -12px 0 34px;
+  font-family: var(--font-serif);
+  font-size: 21px;
+  line-height: 1.55;
+  color: var(--muted);
+  text-wrap: pretty;
+}
 .article-body {
   font-family: var(--font-serif);
   font-size: 19px;
@@ -715,6 +724,38 @@ a.project-name:hover {
   letter-spacing: 0.03em;
   color: var(--muted);
 }
+.article-figure {
+  margin: 36px 0;
+}
+.article-figure--wide {
+  width: min(900px, calc(100vw - 80px));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.article-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(var(--ink-rgb), 0.12);
+  border-radius: 6px;
+}
+.article-figure figcaption {
+  max-width: 700px;
+  margin: 11px auto 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  text-align: center;
+}
+.article-figure figcaption strong {
+  color: rgba(var(--ink-rgb), 0.84);
+  font-weight: 600;
+}
+.article-figure--documentary {
+  margin-top: 24px;
+}
 .article-embed {
   width: 100%;
   margin: 44px 0;
@@ -748,6 +789,38 @@ a.project-name:hover {
 }
 .article-embed .article-embed-caption em {
   font-style: normal;
+}
+.article--feature .article-title {
+  margin-bottom: 30px;
+}
+.article--feature .article-body {
+  font-size: 18px;
+  line-height: 1.68;
+}
+.article--feature .article-body p {
+  margin-bottom: 20px;
+}
+.article--feature .article-body h2 {
+  margin: 46px 0 14px;
+}
+.article--feature .article-body h3 {
+  margin: 34px 0 12px;
+}
+.article--feature .article-body blockquote {
+  margin: 28px 0;
+}
+.article--feature .article-embed {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+.article--feature .article-embed--video {
+  width: min(840px, calc(100vw - 80px));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.article--feature .article-embed--linkedin {
+  margin-right: auto;
+  margin-left: auto;
 }
 .article-body hr {
   border: 0;
@@ -984,6 +1057,18 @@ a.project-name:hover {
   }
   .main {
     padding-top: 56px;
+  }
+  .article-standfirst {
+    margin-bottom: 28px;
+    font-size: 18px;
+  }
+  .article--feature .article-body {
+    font-size: 17px;
+    line-height: 1.68;
+  }
+  .article-figure--wide,
+  .article--feature .article-embed--video {
+    width: calc(100vw - 36px);
   }
   /* Narrow screens: the date / reading-time meta sits under the title for every
      row, instead of competing with it for line width. */

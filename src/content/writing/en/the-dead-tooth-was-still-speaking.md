@@ -2,6 +2,7 @@
 title: "The Dead Tooth Was Still Speaking"
 date: 2026-07-26
 description: "An ayahuasca message, two infected root-canal teeth, and the connection between oral health, cancer, biological dentistry, and the body."
+standfirst: "A silent ayahuasca ceremony in Norway pointed me toward one treated tooth. The scan found an infection. The extraction revealed two."
 teaser: "“The 3D scan found one infected tooth. The extraction revealed two.”"
 tags:
   - Ayahuasca
@@ -25,11 +26,21 @@ Then, near the end, one message arrived with such clean precision that I wrote i
 
 > **The tooth you repaired at the beginning of the year is making you sick. Remove it.**
 
-That was it.
-
-No explanation. No dental scan floating through another dimension. No instructions about what kind of dentist to find.
+That was it. No explanation. No dental scan floating through another dimension. No instructions about what kind of dentist to find.
 
 Just the tooth.
+
+<figure class="article-figure article-figure--wide">
+  <img
+    src="/writing/the-dead-tooth-was-still-speaking/norway-silence-editorial.webp"
+    alt="Editorial illustration of a quiet candlelit retreat room overlooking a Norwegian forest at night"
+    width="1600"
+    height="960"
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption><strong>Editorial illustration.</strong> The night in Norway was not psychedelic. Its silence was the experience.</figcaption>
+</figure>
 
 ## The Tooth Everyone Said Was Fine
 
@@ -88,15 +99,25 @@ I had already been looking into what people call **biological dentistry** for a 
 
 Teeth share blood supply, nerves, bone, immune activity, bacteria, and inflammation with the rest of us. The [American Dental Association’s overview of oral-systemic health](https://www.ada.org/resources/ada-library/oral-health-topics/oral-systemic-health) makes the careful version of this point: oral disease is associated with conditions elsewhere in the body, although proving direct causality is much harder.
 
+<figure class="article-figure article-figure--wide">
+  <img
+    src="/writing/the-dead-tooth-was-still-speaking/mouth-body-editorial.webp"
+    alt="Conceptual editorial illustration connecting the mouth with the body's vascular and immune systems"
+    width="1600"
+    height="837"
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption><strong>Conceptual illustration.</strong> The mouth shares circulation, nerves, bone, bacteria, and immune activity with the rest of the body. It is not a separate machine.</figcaption>
+</figure>
+
 ### My Mother’s Right Side
 
 This was not the first time the connection between teeth and the rest of the body entered my family.
 
 After my mother developed breast cancer, serious infections were found in the teeth on one side of her mouth. She eventually had to remove all the teeth on that side.
 
-Her breast cancer was on the **right side**.
-
-The infected teeth that had to go were also on the **right side**.
+Her breast cancer was on the **right side**. The infected teeth that had to go were also on the **right side**.
 
 Right breast. Right jaw.
 
@@ -145,6 +166,18 @@ This changed everything.
 
 We did a cone-beam computed tomography scan — a **CBCT**, the three-dimensional scan used in dentistry to see teeth, roots, and surrounding bone from multiple angles.
 
+<figure class="article-figure article-figure--wide">
+  <img
+    src="/writing/the-dead-tooth-was-still-speaking/root-canal-editorial.webp"
+    alt="Editorial anatomical cutaway of two neighboring root-canal-treated molars and inflammation around a root tip"
+    width="1536"
+    height="1024"
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption><strong>Editorial anatomical illustration—not my scan.</strong> A treated tooth can still require investigation when bacteria persist, anatomy is missed, or the seal fails.</figcaption>
+</figure>
+
 The newer root-canal-treated tooth showed a suspicious area consistent with infection around it.
 
 There it was.
@@ -159,9 +192,7 @@ So we made the decision to remove the newer one.
 
 During the procedure, while my dentist was working to remove the first tooth, the older root-canal-treated tooth beside it fractured.
 
-Suddenly, the plan changed.
-
-One tooth became two.
+Suddenly, the plan changed. One tooth became two.
 
 He had to remove both of them. And when they were finally outside my body, the surprise was not that one looked diseased.
 
@@ -169,9 +200,17 @@ He had to remove both of them. And when they were finally outside my body, the s
 
 *The photograph below is graphic. It is also the most honest image in this article.*
 
-![Two root-canal-treated teeth and fragments immediately after extraction](/writing/the-dead-tooth-was-still-speaking/the-dead-tooth-was-still-speaking-1.webp)
-
-*My two root-canal-treated teeth immediately after extraction — 26.07.2026.*
+<figure class="article-figure article-figure--documentary">
+  <img
+    src="/writing/the-dead-tooth-was-still-speaking/the-dead-tooth-was-still-speaking-1.webp"
+    alt="Two root-canal-treated teeth and fragments immediately after extraction"
+    width="1600"
+    height="1200"
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption><strong>Clinical photograph.</strong> My two root-canal-treated teeth immediately after extraction — 26.07.2026.</figcaption>
+</figure>
 
 My dentist’s assessment after the extraction was that both teeth were infected and compromised. The newer root canal appeared poorly completed, matching what the scan had suggested. But the older tooth — the one that looked acceptable on the 3D image — also appeared badly affected once it was out.
 
