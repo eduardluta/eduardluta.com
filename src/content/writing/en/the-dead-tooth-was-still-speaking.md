@@ -1,6 +1,7 @@
 ---
 title: "The Dead Tooth Was Still Speaking"
 date: 2026-07-26
+updated: 2026-07-28
 description: "An ayahuasca message, two infected root-canal teeth, and the connection between oral health, cancer, biological dentistry, and the body."
 standfirst: "A silent ayahuasca ceremony in Norway pointed me toward one treated tooth. The scan found an infection. The extraction revealed two."
 teaser: "“The 3D scan found one infected tooth. The extraction revealed two.”"
@@ -111,6 +112,59 @@ Teeth share blood supply, nerves, bone, immune activity, bacteria, and inflammat
   <figcaption><strong>Conceptual illustration.</strong> The mouth shares circulation, nerves, bone, bacteria, and immune activity with the rest of the body. It is not a separate machine.</figcaption>
 </figure>
 
+### Where My Two Teeth Sit on the Meridian Map
+
+There is another map that appears again and again once you enter the world of biological dentistry: the **tooth-organ meridian chart**.
+
+It combines the meridian theory of Traditional Chinese Medicine with a later system called Electroacupuncture According to Voll, or EAV. Different versions disagree on some details, but the broad tooth groups are usually similar. An [evidence-aware biological-dentistry overview](https://holistic-dentist.eu/teeth-and-organs-tooth-meridian-chart/) describes it honestly as an interpretive lens rather than anatomical wiring.
+
+Now that I know exactly where my teeth were, I can place them on that map.
+
+They were on the **upper-left side**, the second and third teeth after the eye tooth. Counting backward from the canine toward the molars, that most likely means:
+
+- **FDI 25 / Universal 13** — the upper-left second premolar.
+- **FDI 26 / Universal 14** — the upper-left first molar.
+
+The [American Dental Association’s numbering table](https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/publications/cdt/universal_tooth_designation_system_valueset_2.pdf) confirms those conventional tooth names and numbers.
+
+<figure class="article-figure article-figure--wide article-figure--map">
+  <picture>
+    <source
+      media="(max-width: 640px)"
+      srcset="/writing/the-dead-tooth-was-still-speaking/tooth-organ-meridian-map-mobile.svg"
+      width="720"
+      height="1080"
+    />
+    <img
+      src="/writing/the-dead-tooth-was-still-speaking/tooth-organ-meridian-map.svg"
+      alt="Focused traditional tooth-organ meridian map highlighting the extracted upper-left teeth 25 and 26"
+      width="1200"
+      height="760"
+      loading="lazy"
+      decoding="async"
+    />
+  </picture>
+  <figcaption><strong>Focused meridian-map excerpt.</strong> Traditional associations compiled from common EAV/Voll-style charts. This is not clinical anatomy or a diagnostic tool.</figcaption>
+</figure>
+
+In the common version of the map, **tooth 25** belongs to the **lung–large-intestine meridian group**, often accompanied by the sinuses. Some expanded charts add the thymus.
+
+**Tooth 26** belongs to the **stomach–spleen/pancreas group**, often accompanied by the maxillary sinus. Expanded versions, including the [Riordan Clinic’s published tooth-organ chart](https://riordanclinic.org/wp-content/uploads/2019/04/tooth-organ-chart.pdf), also place the thyroid and mammary gland beside this upper-molar region.
+
+So the two teeth were physically side by side, but the map places them at the border of two different systems:
+
+> **Breath and elimination on one side. Digestion and metabolism on the other.**
+
+And then there is the mammary-gland reference beside the first molar. Of course, that immediately made me think about my mother.
+
+But this is where curiosity must remain honest.
+
+[Meridian tooth charts have not been scientifically validated](https://www.colgate.com/en-us/oral-health/adult-oral-care/what-is-a-meridian-tooth-chart), and the charts themselves vary. They cannot tell me that an infected tooth damaged one of those organs—or that removing it healed one. The verified correlation in my case is dental: both teeth had received root canals, both were compromised when removed, and one showed infection on the 3D scan.
+
+The map did not diagnose my teeth.
+
+**It gave me another symbolic language for looking at what the scan and extraction had already made physical.**
+
 ### My Mother’s Right Side
 
 This was not the first time the connection between teeth and the rest of the body entered my family.
@@ -120,6 +174,8 @@ After my mother developed breast cancer, serious infections were found in the te
 Her breast cancer was on the **right side**. The infected teeth that had to go were also on the **right side**.
 
 Right breast. Right jaw.
+
+Seeing the mammary gland appear beside the upper-molar region on some versions of the chart made this memory feel even stranger. But I do not know the exact numbers of my mother’s infected teeth, so I cannot honestly claim a tooth-by-tooth match. My own extracted teeth were on the left; hers were on the right.
 
 The documentary makes much bigger claims around these same-side patterns. Seeing the pattern in my own mother made it impossible for me to dismiss emotionally. But I also cannot tell you that those teeth caused her cancer. One family story cannot prove that, and I found no reliable evidence that the side of a breast tumor can be mapped directly to infected teeth on the same side of the mouth.
 
