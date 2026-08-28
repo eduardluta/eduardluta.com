@@ -44,7 +44,7 @@ These Illyrian tribes were the last to submit when Macragge was first unified un
 
 Now for me it gets even more crazy, hear me out:
 
-1st Level — I — Sub level — who owns a Submariner Rolex  
+1st Level — I own a Submariner Rolex — Sub level  
 2nd Level — Marin my son — Ground Level  
 3rd Level — Ultramarines — Higher Self
 

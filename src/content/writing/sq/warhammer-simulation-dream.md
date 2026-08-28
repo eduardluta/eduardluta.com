@@ -44,7 +44,7 @@ Këto fise ilire ishin të fundit që u nënshtruan kur Macragge u bashkua për 
 
 Tani për mua bëhet edhe më e çmendur, dëgjomëni:
 
-Niveli 1 — Unë — Nënnivel — që zotëron një Rolex Submariner  
+Niveli 1 — Unë zotëroj një Rolex Submariner — Nënnivel  
 Niveli 2 — Marini, djali im — Niveli i tokës  
 Niveli 3 — Ultramarinët — Vetja më e lartë
 
