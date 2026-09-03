@@ -1,6 +1,7 @@
 ---
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { recommendations } from '../../data/recommendations';
+import { featured } from '../../data/featured';
 import type { Article } from '../../lib/writing';
 import PostList from '../PostList.astro';
 
@@ -32,6 +33,19 @@ const t = useTranslations(lang);
           </a>
         )}
       </div>
+    ))}
+  </div>
+</section>
+
+<section class="featured" aria-labelledby="featured-heading">
+  <h2 class="view-title" id="featured-heading">{t('featured.title')}</h2>
+  <p class="view-sub" style="margin-bottom:22px">{t('featured.subtitle')}</p>
+  <div>
+    {featured.map((item) => (
+      <a class="featured-item" href={item.url} target="_blank" rel="noopener noreferrer">
+        <span class="featured-title">{item.title}</span>
+        <span class="featured-source">{item.outlet} ↗</span>
+      </a>
     ))}
   </div>
 </section>

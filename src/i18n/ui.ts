@@ -53,6 +53,8 @@ export const ui = {
     'writing.minRead': 'min read',
     'worth.title': 'Worth the time',
     'worth.subtitle': 'Words I keep coming back to.',
+    'featured.title': 'Featured',
+    'featured.subtitle': 'Interviews and coverage elsewhere.',
 
     'building.title': 'Building',
     'building.subtitle': "Things I'm making at the intersection of AI and meaning.",
@@ -123,6 +125,8 @@ export const ui = {
     'writing.minRead': 'min lexim',
     'worth.title': 'Ia vlen koha',
     'worth.subtitle': 'Fjalë tek të cilat kthehem.',
+    'featured.title': 'Të përzgjedhura',
+    'featured.subtitle': 'Intervista dhe mbulim mediatik gjetiu.',
 
     'building.title': 'Projekte',
     'building.subtitle': 'Gjëra që po ndërtoj në kryqëzimin e AI-së dhe kuptimit.',

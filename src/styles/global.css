@@ -384,6 +384,38 @@ body.nl-open {
   color: var(--ink);
 }
 
+/* Featured — external coverage ------------------------------------------ */
+.featured {
+  margin-top: 54px;
+  padding-top: 28px;
+  border-top: 1px solid rgba(var(--ink-rgb), 0.12);
+}
+.featured-item {
+  display: block;
+  padding: 14px 0;
+  border-bottom: 1px solid rgba(var(--ink-rgb), 0.1);
+}
+.featured-item:last-child {
+  border-bottom: none;
+}
+.featured-title {
+  font-size: 13.5px;
+}
+.featured-item:hover .featured-title {
+  color: var(--accent);
+}
+.featured-source {
+  display: block;
+  margin-top: 6px;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.featured-item:hover .featured-source {
+  color: var(--accent);
+}
+
 /* Building -------------------------------------------------------------- */
 .project {
   padding: 20px 0;
