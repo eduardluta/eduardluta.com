@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="273.6pt" height="748.8pt" viewBox="0 0 273.6 748.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 748.8
+L 273.6 748.8
+L 273.6 0
+L 0 0
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 71.136 307.008
+L 246.24 307.008
+L 246.24 179.712
+L 71.136 179.712
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 71.136 307.008
+L 71.136 179.712
+" clip-path="url(#p8698b162b5)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="71.136" y="323.605656" transform="rotate(-0 71.136 323.605656)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 122.637176 307.008
+L 122.637176 179.712
+" clip-path="url(#p8698b162b5)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="122.637176" y="323.605656" transform="rotate(-0 122.637176 323.605656)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 174.138353 307.008
+L 174.138353 179.712
+" clip-path="url(#p8698b162b5)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="174.138353" y="323.605656" transform="rotate(-0 174.138353 323.605656)">4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 225.639529 307.008
+L 225.639529 179.712
+" clip-path="url(#p8698b162b5)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="225.639529" y="323.605656" transform="rotate(-0 225.639529 323.605656)">6</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="63.136" y="217.610022" transform="rotate(-0 63.136 217.610022)">Kosovo</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="63.136" y="278.227165" transform="rotate(-0 63.136 278.227165)">Germany</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 71.136 226.3872
+L 197.056376 226.3872
+L 197.056376 199.715657
+L 71.136 199.715657
+z
+" clip-path="url(#p8698b162b5)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 71.136 287.004343
+L 172.078306 287.004343
+L 172.078306 260.3328
+L 71.136 260.3328
+z
+" clip-path="url(#p8698b162b5)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="200.908664" y="216.168616" transform="rotate(-0 200.908664 216.168616)">€4.89</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="175.930594" y="276.785759" transform="rotate(-0 175.930594 276.785759)">€3.92</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 71.136 520.416
+L 246.24 520.416
+L 246.24 393.12
+L 71.136 393.12
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_11">
+      <path d="M 71.136 520.416
+L 71.136 393.12
+" clip-path="url(#pde1bb56afe)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="71.136" y="537.013656" transform="rotate(-0 71.136 537.013656)">0.0%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_13">
+      <path d="M 149.307429 520.416
+L 149.307429 393.12
+" clip-path="url(#pde1bb56afe)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="149.307429" y="537.013656" transform="rotate(-0 149.307429 537.013656)">0.5%</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <path d="M 227.478857 520.416
+L 227.478857 393.12
+" clip-path="url(#pde1bb56afe)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="227.478857" y="537.013656" transform="rotate(-0 227.478857 537.013656)">1.0%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="63.136" y="431.018022" transform="rotate(-0 63.136 431.018022)">Kosovo</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="63.136" y="491.635165" transform="rotate(-0 63.136 491.635165)">Germany</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 71.136 439.7952
+L 191.343008 439.7952
+L 191.343008 413.123657
+L 71.136 413.123657
+z
+" clip-path="url(#pde1bb56afe)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 71.136 500.412343
+L 93.333175 500.412343
+L 93.333175 473.7408
+L 71.136 473.7408
+z
+" clip-path="url(#pde1bb56afe)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="194.782551" y="429.576616" transform="rotate(-0 194.782551 429.576616)">0.77%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="96.772718" y="490.193759" transform="rotate(-0 96.772718 490.193759)">0.14%</text>
+   </g>
+  </g>
+  <g id="line2d_19">
+   <path d="M 15.048 621.5328
+L 258.552 621.5328
+" style="fill: none; stroke: #d9d3c8; stroke-linecap: square"/>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 19px; font-family: 'Georgia'; fill: #1b1712" transform="translate(15.048 62.956848)">One small basket. Two</text>
+   <text style="font-size: 19px; font-family: 'Georgia'; fill: #1b1712" transform="translate(15.048 82.797746)">measures.</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(15.048 111.937326)">One listed unit each of milk, rice,</text>
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(15.048 125.740471)">flour and sugar</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5d4f" x="15.048" y="157.248" transform="rotate(-0 15.048 157.248)">1 / Combined price · euros</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #2f5d4f" transform="translate(15.048 348.765656)">2 / Share of reported monthly</text>
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #2f5d4f" transform="translate(15.048 363.168)">net wage</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #2f5d4f" transform="translate(15.048 573.405656)">Kosovo’s wage share is 5.42×</text>
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #2f5d4f" transform="translate(15.048 587.808)">Germany’s.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="646.992" transform="rotate(-0 15.048 646.992)">Calculated from KAS, ALDI Nord and Destatis</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="662.112" transform="rotate(-0 15.048 662.112)">data.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="677.232" transform="rotate(-0 15.048 677.232)">Prices: Aug / Sep 2026 · Wages: 2025.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="692.352" transform="rotate(-0 15.048 692.352)">Methods differ.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="707.472" transform="rotate(-0 15.048 707.472)">Four-item illustration; not a cost-of-</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="722.592" transform="rotate(-0 15.048 722.592)">living index.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8698b162b5">
+   <rect x="71.136" y="179.712" width="175.104" height="127.296"/>
+  </clipPath>
+  <clipPath id="pde1bb56afe">
+   <rect x="71.136" y="393.12" width="175.104" height="127.296"/>
+  </clipPath>
+ </defs>
+</svg>

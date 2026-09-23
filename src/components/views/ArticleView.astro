@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { localizePath, formatDateLong, isoDate } from '../../i18n/utils';
 import type { Article } from '../../lib/writing';
+import ArticleVideo from '../ArticleVideo.astro';
 
 interface Props {
   lang: Lang;
@@ -19,8 +20,10 @@ const { Content } = await render(article);
 </div>
 
 <article class:list={['article', { 'article--feature': article.data.standfirst }]}>
+  {article.data.draft && <p class="article-draft">{lang === 'sq' ? 'Draft lokal · I pabotuar' : 'Local draft · Unpublished'}</p>}
   <h1 class="article-title">{article.data.title}</h1>
   {article.data.standfirst && <p class="article-standfirst">{article.data.standfirst}</p>}
+  {article.data.video && <ArticleVideo video={article.data.video} title={article.data.title} lang={lang} />}
   <div class="article-body">
     <Content />
   </div>

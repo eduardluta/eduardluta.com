@@ -1,0 +1,49 @@
+{
+  "retrieved_on": "2026-09-23",
+  "currency": "EUR",
+  "wages": {
+    "year": 2025,
+    "measure": "Reported average net monthly employee wages; national methods differ",
+    "kosovo": 636,
+    "germany": 2761,
+    "germany_source_revision": "2026-08-25",
+    "sources": {
+      "kosovo": "https://askapi.rks-gov.net/Custom/025496fc-bdb2-4c73-9e51-7ae54c2ba1a6.pdf",
+      "germany": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/inlandsprodukt-gesamtwirtschaft.html"
+    }
+  },
+  "prices": {
+    "kosovo_period": "2026-08",
+    "germany_checked_on": "2026-09-23",
+    "kosovo_method": "KAS sampled average retail prices, table 3, page 10",
+    "germany_method": "ALDI Nord listed own-label prices; category comparisons, not identical SKUs",
+    "items": [
+      { "id": "milk", "unit": "1 L", "kosovo": 1.25, "germany": 0.95 },
+      { "id": "rice", "unit": "1 kg", "kosovo": 1.74, "germany": 1.39 },
+      { "id": "flour", "unit": "1 kg", "kosovo": 0.81, "germany": 0.59 },
+      { "id": "sugar", "unit": "1 kg", "kosovo": 1.09, "germany": 0.99 }
+    ],
+    "sources": {
+      "kosovo": "https://askapi.rks-gov.net/Custom/c64faecd-487b-4340-832d-5c024586a0c8.pdf",
+      "germany_rice": "https://www.aldi-nord.de/produkt/parboiled-reis-1939.html",
+      "germany_milk": "https://www.aldi-nord.de/sortiment/milchprodukte/milch-milchgetraenke.html",
+      "germany_flour_sugar": "https://www.aldi-nord.de/sortiment/vorraete/mehl-zucker.html"
+    }
+  },
+  "inflation": {
+    "month": "2026-08",
+    "comparison_month": "2025-08",
+    "country": "Kosovo",
+    "measure": "Reported year-on-year consumer price change, percent; food includes non-alcoholic beverages",
+    "food": 2.6,
+    "all_items": 7.3,
+    "source": "https://askapi.rks-gov.net/Custom/c64faecd-487b-4340-832d-5c024586a0c8.pdf"
+  },
+  "comparison_limits": [
+    "These four staple categories are an illustrative sample, not a representative cost-of-living basket.",
+    "Retail price dates, sampling methods and product specifications differ.",
+    "Wage shares divide 2026 prices by 2025 reported net monthly wages; national wage methods differ.",
+    "Neither wage figure is asserted to be a median or a harmonised full-time-equivalent measure.",
+    "Inflation figures are the published August 2026 year-on-year rates, not annual-average inflation or a comparison made by splicing index series."
+  ]
+}

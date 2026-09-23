@@ -1,5 +1,6 @@
 import { SITE } from '../consts';
 import { SITE_NAME, SITE_EMAIL, social, type Lang } from '../i18n/ui';
+import type { CollectionEntry } from 'astro:content';
 
 // Every helper returns a bare node (no '@context'): BaseLayout merges all nodes
 // for a page into a single { '@context', '@graph': [...] } script, so entity
@@ -55,6 +56,7 @@ export function articleSchema(opts: {
   image: string;
   wordCount?: number;
   tags?: string[];
+  videoId?: string;
 }) {
   return {
     '@type': 'BlogPosting',
@@ -67,6 +69,7 @@ export function articleSchema(opts: {
     mainEntityOfPage: { '@id': `${opts.url}#webpage` },
     url: opts.url,
     image: opts.image,
+    ...(opts.videoId ? { video: { '@id': opts.videoId } } : {}),
     isAccessibleForFree: true,
     ...(opts.wordCount ? { wordCount: opts.wordCount } : {}),
     ...(opts.tags && opts.tags.length
@@ -74,6 +77,30 @@ export function articleSchema(opts: {
       : {}),
     author: { '@id': `${SITE}/#person` },
     publisher: { '@id': `${SITE}/#person` },
+  };
+}
+
+export function videoSchema(opts: {
+  pageUrl: string;
+  video: NonNullable<CollectionEntry<'writing'>['data']['video']>;
+}) {
+  const { video, pageUrl } = opts;
+  const metadata = video.seo;
+  if (!metadata) return undefined;
+
+  // Markup describes the embedded video; it does not guarantee video indexing.
+  return {
+    '@type': 'VideoObject',
+    '@id': `${pageUrl}#video`,
+    name: metadata.name,
+    description: metadata.description,
+    uploadDate: metadata.uploadDate,
+    thumbnailUrl: new URL(video.poster, SITE).href,
+    embedUrl: `https://www.tiktok.com/player/v1/${video.id}?autoplay=0&controls=1&closed_caption=1&rel=0`,
+    url: video.url,
+    ...(metadata.durationSeconds ? { duration: `PT${metadata.durationSeconds}S` } : {}),
+    ...(metadata.language ? { inLanguage: metadata.language } : {}),
+    creator: { '@id': `${SITE}/#person` },
   };
 }
 

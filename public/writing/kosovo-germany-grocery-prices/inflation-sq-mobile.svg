@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="273.6pt" height="460.8pt" viewBox="0 0 273.6 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8
+L 273.6 460.8
+L 273.6 0
+L 0 0
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 30.096 308.736
+L 243.504 308.736
+L 243.504 124.416
+L 30.096 124.416
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(45.039353 331.195355)">Ushqime e pije</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(57.048259 344.398363)">joalkoolike</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(164.319788 331.195355)">Të gjithë</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(168.110491 344.398363)">artikujt</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_3">
+    <path d="M 30.096 308.736
+L 243.504 308.736
+" clip-path="url(#pf2450bf7d4)" style="fill: none; stroke: #d9d3c8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 58.042286 308.736
+L 113.934857 308.736
+L 113.934857 255.488
+L 58.042286 255.488
+z
+" clip-path="url(#pf2450bf7d4)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 159.665143 308.736
+L 215.557714 308.736
+L 215.557714 159.232
+L 159.665143 159.232
+z
+" clip-path="url(#pf2450bf7d4)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b1712" x="85.988571" y="244.673244" transform="rotate(-0 85.988571 244.673244)">2,6%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b1712" x="187.611429" y="148.417244" transform="rotate(-0 187.611429 148.417244)">7,3%</text>
+   </g>
+  </g>
+  <g id="line2d_4">
+   <path d="M 15.048 379.0368
+L 258.552 379.0368
+" style="fill: none; stroke: #d9d3c8; stroke-linecap: square"/>
+  </g>
+  <g id="text_5">
+   <text style="font-size: 19px; font-family: 'Georgia'; text-anchor: start; fill: #1b1712" x="15.048" y="43.862941" transform="rotate(-0 15.048 43.862941)">Çmimet ende po rriten</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(15.048 71.857326)">Kosovë · gusht 2026 kundrejt gushtit</text>
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #655e55" transform="translate(15.048 85.659572)">2025</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="394.704" transform="rotate(-0 15.048 394.704)">Burimi: ASK, statistikat e çmimeve, gusht</text>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="409.824" transform="rotate(-0 15.048 409.824)">2026.</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="424.944" transform="rotate(-0 15.048 424.944)">Norma kundrejt një viti më parë, jo</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="440.064" transform="rotate(-0 15.048 440.064)">mesatare vjetore.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf2450bf7d4">
+   <rect x="30.096" y="124.416" width="213.408" height="184.32"/>
+  </clipPath>
+ </defs>
+</svg>

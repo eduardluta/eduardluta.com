@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="273.6pt" height="619.2pt" viewBox="0 0 273.6 619.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 619.2
+L 273.6 619.2
+L 273.6 0
+L 0 0
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 84.816 467.496
+L 248.976 467.496
+L 248.976 207.432
+L 84.816 207.432
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 84.816 467.496
+L 84.816 207.432
+" clip-path="url(#p1fdbde362d)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="84.816" y="484.093656" transform="rotate(-0 84.816 484.093656)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 151.820082 467.496
+L 151.820082 207.432
+" clip-path="url(#p1fdbde362d)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="151.820082" y="484.093656" transform="rotate(-0 151.820082 484.093656)">1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 218.824163 467.496
+L 218.824163 207.432
+" clip-path="url(#p1fdbde362d)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="218.824163" y="484.093656" transform="rotate(-0 218.824163 484.093656)">2</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(22.131625 242.542477)">Qumësht</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(58.681 256.94482)">1 L</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(52.80475 304.462008)">Oriz</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(50.800375 318.865289)">1 kg</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(49.07725 366.382008)">Miell</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(50.800375 380.785289)">1 kg</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(34.274125 428.302008)">Sheqer</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1b1712" transform="translate(50.800375 442.705289)">1 kg</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 84.816 242.1072
+L 168.571102 242.1072
+L 168.571102 224.7696
+L 84.816 224.7696
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="171.586286" y="236.425705" transform="rotate(-0 171.586286 236.425705)">€1,25</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 84.816 264.3984
+L 148.469878 264.3984
+L 148.469878 247.0608
+L 84.816 247.0608
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="151.485061" y="258.716905" transform="rotate(-0 151.485061 258.716905)">€0,95</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 84.816 304.0272
+L 201.403102 304.0272
+L 201.403102 286.6896
+L 84.816 286.6896
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="204.418286" y="298.345705" transform="rotate(-0 204.418286 298.345705)">€1,74</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 84.816 326.3184
+L 177.951673 326.3184
+L 177.951673 308.9808
+L 84.816 308.9808
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="180.966857" y="320.636905" transform="rotate(-0 180.966857 320.636905)">€1,39</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 84.816 365.9472
+L 139.089306 365.9472
+L 139.089306 348.6096
+L 84.816 348.6096
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="142.10449" y="360.265705" transform="rotate(-0 142.10449 360.265705)">€0,81</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 84.816 388.2384
+L 124.348408 388.2384
+L 124.348408 370.9008
+L 84.816 370.9008
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="127.363592" y="382.556905" transform="rotate(-0 127.363592 382.556905)">€0,59</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 84.816 427.8672
+L 157.850449 427.8672
+L 157.850449 410.5296
+L 84.816 410.5296
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="160.865633" y="422.185705" transform="rotate(-0 160.865633 422.185705)">€1,09</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 84.816 450.1584
+L 151.150041 450.1584
+L 151.150041 432.8208
+L 84.816 432.8208
+z
+" clip-path="url(#p1fdbde362d)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="154.165224" y="444.476905" transform="rotate(-0 154.165224 444.476905)">€0,99</text>
+   </g>
+  </g>
+  <g id="line2d_11">
+   <path d="M 15.048 528.0192
+L 258.552 528.0192
+" style="fill: none; stroke: #d9d3c8; stroke-linecap: square"/>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 19px; font-family: 'Georgia'; fill: #1b1712" transform="translate(15.048 53.366941)">Katër produkte, dy mostra</text>
+   <text style="font-size: 19px; font-family: 'Georgia'; fill: #1b1712" transform="translate(15.048 75.554637)">çmimesh</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="103.010203" transform="rotate(-0 15.048 103.010203)">Çmimi për njësinë e shënuar · euro</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="549.072" transform="rotate(-0 15.048 549.072)">Burimet: ASK, gusht 2026 · ALDI Nord, 23</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="564.192" transform="rotate(-0 15.048 564.192)">shtator 2026.</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="579.312" transform="rotate(-0 15.048 579.312)">Mostra dhe produkte të ndryshme; krahasim</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="15.048" y="594.432" transform="rotate(-0 15.048 594.432)">sipas kategorisë.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_11">
+    <path d="M 19.1052 161.504203
+L 28.8802 161.504203
+L 28.8802 153.454203
+L 19.1052 153.454203
+z
+" style="fill: #2f5d4f; stroke: #2f5d4f; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="38.0802" y="161.504203" transform="rotate(-0 38.0802 161.504203)">Kosovë · mesatare ASK</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 19.1052 179.905102
+L 28.8802 179.905102
+L 28.8802 171.855102
+L 19.1052 171.855102
+z
+" style="fill: #8a8074; stroke: #8a8074; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="38.0802" y="179.905102" transform="rotate(-0 38.0802 179.905102)">Gjermani · ALDI Nord</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1fdbde362d">
+   <rect x="84.816" y="207.432" width="164.16" height="260.064"/>
+  </clipPath>
+ </defs>
+</svg>

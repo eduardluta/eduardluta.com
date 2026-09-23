@@ -6,7 +6,7 @@ import { useTranslations, SITE_NAME } from '../../i18n/ui';
 import { localizePath, isoDate } from '../../i18n/utils';
 import { SITE } from '../../consts';
 import { getArticles, firstBodyImage, countWords, type Article } from '../../lib/writing';
-import { articleSchema, breadcrumbSchema } from '../../lib/schema';
+import { articleSchema, breadcrumbSchema, videoSchema } from '../../lib/schema';
 
 export const getStaticPaths = (async () => {
   const articles = await getArticles('en');
@@ -24,6 +24,7 @@ const lang = 'en';
 const t = useTranslations(lang);
 
 const url = new URL(localizePath(`/writing/${article.slug}/`, lang), SITE).href;
+const video = article.data.video ? videoSchema({ pageUrl: url, video: article.data.video }) : undefined;
 const published = isoDate(article.data.date);
 const modified = article.data.updated ? isoDate(article.data.updated) : undefined;
 // Social cards keep the 1200x630 default unless an explicit heroImage is set
@@ -37,6 +38,7 @@ const schemaImage = new URL(
 
 <BaseLayout
   lang={lang}
+  noindex={article.data.draft}
   wide
   title={`${article.data.title} — ${SITE_NAME}`}
   description={article.data.description}
@@ -57,7 +59,9 @@ const schemaImage = new URL(
       image: schemaImage,
       wordCount: countWords(article.body),
       tags: article.data.tags,
+      videoId: video?.['@id'],
     }),
+    ...(video ? [video] : []),
     breadcrumbSchema([
       { name: SITE_NAME, url: localizePath('/', lang) },
       { name: t('writing.title'), url: localizePath('/writing/', lang) },

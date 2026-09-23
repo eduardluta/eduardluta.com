@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="547.2pt" height="504pt" viewBox="0 0 547.2 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504
+L 547.2 504
+L 547.2 0
+L 0 0
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 153.216 385.56
+L 503.424 385.56
+L 503.424 153.72
+L 153.216 153.72
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 153.216 385.56
+L 153.216 153.72
+" clip-path="url(#pe5f8b0d210)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="153.216" y="403.677188" transform="rotate(-0 153.216 403.677188)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 316.103442 385.56
+L 316.103442 153.72
+" clip-path="url(#pe5f8b0d210)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="316.103442" y="403.677188" transform="rotate(-0 316.103442 403.677188)">1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 478.990884 385.56
+L 478.990884 153.72
+" clip-path="url(#pe5f8b0d210)" style="fill: none; stroke: #d9d3c8; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #655e55" x="478.990884" y="403.677188" transform="rotate(-0 478.990884 403.677188)">2</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_4">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="141.216" y="192.158906" transform="rotate(-0 141.216 192.158906)">Milk · 1 L</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_5">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="141.216" y="247.358906" transform="rotate(-0 141.216 247.358906)">Rice · 1 kg</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="141.216" y="302.558906" transform="rotate(-0 141.216 302.558906)">Flour · 1 kg</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b1712" x="141.216" y="357.758906" transform="rotate(-0 141.216 357.758906)">Sugar · 1 kg</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 153.216 184.632
+L 356.825302 184.632
+L 356.825302 169.176
+L 153.216 169.176
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="364.155237" y="180.670602" transform="rotate(-0 364.155237 180.670602)">€1.25</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 153.216 204.504
+L 307.95907 204.504
+L 307.95907 189.048
+L 153.216 189.048
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="315.289005" y="200.542602" transform="rotate(-0 315.289005 200.542602)">€0.95</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 153.216 239.832
+L 436.640149 239.832
+L 436.640149 224.376
+L 153.216 224.376
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="443.970084" y="235.870602" transform="rotate(-0 443.970084 235.870602)">€1.74</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 153.216 259.704
+L 379.629544 259.704
+L 379.629544 244.248
+L 153.216 244.248
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="386.959479" y="255.742602" transform="rotate(-0 386.959479 255.742602)">€1.39</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 153.216 295.032
+L 285.154828 295.032
+L 285.154828 279.576
+L 153.216 279.576
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="292.484763" y="291.070602" transform="rotate(-0 292.484763 291.070602)">€0.81</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 153.216 314.904
+L 249.319591 314.904
+L 249.319591 299.448
+L 153.216 299.448
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="256.649526" y="310.942602" transform="rotate(-0 256.649526 310.942602)">€0.59</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 153.216 350.232
+L 330.763312 350.232
+L 330.763312 334.776
+L 153.216 334.776
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #2f5d4f"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="338.093247" y="346.270602" transform="rotate(-0 338.093247 346.270602)">€1.09</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 153.216 370.104
+L 314.474567 370.104
+L 314.474567 354.648
+L 153.216 354.648
+z
+" clip-path="url(#pe5f8b0d210)" style="fill: #8a8074"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="321.804502" y="366.142602" transform="rotate(-0 321.804502 366.142602)">€0.99</text>
+   </g>
+  </g>
+  <g id="line2d_11">
+   <path d="M 30.096 429.48
+L 517.104 429.48
+" style="fill: none; stroke: #d9d3c8; stroke-linecap: square"/>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 24px; font-family: 'Georgia'; text-anchor: start; fill: #1b1712" x="30.096" y="50.722031" transform="rotate(-0 30.096 50.722031)">Four staples, two retail samples</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 13.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="30.096" y="75.549937" transform="rotate(-0 30.096 75.549937)">Price per listed unit · euros</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 11.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="30.096" y="454.68" transform="rotate(-0 30.096 454.68)">Sources: KAS, Aug 2026 · ALDI Nord, 23 Sep 2026.</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 11.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #655e55" x="30.096" y="471.24" transform="rotate(-0 30.096 471.24)">Different retail samples; product categories, not identical SKUs.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_11">
+    <path d="M 35.1324 113.127891
+L 46.6074 113.127891
+L 46.6074 103.677891
+L 35.1324 103.677891
+z
+" style="fill: #2f5d4f; stroke: #2f5d4f; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="57.4074" y="113.127891" transform="rotate(-0 57.4074 113.127891)">Kosovo · KAS average</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 35.1324 134.728945
+L 46.6074 134.728945
+L 46.6074 125.278945
+L 35.1324 125.278945
+z
+" style="fill: #8a8074; stroke: #8a8074; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b1712" x="57.4074" y="134.728945" transform="rotate(-0 57.4074 134.728945)">Germany · ALDI Nord</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe5f8b0d210">
+   <rect x="153.216" y="153.72" width="350.208" height="231.84"/>
+  </clipPath>
+ </defs>
+</svg>

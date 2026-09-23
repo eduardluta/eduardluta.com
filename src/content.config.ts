@@ -21,6 +21,25 @@ const writing = defineCollection({
     /** Explicit social-card image (ideally 1200x630). Falls back to the first body image for JSON-LD only. */
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
+    /** Original TikTok video; the local poster remains available without the embed. */
+    video: z.object({
+      id: z.string().regex(/^\d+$/, 'TikTok video IDs contain digits only'),
+      url: z.string().url().refine((value) => {
+        const url = new URL(value);
+        return url.protocol === 'https:' && ['www.tiktok.com', 'tiktok.com'].includes(url.hostname);
+      }, 'Use the original HTTPS TikTok video URL'),
+      poster: z.string().regex(/^\/(?!\/)/, 'Use a local, root-relative poster path'),
+      posterAlt: z.string().min(1),
+      /** Optional complete metadata for VideoObject; uploadDate is the original video publication. */
+      seo: z.object({
+        name: z.string().trim().min(1),
+        description: z.string().trim().min(1),
+        uploadDate: z.string().datetime({ offset: true }),
+        durationSeconds: z.number().int().positive().optional(),
+        /** Spoken language of the video, independent of the article translation. */
+        language: z.string().regex(/^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$/).optional(),
+      }).optional(),
+    }).optional(),
     draft: z.boolean().default(false),
   }),
 });

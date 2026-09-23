@@ -7,6 +7,9 @@ public/social/
 .astro/
 # dependencies
 node_modules/
+# Local source snapshots, audio, and transcription models for the video article
+/work/video-article-research/
+/work/video-article-state/
 # netlify
 .netlify/
 # logs
