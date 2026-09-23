@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-09-23",
+  "selectedICTY": {
+    "Nikola Sainovic": 18,
+    "Nebojsa Pavkovic": 22,
+    "Vladimir Lazarevic": 14,
+    "Sreten Lukic": 20,
+    "Dragoljub Ojdanic": 15,
+    "Vlastimir Djordjevic": 18
+  },
+  "selectedKSC": {
+    "Hashim Thaci": 25,
+    "Kadri Veseli": 18,
+    "Rexhep Selimi": 13,
+    "Jakup Krasniqi": 25,
+    "Salih Mustafa": 15,
+    "Pjeter Shala": 13
+  },
+  "totalICTY": 107,
+  "totalKSC": 109,
+  "differenceYears": 2,
+  "differencePercentOfICTY": 1.8691588785046727,
+  "meanICTY": 17.833333333333332,
+  "meanKSC": 18.166666666666668,
+  "limitation": "Selected defendants; mixed procedural stages; not a legal proportionality measure, actual time served or national total.",
+  "sources": {
+    "fourTrialSentences2026": "https://www.scp-ks.org/en/cases/end-trial",
+    "Mustafa": "https://www.scp-ks.org/en/cases/salih-mustafa",
+    "Shala": "https://www.scp-ks.org/en/cases/pjeter-shala",
+    "SainovicEtAl": "https://www.icty.org/x/cases/milutinovic/cis/en/cis_sainovic_al_en.pdf",
+    "Djordjevic": "https://www.icty.org/x/cases/djordjevic/acjug/en/140127-summary.pdf"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-09-23",
+  "cycle": 2025,
+  "subjects": [
+    "mathematics",
+    "reading",
+    "science"
+  ],
+  "kosovoAtLeastLevel2Pct": [
+    15,
+    16,
+    21
+  ],
+  "oecdAtLeastLevel2Pct": [
+    65,
+    69,
+    74
+  ],
+  "gapPercentagePoints": [
+    50,
+    53,
+    53
+  ],
+  "kosovoBelowLevel2Pct": [
+    85,
+    84,
+    79
+  ],
+  "kosovoScores2022": [
+    355,
+    342,
+    357
+  ],
+  "kosovoScores2025": [
+    350,
+    340,
+    357
+  ],
+  "scorePointChanges": [
+    -5,
+    -2,
+    0
+  ],
+  "shoppingExample": {
+    "illustrative": true,
+    "notebooks": 2,
+    "notebookPrice": 1.2,
+    "pencils": 3,
+    "pencilPrice": 0.4,
+    "total": 3.6,
+    "payment": 5,
+    "change": 1.4,
+    "totalWithoutOnePencil": 3.2,
+    "changeWithoutOnePencil": 1.8
+  },
+  "sources": [
+    "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html",
+    "https://mash.rks-gov.net/en/news/publication-of-pisa-2025-results/"
+  ]
+}
