@@ -1,0 +1,989 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "id": "7688736975846870292",
+      "slug": "hamburg-camper-city-connections",
+      "publishedAt": "2026-09-23T14:26:24+00:00",
+      "durationSeconds": 64,
+      "url": "https://www.tiktok.com/@eduardluta/video/7688736975846870292"
+    },
+    {
+      "id": "7688468255735926036",
+      "slug": "albanians-in-germany-beyond-the-numbers",
+      "publishedAt": "2026-09-22T21:03:45+00:00",
+      "durationSeconds": 93,
+      "url": "https://www.tiktok.com/@eduardluta/video/7688468255735926036"
+    },
+    {
+      "id": "7688402362620267797",
+      "slug": "playfulness-without-losing-responsibility",
+      "publishedAt": "2026-09-22T16:47:58+00:00",
+      "durationSeconds": 8,
+      "url": "https://www.tiktok.com/@eduardluta/video/7688402362620267797"
+    },
+    {
+      "id": "7688347056766749973",
+      "slug": "criticism-without-losing-yourself",
+      "publishedAt": "2026-09-22T13:13:19+00:00",
+      "durationSeconds": 111,
+      "url": "https://www.tiktok.com/@eduardluta/video/7688347056766749973"
+    },
+    {
+      "id": "7687941469189229844",
+      "slug": "kosovo-switzerland-childs-idea-of-home",
+      "publishedAt": "2026-09-21T10:59:25+00:00",
+      "durationSeconds": 13,
+      "url": "https://www.tiktok.com/@eduardluta/video/7687941469189229844"
+    },
+    {
+      "id": "7687714978979269909",
+      "slug": "swiss-museum-transport-family-visit",
+      "publishedAt": "2026-09-20T20:20:40+00:00",
+      "durationSeconds": 36,
+      "url": "https://www.tiktok.com/@eduardluta/video/7687714978979269909"
+    },
+    {
+      "id": "7687631563982441749",
+      "slug": "kosovo-speed-cameras-road-safety",
+      "publishedAt": "2026-09-20T14:56:51+00:00",
+      "durationSeconds": 26,
+      "url": "https://www.tiktok.com/@eduardluta/video/7687631563982441749"
+    },
+    {
+      "id": "7687302231166586133",
+      "slug": "love-making-room-for-your-child",
+      "publishedAt": "2026-09-19T17:38:53+00:00",
+      "durationSeconds": 16,
+      "url": "https://www.tiktok.com/@eduardluta/video/7687302231166586133"
+    },
+    {
+      "id": "7686930095969242388",
+      "slug": "teaching-children-responsibility-with-support",
+      "publishedAt": "2026-09-18T17:34:48+00:00",
+      "durationSeconds": 26,
+      "url": "https://www.tiktok.com/@eduardluta/video/7686930095969242388"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "hamburg-camper-city-connections",
+      "name": "ticket-maths",
+      "type": "bars",
+      "values": [
+        12.3,
+        8.2,
+        24.6,
+        16.4
+      ],
+      "en": {
+        "title": "A little ticket maths",
+        "subtitle": "Hamburg AB · full fares in euros",
+        "labels": [
+          "1 adult · 3 single tickets",
+          "1 adult · day ticket",
+          "3 adults · 3 day tickets",
+          "3 adults · group day ticket"
+        ],
+        "display": [
+          "€12.30",
+          "€8.20",
+          "€24.60",
+          "€16.40"
+        ],
+        "foot": "Source: HVV · checked 23 Sep 2026. Group travels together.",
+        "alt": "One adult: three singles €12.30 versus day ticket €8.20. Three adults: individual day tickets €24.60 versus group ticket €16.40.",
+        "caption": "Two separate travel scenarios, using published Hamburg AB full fares. Not a record of our purchases."
+      },
+      "sq": {
+        "title": "Pak llogaritje për biletat",
+        "subtitle": "Hamburg AB · tarifat e plota në euro",
+        "labels": [
+          "1 i rritur · 3 bileta teke",
+          "1 i rritur · biletë ditore",
+          "3 të rritur · bileta ditore",
+          "3 të rritur · biletë grupi"
+        ],
+        "display": [
+          "12,30 €",
+          "8,20 €",
+          "24,60 €",
+          "16,40 €"
+        ],
+        "foot": "Burimi: HVV · 23 shtator 2026. Grupi udhëton bashkë.",
+        "alt": "Një i rritur: tri bileta teke 12,30 € ose ditore 8,20 €. Tre të rritur: bileta ditore 24,60 € ose grupi 16,40 €.",
+        "caption": "Dy skenarë udhëtimi me tarifat e plota Hamburg AB. Nuk janë shpenzimet tona faktike."
+      }
+    },
+    {
+      "slug": "hamburg-camper-city-connections",
+      "name": "meeting-plan",
+      "type": "cards",
+      "en": {
+        "title": "Make it easy to say hello",
+        "subtitle": "A proposed meetup plan",
+        "items": [
+          [
+            "01 · Arrive",
+            "Public meeting point, clear time, nearby transport."
+          ],
+          [
+            "02 · Introduce",
+            "Make room for someone who arrives alone."
+          ],
+          [
+            "03 · Listen",
+            "Ask for a real story, including what did not work."
+          ],
+          [
+            "04 · Continue",
+            "A walk or a drink, with an easy way home."
+          ]
+        ],
+        "foot": "Editorial planning diagram · no event date or venue confirmed.",
+        "alt": "Meetup planning: arrive, introduce, listen, continue. No event is confirmed.",
+        "caption": "A practical format for a future meeting. The video invitation is not a confirmed event listing."
+      },
+      "sq": {
+        "title": "Me u taku pa komplikime",
+        "subtitle": "Propozim për organizimin e një takimi",
+        "items": [
+          [
+            "01 · Mbërritja",
+            "Pikë publike, orar i qartë, transport afër."
+          ],
+          [
+            "02 · Prezantimi",
+            "Bëj vend edhe për dikë që vjen vetëm."
+          ],
+          [
+            "03 · Dëgjimi",
+            "Kërko histori reale, edhe kur diçka nuk ka funksionuar."
+          ],
+          [
+            "04 · Vazhdimi",
+            "Një shëtitje ose pije, me kthim të lehtë."
+          ]
+        ],
+        "foot": "Diagram organizimi · nuk ka datë apo vend të konfirmuar.",
+        "alt": "Organizimi: mbërritja, prezantimi, dëgjimi dhe vazhdimi. Nuk është event i konfirmuar.",
+        "caption": "Një mënyrë praktike për një takim të ardhshëm. Ftesa në video nuk është njoftim eventi të konfirmuar."
+      }
+    },
+    {
+      "slug": "albanians-in-germany-beyond-the-numbers",
+      "name": "citizenship-trend",
+      "type": "bars",
+      "values": [
+        218150,
+        232075,
+        242855,
+        262005,
+        280850,
+        299685,
+        313615,
+        323260
+      ],
+      "en": {
+        "title": "One measurable part of the community",
+        "subtitle": "Kosovo citizens in Germany · year-end register",
+        "labels": [
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "display": [
+          "218,150",
+          "232,075",
+          "242,855",
+          "262,005",
+          "280,850",
+          "299,685",
+          "313,615",
+          "323,260"
+        ],
+        "foot": "Destatis / AZR · citizenship, not Albanian ethnicity.",
+        "alt": "Kosovo citizens in Germany increased from 218,150 in 2018 to 323,260 in 2025, a rise of 48.2%.",
+        "caption": "All bars start at zero. This series counts Kosovo citizens in the foreign-population register, not the entire Albanian diaspora."
+      },
+      "sq": {
+        "title": "Një pjesë e matshme e komunitetit",
+        "subtitle": "Shtetas të Kosovës në Gjermani · fundviti",
+        "labels": [
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "display": [
+          "218.150",
+          "232.075",
+          "242.855",
+          "262.005",
+          "280.850",
+          "299.685",
+          "313.615",
+          "323.260"
+        ],
+        "foot": "Destatis / AZR · shtetësia, jo etnia shqiptare.",
+        "alt": "Shtetasit e Kosovës në Gjermani u rritën nga 218.150 në 2018 në 323.260 në 2025, një rritje 48,2%.",
+        "caption": "Të gjithë shiritat fillojnë nga zero. Seria mat shtetasit e Kosovës në regjistrin e të huajve, jo të gjithë diasporën shqiptare."
+      }
+    },
+    {
+      "slug": "albanians-in-germany-beyond-the-numbers",
+      "name": "identity-definitions",
+      "type": "cards",
+      "en": {
+        "title": "Three different questions",
+        "subtitle": "Definitions matter before addition",
+        "items": [
+          [
+            "Citizenship",
+            "Which country’s citizenship is recorded?"
+          ],
+          [
+            "Family background",
+            "Where do a person’s family roots lie?"
+          ],
+          [
+            "Identity",
+            "How does the person identify themselves?"
+          ]
+        ],
+        "foot": "Conceptual diagram · categories overlap; no population shares implied.",
+        "alt": "Citizenship, family background and personal identity answer different questions.",
+        "caption": "An explanation of categories, not a numerical breakdown of the diaspora."
+      },
+      "sq": {
+        "title": "Tri pyetje të ndryshme",
+        "subtitle": "Përkufizimi vjen para mbledhjes",
+        "items": [
+          [
+            "Shtetësia",
+            "Cila shtetësi është regjistruar?"
+          ],
+          [
+            "Prejardhja familjare",
+            "Ku i ka familja rrënjët?"
+          ],
+          [
+            "Identiteti",
+            "Si e përcakton vetë personi identitetin e tij?"
+          ]
+        ],
+        "foot": "Diagram konceptual · kategoritë ndërthuren, pa përqindje.",
+        "alt": "Shtetësia, prejardhja dhe identiteti personal u përgjigjen pyetjeve të ndryshme.",
+        "caption": "Sqarim i kategorive, jo ndarje numerike e diasporës."
+      }
+    },
+    {
+      "slug": "playfulness-without-losing-responsibility",
+      "name": "play-and-responsibility",
+      "type": "cards",
+      "en": {
+        "title": "Keep both parts",
+        "subtitle": "A personal distinction, not a clinical test",
+        "items": [
+          [
+            "Room for play",
+            "Curiosity, laughter, trying without needing to excel."
+          ],
+          [
+            "Room for responsibility",
+            "Keep commitments, notice consequences, repair mistakes."
+          ]
+        ],
+        "foot": "Editorial reflection · these can coexist.",
+        "alt": "Playfulness and responsibility can coexist: curiosity alongside commitments and repair.",
+        "caption": "The distinction behind the caption: bringing back curiosity while staying responsible."
+      },
+      "sq": {
+        "title": "Mbaji të dyja",
+        "subtitle": "Dallim personal, jo test klinik",
+        "items": [
+          [
+            "Hapësirë për lojë",
+            "Kureshtje, të qeshura, prova pa kërkuar përsosmëri."
+          ],
+          [
+            "Hapësirë për përgjegjësi",
+            "Mbaji zotimet, shihi pasojat, korrigjo gabimet."
+          ]
+        ],
+        "foot": "Reflektim i artikullit · këto mund të bashkëjetojnë.",
+        "alt": "Loja dhe përgjegjësia mund të bashkëjetojnë: kureshtja bashkë me zotimet dhe korrigjimin.",
+        "caption": "Dallimi pas përshkrimit: me rikthyer kureshtjen duke mbetur i përgjegjshëm."
+      }
+    },
+    {
+      "slug": "playfulness-without-losing-responsibility",
+      "name": "small-play-experiment",
+      "type": "cards",
+      "en": {
+        "title": "One small opening",
+        "subtitle": "An optional everyday experiment",
+        "items": [
+          [
+            "Choose",
+            "Something safe and simple you do not need to master."
+          ],
+          [
+            "Try",
+            "Give it a few unhurried minutes."
+          ],
+          [
+            "Notice",
+            "Enjoyment, awkwardness or no change: be honest."
+          ],
+          [
+            "Return",
+            "Come back to the day and the people who need you."
+          ]
+        ],
+        "foot": "Suggested activity · no promised health outcome.",
+        "alt": "Choose a simple activity, try it, notice how it felt, return to daily responsibilities.",
+        "caption": "A small personal experiment, with no required feeling or promised result."
+      },
+      "sq": {
+        "title": "Një hapësirë e vogël",
+        "subtitle": "Një provë e thjeshtë, nëse të përshtatet",
+        "items": [
+          [
+            "Zgjidh",
+            "Diçka të sigurt e të thjeshtë, pa kërkuar mjeshtëri."
+          ],
+          [
+            "Provo",
+            "Jepi disa minuta pa nxitim."
+          ],
+          [
+            "Vëre",
+            "Kënaqësi, siklet ose pa ndryshim: ji i sinqertë."
+          ],
+          [
+            "Kthehu",
+            "Te dita dhe njerëzit që kanë nevojë për ty."
+          ]
+        ],
+        "foot": "Aktivitet i sugjeruar · pa premtime shëndetësore.",
+        "alt": "Zgjidh një aktivitet, provoje, vëre si u ndjeve dhe kthehu te përgjegjësitë e ditës.",
+        "caption": "Një provë personale, pa ndjenjë të detyrueshme apo rezultat të premtuar."
+      }
+    },
+    {
+      "slug": "criticism-without-losing-yourself",
+      "name": "feedback-filter",
+      "type": "cards",
+      "en": {
+        "title": "Before a comment gets your afternoon",
+        "subtitle": "Three questions for the claim",
+        "items": [
+          [
+            "Specific?",
+            "What exactly is being criticised?"
+          ],
+          [
+            "Checkable?",
+            "What evidence could confirm or correct it?"
+          ],
+          [
+            "Useful?",
+            "What action would make the work better?"
+          ]
+        ],
+        "foot": "Editorial filter · not a judgement of the commenter’s worth.",
+        "alt": "Check whether criticism is specific, checkable and useful before deciding how to respond.",
+        "caption": "A way to examine the content without guessing the commenter’s motives."
+      },
+      "sq": {
+        "title": "Para se komenti të ta marrë pasditen",
+        "subtitle": "Tri pyetje për pretendimin",
+        "items": [
+          [
+            "Konkret?",
+            "Çka saktësisht po kritikohet?"
+          ],
+          [
+            "I kontrollueshëm?",
+            "Cila provë mund ta vërtetojë ose korrigjojë?"
+          ],
+          [
+            "I dobishëm?",
+            "Cili veprim do ta përmirësonte punën?"
+          ]
+        ],
+        "foot": "Filtër i artikullit · jo gjykim i vlerës së komentuesit.",
+        "alt": "Shqyrto a është kritika konkrete, e kontrollueshme dhe e dobishme.",
+        "caption": "Shqyrto përmbajtjen pa hamendësuar motivet e komentuesit."
+      }
+    },
+    {
+      "slug": "criticism-without-losing-yourself",
+      "name": "feedback-examples",
+      "type": "cards",
+      "en": {
+        "title": "Two comments. Different next steps.",
+        "subtitle": "Invented examples about a price comparison",
+        "items": [
+          [
+            "“You compared different quantities.”",
+            "Check the units. Correct the table if needed."
+          ],
+          [
+            "“You are an idiot.”",
+            "No factual claim to check. A reply is optional."
+          ]
+        ],
+        "foot": "Illustrative comments · not quotations from real users.",
+        "alt": "A claim about mismatched quantities leads to checking the data; an insult has no factual claim to investigate.",
+        "caption": "The useful distinction is the next step each comment makes possible."
+      },
+      "sq": {
+        "title": "Dy komente. Hapa të ndryshëm.",
+        "subtitle": "Shembuj të shpikur për krahasimin e çmimeve",
+        "items": [
+          [
+            "“Ke krahasuar sasi të ndryshme.”",
+            "Kontrollo njësitë. Korrigjo tabelën nëse duhet."
+          ],
+          [
+            "“Je idiot.”",
+            "Nuk ka fakt për ta kontrolluar. Përgjigjja është zgjedhje."
+          ]
+        ],
+        "foot": "Komente ilustruese · nuk janë citime përdoruesish realë.",
+        "alt": "Pretendimi për sasi të ndryshme çon te kontrolli; fyerja nuk jep fakt për hetim.",
+        "caption": "Dallimi i dobishëm është hapi që ta mundëson secili koment."
+      }
+    },
+    {
+      "slug": "kosovo-switzerland-childs-idea-of-home",
+      "name": "two-lenses",
+      "type": "cards",
+      "en": {
+        "title": "Two lenses on a place to live",
+        "subtitle": "A family comparison, not a country ranking",
+        "items": [
+          [
+            "Material conditions",
+            "Income, housing, education, transport and services."
+          ],
+          [
+            "Everyday belonging",
+            "Trusted people, familiar routines and ways to join in."
+          ]
+        ],
+        "foot": "Editorial framework · neither side is a numerical score.",
+        "alt": "Material conditions and everyday belonging are two separate lenses for a family decision.",
+        "caption": "Both belong in the conversation. The video does not establish a better country for all children."
+      },
+      "sq": {
+        "title": "Dy mënyra me e parë vendbanimin",
+        "subtitle": "Krahasim familjar, jo renditje shtetesh",
+        "items": [
+          [
+            "Kushtet materiale",
+            "Të ardhurat, banimi, arsimi, transporti dhe shërbimet."
+          ],
+          [
+            "Përkatësia e përditshme",
+            "Njerëzit e besuar, rutina dhe mundësitë për pjesëmarrje."
+          ]
+        ],
+        "foot": "Kornizë reflektimi · asnjëra anë nuk ka pikë numerike.",
+        "alt": "Kushtet materiale dhe përkatësia janë dy këndvështrime për vendimin familjar.",
+        "caption": "Të dyja kanë vend në bisedë. Videoja nuk përcakton shtetin më të mirë për të gjithë fëmijët."
+      }
+    },
+    {
+      "slug": "kosovo-switzerland-childs-idea-of-home",
+      "name": "belonging-questions",
+      "type": "cards",
+      "en": {
+        "title": "Make belonging concrete",
+        "subtitle": "Questions before a possible move",
+        "items": [
+          [
+            "Who stays close?",
+            "Name the people the child can depend on."
+          ],
+          [
+            "What stays familiar?",
+            "Choose routines and relationships to maintain."
+          ],
+          [
+            "What needs a plan?",
+            "School, childcare, visits and chances to make friends."
+          ],
+          [
+            "What can the child say?",
+            "Listen to preferences; adults carry the final decision."
+          ]
+        ],
+        "foot": "Illustrative planning aid · no family move is announced.",
+        "alt": "Plan trusted relationships, familiar routines, practical arrangements and the child’s voice.",
+        "caption": "Turning an abstract idea of connection into practical questions."
+      },
+      "sq": {
+        "title": "Bëje përkatësinë konkrete",
+        "subtitle": "Pyetje para një zhvendosjeje të mundshme",
+        "items": [
+          [
+            "Kush mbetet pranë?",
+            "Emërto njerëzit ku fëmija mund të mbështetet."
+          ],
+          [
+            "Çka mbetet e njohur?",
+            "Zgjidh rutinat dhe lidhjet për t’i ruajtur."
+          ],
+          [
+            "Çka kërkon plan?",
+            "Shkolla, kujdesi, vizitat dhe miqësitë e reja."
+          ],
+          [
+            "Çka mund të thotë fëmija?",
+            "Dëgjo preferencat; vendimin e mbajnë të rriturit."
+          ]
+        ],
+        "foot": "Mjet ilustrues · nuk njoftohet zhvendosje familjare.",
+        "alt": "Planifiko lidhjet e besueshme, rutinat, marrëveshjet praktike dhe zërin e fëmijës.",
+        "caption": "Nga ideja abstrakte e lidhjes te pyetjet konkrete."
+      }
+    },
+    {
+      "slug": "swiss-museum-transport-family-visit",
+      "name": "family-ticket-costs",
+      "type": "bars",
+      "values": [
+        106,
+        162,
+        182,
+        218
+      ],
+      "en": {
+        "title": "Buy the day you will actually use",
+        "subtitle": "2 adults + 2 children aged 6–15 · CHF",
+        "labels": [
+          "Museum only",
+          "Museum + 1 attraction",
+          "Day passes",
+          "Museum + 2 attractions"
+        ],
+        "display": [
+          "CHF106",
+          "CHF162",
+          "CHF182",
+          "CHF218"
+        ],
+        "foot": "Official standard prices · checked 23 Sep 2026. Illustrative family.",
+        "alt": "Museum CHF106; museum and one attraction CHF162; day passes CHF182; museum and two attractions CHF218.",
+        "caption": "Example family budget, excluding transport, food and discounts. Check current show availability and inclusions."
+      },
+      "sq": {
+        "title": "Bleje ditën që do ta përdorësh",
+        "subtitle": "2 të rritur + 2 fëmijë 6–15 vjeç · CHF",
+        "labels": [
+          "Vetëm muzeu",
+          "Muzeu + 1 atraksion",
+          "Paketat ditore",
+          "Muzeu + 2 atraksione"
+        ],
+        "display": [
+          "106 CHF",
+          "162 CHF",
+          "182 CHF",
+          "218 CHF"
+        ],
+        "foot": "Tarifat standarde zyrtare · 23 shtator 2026. Familje ilustruese.",
+        "alt": "Muzeu 106 CHF; me një atraksion 162 CHF; paketat ditore 182 CHF; muzeu me dy atraksione 218 CHF.",
+        "caption": "Buxhet shembull, pa transport, ushqim apo zbritje. Kontrollo vendet dhe përfshirjet e shfaqjeve."
+      }
+    },
+    {
+      "slug": "swiss-museum-transport-family-visit",
+      "name": "family-conversation",
+      "type": "cards",
+      "en": {
+        "title": "Give the conversation an object",
+        "subtitle": "Questions to try around an exhibit",
+        "items": [
+          [
+            "Notice",
+            "What caught your attention?"
+          ],
+          [
+            "Predict",
+            "What do you think will happen?"
+          ],
+          [
+            "Explore",
+            "Try it or look more closely together."
+          ],
+          [
+            "Explain",
+            "What surprised us? What do we still wonder?"
+          ]
+        ],
+        "foot": "Original conversation aid · not a transcript or learning-outcome study.",
+        "alt": "A suggested conversation sequence: notice, predict, explore and explain.",
+        "caption": "The exhibit gives you something to discuss. You do not need to know every answer."
+      },
+      "sq": {
+        "title": "Jepi bisedës diçka konkrete",
+        "subtitle": "Pyetje pranë një objekti në muze",
+        "items": [
+          [
+            "Vëre",
+            "Çka ta tërhoqi vëmendjen?"
+          ],
+          [
+            "Parashiko",
+            "Çka mendon se do të ndodhë?"
+          ],
+          [
+            "Eksploro",
+            "Provoje ose shikoje më afër bashkë."
+          ],
+          [
+            "Shpjego",
+            "Çka na befasoi? Për çka ende kemi kureshtje?"
+          ]
+        ],
+        "foot": "Ide origjinale për bisedë · jo transkript apo studim rezultatesh.",
+        "alt": "Rrjedha e sugjeruar: vëre, parashiko, eksploro dhe shpjego.",
+        "caption": "Objekti ju jep diçka për diskutim. Nuk duhet t’i dini të gjitha përgjigjet."
+      }
+    },
+    {
+      "slug": "kosovo-speed-cameras-road-safety",
+      "name": "road-deaths",
+      "type": "bars",
+      "values": [
+        97,
+        111
+      ],
+      "en": {
+        "title": "Fourteen more people did not come home",
+        "subtitle": "People killed in road traffic · Kosovo",
+        "labels": [
+          "2024",
+          "2025"
+        ],
+        "display": [
+          "97 people",
+          "111 people"
+        ],
+        "foot": "Kosovo Police annual report 2025 · total deaths, all causes.",
+        "alt": "Kosovo road deaths increased from 97 in 2024 to 111 in 2025, an increase of 14 people or 14.4%.",
+        "caption": "Counts of people killed, not fatal crashes. These totals do not identify the deaths a camera could prevent."
+      },
+      "sq": {
+        "title": "Katërmbëdhjetë njerëz më shumë nuk u kthyen",
+        "subtitle": "Persona të vdekur në trafik · Kosovë",
+        "labels": [
+          "2024",
+          "2025"
+        ],
+        "display": [
+          "97 persona",
+          "111 persona"
+        ],
+        "foot": "Policia e Kosovës, raporti 2025 · vdekje nga të gjitha shkaqet.",
+        "alt": "Vdekjet në trafik u rritën nga 97 në 2024 në 111 në 2025: 14 persona ose 14,4% më shumë.",
+        "caption": "Numër personash, jo aksidentesh fatale. Nuk tregon sa vdekje do të parandalonte një kamerë."
+      }
+    },
+    {
+      "slug": "kosovo-speed-cameras-road-safety",
+      "name": "salary-scenario",
+      "type": "bars",
+      "values": [
+        54222000,
+        39255350
+      ],
+      "en": {
+        "title": "The salary idea needs a budget",
+        "subtitle": "Illustrative annual amounts · euros",
+        "labels": [
+          "€500 monthly raise × 9,037 officers",
+          "785,107 tickets × assumed €50"
+        ],
+        "display": [
+          "€54.22 million",
+          "€39.26 million"
+        ],
+        "foot": "Hypothetical pay and receipts. Before costs. Existing tickets ≠ new revenue.",
+        "alt": "A hypothetical €500 monthly raise costs €54,222,000 annually; 785,107 tickets at an assumed collected €50 total €39,255,350 gross.",
+        "caption": "Scenario arithmetic, not an actual payroll or revenue report. The €50 receipt is assumed; all tickets are assumed collected."
+      },
+      "sq": {
+        "title": "Ideja e pagës kërkon buxhet",
+        "subtitle": "Shuma vjetore ilustruese · euro",
+        "labels": [
+          "500 € shtesë mujore × 9.037 policë",
+          "785.107 tiketa × 50 € të supozuara"
+        ],
+        "display": [
+          "54,22 milionë €",
+          "39,26 milionë €"
+        ],
+        "foot": "Paga e arkëtime hipotetike, para kostove. Tiketat ekzistuese ≠ të ardhura të reja.",
+        "alt": "Rritja hipotetike 500 € në muaj kushton 54.222.000 € në vit; 785.107 tiketa me 50 € të supozuara japin 39.255.350 € bruto.",
+        "caption": "Llogaritje skenari, jo listëpage apo raport arkëtimi. Supozohen 50 € për tiketë dhe arkëtim i plotë."
+      }
+    },
+    {
+      "slug": "kosovo-speed-cameras-road-safety",
+      "name": "safety-scorecard",
+      "type": "cards",
+      "en": {
+        "title": "Publish two sets of results",
+        "subtitle": "A proposed accountability framework",
+        "items": [
+          [
+            "Road safety",
+            "Speeds, serious injuries and deaths, with traffic context."
+          ],
+          [
+            "Public money",
+            "Equipment, operation, collection costs and net receipts."
+          ],
+          [
+            "Fair process",
+            "Clear rules, reliable evidence and a way to contest errors."
+          ]
+        ],
+        "foot": "Policy proposal · no local effect size or revenue forecast claimed.",
+        "alt": "Evaluate safety outcomes, full financial costs and receipts, and fair procedures.",
+        "caption": "A system should be judged by safer roads and accountable operation, not a ticket quota."
+      },
+      "sq": {
+        "title": "Publiko dy grupe rezultatesh",
+        "subtitle": "Propozim për llogaridhënie",
+        "items": [
+          [
+            "Siguria rrugore",
+            "Shpejtësitë, lëndimet e rënda dhe vdekjet, me kontekst trafiku."
+          ],
+          [
+            "Paratë publike",
+            "Pajisjet, funksionimi, arkëtimi dhe të ardhurat neto."
+          ],
+          [
+            "Procedura e drejtë",
+            "Rregulla të qarta, prova të besueshme dhe kundërshtim gabimesh."
+          ]
+        ],
+        "foot": "Propozim politikash · pa parashikim efekti apo të ardhurash.",
+        "alt": "Vlerëso sigurinë, të gjitha kostot e arkëtimet dhe drejtësinë e procedurës.",
+        "caption": "Sistemi matet me rrugë më të sigurta dhe llogaridhënie, jo me kuotë gjobash."
+      }
+    },
+    {
+      "slug": "love-making-room-for-your-child",
+      "name": "ordinary-invitations",
+      "type": "cards",
+      "en": {
+        "title": "Small ways to make room",
+        "subtitle": "Suggested moments, not a perfect-parent checklist",
+        "items": [
+          [
+            "A walk",
+            "Let the child notice something and set part of the pace."
+          ],
+          [
+            "A shared task",
+            "Give them a safe, manageable part to do."
+          ],
+          [
+            "A question",
+            "Leave enough silence for their own answer."
+          ]
+        ],
+        "foot": "Editorial examples · choose what fits the child and the situation.",
+        "alt": "Suggested moments of inclusion: a walk, a shared task and time to answer a question.",
+        "caption": "Ordinary activities can become invitations to participate."
+      },
+      "sq": {
+        "title": "Mënyra të vogla me bërë vend",
+        "subtitle": "Ide, jo listë për prindin e përsosur",
+        "items": [
+          [
+            "Një shëtitje",
+            "Lëre fëmijën të vërejë diçka dhe ta ndikojë ritmin."
+          ],
+          [
+            "Një punë bashkë",
+            "Jepi një pjesë të sigurt që mund ta bëjë."
+          ],
+          [
+            "Një pyetje",
+            "Lër heshtje të mjaftueshme për përgjigjen e vet."
+          ]
+        ],
+        "foot": "Shembuj të artikullit · përshtati me fëmijën dhe situatën.",
+        "alt": "Përfshirje përmes shëtitjes, një pune bashkë dhe kohës për përgjigje.",
+        "caption": "Aktivitetet e zakonshme mund të bëhen ftesa për pjesëmarrje."
+      }
+    },
+    {
+      "slug": "love-making-room-for-your-child",
+      "name": "attention-exchange",
+      "type": "cards",
+      "en": {
+        "title": "Let attention go both ways",
+        "subtitle": "An everyday back-and-forth",
+        "items": [
+          [
+            "Notice",
+            "The child points, asks or shows interest."
+          ],
+          [
+            "Respond",
+            "Look, acknowledge and join the moment."
+          ],
+          [
+            "Leave space",
+            "Wait for the child’s next contribution."
+          ],
+          [
+            "Continue",
+            "Follow the exchange without needing to take it over."
+          ]
+        ],
+        "foot": "Editorial adaptation of Harvard’s serve-and-return principle.",
+        "alt": "Notice a child’s signal, respond, leave space and continue the exchange.",
+        "caption": "A general interaction principle, not a measure of love or a developmental assessment."
+      },
+      "sq": {
+        "title": "Vëmendja shkon në të dyja anët",
+        "subtitle": "Një shkëmbim i përditshëm",
+        "items": [
+          [
+            "Vëre",
+            "Fëmija tregon, pyet apo shfaq interes."
+          ],
+          [
+            "Përgjigju",
+            "Shiko, pranoje sinjalin dhe bëhu pjesë."
+          ],
+          [
+            "Lër hapësirë",
+            "Prit kontributin tjetër të fëmijës."
+          ],
+          [
+            "Vazhdo",
+            "Ndiqe bisedën pa pasur nevojë ta marrësh në dorë."
+          ]
+        ],
+        "foot": "Përshtatje e parimit serve-and-return të Harvardit.",
+        "alt": "Vëre sinjalin, përgjigju, lër hapësirë dhe vazhdo shkëmbimin.",
+        "caption": "Parim i përgjithshëm ndërveprimi, jo matje dashurie apo vlerësim zhvillimi."
+      }
+    },
+    {
+      "slug": "teaching-children-responsibility-with-support",
+      "name": "shared-responsibility",
+      "type": "cards",
+      "en": {
+        "title": "Different roles, shared practice",
+        "subtitle": "A way to keep responsibility proportionate",
+        "items": [
+          [
+            "The child’s part",
+            "Try a manageable task, speak up and help repair mistakes."
+          ],
+          [
+            "The adult’s part",
+            "Provide safety, explain, support and carry adult decisions."
+          ]
+        ],
+        "foot": "Editorial framework · tasks depend on the individual child.",
+        "alt": "The child practises manageable tasks; the adult provides safety, support and adult decisions.",
+        "caption": "Participation grows without transferring adult responsibilities onto the child."
+      },
+      "sq": {
+        "title": "Role të ndryshme, praktikë bashkë",
+        "subtitle": "Përgjegjësi në masën e përshtatshme",
+        "items": [
+          [
+            "Pjesa e fëmijës",
+            "Provo një detyrë të përballueshme, fol dhe ndihmo në korrigjim."
+          ],
+          [
+            "Pjesa e të rriturit",
+            "Siguro mbrojtje, shpjegim e ndihmë; mbaji vendimet e të rriturit."
+          ]
+        ],
+        "foot": "Kornizë e artikullit · detyrat varen nga fëmija konkret.",
+        "alt": "Fëmija ushtron detyra të përballueshme; i rrituri mban sigurinë, mbështetjen dhe vendimet e veta.",
+        "caption": "Pjesëmarrja rritet pa ia kaluar fëmijës përgjegjësitë e të rriturit."
+      }
+    },
+    {
+      "slug": "teaching-children-responsibility-with-support",
+      "name": "practice-loop",
+      "type": "cards",
+      "en": {
+        "title": "Make the next attempt possible",
+        "subtitle": "Illustrative routine for a small everyday task",
+        "items": [
+          [
+            "Show",
+            "Explain and demonstrate what needs doing."
+          ],
+          [
+            "Try",
+            "Let the child do a manageable part."
+          ],
+          [
+            "Support",
+            "Offer a cue or help where it is needed."
+          ],
+          [
+            "Review",
+            "Notice what worked and what to try next time."
+          ]
+        ],
+        "foot": "Suggested practice loop · not an age-based assessment.",
+        "alt": "Show the task, let the child try, support as needed and review together.",
+        "caption": "The goal is another possible attempt, not a test of the child’s worth."
+      },
+      "sq": {
+        "title": "Bëje të mundshme provën tjetër",
+        "subtitle": "Rutinë ilustruese për një detyrë të vogël",
+        "items": [
+          [
+            "Trego",
+            "Shpjego dhe demonstro çka duhet bërë."
+          ],
+          [
+            "Provo",
+            "Lëre fëmijën ta bëjë një pjesë të përballueshme."
+          ],
+          [
+            "Mbështet",
+            "Jep një kujtesë apo ndihmë aty ku duhet."
+          ],
+          [
+            "Shqyrto",
+            "Vëreni çka funksionoi dhe çka provoni herën tjetër."
+          ]
+        ],
+        "foot": "Cikël i sugjeruar · jo vlerësim sipas moshës.",
+        "alt": "Trego detyrën, lëre fëmijën të provojë, ndihmo dhe shqyrtoni bashkë.",
+        "caption": "Qëllimi është prova tjetër e mundshme, jo test i vlerës së fëmijës."
+      }
+    }
+  ]
+}

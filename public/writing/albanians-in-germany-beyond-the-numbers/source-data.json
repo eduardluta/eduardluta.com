@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-09-23",
+  "sources": [
+    "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Tabellen/auslaendische-bevoelkerung-staatsangehoerigkeit-jahre.html"
+  ],
+  "definition": "Kosovo citizenship, German foreign-population register AZR, year-end; not ethnicity or migration flow",
+  "series": {
+    "2018": 218150,
+    "2019": 232075,
+    "2020": 242855,
+    "2021": 262005,
+    "2022": 280850,
+    "2023": 299685,
+    "2024": 313615,
+    "2025": 323260
+  },
+  "calculations": {
+    "change2018to2025": 105110,
+    "percent2018to2025": 48.182443272977316,
+    "change2024to2025": 9645,
+    "percent2024to2025": 3.075426876903209
+  }
+}
