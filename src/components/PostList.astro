@@ -18,7 +18,7 @@ const titleInitial = (title: string) => title.replace(/^["“”'‘’]+/, '').
 
 <div class={variant === 'writing' ? 'writing-list' : ''}>
   {articles.map((article) => {
-    const thumb = getThumb(article.slug);
+    const thumb = getThumb(article);
     return (
       <a class="post-row" href={localizePath(`/writing/${article.slug}/`, lang)}>
         {thumb ? (

@@ -49,10 +49,12 @@ export function firstBodyImage(body: string | undefined): string | null {
   return match ? match[1] : null;
 }
 
-/** Root-relative path of the pre-generated list thumbnail (see scripts/gen-assets.mjs),
- * or null for essays without images. Build-time only — the site is fully prerendered. */
-export function getThumb(slug: string): string | null {
-  return existsSync(`public/writing/${slug}/thumb.webp`) ? `/writing/${slug}/thumb.webp` : null;
+/** Prefer a prepared list thumbnail, then the article's own imagery. New articles
+ * must not show a letter simply because the legacy asset script has not run. */
+export function getThumb(article: Article): string | null {
+  const prepared = `/writing/${article.slug}/thumb.webp`;
+  if (existsSync(`public${prepared}`)) return prepared;
+  return article.data.heroImage ?? article.data.video?.poster ?? firstBodyImage(article.body);
 }
 
 /** Approximate word count of the raw markdown body (images/links stripped). */
