@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-09-24",
+  "fountain": {
+    "designYear": 1914,
+    "completionYear": 1926,
+    "restorationDate": "2009-11-24",
+    "articleYear": 2026,
+    "designToCompletionCalendarYears": 12,
+    "completionToArticleCalendarYears": 100,
+    "source": "https://www.denkmalverein.de/foerdern/foerderprojekte/restaurierung-moenckebergbrunnen",
+    "locationSource": "https://fritzschumacher.de/gesellschaft/werkkatalog/162-volkslesehalle-und-moenckebergbrunnen/"
+  },
+  "population": {
+    "measure": "Percentage of Hamburg registered population with migration background; not ethnic Albanian population",
+    "source": "https://www.statistik-nord.de/zahlen-fakten/private-haushalte-familien-erwerbstaetige-mikrozensus/private-haushalte-familien-erwerbstaetige-mikrozensus/bevoelkerung-in-hamburg-2025-67767",
+    "sourcePublishedAt": "2026-05-07",
+    "referenceDate": "2025-12-31",
+    "years": [
+      2024,
+      2025
+    ],
+    "sharePercent": [
+      41.2,
+      41.9
+    ],
+    "changePercentagePoints": 0.7,
+    "derivation2024": "41.9 - 0.7 = 41.2",
+    "chartBaseline": 0
+  },
+  "originalVideo": {
+    "id": "7689062124978588948",
+    "durationSeconds": 22
+  },
+  "limitations": [
+    "Calendar-year differences do not date every fountain component.",
+    "Migration background is not citizenship alone or an ethnic Albanian headcount.",
+    "No meetup date or venue is confirmed."
+  ]
+}

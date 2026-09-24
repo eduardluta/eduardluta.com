@@ -1,0 +1,107 @@
+{
+  "articles": [
+    {
+      "id": "7689062124978588948",
+      "slug": "moin-hamburg-albanian-community",
+      "publishedAt": "2026-09-24T11:28:09+00:00",
+      "durationSeconds": 22,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689062124978588948"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "moin-hamburg-albanian-community",
+      "name": "fountain-timeline",
+      "type": "cards",
+      "en": {
+        "title": "The fountain behind the greeting",
+        "subtitle": "Mönckebergbrunnen, Hamburg",
+        "items": [
+          [
+            "1914",
+            "Fritz Schumacher’s design"
+          ],
+          [
+            "1926",
+            "Completion after wartime delays"
+          ],
+          [
+            "2009",
+            "Restoration and rededication"
+          ],
+          [
+            "2026",
+            "100 years after completion"
+          ]
+        ],
+        "caption": "Mönckebergbrunnen: dates from Denkmalverein Hamburg. 2026 − 1926 = 100 years; no anniversary event is implied.",
+        "alt": "The fountain behind the greeting. 1914: Fritz Schumacher’s design. 1926: Completion after wartime delays. 2009: Restoration and rededication. 2026: 100 years after completion",
+        "foot": "Historical milestones, not a timeline of my visit."
+      },
+      "sq": {
+        "title": "Shatërvani pas përshëndetjes",
+        "subtitle": "Mönckebergbrunnen, Hamburg",
+        "items": [
+          [
+            "1914",
+            "Projekti i Fritz Schumacherit"
+          ],
+          [
+            "1926",
+            "Përfundimi pas vonesave nga lufta"
+          ],
+          [
+            "2009",
+            "Restaurimi dhe përurimi i ri"
+          ],
+          [
+            "2026",
+            "100 vjet nga përfundimi"
+          ]
+        ],
+        "caption": "Mönckebergbrunnen: datat nga Denkmalverein Hamburg. 2026 − 1926 = 100 vjet; nuk nënkuptohet ndonjë aktivitet përvjetori.",
+        "alt": "Shatërvani pas përshëndetjes. 1914: Projekti i Fritz Schumacherit. 1926: Përfundimi pas vonesave nga lufta. 2009: Restaurimi dhe përurimi i ri. 2026: 100 vjet nga përfundimi",
+        "foot": "Pika historike, jo kronologji e vizitës sime."
+      }
+    },
+    {
+      "slug": "moin-hamburg-albanian-community",
+      "name": "migration-share",
+      "type": "bars",
+      "values": [
+        41.2,
+        41.9
+      ],
+      "en": {
+        "title": "Hamburg: migration-background share",
+        "subtitle": "Citywide register figures. Change: +0.7 percentage points. Not an Albanian population count.",
+        "labels": [
+          "End of 2024",
+          "End of 2025"
+        ],
+        "display": [
+          "41.2%",
+          "41.9%"
+        ],
+        "foot": "Citywide register figures. Change: +0.7 percentage points. Not an Albanian population count.",
+        "caption": "Citywide register figures. Change: +0.7 percentage points. Not an Albanian population count.",
+        "alt": "Hamburg: migration-background share. End of 2024: 41.2%; End of 2025: 41.9%"
+      },
+      "sq": {
+        "title": "Hamburgu: pjesa me prejardhje migrimi",
+        "subtitle": "Të dhëna të regjistrit për gjithë qytetin. Ndryshimi: +0,7 pikë përqindjeje. Jo numërim i shqiptarëve.",
+        "labels": [
+          "Fundi i vitit 2024",
+          "Fundi i vitit 2025"
+        ],
+        "display": [
+          "41,2%",
+          "41,9%"
+        ],
+        "foot": "Të dhëna të regjistrit për gjithë qytetin. Ndryshimi: +0,7 pikë përqindjeje. Jo numërim i shqiptarëve.",
+        "caption": "Të dhëna të regjistrit për gjithë qytetin. Ndryshimi: +0,7 pikë përqindjeje. Jo numërim i shqiptarëve.",
+        "alt": "Hamburgu: pjesa me prejardhje migrimi. Fundi i vitit 2024: 41,2%; Fundi i vitit 2025: 41,9%"
+      }
+    }
+  ]
+}
