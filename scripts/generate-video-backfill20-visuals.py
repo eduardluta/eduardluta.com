@@ -8,12 +8,14 @@ are explicitly labelled editorial, never presented as measured outcomes.
 """
 import html
 import json
+import sys
 from pathlib import Path
 import textwrap
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = json.loads((ROOT/'scripts/data/video-backfill20-2026-09-23.json').read_text())
+# An optional data path lets later articles reuse the same checked renderer.
+DATA = json.loads((ROOT/(sys.argv[1] if len(sys.argv)>1 else 'scripts/data/video-backfill20-2026-09-23.json')).read_text())
 PAPER, INK, MUTED, GREEN, TAN, RULE = '#f7f4ee', '#1b1712', '#655e55', '#2f5d4f', '#a87653', '#d9d3c8'
 
 def esc(s):

@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-09-24",
+  "calendar": {
+    "startInclusive": "2026-09-24",
+    "endInclusive": "2026-12-31",
+    "days": 99,
+    "monthDays": [
+      7,
+      31,
+      30,
+      31
+    ],
+    "checkpoints": [
+      {
+        "date": "2026-09-24",
+        "day": 1
+      },
+      {
+        "date": "2026-10-31",
+        "day": 38
+      },
+      {
+        "date": "2026-11-30",
+        "day": 68
+      },
+      {
+        "date": "2026-12-31",
+        "day": 99
+      }
+    ],
+    "alternativeStartInclusive": "2026-09-23",
+    "alternativeDays": 100
+  },
+  "walkingTime": {
+    "dailyMinutes": [
+      10,
+      20,
+      30
+    ],
+    "days": 99,
+    "totalMinutes": [
+      990,
+      1980,
+      2970
+    ],
+    "totalHours": [
+      16.5,
+      33.0,
+      49.5
+    ],
+    "formula": "dailyMinutes * days / 60",
+    "assumption": "Same daily duration on every date; illustrative time totals, not measured activity or predicted health benefits."
+  },
+  "sourceVideo": {
+    "id": "7688892373803322676",
+    "selfReportedDailySteps": [
+      10000,
+      20000
+    ],
+    "independentlyMeasured": false
+  },
+  "sources": [
+    {
+      "url": "https://aqshf.gov.al/motion_picture/beni-ecen-vete/",
+      "supports": "Director, production year, premiere date and film synopsis"
+    },
+    {
+      "url": "https://www.who.int/europe/publications/i/item/9789240014886",
+      "supports": "General adult physical activity guidance; not personal treatment advice"
+    }
+  ]
+}

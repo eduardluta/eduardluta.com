@@ -1,0 +1,151 @@
+{
+  "articles": [
+    {
+      "id": "7688892373803322676",
+      "slug": "100-day-reset-walking-before-new-year",
+      "publishedAt": "2026-09-24T00:30:23+00:00",
+      "durationSeconds": 146,
+      "url": "https://www.tiktok.com/@eduardluta/video/7688892373803322676"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "100-day-reset-walking-before-new-year",
+      "name": "calendar",
+      "type": "cards",
+      "en": {
+        "title": "The days before January",
+        "subtitle": "24 September–31 December 2026: 99 calendar days",
+        "items": [
+          [
+            "24 September",
+            "Day 1: choose one habit to reduce and one to add."
+          ],
+          [
+            "31 October",
+            "Day 38: review what you actually repeated."
+          ],
+          [
+            "30 November",
+            "Day 68: adjust what is too difficult to sustain."
+          ],
+          [
+            "31 December",
+            "Day 99: look back before choosing the next step."
+          ]
+        ],
+        "caption": "Calendar dates are calculated inclusively from 24 September 2026. Review prompts are suggestions, not milestones you must achieve.",
+        "alt": "The days before January. 24 September: Day 1: choose one habit to reduce and one to add.. 31 October: Day 38: review what you actually repeated.. 30 November: Day 68: adjust what is too difficult to sustain.. 31 December: Day 99: look back before choosing the next step.",
+        "foot": "Starting on 23 September instead gives 100 days, including both endpoints."
+      },
+      "sq": {
+        "title": "Ditët para janarit",
+        "subtitle": "24 shtator–31 dhjetor 2026: 99 ditë kalendarike",
+        "items": [
+          [
+            "24 shtator",
+            "Dita 1: zgjidh një zakon për ta pakësuar dhe një për ta shtuar."
+          ],
+          [
+            "31 tetor",
+            "Dita 38: shiko çfarë ke përsëritur realisht."
+          ],
+          [
+            "30 nëntor",
+            "Dita 68: përshtat atë që e ke të vështirë ta vazhdosh."
+          ],
+          [
+            "31 dhjetor",
+            "Dita 99: shiko prapa para se të zgjedhësh hapin tjetër."
+          ]
+        ],
+        "caption": "Ditët numërohen duke përfshirë 24 shtatorin 2026. Pyetjet e reflektimit janë sugjerime, jo rezultate që duhet t’i arrish.",
+        "alt": "Ditët para janarit. 24 shtator: Dita 1: zgjidh një zakon për ta pakësuar dhe një për ta shtuar.. 31 tetor: Dita 38: shiko çfarë ke përsëritur realisht.. 30 nëntor: Dita 68: përshtat atë që e ke të vështirë ta vazhdosh.. 31 dhjetor: Dita 99: shiko prapa para se të zgjedhësh hapin tjetër.",
+        "foot": "Duke filluar më 23 shtator bëhen 100 ditë, me të dyja datat të përfshira."
+      }
+    },
+    {
+      "slug": "100-day-reset-walking-before-new-year",
+      "name": "walking-time",
+      "type": "bars",
+      "values": [
+        16.5,
+        33,
+        49.5
+      ],
+      "en": {
+        "title": "Small walks, accumulated time",
+        "subtitle": "Illustration: daily minutes × 99 days ÷ 60. Assumes no missed days; time, not a promised health outcome.",
+        "labels": [
+          "10 minutes each day",
+          "20 minutes each day",
+          "30 minutes each day"
+        ],
+        "display": [
+          "16.5 hours",
+          "33 hours",
+          "49.5 hours"
+        ],
+        "foot": "Illustration: daily minutes × 99 days ÷ 60. Assumes no missed days; time, not a promised health outcome.",
+        "caption": "Illustration: daily minutes × 99 days ÷ 60. Assumes no missed days; time, not a promised health outcome.",
+        "alt": "Small walks, accumulated time. 10 minutes each day: 16.5 hours; 20 minutes each day: 33 hours; 30 minutes each day: 49.5 hours"
+      },
+      "sq": {
+        "title": "Ecje të shkurtra, kohë që mblidhet",
+        "subtitle": "Shembull: minutat ditore × 99 ditë ÷ 60. Supozon asnjë ditë të humbur; kohë, jo rezultat i premtuar shëndetësor.",
+        "labels": [
+          "10 minuta çdo ditë",
+          "20 minuta çdo ditë",
+          "30 minuta çdo ditë"
+        ],
+        "display": [
+          "16,5 orë",
+          "33 orë",
+          "49,5 orë"
+        ],
+        "foot": "Shembull: minutat ditore × 99 ditë ÷ 60. Supozon asnjë ditë të humbur; kohë, jo rezultat i premtuar shëndetësor.",
+        "caption": "Shembull: minutat ditore × 99 ditë ÷ 60. Supozon asnjë ditë të humbur; kohë, jo rezultat i premtuar shëndetësor.",
+        "alt": "Ecje të shkurtra, kohë që mblidhet. 10 minuta çdo ditë: 16,5 orë; 20 minuta çdo ditë: 33 orë; 30 minuta çdo ditë: 49,5 orë"
+      }
+    },
+    {
+      "slug": "100-day-reset-walking-before-new-year",
+      "name": "morning-evening",
+      "type": "cards",
+      "en": {
+        "title": "Two walks, two kinds of attention",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Morning: set the direction",
+            "What am I grateful for? What matters today? What will I give my attention to?"
+          ],
+          [
+            "Evening: listen and review",
+            "What happened? How do I feel? What is my body telling me? What could I do differently tomorrow?"
+          ]
+        ],
+        "caption": "A practical summary of the reflections described in the video. These are personal prompts, not a clinical treatment.",
+        "alt": "Two walks, two kinds of attention. Morning: set the direction: What am I grateful for? What matters today? What will I give my attention to?. Evening: listen and review: What happened? How do I feel? What is my body telling me? What could I do differently tomorrow?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dy ecje, dy drejtime të vëmendjes",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mëngjesi: cakto drejtimin",
+            "Për çfarë jam mirënjohës? Çfarë ka rëndësi sot? Ku do ta drejtoj vëmendjen?"
+          ],
+          [
+            "Mbrëmja: dëgjo dhe reflekto",
+            "Çfarë ndodhi? Si ndihem? Çfarë po më tregon trupi? Çfarë mund të bëj ndryshe nesër?"
+          ]
+        ],
+        "caption": "Përmbledhje praktike e reflektimeve të përshkruara në video. Janë pyetje personale, jo trajtim klinik.",
+        "alt": "Dy ecje, dy drejtime të vëmendjes. Mëngjesi: cakto drejtimin: Për çfarë jam mirënjohës? Çfarë ka rëndësi sot? Ku do ta drejtoj vëmendjen?. Mbrëmja: dëgjo dhe reflekto: Çfarë ndodhi? Si ndihem? Çfarë po më tregon trupi? Çfarë mund të bëj ndryshe nesër?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
