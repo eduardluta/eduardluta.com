@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-09-25",
+  "postSequence": [
+    {
+      "id": "7688736975846870292",
+      "publishedAt": "2026-09-23T14:26:24+00:00"
+    },
+    {
+      "id": "7689062124978588948",
+      "publishedAt": "2026-09-24T11:28:09+00:00"
+    },
+    {
+      "id": "7689212252183891206",
+      "publishedAt": "2026-09-24T21:10:44+00:00"
+    }
+  ],
+  "source": "https://www.gov.uk/service-manual/user-research/using-in-depth-interviews",
+  "limitations": [
+    "Publication timestamps are not event timestamps.",
+    "No attendance or relationship-success totals inferred.",
+    "Conversation prompts are editorial suggestions."
+  ]
+}

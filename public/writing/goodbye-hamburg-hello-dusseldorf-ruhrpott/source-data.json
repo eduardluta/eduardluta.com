@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-09-25",
+  "region": {
+    "source": "https://www.rvr.ruhr/themen/staatliche-regionalplanung/",
+    "independentCities": [
+      "Bochum",
+      "Bottrop",
+      "Dortmund",
+      "Duisburg",
+      "Essen",
+      "Gelsenkirchen",
+      "Hagen",
+      "Hamm",
+      "Herne",
+      "Mülheim an der Ruhr",
+      "Oberhausen"
+    ],
+    "districts": [
+      "Recklinghausen",
+      "Unna",
+      "Wesel",
+      "Ennepe-Ruhr-Kreis"
+    ],
+    "counts": [
+      11,
+      4
+    ],
+    "memberAuthorities": 15,
+    "formula": "11 + 4 = 15",
+    "duesseldorfCityIsMember": false
+  },
+  "citySource": "https://www.duesseldorf.de/wirtschaft-und-standort",
+  "limitations": [
+    "Member authorities are not population shares or a count of all municipalities.",
+    "No measured route, distance, travel time or arrival is claimed.",
+    "Personal history is based on the creator caption."
+  ]
+}

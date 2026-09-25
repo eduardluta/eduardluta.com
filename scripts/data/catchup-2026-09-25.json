@@ -1,0 +1,200 @@
+{
+  "articles": [
+    {
+      "id": "7689212252183891206",
+      "slug": "from-hamburg-with-love-meeting-our-people",
+      "publishedAt": "2026-09-24T21:10:44+00:00",
+      "durationSeconds": 42,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689212252183891206"
+    },
+    {
+      "id": "7689380262504910098",
+      "slug": "goodbye-hamburg-hello-dusseldorf-ruhrpott",
+      "publishedAt": "2026-09-25T08:02:39+00:00",
+      "durationSeconds": 8,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689380262504910098"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "from-hamburg-with-love-meeting-our-people",
+      "name": "hamburg-sequence",
+      "type": "cards",
+      "en": {
+        "title": "From arrival to a shared evening",
+        "subtitle": "Hamburg, 23–24 September 2026",
+        "items": [
+          [
+            "23 September",
+            "The camper arrival: looking forward to meeting people."
+          ],
+          [
+            "24 September, daytime post",
+            "A greeting from the city and an invitation to connect."
+          ],
+          [
+            "24 September, evening post",
+            "A thank-you after the meeting, with a group photograph."
+          ]
+        ],
+        "caption": "Sequence of the original public posts. Publication dates establish the order, not the exact times of the meetings.",
+        "alt": "From arrival to a shared evening. 23 September: The camper arrival: looking forward to meeting people.. 24 September, daytime post: A greeting from the city and an invitation to connect.. 24 September, evening post: A thank-you after the meeting, with a group photograph.",
+        "foot": "Source: the three linked original TikTok posts."
+      },
+      "sq": {
+        "title": "Nga mbërritja te një mbrëmje bashkë",
+        "subtitle": "Hamburg, 23–24 shtator 2026",
+        "items": [
+          [
+            "23 shtator",
+            "Mbërritja me kamper: dëshira për të takuar njerëz."
+          ],
+          [
+            "24 shtator, postimi i ditës",
+            "Përshëndetje nga qyteti dhe ftesë për t’u takuar."
+          ],
+          [
+            "24 shtator, postimi i mbrëmjes",
+            "Falënderim pas takimit, me një fotografi të përbashkët."
+          ]
+        ],
+        "caption": "Renditja e postimeve origjinale publike. Datat e publikimit tregojnë radhën, jo oraret e sakta të takimeve.",
+        "alt": "Nga mbërritja te një mbrëmje bashkë. 23 shtator: Mbërritja me kamper: dëshira për të takuar njerëz.. 24 shtator, postimi i ditës: Përshëndetje nga qyteti dhe ftesë për t’u takuar.. 24 shtator, postimi i mbrëmjes: Falënderim pas takimit, me një fotografi të përbashkët.",
+        "foot": "Burimi: tri postimet origjinale të lidhura në artikull."
+      }
+    },
+    {
+      "slug": "from-hamburg-with-love-meeting-our-people",
+      "name": "keep-the-conversation",
+      "type": "cards",
+      "en": {
+        "title": "Give a good conversation a next step",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Ask for the story",
+            "What happened? What changed? Let the person tell it in their own words."
+          ],
+          [
+            "Listen for the detail",
+            "An example tells you more than a polite general answer."
+          ],
+          [
+            "Close with care",
+            "Thank them. If you agree to stay in touch, make that next step clear."
+          ]
+        ],
+        "caption": "An editorial guide for future conversations; not a transcript or a claim about what each guest said.",
+        "alt": "Give a good conversation a next step. Ask for the story: What happened? What changed? Let the person tell it in their own words.. Listen for the detail: An example tells you more than a polite general answer.. Close with care: Thank them. If you agree to stay in touch, make that next step clear.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi bisedës së mirë një hap tjetër",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Pyet për historinë",
+            "Çfarë ndodhi? Çfarë ndryshoi? Lëre personin ta tregojë me fjalët e veta."
+          ],
+          [
+            "Dëgjo hollësinë",
+            "Një shembull të tregon më shumë se një përgjigje e përgjithshme nga mirësjellja."
+          ],
+          [
+            "Mbylle me kujdes",
+            "Falënderoje. Nëse vendosni ta mbani kontaktin, bëjeni të qartë hapin tjetër."
+          ]
+        ],
+        "caption": "Udhëzues editorial për biseda të ardhshme; jo transkript apo pohim për fjalët e secilit pjesëmarrës.",
+        "alt": "Jepi bisedës së mirë një hap tjetër. Pyet për historinë: Çfarë ndodhi? Çfarë ndryshoi? Lëre personin ta tregojë me fjalët e veta.. Dëgjo hollësinë: Një shembull të tregon më shumë se një përgjigje e përgjithshme nga mirësjellja.. Mbylle me kujdes: Falënderoje. Nëse vendosni ta mbani kontaktin, bëjeni të qartë hapin tjetër.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "goodbye-hamburg-hello-dusseldorf-ruhrpott",
+      "name": "journey-and-memory",
+      "type": "cards",
+      "en": {
+        "title": "A destination and a place of memory",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Hamburg",
+            "The goodbye: a city made personal by the people I met."
+          ],
+          [
+            "Düsseldorf",
+            "The next destination named in the caption."
+          ],
+          [
+            "Ruhrpott",
+            "The childhood region named in the same caption. A region, not another name for Düsseldorf."
+          ]
+        ],
+        "caption": "Conceptual sequence from the post, not a map, measured route or confirmation of arrival.",
+        "alt": "A destination and a place of memory. Hamburg: The goodbye: a city made personal by the people I met.. Düsseldorf: The next destination named in the caption.. Ruhrpott: The childhood region named in the same caption. A region, not another name for Düsseldorf.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një destinacion dhe një vend kujtimesh",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Hamburg",
+            "Lamtumira: një qytet që u bë personal përmes njerëzve që takova."
+          ],
+          [
+            "Düsseldorf",
+            "Destinacioni i radhës i përmendur në përshkrim."
+          ],
+          [
+            "Ruhrpott",
+            "Rajoni i fëmijërisë i përmendur në të njëjtin përshkrim. Rajon, jo emër tjetër për Düsseldorfin."
+          ]
+        ],
+        "caption": "Rrjedhë kuptimore nga postimi, jo hartë, rrugë e matur apo konfirmim i mbërritjes.",
+        "alt": "Një destinacion dhe një vend kujtimesh. Hamburg: Lamtumira: një qytet që u bë personal përmes njerëzve që takova.. Düsseldorf: Destinacioni i radhës i përmendur në përshkrim.. Ruhrpott: Rajoni i fëmijërisë i përmendur në të njëjtin përshkrim. Rajon, jo emër tjetër për Düsseldorfin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "goodbye-hamburg-hello-dusseldorf-ruhrpott",
+      "name": "ruhr-members",
+      "type": "bars",
+      "values": [
+        11,
+        4
+      ],
+      "en": {
+        "title": "The RVR area: 15 members",
+        "subtitle": "Regionalverband Ruhr: 11 + 4 = 15 member authorities. These are administrative counts, not population shares.",
+        "labels": [
+          "Independent cities",
+          "Districts"
+        ],
+        "display": [
+          "11 cities",
+          "4 districts"
+        ],
+        "foot": "Regionalverband Ruhr: 11 + 4 = 15 member authorities. These are administrative counts, not population shares.",
+        "caption": "Regionalverband Ruhr: 11 + 4 = 15 member authorities. These are administrative counts, not population shares.",
+        "alt": "The RVR area: 15 members. Independent cities: 11 cities; Districts: 4 districts"
+      },
+      "sq": {
+        "title": "Zona e RVR-së: 15 anëtarë",
+        "subtitle": "Regionalverband Ruhr: 11 + 4 = 15 njësi anëtare. Numërohen njësi administrative, jo pjesë të popullsisë.",
+        "labels": [
+          "Qytete të pavarura",
+          "Qarqe"
+        ],
+        "display": [
+          "11 qytete",
+          "4 qarqe"
+        ],
+        "foot": "Regionalverband Ruhr: 11 + 4 = 15 njësi anëtare. Numërohen njësi administrative, jo pjesë të popullsisë.",
+        "caption": "Regionalverband Ruhr: 11 + 4 = 15 njësi anëtare. Numërohen njësi administrative, jo pjesë të popullsisë.",
+        "alt": "Zona e RVR-së: 15 anëtarë. Qytete të pavarura: 11 qytete; Qarqe: 4 qarqe"
+      }
+    }
+  ]
+}
