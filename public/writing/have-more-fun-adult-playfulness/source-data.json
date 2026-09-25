@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-09-25",
+  "sourceVideo": "https://www.tiktok.com/@eduardluta/video/7689391784132234517",
+  "study": {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32844597/",
+    "doi": "10.1111/aphw.12220",
+    "participants": 533,
+    "interventionWeeks": 1,
+    "evidenceUsed": "Original abstract; self-reported outcomes; short-term well-being effects. No personality ranking inferred."
+  },
+  "illustrativeSchedule": {
+    "days": 7,
+    "dailyMinutes": [
+      10,
+      20
+    ],
+    "weeklyMinutes": [
+      70,
+      140
+    ],
+    "formula": "dailyMinutes * days",
+    "interpretation": "Editorial time illustration, not measured happiness, a clinical recommendation or the research protocol."
+  }
+}

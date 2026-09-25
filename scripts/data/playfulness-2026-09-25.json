@@ -1,0 +1,99 @@
+{
+  "articles": [
+    {
+      "id": "7689391784132234517",
+      "slug": "have-more-fun-adult-playfulness",
+      "publishedAt": "2026-09-25T08:47:25+00:00",
+      "durationSeconds": 7,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689391784132234517"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "have-more-fun-adult-playfulness",
+      "name": "make-room-for-fun",
+      "type": "cards",
+      "en": {
+        "title": "Three ordinary places to begin",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Move with a song",
+            "Dance, sway or tap along. There is no audience to impress."
+          ],
+          [
+            "Share a small game",
+            "Invite someone into a joke or a game they also enjoy."
+          ],
+          [
+            "Bring curiosity",
+            "Try drawing, a new route or a playful question. Let the activity be its own reward."
+          ]
+        ],
+        "caption": "Ideas inspired by the clip, not activities measured in the research study. Choose what suits you and the people around you.",
+        "alt": "Three ordinary places to begin. Move with a song: Dance, sway or tap along. There is no audience to impress.. Share a small game: Invite someone into a joke or a game they also enjoy.. Bring curiosity: Try drawing, a new route or a playful question. Let the activity be its own reward.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri mënyra të thjeshta për të filluar",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Lëviz me një këngë",
+            "Vallëzo, lëkund trupin ose mbaj ritmin. Nuk ke publik për të impresionuar."
+          ],
+          [
+            "Ndaje një lojë të vogël",
+            "Fto dikë në një shaka ose lojë që i pëlqen edhe atij."
+          ],
+          [
+            "Sill kureshtje",
+            "Provo një vizatim, një rrugë të re ose një pyetje me humor. Le të jetë vetë aktiviteti shpërblimi."
+          ]
+        ],
+        "caption": "Ide të frymëzuara nga videoja, jo aktivitete të matura në studim. Zgjidh atë që të përshtatet ty dhe njerëzve përreth.",
+        "alt": "Tri mënyra të thjeshta për të filluar. Lëviz me një këngë: Vallëzo, lëkund trupin ose mbaj ritmin. Nuk ke publik për të impresionuar.. Ndaje një lojë të vogël: Fto dikë në një shaka ose lojë që i pëlqen edhe atij.. Sill kureshtje: Provo një vizatim, një rrugë të re ose një pyetje me humor. Le të jetë vetë aktiviteti shpërblimi.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "have-more-fun-adult-playfulness",
+      "name": "weekly-time",
+      "type": "bars",
+      "values": [
+        70,
+        140
+      ],
+      "en": {
+        "title": "A small space in the week",
+        "subtitle": "Illustrative schedule: daily minutes × 7 days. This measures time, not happiness or a recommended scientific dose.",
+        "labels": [
+          "10 minutes each day",
+          "20 minutes each day"
+        ],
+        "display": [
+          "70 minutes / week",
+          "140 minutes / week"
+        ],
+        "foot": "Illustrative schedule: daily minutes × 7 days. This measures time, not happiness or a recommended scientific dose.",
+        "caption": "Illustrative schedule: daily minutes × 7 days. This measures time, not happiness or a recommended scientific dose.",
+        "alt": "A small space in the week. 10 minutes each day: 70 minutes / week; 20 minutes each day: 140 minutes / week"
+      },
+      "sq": {
+        "title": "Pak hapësirë gjatë javës",
+        "subtitle": "Orar ilustrues: minutat ditore × 7 ditë. Mat kohën, jo lumturinë apo një dozë të rekomanduar nga shkenca.",
+        "labels": [
+          "10 minuta çdo ditë",
+          "20 minuta çdo ditë"
+        ],
+        "display": [
+          "70 minuta / javë",
+          "140 minuta / javë"
+        ],
+        "foot": "Orar ilustrues: minutat ditore × 7 ditë. Mat kohën, jo lumturinë apo një dozë të rekomanduar nga shkenca.",
+        "caption": "Orar ilustrues: minutat ditore × 7 ditë. Mat kohën, jo lumturinë apo një dozë të rekomanduar nga shkenca.",
+        "alt": "Pak hapësirë gjatë javës. 10 minuta çdo ditë: 70 minuta / javë; 20 minuta çdo ditë: 140 minuta / javë"
+      }
+    }
+  ]
+}
