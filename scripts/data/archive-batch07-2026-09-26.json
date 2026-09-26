@@ -1,0 +1,377 @@
+{
+  "articles": [
+    {
+      "id": "7656108503530048776",
+      "slug": "voltaire-reincarnation-and-the-surprise-of-being-born",
+      "publishedAt": "2026-06-27T16:11:19+00:00",
+      "durationSeconds": 49,
+      "url": "https://www.tiktok.com/@eduardluta/video/7656108503530048776"
+    },
+    {
+      "id": "7653903674980207880",
+      "slug": "yogananda-beauty-and-growing-with-your-partner",
+      "publishedAt": "2026-06-21T17:35:25+00:00",
+      "durationSeconds": 102,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653903674980207880"
+    },
+    {
+      "id": "7653575963304922376",
+      "slug": "one-question-for-god-and-time-to-listen",
+      "publishedAt": "2026-06-20T20:23:50+00:00",
+      "durationSeconds": 37,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653575963304922376"
+    },
+    {
+      "id": "7653102880685100306",
+      "slug": "roadworks-empty-site-concrete-curing",
+      "publishedAt": "2026-06-19T13:47:58+00:00",
+      "durationSeconds": 17,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653102880685100306"
+    },
+    {
+      "id": "7656904602255691015",
+      "slug": "the-last-word-and-a-joke-about-biceps",
+      "publishedAt": "2026-06-29T19:40:34+00:00",
+      "durationSeconds": 28,
+      "url": "https://www.tiktok.com/@eduardluta/video/7656904602255691015"
+    },
+    {
+      "id": "7665725912708648212",
+      "slug": "a-family-joke-and-an-oversized-celebration",
+      "publishedAt": "2026-07-23T14:11:47+00:00",
+      "durationSeconds": 8,
+      "url": "https://www.tiktok.com/@eduardluta/video/7665725912708648212"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "voltaire-reincarnation-and-the-surprise-of-being-born",
+      "name": "three-questions",
+      "type": "cards",
+      "en": {
+        "title": "Three questions inside “another life”",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Continuation",
+            "Does something continue?"
+          ],
+          [
+            "Identity",
+            "What would make it the same person?"
+          ],
+          [
+            "Evidence",
+            "What could distinguish belief from demonstration?"
+          ]
+        ],
+        "caption": "A philosophical map, not a claim about the afterlife.",
+        "alt": "Three questions inside “another life”. Continuation: Does something continue?. Identity: What would make it the same person?. Evidence: What could distinguish belief from demonstration?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri pyetje brenda “një jete tjetër”",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vazhdimësia",
+            "A vazhdon diçka?"
+          ],
+          [
+            "Identiteti",
+            "Çfarë do ta bënte të njëjtin person?"
+          ],
+          [
+            "Provat",
+            "Çfarë e dallon besimin nga vërtetimi?"
+          ]
+        ],
+        "caption": "Hartë filozofike, jo pohim për jetën pas vdekjes.",
+        "alt": "Tri pyetje brenda “një jete tjetër”. Vazhdimësia: A vazhdon diçka?. Identiteti: Çfarë do ta bënte të njëjtin person?. Provat: Çfarë e dallon besimin nga vërtetimi?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "yogananda-beauty-and-growing-with-your-partner",
+      "name": "text-and-meaning",
+      "type": "cards",
+      "en": {
+        "title": "Text, belief and personal meaning",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "In the book",
+            "Beauty is described through a spiritual narrative."
+          ],
+          [
+            "In the video",
+            "The passage prompts a reflection on partnership."
+          ],
+          [
+            "For the reader",
+            "You can examine the idea without treating the story as proof."
+          ]
+        ],
+        "caption": "A reading guide, not evidence of an afterlife.",
+        "alt": "Text, belief and personal meaning. In the book: Beauty is described through a spiritual narrative.. In the video: The passage prompts a reflection on partnership.. For the reader: You can examine the idea without treating the story as proof.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Teksti, besimi dhe kuptimi personal",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Në libër",
+            "Bukuria përshkruhet brenda një rrëfimi shpirtëror."
+          ],
+          [
+            "Në video",
+            "Pjesa nxit reflektim për marrëdhënien."
+          ],
+          [
+            "Për lexuesin",
+            "Mund ta shqyrtosh idenë pa e trajtuar rrëfimin si provë."
+          ]
+        ],
+        "caption": "Udhëzues leximi, jo provë e jetës pas vdekjes.",
+        "alt": "Teksti, besimi dhe kuptimi personal. Në libër: Bukuria përshkruhet brenda një rrëfimi shpirtëror.. Në video: Pjesa nxit reflektim për marrëdhënien.. Për lexuesin: Mund ta shqyrtosh idenë pa e trajtuar rrëfimin si provë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "yogananda-beauty-and-growing-with-your-partner",
+      "name": "notice-again",
+      "type": "cards",
+      "en": {
+        "title": "Questions for seeing a partner again",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Notice",
+            "What do I appreciate beyond the first impression?"
+          ],
+          [
+            "Ask",
+            "What has been changing for you?"
+          ],
+          [
+            "Make room",
+            "Can we grow without becoming identical?"
+          ]
+        ],
+        "caption": "Editorial prompts, not a relationship assessment.",
+        "alt": "Questions for seeing a partner again. Notice: What do I appreciate beyond the first impression?. Ask: What has been changing for you?. Make room: Can we grow without becoming identical?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Pyetje për ta parë sërish partnerin",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vëre",
+            "Çfarë vlerësoj përtej përshtypjes së parë?"
+          ],
+          [
+            "Pyet",
+            "Çfarë ka ndryshuar për ty?"
+          ],
+          [
+            "Lër hapësirë",
+            "A mund të rritemi pa u bërë identikë?"
+          ]
+        ],
+        "caption": "Pyetje editoriale, jo vlerësim marrëdhënieje.",
+        "alt": "Pyetje për ta parë sërish partnerin. Vëre: Çfarë vlerësoj përtej përshtypjes së parë?. Pyet: Çfarë ka ndryshuar për ty?. Lër hapësirë: A mund të rritemi pa u bërë identikë?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "one-question-for-god-and-time-to-listen",
+      "name": "question-reflection-next-step",
+      "type": "cards",
+      "en": {
+        "title": "Give one question some space",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Choose",
+            "Write the question in your own words."
+          ],
+          [
+            "Listen",
+            "Make room without forcing an answer."
+          ],
+          [
+            "Revisit",
+            "Examine what came up before acting on it."
+          ]
+        ],
+        "caption": "A personal reflection structure, not a promise of revelation.",
+        "alt": "Give one question some space. Choose: Write the question in your own words.. Listen: Make room without forcing an answer.. Revisit: Examine what came up before acting on it.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi hapësirë një pyetjeje",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Zgjidh",
+            "Shkruaje pyetjen me fjalët e tua."
+          ],
+          [
+            "Dëgjo",
+            "Lër hapësirë pa e detyruar përgjigjen."
+          ],
+          [
+            "Rishiko",
+            "Shqyrto çfarë doli para se të veprosh sipas saj."
+          ]
+        ],
+        "caption": "Strukturë reflektimi personal, jo premtim zbulese.",
+        "alt": "Jepi hapësirë një pyetjeje. Zgjidh: Shkruaje pyetjen me fjalët e tua.. Dëgjo: Lër hapësirë pa e detyruar përgjigjen.. Rishiko: Shqyrto çfarë doli para se të veprosh sipas saj.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "roadworks-empty-site-concrete-curing",
+      "name": "observation-and-project-evidence",
+      "type": "cards",
+      "en": {
+        "title": "What the view tells us—and what it does not",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Observed",
+            "No workers visible during a passing moment."
+          ],
+          [
+            "Possible explanation",
+            "A construction stage may require waiting."
+          ],
+          [
+            "Needed to assess delay",
+            "Project schedule, current stage and dated updates."
+          ]
+        ],
+        "caption": "A quiet site does not identify its own cause.",
+        "alt": "What the view tells us—and what it does not. Observed: No workers visible during a passing moment.. Possible explanation: A construction stage may require waiting.. Needed to assess delay: Project schedule, current stage and dated updates.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë tregon pamja dhe çfarë nuk tregon",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "E vërejtur",
+            "Nuk shihen punëtorë gjatë një kalimi."
+          ],
+          [
+            "Shpjegim i mundshëm",
+            "Një fazë ndërtimi mund të kërkojë pritje."
+          ],
+          [
+            "Për vlerësimin e vonesës",
+            "Plani i projektit, faza aktuale dhe njoftimet me datë."
+          ]
+        ],
+        "caption": "Një kantier i qetë nuk e tregon vetë shkakun.",
+        "alt": "Çfarë tregon pamja dhe çfarë nuk tregon. E vërejtur: Nuk shihen punëtorë gjatë një kalimi.. Shpjegim i mundshëm: Një fazë ndërtimi mund të kërkojë pritje.. Për vlerësimin e vonesës: Plani i projektit, faza aktuale dhe njoftimet me datë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "the-last-word-and-a-joke-about-biceps",
+      "name": "conversation-outcome",
+      "type": "cards",
+      "en": {
+        "title": "What would finish this conversation?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "A decision",
+            "Agree on what happens next."
+          ],
+          [
+            "Understanding",
+            "Clarify what was misunderstood."
+          ],
+          [
+            "A boundary",
+            "Acknowledge disagreement or take a pause."
+          ]
+        ],
+        "caption": "Different endings; no prize for the last sentence.",
+        "alt": "What would finish this conversation?. A decision: Agree on what happens next.. Understanding: Clarify what was misunderstood.. A boundary: Acknowledge disagreement or take a pause.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë do ta përfundonte bisedën?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vendim",
+            "Pajtohuni për hapin e ardhshëm."
+          ],
+          [
+            "Kuptim",
+            "Sqaroni çfarë u keqkuptua."
+          ],
+          [
+            "Kufi",
+            "Pranoni mospajtimin ose bëni pauzë."
+          ]
+        ],
+        "caption": "Përfundime të ndryshme; pa çmim për fjalinë e fundit.",
+        "alt": "Çfarë do ta përfundonte bisedën?. Vendim: Pajtohuni për hapin e ardhshëm.. Kuptim: Sqaroni çfarë u keqkuptua.. Kufi: Pranoni mospajtimin ose bëni pauzë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "a-family-joke-and-an-oversized-celebration",
+      "name": "comic-scale",
+      "type": "cards",
+      "en": {
+        "title": "The joke lives in the contrast",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Setting",
+            "An ordinary family living room."
+          ],
+          [
+            "Performance",
+            "A celebration on the scale of a huge victory."
+          ],
+          [
+            "Caption",
+            "The cheeky setup; not a verified family update."
+          ]
+        ],
+        "caption": "An explanation of the humour, not a claim about fertility.",
+        "alt": "The joke lives in the contrast. Setting: An ordinary family living room.. Performance: A celebration on the scale of a huge victory.. Caption: The cheeky setup; not a verified family update.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Shakaja jeton te kontrasti",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vendi",
+            "Një sallon i zakonshëm familjar."
+          ],
+          [
+            "Shfaqja",
+            "Festim në përmasat e një fitoreje të madhe."
+          ],
+          [
+            "Përshkrimi",
+            "Hyrja ngacmuese; jo lajm familjar i verifikuar."
+          ]
+        ],
+        "caption": "Shpjegim i humorit, jo pohim për fertilitetin.",
+        "alt": "Shakaja jeton te kontrasti. Vendi: Një sallon i zakonshëm familjar.. Shfaqja: Festim në përmasat e një fitoreje të madhe.. Përshkrimi: Hyrja ngacmuese; jo lajm familjar i verifikuar.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
