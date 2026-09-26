@@ -1,0 +1,559 @@
+{
+  "articles": [
+    {
+      "id": "7646003861135641864",
+      "slug": "say-yes-to-a-friends-invitation",
+      "publishedAt": "2026-05-31T10:40:07+00:00",
+      "durationSeconds": 69,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646003861135641864"
+    },
+    {
+      "id": "7645742664142327058",
+      "slug": "talent-needs-practice-not-endless-hours",
+      "publishedAt": "2026-05-30T17:46:36+00:00",
+      "durationSeconds": 70,
+      "url": "https://www.tiktok.com/@eduardluta/video/7645742664142327058"
+    },
+    {
+      "id": "7644954978284489991",
+      "slug": "thank-the-person-who-believed-in-you-first",
+      "publishedAt": "2026-05-28T14:49:52+00:00",
+      "durationSeconds": 130,
+      "url": "https://www.tiktok.com/@eduardluta/video/7644954978284489991"
+    },
+    {
+      "id": "7643756556114349320",
+      "slug": "good-friends-feedback-and-mutual-growth",
+      "publishedAt": "2026-05-25T09:19:26+00:00",
+      "durationSeconds": 118,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643756556114349320"
+    },
+    {
+      "id": "7652363783393889544",
+      "slug": "honesty-keeping-promises-and-peace-of-mind",
+      "publishedAt": "2026-06-17T13:59:55+00:00",
+      "durationSeconds": 156,
+      "url": "https://www.tiktok.com/@eduardluta/video/7652363783393889544"
+    },
+    {
+      "id": "7654095246967573778",
+      "slug": "first-supporter-and-a-real-business-test",
+      "publishedAt": "2026-06-22T05:58:50+00:00",
+      "durationSeconds": 124,
+      "url": "https://www.tiktok.com/@eduardluta/video/7654095246967573778"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "say-yes-to-a-friends-invitation",
+      "name": "consider-the-invitation",
+      "type": "cards",
+      "en": {
+        "title": "Give the invitation a fair hearing",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Understand it",
+            "People, place, time and cost."
+          ],
+          [
+            "Find the obstacle",
+            "A real constraint or an automatic refusal?"
+          ],
+          [
+            "Answer clearly",
+            "Yes, no, or a smaller plan you genuinely want."
+          ]
+        ],
+        "caption": "A reflection tool; accepting is always a choice.",
+        "alt": "Give the invitation a fair hearing. Understand it: People, place, time and cost.. Find the obstacle: A real constraint or an automatic refusal?. Answer clearly: Yes, no, or a smaller plan you genuinely want.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Shqyrtoje ftesën me vëmendje",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kuptoje",
+            "Njerëzit, vendi, koha dhe kostoja."
+          ],
+          [
+            "Gjeje pengesën",
+            "Kufizim real apo refuzim automatik?"
+          ],
+          [
+            "Përgjigju qartë",
+            "Po, jo, ose një plan më i vogël që e dëshiron."
+          ]
+        ],
+        "caption": "Mjet reflektimi; pranimi mbetet zgjedhje.",
+        "alt": "Shqyrtoje ftesën me vëmendje. Kuptoje: Njerëzit, vendi, koha dhe kostoja.. Gjeje pengesën: Kufizim real apo refuzim automatik?. Përgjigju qartë: Po, jo, ose një plan më i vogël që e dëshiron.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "talent-needs-practice-not-endless-hours",
+      "name": "repeatable-work",
+      "type": "cards",
+      "en": {
+        "title": "Give the next session somewhere to start",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Choose an object",
+            "A paragraph, sketch or concrete problem."
+          ],
+          [
+            "Work within a limit",
+            "A session you can fit into your actual week."
+          ],
+          [
+            "Leave a next step",
+            "Write down what to try when you return."
+          ]
+        ],
+        "caption": "An editorial planning guide, not a guarantee of results.",
+        "alt": "Give the next session somewhere to start. Choose an object: A paragraph, sketch or concrete problem.. Work within a limit: A session you can fit into your actual week.. Leave a next step: Write down what to try when you return.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi seancës tjetër një pikënisje",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Zgjidh një objekt",
+            "Paragraf, skicë apo problem konkret."
+          ],
+          [
+            "Puno brenda një kufiri",
+            "Seancë që përshtatet me javën tënde reale."
+          ],
+          [
+            "Lër hapin e ardhshëm",
+            "Shëno çfarë do të provosh kur të rikthehesh."
+          ]
+        ],
+        "caption": "Udhëzues planifikimi, jo garanci rezultatesh.",
+        "alt": "Jepi seancës tjetër një pikënisje. Zgjidh një objekt: Paragraf, skicë apo problem konkret.. Puno brenda një kufiri: Seancë që përshtatet me javën tënde reale.. Lër hapin e ardhshëm: Shëno çfarë do të provosh kur të rikthehesh.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "talent-needs-practice-not-endless-hours",
+      "name": "weekly-practice-minutes",
+      "type": "bars",
+      "values": [
+        100,
+        75
+      ],
+      "en": {
+        "title": "Two possible weeks of practice",
+        "subtitle": "Illustrative schedules. Time is not a measure of skill.",
+        "labels": [
+          "4 sessions × 25 minutes",
+          "5 sessions × 15 minutes"
+        ],
+        "display": [
+          "100 min/week",
+          "75 min/week"
+        ],
+        "foot": "Illustrative schedules. Time is not a measure of skill.",
+        "caption": "Illustrative schedules. Time is not a measure of skill.",
+        "alt": "Two possible weeks of practice. 4 sessions × 25 minutes: 100 min/week; 5 sessions × 15 minutes: 75 min/week"
+      },
+      "sq": {
+        "title": "Dy javë të mundshme praktike",
+        "subtitle": "Orare ilustruese. Koha nuk është matje aftësie.",
+        "labels": [
+          "4 seanca × 25 minuta",
+          "5 seanca × 15 minuta"
+        ],
+        "display": [
+          "100 min/javë",
+          "75 min/javë"
+        ],
+        "foot": "Orare ilustruese. Koha nuk është matje aftësie.",
+        "caption": "Orare ilustruese. Koha nuk është matje aftësie.",
+        "alt": "Dy javë të mundshme praktike. 4 seanca × 25 minuta: 100 min/javë; 5 seanca × 15 minuta: 75 min/javë"
+      }
+    },
+    {
+      "slug": "thank-the-person-who-believed-in-you-first",
+      "name": "early-support",
+      "type": "cards",
+      "en": {
+        "title": "What early support can look like",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Attention",
+            "Listening before the idea is polished."
+          ],
+          [
+            "Participation",
+            "Helping try a first version."
+          ],
+          [
+            "Honesty",
+            "Naming a weakness without dismissing the person."
+          ]
+        ],
+        "caption": "Ways of contributing, not predictors of success.",
+        "alt": "What early support can look like. Attention: Listening before the idea is polished.. Participation: Helping try a first version.. Honesty: Naming a weakness without dismissing the person.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Si mund të duket mbështetja e hershme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vëmendje",
+            "Dëgjim para se ideja të përpunohet."
+          ],
+          [
+            "Pjesëmarrje",
+            "Ndihmë për ta provuar versionin e parë."
+          ],
+          [
+            "Sinqeritet",
+            "Emërtim dobësie pa e nënçmuar personin."
+          ]
+        ],
+        "caption": "Mënyra kontributi, jo parashikues suksesi.",
+        "alt": "Si mund të duket mbështetja e hershme. Vëmendje: Dëgjim para se ideja të përpunohet.. Pjesëmarrje: Ndihmë për ta provuar versionin e parë.. Sinqeritet: Emërtim dobësie pa e nënçmuar personin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "thank-the-person-who-believed-in-you-first",
+      "name": "specific-thanks",
+      "type": "cards",
+      "en": {
+        "title": "A thank-you with something inside it",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The moment",
+            "Name when the person showed up."
+          ],
+          [
+            "The action",
+            "Say what they actually did."
+          ],
+          [
+            "The meaning",
+            "Explain why it mattered to you."
+          ]
+        ],
+        "caption": "An editorial writing prompt, not a message sent on your behalf.",
+        "alt": "A thank-you with something inside it. The moment: Name when the person showed up.. The action: Say what they actually did.. The meaning: Explain why it mattered to you.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Falënderim me përmbajtje",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Momenti",
+            "Emërto kur personi ishte aty."
+          ],
+          [
+            "Veprimi",
+            "Thuaj çfarë bëri realisht."
+          ],
+          [
+            "Kuptimi",
+            "Shpjego pse pati rëndësi për ty."
+          ]
+        ],
+        "caption": "Udhëzim shkrimi, jo mesazh i dërguar në emrin tënd.",
+        "alt": "Falënderim me përmbajtje. Momenti: Emërto kur personi ishte aty.. Veprimi: Thuaj çfarë bëri realisht.. Kuptimi: Shpjego pse pati rëndësi për ty.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "good-friends-feedback-and-mutual-growth",
+      "name": "feedback-with-respect",
+      "type": "cards",
+      "en": {
+        "title": "Make the feedback usable",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name the event",
+            "What happened, specifically?"
+          ],
+          [
+            "Explain the concern",
+            "Why did it matter to you?"
+          ],
+          [
+            "Leave room to answer",
+            "The other person has context you may not know."
+          ]
+        ],
+        "caption": "Illustrative conversation structure, not a relationship diagnosis.",
+        "alt": "Make the feedback usable. Name the event: What happened, specifically?. Explain the concern: Why did it matter to you?. Leave room to answer: The other person has context you may not know.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Bëje kritikën të përdorshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Emërto ngjarjen",
+            "Çfarë ndodhi konkretisht?"
+          ],
+          [
+            "Shpjego shqetësimin",
+            "Pse pati rëndësi për ty?"
+          ],
+          [
+            "Lër vend për përgjigje",
+            "Tjetri ka kontekst që mund të mos e dish."
+          ]
+        ],
+        "caption": "Strukturë ilustruese bisede, jo diagnozë marrëdhënieje.",
+        "alt": "Bëje kritikën të përdorshme. Emërto ngjarjen: Çfarë ndodhi konkretisht?. Shpjego shqetësimin: Pse pati rëndësi për ty?. Lër vend për përgjigje: Tjetri ka kontekst që mund të mos e dish.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "good-friends-feedback-and-mutual-growth",
+      "name": "mutual-friendship",
+      "type": "cards",
+      "en": {
+        "title": "The relationship has two directions",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "I can speak",
+            "My concerns have room."
+          ],
+          [
+            "You can speak",
+            "Your concerns have the same room."
+          ],
+          [
+            "We can remain friends",
+            "Disagreement does not automatically withdraw care."
+          ]
+        ],
+        "caption": "A reflection on reciprocity, not a friendship score.",
+        "alt": "The relationship has two directions. I can speak: My concerns have room.. You can speak: Your concerns have the same room.. We can remain friends: Disagreement does not automatically withdraw care.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Marrëdhënia ka dy drejtime",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Unë mund të flas",
+            "Shqetësimet e mia kanë vend."
+          ],
+          [
+            "Ti mund të flasësh",
+            "Shqetësimet e tua kanë po aq vend."
+          ],
+          [
+            "Mund të mbetemi shokë",
+            "Mospajtimi nuk e heq automatikisht kujdesin."
+          ]
+        ],
+        "caption": "Reflektim për ndërsjelljen, jo pikëzim shoqërie.",
+        "alt": "Marrëdhënia ka dy drejtime. Unë mund të flas: Shqetësimet e mia kanë vend.. Ti mund të flasësh: Shqetësimet e tua kanë po aq vend.. Mund të mbetemi shokë: Mospajtimi nuk e heq automatikisht kujdesin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "honesty-keeping-promises-and-peace-of-mind",
+      "name": "truth-and-boundaries",
+      "type": "cards",
+      "en": {
+        "title": "Honest does not mean unlimited",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "A fact",
+            "Describe what you actually know."
+          ],
+          [
+            "An interpretation",
+            "Name an opinion as an opinion."
+          ],
+          [
+            "A boundary",
+            "You can truthfully say something is private."
+          ]
+        ],
+        "caption": "An editorial distinction for everyday conversations.",
+        "alt": "Honest does not mean unlimited. A fact: Describe what you actually know.. An interpretation: Name an opinion as an opinion.. A boundary: You can truthfully say something is private.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Sinqeriteti nuk do të thotë pa kufij",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Fakt",
+            "Përshkruaj çfarë di realisht."
+          ],
+          [
+            "Interpretim",
+            "Emërtoje mendimin si mendim."
+          ],
+          [
+            "Kufi",
+            "Mund të thuash sinqerisht se diçka është private."
+          ]
+        ],
+        "caption": "Dallim editorial për bisedat e përditshme.",
+        "alt": "Sinqeriteti nuk do të thotë pa kufij. Fakt: Përshkruaj çfarë di realisht.. Interpretim: Emërtoje mendimin si mendim.. Kufi: Mund të thuash sinqerisht se diçka është private.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "honesty-keeping-promises-and-peace-of-mind",
+      "name": "promise-structure",
+      "type": "cards",
+      "en": {
+        "title": "Make a promise easy to understand",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Action",
+            "What exactly will I deliver?"
+          ],
+          [
+            "Time",
+            "When should the person expect it?"
+          ],
+          [
+            "Update",
+            "If the plan changes, who needs to know?"
+          ]
+        ],
+        "caption": "Example structure, not a guarantee that every commitment will succeed.",
+        "alt": "Make a promise easy to understand. Action: What exactly will I deliver?. Time: When should the person expect it?. Update: If the plan changes, who needs to know?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Bëje premtimin të kuptueshëm",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Veprimi",
+            "Çfarë saktësisht do të dorëzoj?"
+          ],
+          [
+            "Koha",
+            "Kur duhet ta presë personi?"
+          ],
+          [
+            "Njoftimi",
+            "Nëse ndryshon plani, kush duhet ta dijë?"
+          ]
+        ],
+        "caption": "Strukturë shembull, jo garanci se çdo zotim do të realizohet.",
+        "alt": "Bëje premtimin të kuptueshëm. Veprimi: Çfarë saktësisht do të dorëzoj?. Koha: Kur duhet ta presë personi?. Njoftimi: Nëse ndryshon plani, kush duhet ta dijë?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "first-supporter-and-a-real-business-test",
+      "name": "support-versus-demand",
+      "type": "cards",
+      "en": {
+        "title": "Support and demand answer different questions",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Supporter",
+            "Will someone help you think and keep working?"
+          ],
+          [
+            "Potential user",
+            "Does this solve a problem they actually have?"
+          ],
+          [
+            "Customer evidence",
+            "Will they use it, pay and return? Check separately."
+          ]
+        ],
+        "caption": "Editorial distinctions; interest is not a sales forecast.",
+        "alt": "Support and demand answer different questions. Supporter: Will someone help you think and keep working?. Potential user: Does this solve a problem they actually have?. Customer evidence: Will they use it, pay and return? Check separately.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mbështetja dhe kërkesa janë pyetje të ndryshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mbështetësi",
+            "A të ndihmon dikush të mendosh dhe të vazhdosh?"
+          ],
+          [
+            "Përdoruesi i mundshëm",
+            "A zgjidh një problem që realisht e ka?"
+          ],
+          [
+            "Provat nga klienti",
+            "A e përdor, paguan dhe rikthehet? Verifiko veçmas."
+          ]
+        ],
+        "caption": "Dallime editoriale; interesi nuk është parashikim shitjesh.",
+        "alt": "Mbështetja dhe kërkesa janë pyetje të ndryshme. Mbështetësi: A të ndihmon dikush të mendosh dhe të vazhdosh?. Përdoruesi i mundshëm: A zgjidh një problem që realisht e ka?. Provat nga klienti: A e përdor, paguan dhe rikthehet? Verifiko veçmas.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "first-supporter-and-a-real-business-test",
+      "name": "fictional-test-counts",
+      "type": "bars",
+      "values": [
+        50,
+        20,
+        5,
+        2
+      ],
+      "en": {
+        "title": "A fictional test: count the people",
+        "subtitle": "Invented example. Nested groups, not business results.",
+        "labels": [
+          "Contacted",
+          "Replied",
+          "Tried",
+          "Bought"
+        ],
+        "display": [
+          "50 people",
+          "20 people",
+          "5 people",
+          "2 people"
+        ],
+        "foot": "Invented example. Nested groups, not business results.",
+        "caption": "Invented example. Nested groups, not business results.",
+        "alt": "A fictional test: count the people. Contacted: 50 people; Replied: 20 people; Tried: 5 people; Bought: 2 people"
+      },
+      "sq": {
+        "title": "Një provë imagjinare: numëro njerëzit",
+        "subtitle": "Shembull i sajuar. Grupe të përfshira, jo rezultate biznesi.",
+        "labels": [
+          "Të kontaktuar",
+          "U përgjigjën",
+          "E provuan",
+          "Blenë"
+        ],
+        "display": [
+          "50 persona",
+          "20 persona",
+          "5 persona",
+          "2 persona"
+        ],
+        "foot": "Shembull i sajuar. Grupe të përfshira, jo rezultate biznesi.",
+        "caption": "Shembull i sajuar. Grupe të përfshira, jo rezultate biznesi.",
+        "alt": "Një provë imagjinare: numëro njerëzit. Të kontaktuar: 50 persona; U përgjigjën: 20 persona; E provuan: 5 persona; Blenë: 2 persona"
+      }
+    }
+  ]
+}

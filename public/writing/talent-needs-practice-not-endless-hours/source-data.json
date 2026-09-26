@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "illustrative_schedule",
+  "unit": "minutes",
+  "plans": [
+    {
+      "sessionsPerWeek": 4,
+      "minutesPerSession": 25,
+      "weeklyMinutes": 100,
+      "fourWeekMinutes": 400
+    },
+    {
+      "sessionsPerWeek": 5,
+      "minutesPerSession": 15,
+      "weeklyMinutes": 75,
+      "fourWeekMinutes": 300
+    }
+  ],
+  "differenceMinutes": 25,
+  "relativeDifferencePercent": 33.333333333333336,
+  "outcomesMeasured": false
+}

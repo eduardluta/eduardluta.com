@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "fictional_business_test",
+  "counts": {
+    "contacted": 50,
+    "replied": 20,
+    "tried": 5,
+    "bought": 2
+  },
+  "nestedGroups": true,
+  "rates": {
+    "replyRate": 0.4,
+    "trialRateAmongReplies": 0.25,
+    "purchaseRateAmongTrials": 0.4,
+    "purchaseRateAmongContacted": 0.04
+  },
+  "forecast": false
+}
