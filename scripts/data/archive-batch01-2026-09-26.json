@@ -1,0 +1,597 @@
+{
+  "articles": [
+    {
+      "id": "7684006599819529492",
+      "slug": "oscar-wilde-love-boundaries-courage",
+      "publishedAt": "2026-09-10T20:30:08+00:00",
+      "durationSeconds": 64,
+      "url": "https://www.tiktok.com/@eduardluta/video/7684006599819529492"
+    },
+    {
+      "id": "7683770354145217812",
+      "slug": "why-i-follow-people-online",
+      "publishedAt": "2026-09-10T05:13:26+00:00",
+      "durationSeconds": 64,
+      "url": "https://www.tiktok.com/@eduardluta/video/7683770354145217812"
+    },
+    {
+      "id": "7683543470023150869",
+      "slug": "ayahuasca-fear-of-death-living-fully",
+      "publishedAt": "2026-09-09T14:32:57+00:00",
+      "durationSeconds": 62,
+      "url": "https://www.tiktok.com/@eduardluta/video/7683543470023150869"
+    },
+    {
+      "id": "7683822725227580692",
+      "slug": "pisa-parents-adult-literacy-kosovo",
+      "publishedAt": "2026-09-10T08:36:41+00:00",
+      "durationSeconds": 66,
+      "url": "https://www.tiktok.com/@eduardluta/video/7683822725227580692"
+    },
+    {
+      "id": "7683224645989862676",
+      "slug": "pisa-kosovo-parents-learning-at-home",
+      "publishedAt": "2026-09-08T17:55:47+00:00",
+      "durationSeconds": 108,
+      "url": "https://www.tiktok.com/@eduardluta/video/7683224645989862676"
+    },
+    {
+      "id": "7683195001567841556",
+      "slug": "kosovo-pisa-percentages-ten-pairs-jeans",
+      "publishedAt": "2026-09-08T16:00:43+00:00",
+      "durationSeconds": 166,
+      "url": "https://www.tiktok.com/@eduardluta/video/7683195001567841556"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "oscar-wilde-love-boundaries-courage",
+      "name": "words-actions-boundaries",
+      "type": "cards",
+      "en": {
+        "title": "From words to a boundary",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Words",
+            "What does the person say they value?"
+          ],
+          [
+            "Actions",
+            "What happens repeatedly in practice?"
+          ],
+          [
+            "Boundary",
+            "What action protects your dignity and safety?"
+          ]
+        ],
+        "caption": "Questions for reflection, not a diagnostic test.",
+        "alt": "From words to a boundary. Words: What does the person say they value?. Actions: What happens repeatedly in practice?. Boundary: What action protects your dignity and safety?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga fjalët te kufiri",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Fjalët",
+            "Çfarë thotë personi se vlerëson?"
+          ],
+          [
+            "Veprimet",
+            "Çfarë ndodh vazhdimisht në praktikë?"
+          ],
+          [
+            "Kufiri",
+            "Cili veprim mbron dinjitetin dhe sigurinë tënde?"
+          ]
+        ],
+        "caption": "Pyetje reflektimi, jo test diagnostikues.",
+        "alt": "Nga fjalët te kufiri. Fjalët: Çfarë thotë personi se vlerëson?. Veprimet: Çfarë ndodh vazhdimisht në praktikë?. Kufiri: Cili veprim mbron dinjitetin dhe sigurinë tënde?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "oscar-wilde-love-boundaries-courage",
+      "name": "support-before-danger",
+      "type": "cards",
+      "en": {
+        "title": "When the situation may be unsafe",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Recognise",
+            "Look at concrete threats, control and fear."
+          ],
+          [
+            "Get support",
+            "Speak with a trusted person or specialist service."
+          ],
+          [
+            "Plan safely",
+            "Get advice before leaving; use local emergency help for immediate danger."
+          ]
+        ],
+        "caption": "Safety principles informed by NHS guidance; not an individual safety plan.",
+        "alt": "When the situation may be unsafe. Recognise: Look at concrete threats, control and fear.. Get support: Speak with a trusted person or specialist service.. Plan safely: Get advice before leaving; use local emergency help for immediate danger.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Kur situata mund të jetë e pasigurt",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Dallo",
+            "Shiko kërcënimet, kontrollin dhe frikën konkrete."
+          ],
+          [
+            "Kërko mbështetje",
+            "Fol me një person të besuar ose shërbim të specializuar."
+          ],
+          [
+            "Planifiko me siguri",
+            "Kërko këshillim para largimit; në rrezik të menjëhershëm, ndihmë emergjente lokale."
+          ]
+        ],
+        "caption": "Parime sigurie të mbështetura në NHS; jo plan individual sigurie.",
+        "alt": "Kur situata mund të jetë e pasigurt. Dallo: Shiko kërcënimet, kontrollin dhe frikën konkrete.. Kërko mbështetje: Fol me një person të besuar ose shërbim të specializuar.. Planifiko me siguri: Kërko këshillim para largimit; në rrezik të menjëhershëm, ndihmë emergjente lokale.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "why-i-follow-people-online",
+      "name": "reasons-to-follow",
+      "type": "cards",
+      "en": {
+        "title": "What makes an account worth following to me",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Ideas",
+            "A thought I had not reached alone."
+          ],
+          [
+            "Creation",
+            "Work I can learn from or support."
+          ],
+          [
+            "Connection",
+            "Humour, friendship or a perspective that opens something."
+          ]
+        ],
+        "caption": "Personal criteria from the video, not a ranking of people.",
+        "alt": "What makes an account worth following to me. Ideas: A thought I had not reached alone.. Creation: Work I can learn from or support.. Connection: Humour, friendship or a perspective that opens something.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë e bën një llogari të vlefshme për mua",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Ide",
+            "Një mendim ku nuk kisha mbërritur vetë."
+          ],
+          [
+            "Krijim",
+            "Punë nga e cila mësoj ose që mund ta mbështes."
+          ],
+          [
+            "Lidhje",
+            "Humor, miqësi ose një perspektivë që hap diçka."
+          ]
+        ],
+        "caption": "Kritere personale nga videoja, jo renditje njerëzish.",
+        "alt": "Çfarë e bën një llogari të vlefshme për mua. Ide: Një mendim ku nuk kisha mbërritur vetë.. Krijim: Punë nga e cila mësoj ose që mund ta mbështes.. Lidhje: Humor, miqësi ose një perspektivë që hap diçka.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "why-i-follow-people-online",
+      "name": "attention-review",
+      "type": "cards",
+      "en": {
+        "title": "A small review of your feed",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Choose ten",
+            "Start with accounts you see regularly."
+          ],
+          [
+            "Name the value",
+            "Write one sentence about what stays with you."
+          ],
+          [
+            "Make a choice",
+            "Keep, reduce or unfollow according to your own preference."
+          ]
+        ],
+        "caption": "An optional editorial exercise. Ten is illustrative, not evidence-based.",
+        "alt": "A small review of your feed. Choose ten: Start with accounts you see regularly.. Name the value: Write one sentence about what stays with you.. Make a choice: Keep, reduce or unfollow according to your own preference.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një rishikim i vogël i postimeve që sheh",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Zgjidh dhjetë",
+            "Fillo me llogaritë që i sheh rregullisht."
+          ],
+          [
+            "Emërto vlerën",
+            "Shkruaj një fjali për atë që të mbetet."
+          ],
+          [
+            "Vendos",
+            "Mbaje, pakësoje ose ndërprite ndjekjen sipas preferencës sate."
+          ]
+        ],
+        "caption": "Ushtrim editorial vullnetar. Dhjetë është shembull, jo prag shkencor.",
+        "alt": "Një rishikim i vogël i postimeve që sheh. Zgjidh dhjetë: Fillo me llogaritë që i sheh rregullisht.. Emërto vlerën: Shkruaj një fjali për atë që të mbetet.. Vendos: Mbaje, pakësoje ose ndërprite ndjekjen sipas preferencës sate.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "ayahuasca-fear-of-death-living-fully",
+      "name": "experience-meaning-evidence",
+      "type": "cards",
+      "en": {
+        "title": "Experience, meaning, evidence",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Experience",
+            "What I felt and perceived."
+          ],
+          [
+            "Meaning",
+            "The spiritual interpretation I gave it."
+          ],
+          [
+            "Evidence",
+            "What can be independently checked; an afterlife is not established here."
+          ]
+        ],
+        "caption": "A distinction between personal testimony and an externally verifiable claim.",
+        "alt": "Experience, meaning, evidence. Experience: What I felt and perceived.. Meaning: The spiritual interpretation I gave it.. Evidence: What can be independently checked; an afterlife is not established here.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Përvoja, kuptimi, provat",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përvoja",
+            "Çfarë ndjeva dhe perceptova."
+          ],
+          [
+            "Kuptimi",
+            "Interpretimi shpirtëror që i dhashë."
+          ],
+          [
+            "Provat",
+            "Çfarë mund të kontrollohet pavarësisht; këtu nuk vërtetohet jeta pas vdekjes."
+          ]
+        ],
+        "caption": "Dallimi mes dëshmisë personale dhe pretendimit të verifikueshëm.",
+        "alt": "Përvoja, kuptimi, provat. Përvoja: Çfarë ndjeva dhe perceptova.. Kuptimi: Interpretimi shpirtëror që i dhashë.. Provat: Çfarë mund të kontrollohet pavarësisht; këtu nuk vërtetohet jeta pas vdekjes.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "ayahuasca-fear-of-death-living-fully",
+      "name": "meaning-into-life",
+      "type": "cards",
+      "en": {
+        "title": "Bring the question back to this life",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Time",
+            "What am I postponing?"
+          ],
+          [
+            "Creation",
+            "What can I make or contribute?"
+          ],
+          [
+            "Love",
+            "Who deserves my attention today?"
+          ]
+        ],
+        "caption": "Reflection inspired by the video. No substance use is needed for this exercise.",
+        "alt": "Bring the question back to this life. Time: What am I postponing?. Creation: What can I make or contribute?. Love: Who deserves my attention today?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ktheje pyetjen te kjo jetë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Koha",
+            "Çfarë po e shtyj?"
+          ],
+          [
+            "Krijimi",
+            "Çfarë mund të krijoj ose kontribuoj?"
+          ],
+          [
+            "Dashuria",
+            "Kush e meriton vëmendjen time sot?"
+          ]
+        ],
+        "caption": "Reflektim nga videoja. Ushtrimi nuk kërkon përdorim substancash.",
+        "alt": "Ktheje pyetjen te kjo jetë. Koha: Çfarë po e shtyj?. Krijimi: Çfarë mund të krijoj ose kontribuoj?. Dashuria: Kush e meriton vëmendjen time sot?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "pisa-parents-adult-literacy-kosovo",
+      "name": "reading-baseline",
+      "type": "bars",
+      "values": [
+        16,
+        69
+      ],
+      "en": {
+        "title": "Reading: at least Level 2",
+        "subtitle": "PISA 2025, students. OECD rounded estimates; not a test of parents.",
+        "labels": [
+          "Kosovo",
+          "OECD average"
+        ],
+        "display": [
+          "16%",
+          "69%"
+        ],
+        "foot": "PISA 2025, students. OECD rounded estimates; not a test of parents.",
+        "caption": "PISA 2025, students. OECD rounded estimates; not a test of parents.",
+        "alt": "Reading: at least Level 2. Kosovo: 16%; OECD average: 69%"
+      },
+      "sq": {
+        "title": "Lexim: të paktën Niveli 2",
+        "subtitle": "PISA 2025, nxënësit. Vlerësime të rrumbullakosura OECD; jo test prindërish.",
+        "labels": [
+          "Kosova",
+          "Mesatarja OECD"
+        ],
+        "display": [
+          "16%",
+          "69%"
+        ],
+        "foot": "PISA 2025, nxënësit. Vlerësime të rrumbullakosura OECD; jo test prindërish.",
+        "caption": "PISA 2025, nxënësit. Vlerësime të rrumbullakosura OECD; jo test prindërish.",
+        "alt": "Lexim: të paktën Niveli 2. Kosova: 16%; Mesatarja OECD: 69%"
+      }
+    },
+    {
+      "slug": "pisa-parents-adult-literacy-kosovo",
+      "name": "percentage-base",
+      "type": "bars",
+      "values": [
+        40,
+        30,
+        37.5
+      ],
+      "en": {
+        "title": "The percentage depends on its base",
+        "subtitle": "Invented price example. The second 25% applies to €30.",
+        "labels": [
+          "Start",
+          "After −25%",
+          "Then +25%"
+        ],
+        "display": [
+          "€40",
+          "€30",
+          "€37.50"
+        ],
+        "foot": "Invented price example. The second 25% applies to €30.",
+        "caption": "Invented price example. The second 25% applies to €30.",
+        "alt": "The percentage depends on its base. Start: €40; After −25%: €30; Then +25%: €37.50"
+      },
+      "sq": {
+        "title": "Përqindja varet nga baza",
+        "subtitle": "Shembull me çmim të sajuar. 25% i dytë zbatohet mbi 30 €.",
+        "labels": [
+          "Fillimi",
+          "Pas −25%",
+          "Pastaj +25%"
+        ],
+        "display": [
+          "40 €",
+          "30 €",
+          "37,50 €"
+        ],
+        "foot": "Shembull me çmim të sajuar. 25% i dytë zbatohet mbi 30 €.",
+        "caption": "Shembull me çmim të sajuar. 25% i dytë zbatohet mbi 30 €.",
+        "alt": "Përqindja varet nga baza. Fillimi: 40 €; Pas −25%: 30 €; Pastaj +25%: 37,50 €"
+      }
+    },
+    {
+      "slug": "pisa-kosovo-parents-learning-at-home",
+      "name": "learning-responsibilities",
+      "type": "cards",
+      "en": {
+        "title": "Responsibility at three levels",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Institutions",
+            "Provide resources and fair learning conditions."
+          ],
+          [
+            "Schools",
+            "Teach, assess and explain the specific gaps."
+          ],
+          [
+            "Families",
+            "Listen to the child’s reasoning and seek help when needed."
+          ]
+        ],
+        "caption": "Editorial framework. One level does not remove another’s responsibility.",
+        "alt": "Responsibility at three levels. Institutions: Provide resources and fair learning conditions.. Schools: Teach, assess and explain the specific gaps.. Families: Listen to the child’s reasoning and seek help when needed.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Përgjegjësia në tri nivele",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Institucionet",
+            "Sigurojnë burime dhe kushte të drejta mësimi."
+          ],
+          [
+            "Shkollat",
+            "Mësojnë, vlerësojnë dhe shpjegojnë boshllëqet konkrete."
+          ],
+          [
+            "Familjet",
+            "Dëgjojnë arsyetimin e fëmijës dhe kërkojnë ndihmë kur duhet."
+          ]
+        ],
+        "caption": "Kornizë editoriale. Njëri nivel nuk e heq përgjegjësinë e tjetrit.",
+        "alt": "Përgjegjësia në tri nivele. Institucionet: Sigurojnë burime dhe kushte të drejta mësimi.. Shkollat: Mësojnë, vlerësojnë dhe shpjegojnë boshllëqet konkrete.. Familjet: Dëgjojnë arsyetimin e fëmijës dhe kërkojnë ndihmë kur duhet.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "pisa-kosovo-parents-learning-at-home",
+      "name": "practice-time",
+      "type": "bars",
+      "values": [
+        75,
+        150,
+        225,
+        300
+      ],
+      "en": {
+        "title": "An illustrative four-week routine",
+        "subtitle": "Cumulative planned time: 15 minutes × 5 evenings/week. Not a promised learning gain.",
+        "labels": [
+          "Week 1",
+          "Week 2",
+          "Week 3",
+          "Week 4"
+        ],
+        "display": [
+          "75 min",
+          "150 min",
+          "225 min",
+          "300 min"
+        ],
+        "foot": "Cumulative planned time: 15 minutes × 5 evenings/week. Not a promised learning gain.",
+        "caption": "Cumulative planned time: 15 minutes × 5 evenings/week. Not a promised learning gain.",
+        "alt": "An illustrative four-week routine. Week 1: 75 min; Week 2: 150 min; Week 3: 225 min; Week 4: 300 min"
+      },
+      "sq": {
+        "title": "Një rutinë ilustruese katërjavore",
+        "subtitle": "Kohë e planifikuar kumulative: 15 minuta × 5 mbrëmje/javë. Jo premtim rezultati.",
+        "labels": [
+          "Java 1",
+          "Java 2",
+          "Java 3",
+          "Java 4"
+        ],
+        "display": [
+          "75 min",
+          "150 min",
+          "225 min",
+          "300 min"
+        ],
+        "foot": "Kohë e planifikuar kumulative: 15 minuta × 5 mbrëmje/javë. Jo premtim rezultati.",
+        "caption": "Kohë e planifikuar kumulative: 15 minuta × 5 mbrëmje/javë. Jo premtim rezultati.",
+        "alt": "Një rutinë ilustruese katërjavore. Java 1: 75 min; Java 2: 150 min; Java 3: 225 min; Java 4: 300 min"
+      }
+    },
+    {
+      "slug": "kosovo-pisa-percentages-ten-pairs-jeans",
+      "name": "jeans-percentages",
+      "type": "bars",
+      "values": [
+        60,
+        40,
+        50,
+        50
+      ],
+      "en": {
+        "title": "The part and the whole",
+        "subtitle": "Illustrative jeans example, before and after adding two black pairs.",
+        "labels": [
+          "White: 6 of 10",
+          "Black: 4 of 10",
+          "White: 6 of 12",
+          "Black: 6 of 12"
+        ],
+        "display": [
+          "60%",
+          "40%",
+          "50%",
+          "50%"
+        ],
+        "foot": "Illustrative jeans example, before and after adding two black pairs.",
+        "caption": "Illustrative jeans example, before and after adding two black pairs.",
+        "alt": "The part and the whole. White: 6 of 10: 60%; Black: 4 of 10: 40%; White: 6 of 12: 50%; Black: 6 of 12: 50%"
+      },
+      "sq": {
+        "title": "Pjesa dhe tërësia",
+        "subtitle": "Shembull ilustrues, para dhe pas shtimit të dy palëve të zeza.",
+        "labels": [
+          "Të bardha: 6 nga 10",
+          "Të zeza: 4 nga 10",
+          "Të bardha: 6 nga 12",
+          "Të zeza: 6 nga 12"
+        ],
+        "display": [
+          "60%",
+          "40%",
+          "50%",
+          "50%"
+        ],
+        "foot": "Shembull ilustrues, para dhe pas shtimit të dy palëve të zeza.",
+        "caption": "Shembull ilustrues, para dhe pas shtimit të dy palëve të zeza.",
+        "alt": "Pjesa dhe tërësia. Të bardha: 6 nga 10: 60%; Të zeza: 4 nga 10: 40%; Të bardha: 6 nga 12: 50%; Të zeza: 6 nga 12: 50%"
+      }
+    },
+    {
+      "slug": "kosovo-pisa-percentages-ten-pairs-jeans",
+      "name": "maths-scores",
+      "type": "bars",
+      "values": [
+        355,
+        350
+      ],
+      "en": {
+        "title": "Kosovo mathematics scores",
+        "subtitle": "Ministry figures. Difference: −5 score points; not an IQ or percentage scale.",
+        "labels": [
+          "PISA 2022",
+          "PISA 2025"
+        ],
+        "display": [
+          "355 points",
+          "350 points"
+        ],
+        "foot": "Ministry figures. Difference: −5 score points; not an IQ or percentage scale.",
+        "caption": "Ministry figures. Difference: −5 score points; not an IQ or percentage scale.",
+        "alt": "Kosovo mathematics scores. PISA 2022: 355 points; PISA 2025: 350 points"
+      },
+      "sq": {
+        "title": "Pikët e Kosovës në matematikë",
+        "subtitle": "Shifrat e ministrisë. Dallimi: −5 pikë; jo shkallë IQ-je apo përqindjeje.",
+        "labels": [
+          "PISA 2022",
+          "PISA 2025"
+        ],
+        "display": [
+          "355 pikë",
+          "350 pikë"
+        ],
+        "foot": "Shifrat e ministrisë. Dallimi: −5 pikë; jo shkallë IQ-je apo përqindjeje.",
+        "caption": "Shifrat e ministrisë. Dallimi: −5 pikë; jo shkallë IQ-je apo përqindjeje.",
+        "alt": "Pikët e Kosovës në matematikë. PISA 2022: 355 pikë; PISA 2025: 350 pikë"
+      }
+    }
+  ]
+}

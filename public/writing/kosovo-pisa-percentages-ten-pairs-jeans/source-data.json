@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-09-26",
+  "source": "https://mash.rks-gov.net/en/news/publication-of-pisa-2025-results/",
+  "scores": {
+    "mathematics": [
+      355,
+      350
+    ],
+    "reading": [
+      342,
+      340
+    ],
+    "science": [
+      357,
+      357
+    ]
+  },
+  "changes": {
+    "mathematics": -5,
+    "reading": -2,
+    "science": 0
+  },
+  "jeans": {
+    "white": 6,
+    "blackBefore": 4,
+    "totalBefore": 10,
+    "blackPercentBefore": 40,
+    "blackAfter": 6,
+    "totalAfter": 12,
+    "blackPercentAfter": 50
+  }
+}

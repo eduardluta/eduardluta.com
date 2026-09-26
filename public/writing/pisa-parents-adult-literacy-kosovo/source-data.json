@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-26",
+  "source": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html",
+  "readingLevel2Percent": {
+    "Kosovo": 16,
+    "OECD": 69
+  },
+  "gapPercentagePoints": 53,
+  "illustration": {
+    "initialEUR": 40,
+    "discountPercent": 25,
+    "discountEUR": 10,
+    "afterDiscountEUR": 30,
+    "subsequentIncreasePercent": 25,
+    "finalEUR": 37.5
+  }
+}

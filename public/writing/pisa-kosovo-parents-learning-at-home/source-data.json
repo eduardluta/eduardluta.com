@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-26",
+  "source": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html",
+  "sampleStudents": 6632,
+  "sampleSchools": 213,
+  "representedStudentsApprox": 19900,
+  "illustrativeMinutesPerEvening": 15,
+  "eveningsPerWeek": 5,
+  "cumulativeMinutesByWeek": [
+    75,
+    150,
+    225,
+    300
+  ],
+  "totalHours": 5
+}

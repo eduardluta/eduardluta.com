@@ -31,6 +31,12 @@ Track the platform video ID and article slug so repeated checks, deployment retr
 
 The initial discovery succeeded on 23 September 2026 at 17:05 UTC. The newest non-pinned video in the Latest listing was published at 14:26 UTC, before monitoring began at 16:58 UTC; no new eligible posts were waiting in that initial monitored period. The durable state records that evidence and the successful discovery watermark.
 
+## Full archive authorization — 26 September 2026
+
+Eduard explicitly requested articles for **all his videos**, expanding the earlier latest-20 scope. A complete public-profile scan found 132 posts: **119 videos and 13 photo-only posts**. Twenty-six videos already had published bilingual articles; **93 additional videos** were entered as explicit pending records in `work/video-article-state/state.json`, with `authorization: full-archive-request-2026-09-26`. The `fullArchive` object records the inventory and progress. The newest-to-oldest scan reached the end of the grid, and the oldest boundary was checked against the Oldest sort.
+
+Complete every pending video through the same researched English/Albanian publication workflow. Historical dates do not exclude these explicitly authorized records. Resume them at each available run alongside new-video discovery; never equate inventory, asset retrieval, or transcription with completed articles. Keep the new-video discovery watermark separate from archive completion. Photo-only posts are recorded separately and are not silently treated as videos. Preserve existing articles and reconcile possible duplicate source material before drafting.
+
 ## Catch up after missed runs
 
 Use the initialized, gitignored local file `work/video-article-state/state.json` as durable state, independently of the replaceable social-wall cache. Schema version 1 contains `monitoringStartedAt`, the last successful discovery watermark `lastCompleteDiscoveryAt`, and `videos` keyed by platform video ID. Each video record stores its URL, slug, status, and `articlePaths`; add verified retry/error, deployment, and live-URL details as work progresses. Write updates atomically by writing and validating a temporary file in the same directory, then replacing the state file. Never replace valid state with a partial or malformed write. Cross-posted copies of the same video must resolve to the existing article record.
