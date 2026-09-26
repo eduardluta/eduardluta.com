@@ -1,0 +1,322 @@
+{
+  "articles": [
+    {
+      "id": "7680206033662266644",
+      "slug": "letting-my-wife-cut-my-hair-trust",
+      "publishedAt": "2026-08-31T14:41:59+00:00",
+      "durationSeconds": 12,
+      "url": "https://www.tiktok.com/@eduardluta/video/7680206033662266644"
+    },
+    {
+      "id": "7676211943207718165",
+      "slug": "albanian-religious-tolerance-without-insults",
+      "publishedAt": "2026-08-20T20:22:56+00:00",
+      "durationSeconds": 22,
+      "url": "https://www.tiktok.com/@eduardluta/video/7676211943207718165"
+    },
+    {
+      "id": "7667119732977405205",
+      "slug": "does-god-understand-albanian",
+      "publishedAt": "2026-07-27T08:20:32+00:00",
+      "durationSeconds": 31,
+      "url": "https://www.tiktok.com/@eduardluta/video/7667119732977405205"
+    },
+    {
+      "id": "7666817036286168340",
+      "slug": "read-the-beliefs-you-build-your-life-on",
+      "publishedAt": "2026-07-26T12:45:53+00:00",
+      "durationSeconds": 25,
+      "url": "https://www.tiktok.com/@eduardluta/video/7666817036286168340"
+    },
+    {
+      "id": "7656935274080980232",
+      "slug": "twenty-seven-failures-from-success",
+      "publishedAt": "2026-06-29T21:39:36+00:00",
+      "durationSeconds": 12,
+      "url": "https://www.tiktok.com/@eduardluta/video/7656935274080980232"
+    },
+    {
+      "id": "7657199172415671570",
+      "slug": "trying-doing-visible-progress",
+      "publishedAt": "2026-06-30T14:43:37+00:00",
+      "durationSeconds": 34,
+      "url": "https://www.tiktok.com/@eduardluta/video/7657199172415671570"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "letting-my-wife-cut-my-hair-trust",
+      "name": "trust-and-audience",
+      "type": "cards",
+      "en": {
+        "title": "Who is the moment for?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The relationship",
+            "Can we be comfortable and laugh together?"
+          ],
+          [
+            "The imagined audience",
+            "Am I busy protecting how I think I look?"
+          ]
+        ],
+        "caption": "An editorial reading of a joke, not a maturity test.",
+        "alt": "Who is the moment for?. The relationship: Can we be comfortable and laugh together?. The imagined audience: Am I busy protecting how I think I look?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Për kë është momenti?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Marrëdhënia",
+            "A mund të ndihemi rehat dhe të qeshim bashkë?"
+          ],
+          [
+            "Publiku i imagjinuar",
+            "A jam i zënë duke mbrojtur mënyrën si mendoj se dukem?"
+          ]
+        ],
+        "caption": "Lexim editorial i një shakaje, jo test pjekurie.",
+        "alt": "Për kë është momenti?. Marrëdhënia: A mund të ndihemi rehat dhe të qeshim bashkë?. Publiku i imagjinuar: A jam i zënë duke mbrojtur mënyrën si mendoj se dukem?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "albanian-religious-tolerance-without-insults",
+      "name": "belief-disagreement-dignity",
+      "type": "cards",
+      "en": {
+        "title": "Three things can coexist",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Belief",
+            "I can hold my own conviction."
+          ],
+          [
+            "Disagreement",
+            "I can challenge an argument or institution."
+          ],
+          [
+            "Dignity",
+            "I can do both without insulting another person’s worth."
+          ]
+        ],
+        "caption": "Editorial framework informed by freedom of belief.",
+        "alt": "Three things can coexist. Belief: I can hold my own conviction.. Disagreement: I can challenge an argument or institution.. Dignity: I can do both without insulting another person’s worth.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri gjëra mund të bashkëjetojnë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Besimi",
+            "Mund ta mbaj bindjen time."
+          ],
+          [
+            "Mospajtimi",
+            "Mund ta sfidoj një argument apo institucion."
+          ],
+          [
+            "Dinjiteti",
+            "Mund t’i bëj të dyja pa fyer vlerën e një personi tjetër."
+          ]
+        ],
+        "caption": "Kornizë editoriale e mbështetur në lirinë e besimit.",
+        "alt": "Tri gjëra mund të bashkëjetojnë. Besimi: Mund ta mbaj bindjen time.. Mospajtimi: Mund ta sfidoj një argument apo institucion.. Dinjiteti: Mund t’i bëj të dyja pa fyer vlerën e një personi tjetër.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "does-god-understand-albanian",
+      "name": "language-and-prayer",
+      "type": "cards",
+      "en": {
+        "title": "Separate the questions",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Personal expression",
+            "What do I mean when I speak?"
+          ],
+          [
+            "Ritual practice",
+            "What does this particular tradition require?"
+          ],
+          [
+            "Understanding",
+            "Do I understand the words and their context?"
+          ]
+        ],
+        "caption": "A framework for respectful discussion, not a religious ruling.",
+        "alt": "Separate the questions. Personal expression: What do I mean when I speak?. Ritual practice: What does this particular tradition require?. Understanding: Do I understand the words and their context?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ndaji pyetjet",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Shprehja personale",
+            "Çfarë dua të them kur flas?"
+          ],
+          [
+            "Praktika rituale",
+            "Çfarë kërkon kjo traditë e caktuar?"
+          ],
+          [
+            "Kuptimi",
+            "A i kuptoj fjalët dhe kontekstin e tyre?"
+          ]
+        ],
+        "caption": "Kornizë për diskutim me respekt, jo vendim fetar.",
+        "alt": "Ndaji pyetjet. Shprehja personale: Çfarë dua të them kur flas?. Praktika rituale: Çfarë kërkon kjo traditë e caktuar?. Kuptimi: A i kuptoj fjalët dhe kontekstin e tyre?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "read-the-beliefs-you-build-your-life-on",
+      "name": "source-interpretation-question",
+      "type": "cards",
+      "en": {
+        "title": "Three notes to make while reading",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The source",
+            "What does the passage actually say?"
+          ],
+          [
+            "The interpretation",
+            "What is somebody adding or explaining?"
+          ],
+          [
+            "The question",
+            "What remains unclear when I read the context?"
+          ]
+        ],
+        "caption": "An editorial reading exercise, not a substitute for subject expertise.",
+        "alt": "Three notes to make while reading. The source: What does the passage actually say?. The interpretation: What is somebody adding or explaining?. The question: What remains unclear when I read the context?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri shënime gjatë leximit",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Burimi",
+            "Çfarë thotë realisht pjesa?"
+          ],
+          [
+            "Interpretimi",
+            "Çfarë po shton ose shpjegon dikush?"
+          ],
+          [
+            "Pyetja",
+            "Çfarë mbetet e paqartë kur e lexoj kontekstin?"
+          ]
+        ],
+        "caption": "Ushtrim editorial leximi, jo zëvendësim i ekspertizës.",
+        "alt": "Tri shënime gjatë leximit. Burimi: Çfarë thotë realisht pjesa?. Interpretimi: Çfarë po shton ose shpjegon dikush?. Pyetja: Çfarë mbetet e paqartë kur e lexoj kontekstin?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "twenty-seven-failures-from-success",
+      "name": "attempt-learning-choice",
+      "type": "cards",
+      "en": {
+        "title": "Make an attempt informative",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Before",
+            "What am I testing?"
+          ],
+          [
+            "After",
+            "What happened, without a verdict on my worth?"
+          ],
+          [
+            "Next",
+            "What will I change, continue or stop?"
+          ]
+        ],
+        "caption": "Editorial reflection. Repetition does not guarantee success.",
+        "alt": "Make an attempt informative. Before: What am I testing?. After: What happened, without a verdict on my worth?. Next: What will I change, continue or stop?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Bëje përpjekjen informuese",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përpara",
+            "Çfarë po testoj?"
+          ],
+          [
+            "Më pas",
+            "Çfarë ndodhi, pa gjykuar vlerën time?"
+          ],
+          [
+            "Pastaj",
+            "Çfarë do të ndryshoj, vazhdoj apo ndal?"
+          ]
+        ],
+        "caption": "Reflektim editorial. Përsëritja nuk garanton sukses.",
+        "alt": "Bëje përpjekjen informuese. Përpara: Çfarë po testoj?. Më pas: Çfarë ndodhi, pa gjykuar vlerën time?. Pastaj: Çfarë do të ndryshoj, vazhdoj apo ndal?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "trying-doing-visible-progress",
+      "name": "action-result-review",
+      "type": "cards",
+      "en": {
+        "title": "Separate the action from its result",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Action",
+            "What did I actually do?"
+          ],
+          [
+            "Result",
+            "What changed, and what remains uncertain?"
+          ],
+          [
+            "Review",
+            "What is the next concrete step?"
+          ]
+        ],
+        "caption": "Editorial framework. Effort and learning can precede a final outcome.",
+        "alt": "Separate the action from its result. Action: What did I actually do?. Result: What changed, and what remains uncertain?. Review: What is the next concrete step?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ndaje veprimin nga rezultati",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Veprimi",
+            "Çfarë bëra realisht?"
+          ],
+          [
+            "Rezultati",
+            "Çfarë ndryshoi dhe çfarë mbetet e pasigurt?"
+          ],
+          [
+            "Rishikimi",
+            "Cili është hapi konkret i radhës?"
+          ]
+        ],
+        "caption": "Kornizë editoriale. Mundi dhe mësimi mund t’i paraprijnë rezultatit përfundimtar.",
+        "alt": "Ndaje veprimin nga rezultati. Veprimi: Çfarë bëra realisht?. Rezultati: Çfarë ndryshoi dhe çfarë mbetet e pasigurt?. Rishikimi: Cili është hapi konkret i radhës?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
