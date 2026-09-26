@@ -1,0 +1,598 @@
+{
+  "articles": [
+    {
+      "id": "7668722470631034133",
+      "slug": "what-to-do-after-bad-news",
+      "publishedAt": "2026-07-31T15:59:54+00:00",
+      "durationSeconds": 213,
+      "url": "https://www.tiktok.com/@eduardluta/video/7668722470631034133"
+    },
+    {
+      "id": "7668664823315582229",
+      "slug": "losing-the-person-who-believed-in-you",
+      "publishedAt": "2026-07-31T12:16:12+00:00",
+      "durationSeconds": 177,
+      "url": "https://www.tiktok.com/@eduardluta/video/7668664823315582229"
+    },
+    {
+      "id": "7666467511336078613",
+      "slug": "asking-for-advice-start-with-your-situation",
+      "publishedAt": "2026-07-25T14:09:31+00:00",
+      "durationSeconds": 123,
+      "url": "https://www.tiktok.com/@eduardluta/video/7666467511336078613"
+    },
+    {
+      "id": "7668411536330738964",
+      "slug": "returning-to-kosovo-with-a-business-plan",
+      "publishedAt": "2026-07-30T19:53:20+00:00",
+      "durationSeconds": 250,
+      "url": "https://www.tiktok.com/@eduardluta/video/7668411536330738964"
+    },
+    {
+      "id": "7666825779686247701",
+      "slug": "moving-to-germany-what-problem-are-you-solving",
+      "publishedAt": "2026-07-26T13:19:49+00:00",
+      "durationSeconds": 177,
+      "url": "https://www.tiktok.com/@eduardluta/video/7666825779686247701"
+    },
+    {
+      "id": "7666455359598644500",
+      "slug": "hyrox-training-four-rounds-before-rome",
+      "publishedAt": "2026-07-25T13:22:22+00:00",
+      "durationSeconds": 225,
+      "url": "https://www.tiktok.com/@eduardluta/video/7666455359598644500"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "what-to-do-after-bad-news",
+      "name": "pause-and-return",
+      "type": "cards",
+      "en": {
+        "title": "A pause with a return point",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Check urgency",
+            "Act immediately when safety requires it."
+          ],
+          [
+            "Create space",
+            "Take a short break when waiting is safe."
+          ],
+          [
+            "Return deliberately",
+            "Write the facts and choose the next conversation."
+          ]
+        ],
+        "caption": "An editorial guide for situations that allow time to think.",
+        "alt": "A pause with a return point. Check urgency: Act immediately when safety requires it.. Create space: Take a short break when waiting is safe.. Return deliberately: Write the facts and choose the next conversation.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një pushim me pikë kthimi",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kontrollo urgjencën",
+            "Vepro menjëherë kur siguria e kërkon."
+          ],
+          [
+            "Krijo hapësirë",
+            "Bëj pak pushim kur pritja është e sigurt."
+          ],
+          [
+            "Kthehu me qëllim",
+            "Shkruaji faktet dhe cakto bisedën e radhës."
+          ]
+        ],
+        "caption": "Udhëzues editorial për situata që lejojnë kohë për të menduar.",
+        "alt": "Një pushim me pikë kthimi. Kontrollo urgjencën: Vepro menjëherë kur siguria e kërkon.. Krijo hapësirë: Bëj pak pushim kur pritja është e sigurt.. Kthehu me qëllim: Shkruaji faktet dhe cakto bisedën e radhës.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "what-to-do-after-bad-news",
+      "name": "facts-questions-actions",
+      "type": "cards",
+      "en": {
+        "title": "Three columns on one page",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Known",
+            "What has actually happened?"
+          ],
+          [
+            "Uncertain",
+            "Which assumption needs checking?"
+          ],
+          [
+            "Next",
+            "What is one useful action?"
+          ]
+        ],
+        "caption": "An illustrative writing exercise, not a guarantee of relief.",
+        "alt": "Three columns on one page. Known: What has actually happened?. Uncertain: Which assumption needs checking?. Next: What is one useful action?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri kolona në një fletë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Dihet",
+            "Çfarë ka ndodhur vërtet?"
+          ],
+          [
+            "E paqartë",
+            "Cili supozim duhet kontrolluar?"
+          ],
+          [
+            "Më pas",
+            "Cili është një veprim i dobishëm?"
+          ]
+        ],
+        "caption": "Ushtrim ilustrues me shkrim, jo garanci për lehtësim.",
+        "alt": "Tri kolona në një fletë. Dihet: Çfarë ka ndodhur vërtet?. E paqartë: Cili supozim duhet kontrolluar?. Më pas: Cili është një veprim i dobishëm?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "losing-the-person-who-believed-in-you",
+      "name": "what-is-missed",
+      "type": "cards",
+      "en": {
+        "title": "What the loss can include",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Presence",
+            "The person and the everyday conversation."
+          ],
+          [
+            "Recognition",
+            "Someone who knew the history of your effort."
+          ],
+          [
+            "Future",
+            "The moments you imagined sharing."
+          ]
+        ],
+        "caption": "Themes from the video, not universal stages of grief.",
+        "alt": "What the loss can include. Presence: The person and the everyday conversation.. Recognition: Someone who knew the history of your effort.. Future: The moments you imagined sharing.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë mund të përfshijë humbja",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Prania",
+            "Njeriu dhe biseda e përditshme."
+          ],
+          [
+            "Njohja",
+            "Dikush që e dinte historinë e përpjekjes sate."
+          ],
+          [
+            "E ardhmja",
+            "Çastet që imagjinoje t’i ndanit."
+          ]
+        ],
+        "caption": "Tema nga videoja, jo faza universale të pikëllimit.",
+        "alt": "Çfarë mund të përfshijë humbja. Prania: Njeriu dhe biseda e përditshme.. Njohja: Dikush që e dinte historinë e përpjekjes sate.. E ardhmja: Çastet që imagjinoje t’i ndanit.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "losing-the-person-who-believed-in-you",
+      "name": "peace-and-access",
+      "type": "cards",
+      "en": {
+        "title": "Peace does not decide access",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Acknowledge",
+            "Recognise what was valuable."
+          ],
+          [
+            "Respect",
+            "Accept consent, safety and boundaries."
+          ],
+          [
+            "Decide",
+            "Contact or reunion is a separate question."
+          ]
+        ],
+        "caption": "A reflection on relationships, not an instruction to reconnect.",
+        "alt": "Peace does not decide access. Acknowledge: Recognise what was valuable.. Respect: Accept consent, safety and boundaries.. Decide: Contact or reunion is a separate question.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Paqja nuk vendos për qasjen",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Prano",
+            "Njih atë që kishte vlerë."
+          ],
+          [
+            "Respekto",
+            "Prano pëlqimin, sigurinë dhe kufijtë."
+          ],
+          [
+            "Vendos",
+            "Kontakti ose rikthimi është pyetje më vete."
+          ]
+        ],
+        "caption": "Reflektim mbi marrëdhëniet, jo udhëzim për të rikrijuar kontakt.",
+        "alt": "Paqja nuk vendos për qasjen. Prano: Njih atë që kishte vlerë.. Respekto: Prano pëlqimin, sigurinë dhe kufijtë.. Vendos: Kontakti ose rikthimi është pyetje më vete.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "asking-for-advice-start-with-your-situation",
+      "name": "a-useful-request",
+      "type": "cards",
+      "en": {
+        "title": "Give the question a shape",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Situation",
+            "What are you trying to change?"
+          ],
+          [
+            "Obstacle",
+            "What have you tried, or what stops you starting?"
+          ],
+          [
+            "Request",
+            "What specific help would be useful?"
+          ]
+        ],
+        "caption": "A suggested message structure, not a condition for deserving help.",
+        "alt": "Give the question a shape. Situation: What are you trying to change?. Obstacle: What have you tried, or what stops you starting?. Request: What specific help would be useful?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi pyetjes një formë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Situata",
+            "Çfarë po përpiqesh të ndryshosh?"
+          ],
+          [
+            "Pengesa",
+            "Çfarë ke provuar ose çfarë të pengon të fillosh?"
+          ],
+          [
+            "Kërkesa",
+            "Çfarë ndihme konkrete do të vlente?"
+          ]
+        ],
+        "caption": "Strukturë e sugjeruar për mesazhin, jo kusht për ta merituar ndihmën.",
+        "alt": "Jepi pyetjes një formë. Situata: Çfarë po përpiqesh të ndryshosh?. Pengesa: Çfarë ke provuar ose çfarë të pengon të fillosh?. Kërkesa: Çfarë ndihme konkrete do të vlente?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "asking-for-advice-start-with-your-situation",
+      "name": "different-kinds-of-help",
+      "type": "cards",
+      "en": {
+        "title": "Name the kind of help",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Feedback",
+            "Review something you have made."
+          ],
+          [
+            "Information",
+            "Explain a process or point to a source."
+          ],
+          [
+            "Support",
+            "Listen or help with a practical burden."
+          ]
+        ],
+        "caption": "These requests need different responses and different expertise.",
+        "alt": "Name the kind of help. Feedback: Review something you have made.. Information: Explain a process or point to a source.. Support: Listen or help with a practical burden.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Emërto llojin e ndihmës",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vlerësim",
+            "Shqyrto diçka që ke krijuar."
+          ],
+          [
+            "Informacion",
+            "Shpjego një proces ose trego një burim."
+          ],
+          [
+            "Mbështetje",
+            "Dëgjo ose ndihmo me një barrë praktike."
+          ]
+        ],
+        "caption": "Këto kërkesa duan përgjigje dhe njohuri të ndryshme.",
+        "alt": "Emërto llojin e ndihmës. Vlerësim: Shqyrto diçka që ke krijuar.. Informacion: Shpjego një proces ose trego një burim.. Mbështetje: Dëgjo ose ndihmo me një barrë praktike.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "returning-to-kosovo-with-a-business-plan",
+      "name": "belonging-and-demand",
+      "type": "cards",
+      "en": {
+        "title": "Two questions before returning",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Life",
+            "Where and with whom do I want to live?"
+          ],
+          [
+            "Customer",
+            "Who needs the thing I want to build?"
+          ],
+          [
+            "Plan",
+            "What evidence and cash will support the move?"
+          ]
+        ],
+        "caption": "Personal belonging and business demand need separate answers.",
+        "alt": "Two questions before returning. Life: Where and with whom do I want to live?. Customer: Who needs the thing I want to build?. Plan: What evidence and cash will support the move?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dy pyetje para kthimit",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Jeta",
+            "Ku dhe me kë dua të jetoj?"
+          ],
+          [
+            "Klienti",
+            "Kujt i duhet ajo që dua të ndërtoj?"
+          ],
+          [
+            "Plani",
+            "Çfarë provash dhe parash e mbështesin kthimin?"
+          ]
+        ],
+        "caption": "Përkatësia personale dhe kërkesa e tregut duan përgjigje të veçanta.",
+        "alt": "Dy pyetje para kthimit. Jeta: Ku dhe me kë dua të jetoj?. Klienti: Kujt i duhet ajo që dua të ndërtoj?. Plani: Çfarë provash dhe parash e mbështesin kthimin?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "returning-to-kosovo-with-a-business-plan",
+      "name": "cash-runway",
+      "type": "bars",
+      "values": [
+        8,
+        6,
+        4.8
+      ],
+      "en": {
+        "title": "How long €12,000 lasts",
+        "subtitle": "Illustrative spending, no incoming cash; emergency reserve excluded.",
+        "labels": [
+          "€1,500 / month",
+          "€2,000 / month",
+          "€2,500 / month"
+        ],
+        "display": [
+          "8 months",
+          "6 months",
+          "4.8 months"
+        ],
+        "foot": "Illustrative spending, no incoming cash; emergency reserve excluded.",
+        "caption": "Illustrative spending, no incoming cash; emergency reserve excluded.",
+        "alt": "How long €12,000 lasts. €1,500 / month: 8 months; €2,000 / month: 6 months; €2,500 / month: 4.8 months"
+      },
+      "sq": {
+        "title": "Sa zgjasin €12 000",
+        "subtitle": "Shpenzime ilustruese, pa hyrje parash; rezerva nuk përfshihet.",
+        "labels": [
+          "€1 500 / muaj",
+          "€2 000 / muaj",
+          "€2 500 / muaj"
+        ],
+        "display": [
+          "8 muaj",
+          "6 muaj",
+          "4,8 muaj"
+        ],
+        "foot": "Shpenzime ilustruese, pa hyrje parash; rezerva nuk përfshihet.",
+        "caption": "Shpenzime ilustruese, pa hyrje parash; rezerva nuk përfshihet.",
+        "alt": "Sa zgjasin €12 000. €1 500 / muaj: 8 muaj; €2 000 / muaj: 6 muaj; €2 500 / muaj: 4,8 muaj"
+      }
+    },
+    {
+      "slug": "moving-to-germany-what-problem-are-you-solving",
+      "name": "three-moving-questions",
+      "type": "cards",
+      "en": {
+        "title": "Which problem needs an answer?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Money",
+            "Compare net income and full costs."
+          ],
+          [
+            "Belonging",
+            "Consider relationships and daily life."
+          ],
+          [
+            "Growth",
+            "Name the experience or skill you want."
+          ]
+        ],
+        "caption": "A decision framework, not a score for either country.",
+        "alt": "Which problem needs an answer?. Money: Compare net income and full costs.. Belonging: Consider relationships and daily life.. Growth: Name the experience or skill you want.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Cilit problem i duhet përgjigje?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Paratë",
+            "Krahaso të ardhurat neto dhe kostot e plota."
+          ],
+          [
+            "Përkatësia",
+            "Mendo marrëdhëniet dhe jetën e përditshme."
+          ],
+          [
+            "Zhvillimi",
+            "Emërto përvojën ose aftësinë që kërkon."
+          ]
+        ],
+        "caption": "Kornizë vendimmarrjeje, jo vlerësim me pikë i shteteve.",
+        "alt": "Cilit problem i duhet përgjigje?. Paratë: Krahaso të ardhurat neto dhe kostot e plota.. Përkatësia: Mendo marrëdhëniet dhe jetën e përditshme.. Zhvillimi: Emërto përvojën ose aftësinë që kërkon.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "moving-to-germany-what-problem-are-you-solving",
+      "name": "remaining-cash",
+      "type": "bars",
+      "values": [
+        250,
+        350
+      ],
+      "en": {
+        "title": "Compare what remains",
+        "subtitle": "Invented budgets: net income minus regular costs, not market estimates.",
+        "labels": [
+          "Current scenario",
+          "Move scenario"
+        ],
+        "display": [
+          "€250 / month",
+          "€350 / month"
+        ],
+        "foot": "Invented budgets: net income minus regular costs, not market estimates.",
+        "caption": "Invented budgets: net income minus regular costs, not market estimates.",
+        "alt": "Compare what remains. Current scenario: €250 / month; Move scenario: €350 / month"
+      },
+      "sq": {
+        "title": "Krahaso çfarë mbetet",
+        "subtitle": "Buxhete të sajuara: të ardhurat neto minus kostot, jo vlerësime tregu.",
+        "labels": [
+          "Skenari i tanishëm",
+          "Skenari i zhvendosjes"
+        ],
+        "display": [
+          "€250 / muaj",
+          "€350 / muaj"
+        ],
+        "foot": "Buxhete të sajuara: të ardhurat neto minus kostot, jo vlerësime tregu.",
+        "caption": "Buxhete të sajuara: të ardhurat neto minus kostot, jo vlerësime tregu.",
+        "alt": "Krahaso çfarë mbetet. Skenari i tanishëm: €250 / muaj; Skenari i zhvendosjes: €350 / muaj"
+      }
+    },
+    {
+      "slug": "hyrox-training-four-rounds-before-rome",
+      "name": "training-sequence",
+      "type": "cards",
+      "en": {
+        "title": "The session in the video",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Run and station",
+            "Alternate one kilometre with an exercise."
+          ],
+          [
+            "Four rounds",
+            "SkiErg, rowing, carry and lunges."
+          ],
+          [
+            "Review",
+            "Notice pacing, transitions and technique."
+          ]
+        ],
+        "caption": "Training sequence from the video; not the full official race order.",
+        "alt": "The session in the video. Run and station: Alternate one kilometre with an exercise.. Four rounds: SkiErg, rowing, carry and lunges.. Review: Notice pacing, transitions and technique.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Seanca në video",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vrapim dhe ushtrim",
+            "Alterno një kilometër me një ushtrim."
+          ],
+          [
+            "Katër runde",
+            "SkiErg, vozitje, bartje peshash dhe hapa të thellë."
+          ],
+          [
+            "Shqyrto",
+            "Vëre ritmin, kalimet dhe teknikën."
+          ]
+        ],
+        "caption": "Rendi i stërvitjes nga videoja; jo rendi i plotë zyrtar i garës.",
+        "alt": "Seanca në video. Vrapim dhe ushtrim: Alterno një kilometër me një ushtrim.. Katër runde: SkiErg, vozitje, bartje peshash dhe hapa të thellë.. Shqyrto: Vëre ritmin, kalimet dhe teknikën.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "hyrox-training-four-rounds-before-rome",
+      "name": "running-distance",
+      "type": "bars",
+      "values": [
+        3,
+        4,
+        8
+      ],
+      "en": {
+        "title": "Running distance, not total effort",
+        "subtitle": "Video session plans compared with the organiser’s standard format.",
+        "labels": [
+          "Previous session",
+          "This session",
+          "Full race format"
+        ],
+        "display": [
+          "3 km",
+          "4 km",
+          "8 km"
+        ],
+        "foot": "Video session plans compared with the organiser’s standard format.",
+        "caption": "Video session plans compared with the organiser’s standard format.",
+        "alt": "Running distance, not total effort. Previous session: 3 km; This session: 4 km; Full race format: 8 km"
+      },
+      "sq": {
+        "title": "Distanca e vrapimit, jo përpjekja totale",
+        "subtitle": "Planet e seancave në video krahasuar me formatin standard të organizatorit.",
+        "labels": [
+          "Seanca e mëparshme",
+          "Kjo seancë",
+          "Formati i plotë"
+        ],
+        "display": [
+          "3 km",
+          "4 km",
+          "8 km"
+        ],
+        "foot": "Planet e seancave në video krahasuar me formatin standard të organizatorit.",
+        "caption": "Planet e seancave në video krahasuar me formatin standard të organizatorit.",
+        "alt": "Distanca e vrapimit, jo përpjekja totale. Seanca e mëparshme: 3 km; Kjo seancë: 4 km; Formati i plotë: 8 km"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "illustrative_scenario",
+  "startingCash": 18000,
+  "emergencyReserve": 3000,
+  "setupAndMove": 3000,
+  "transitionCash": 12000,
+  "monthlyOutflows": [
+    1500,
+    2000,
+    2500
+  ],
+  "months": [
+    8,
+    6,
+    4.8
+  ],
+  "formula": "(startingCash-emergencyReserve-setupAndMove)/monthlyOutflow",
+  "incomeAssumption": 0,
+  "currency": "EUR"
+}

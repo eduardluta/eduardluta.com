@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "distance_comparison",
+  "previousRuns": 3,
+  "sessionRuns": 4,
+  "raceRuns": 8,
+  "kilometresPerRun": 1,
+  "sessionShareOfRaceRunningPercent": 50,
+  "sessionRunningIncreasePercent": 33.333333333333336,
+  "raceSource": "https://hyrox.com/the-fitness-race/",
+  "notMeasured": [
+    "totalEffort",
+    "raceReadiness",
+    "verifiedFinishTime"
+  ]
+}

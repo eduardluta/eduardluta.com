@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "illustrative_scenario",
+  "currency": "EUR",
+  "current": {
+    "netIncome": 900,
+    "costs": 650,
+    "remaining": 250
+  },
+  "move": {
+    "netIncome": 2200,
+    "costs": 1850,
+    "remaining": 350
+  },
+  "additionalMonthlyCash": 100,
+  "oneOffMovingCosts": 2000,
+  "monthsToEqualMovingCosts": 20
+}
