@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-09-25",
+  "sourceVideo": "https://www.tiktok.com/@eduardluta/video/7689493602925579540",
+  "menu": {
+    "url": "https://www.mangalxlukaspodolskidsseldorf.de/",
+    "branch": "Nordstraße 94, Düsseldorf",
+    "channel": "Online ordering via Lieferando",
+    "currency": "EUR",
+    "items": [
+      {
+        "name": "Poldi’s Sandwich",
+        "priceEUR": "10.49"
+      },
+      {
+        "name": "Poldi’s Dürüm",
+        "priceEUR": "11.49"
+      },
+      {
+        "name": "Poldi’s Weltmeisterteller",
+        "priceEUR": "16.99"
+      }
+    ],
+    "visitedBranchConfirmed": false
+  },
+  "calculations": {
+    "basePriceEUR": "10.49",
+    "priceDifferencesEUR": [
+      "1.00",
+      "6.50"
+    ],
+    "percentageFormula": "(item price - sandwich price) / sandwich price * 100",
+    "percentageDifferencesRounded": [
+      9.5,
+      62.0
+    ],
+    "hypotheticalQuantities": [
+      100,
+      200
+    ],
+    "grossSalesEUR": [
+      "1049.00",
+      "2098.00"
+    ],
+    "grossSalesFormula": "hypothetical quantity * listed sandwich price",
+    "notProfit": true
+  },
+  "company": {
+    "url": "https://mangal-lp10.de/startseite/",
+    "advertisedBranches": "34+",
+    "advertisedCities": "20+",
+    "independentlyAudited": false,
+    "franchiseUrl": "https://mangal-lp10.de/franchise/",
+    "podolskiInvolvementSince": 2018,
+    "franchiseSystemOpened": 2022
+  }
+}

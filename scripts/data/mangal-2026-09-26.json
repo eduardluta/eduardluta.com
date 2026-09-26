@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "id": "7689493602925579540",
+      "slug": "mangal-podolski-doner-dusseldorf-prices",
+      "publishedAt": "2026-09-25T15:22:29+00:00",
+      "durationSeconds": 26,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689493602925579540"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "mangal-podolski-doner-dusseldorf-prices",
+      "name": "menu-prices",
+      "type": "bars",
+      "values": [
+        10.49,
+        11.49,
+        16.99
+      ],
+      "en": {
+        "title": "Three prices from one menu",
+        "subtitle": "Nordstraße online ordering menu, checked 25 September 2026. Different products; not a price-per-gram comparison. Fees and extras excluded.",
+        "labels": [
+          "Poldi’s Sandwich",
+          "Poldi’s Dürüm",
+          "Poldi’s Weltmeisterteller"
+        ],
+        "display": [
+          "€10.49",
+          "€11.49",
+          "€16.99"
+        ],
+        "foot": "Nordstraße online ordering menu, checked 25 September 2026. Different products; not a price-per-gram comparison. Fees and extras excluded.",
+        "caption": "Nordstraße online ordering menu, checked 25 September 2026. Different products; not a price-per-gram comparison. Fees and extras excluded.",
+        "alt": "Three prices from one menu. Poldi’s Sandwich: €10.49; Poldi’s Dürüm: €11.49; Poldi’s Weltmeisterteller: €16.99"
+      },
+      "sq": {
+        "title": "Tri çmime nga një menu",
+        "subtitle": "Menuja online e Nordstraße, kontrolluar më 25 shtator 2026. Produkte të ndryshme; jo krahasim çmimi për gram. Pa tarifa dhe shtesa.",
+        "labels": [
+          "Poldi’s Sandwich",
+          "Poldi’s Dürüm",
+          "Poldi’s Weltmeisterteller"
+        ],
+        "display": [
+          "10,49 €",
+          "11,49 €",
+          "16,99 €"
+        ],
+        "foot": "Menuja online e Nordstraße, kontrolluar më 25 shtator 2026. Produkte të ndryshme; jo krahasim çmimi për gram. Pa tarifa dhe shtesa.",
+        "caption": "Menuja online e Nordstraße, kontrolluar më 25 shtator 2026. Produkte të ndryshme; jo krahasim çmimi për gram. Pa tarifa dhe shtesa.",
+        "alt": "Tri çmime nga një menu. Poldi’s Sandwich: 10,49 €; Poldi’s Dürüm: 11,49 €; Poldi’s Weltmeisterteller: 16,99 €"
+      }
+    },
+    {
+      "slug": "mangal-podolski-doner-dusseldorf-prices",
+      "name": "beyond-the-famous-name",
+      "type": "cards",
+      "en": {
+        "title": "What has to work behind the name",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "A reason to try",
+            "A recognised name can make someone curious. That is an opening."
+          ],
+          [
+            "A reason to return",
+            "The product and service must give the customer a reason for a second visit."
+          ],
+          [
+            "A business that lasts",
+            "Purchasing, people, premises and costs have to work together day after day."
+          ]
+        ],
+        "caption": "My reading of the business question in the video. This is an editorial framework, not measured customer behaviour or a financial audit.",
+        "alt": "What has to work behind the name. A reason to try: A recognised name can make someone curious. That is an opening.. A reason to return: The product and service must give the customer a reason for a second visit.. A business that lasts: Purchasing, people, premises and costs have to work together day after day.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë duhet të funksionojë pas emrit",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Një arsye për ta provuar",
+            "Një emër i njohur mund të zgjojë kureshtje. Kjo është një hyrje."
+          ],
+          [
+            "Një arsye për t’u kthyer",
+            "Produkti dhe shërbimi duhet t’i japin klientit arsye për një vizitë të dytë."
+          ],
+          [
+            "Një biznes që zgjat",
+            "Furnizimi, njerëzit, lokali dhe kostot duhet të funksionojnë bashkë, ditë pas dite."
+          ]
+        ],
+        "caption": "Leximi im i pyetjes së biznesit në video. Kornizë editoriale, jo sjellje e matur e klientëve apo auditim financiar.",
+        "alt": "Çfarë duhet të funksionojë pas emrit. Një arsye për ta provuar: Një emër i njohur mund të zgjojë kureshtje. Kjo është një hyrje.. Një arsye për t’u kthyer: Produkti dhe shërbimi duhet t’i japin klientit arsye për një vizitë të dytë.. Një biznes që zgjat: Furnizimi, njerëzit, lokali dhe kostot duhet të funksionojnë bashkë, ditë pas dite.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
