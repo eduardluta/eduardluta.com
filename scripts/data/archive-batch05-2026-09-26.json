@@ -1,0 +1,565 @@
+{
+  "articles": [
+    {
+      "id": "7665849997744704788",
+      "slug": "cancer-meaning-emotions-without-blame",
+      "publishedAt": "2026-07-23T22:13:16+00:00",
+      "durationSeconds": 178,
+      "url": "https://www.tiktok.com/@eduardluta/video/7665849997744704788"
+    },
+    {
+      "id": "7649854677533674760",
+      "slug": "cancer-biopsy-questions-and-evidence",
+      "publishedAt": "2026-06-10T19:43:14+00:00",
+      "durationSeconds": 140,
+      "url": "https://www.tiktok.com/@eduardluta/video/7649854677533674760"
+    },
+    {
+      "id": "7650062315244489992",
+      "slug": "anger-during-illness-support-without-pressure",
+      "publishedAt": "2026-06-11T09:08:58+00:00",
+      "durationSeconds": 159,
+      "url": "https://www.tiktok.com/@eduardluta/video/7650062315244489992"
+    },
+    {
+      "id": "7680192562652564757",
+      "slug": "empathy-hypervigilance-and-a-safer-home",
+      "publishedAt": "2026-08-31T13:49:44+00:00",
+      "durationSeconds": 275,
+      "url": "https://www.tiktok.com/@eduardluta/video/7680192562652564757"
+    },
+    {
+      "id": "7653804725619395858",
+      "slug": "healing-avoidance-and-the-dmt-death-claim",
+      "publishedAt": "2026-06-21T11:11:28+00:00",
+      "durationSeconds": 93,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653804725619395858"
+    },
+    {
+      "id": "7653766387311086856",
+      "slug": "tiredness-enthusiasm-and-a-life-you-want",
+      "publishedAt": "2026-06-21T08:42:43+00:00",
+      "durationSeconds": 44,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653766387311086856"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "cancer-meaning-emotions-without-blame",
+      "name": "meaning-and-evidence",
+      "type": "cards",
+      "en": {
+        "title": "What a survivor’s story can tell us",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Personal meaning",
+            "How someone understood an experience."
+          ],
+          [
+            "Medical cause",
+            "Requires evidence beyond that story."
+          ],
+          [
+            "Treatment decisions",
+            "Discuss the specific diagnosis with the care team."
+          ]
+        ],
+        "caption": "A meaningful experience is not a clinical test.",
+        "alt": "What a survivor’s story can tell us. Personal meaning: How someone understood an experience.. Medical cause: Requires evidence beyond that story.. Treatment decisions: Discuss the specific diagnosis with the care team.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë mund të tregojë një rrëfim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kuptimi personal",
+            "Si e ka kuptuar dikush përvojën e vet."
+          ],
+          [
+            "Shkaku mjekësor",
+            "Kërkon prova përtej atij rrëfimi."
+          ],
+          [
+            "Vendimet për trajtim",
+            "Diskuto diagnozën konkrete me ekipin mjekësor."
+          ]
+        ],
+        "caption": "Një përvojë domethënëse nuk është test klinik.",
+        "alt": "Çfarë mund të tregojë një rrëfim. Kuptimi personal: Si e ka kuptuar dikush përvojën e vet.. Shkaku mjekësor: Kërkon prova përtej atij rrëfimi.. Vendimet për trajtim: Diskuto diagnozën konkrete me ekipin mjekësor.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "cancer-meaning-emotions-without-blame",
+      "name": "support-without-blame",
+      "type": "cards",
+      "en": {
+        "title": "Support without a mindset test",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Listen",
+            "Let the person describe their own day."
+          ],
+          [
+            "Ask",
+            "Find out what help they actually want."
+          ],
+          [
+            "Respect",
+            "Do not demand gratitude or a positive performance."
+          ]
+        ],
+        "caption": "Editorial prompts for family conversations, not a treatment plan.",
+        "alt": "Support without a mindset test. Listen: Let the person describe their own day.. Ask: Find out what help they actually want.. Respect: Do not demand gratitude or a positive performance.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mbështetje pa provim mendësie",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Dëgjo",
+            "Lëre personin ta përshkruajë vetë ditën e tij."
+          ],
+          [
+            "Pyet",
+            "Kupto çfarë ndihme dëshiron realisht."
+          ],
+          [
+            "Respekto",
+            "Mos kërko mirënjohje apo shfaqje pozitiviteti."
+          ]
+        ],
+        "caption": "Pyetje orientuese për bisedat familjare, jo plan trajtimi.",
+        "alt": "Mbështetje pa provim mendësie. Dëgjo: Lëre personin ta përshkruajë vetë ditën e tij.. Pyet: Kupto çfarë ndihme dëshiron realisht.. Respekto: Mos kërko mirënjohje apo shfaqje pozitiviteti.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "cancer-biopsy-questions-and-evidence",
+      "name": "story-and-biology",
+      "type": "cards",
+      "en": {
+        "title": "The claim and the medical explanation",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Claim in the video",
+            "A tumour collects toxins to protect the body."
+          ],
+          [
+            "Medical correction",
+            "Cancer involves abnormal cells; metastasis spreads cancer cells."
+          ],
+          [
+            "Practical consequence",
+            "Ask about the investigation. Do not delay because of the toxin claim."
+          ]
+        ],
+        "caption": "Evidence context: National Cancer Institute.",
+        "alt": "The claim and the medical explanation. Claim in the video: A tumour collects toxins to protect the body.. Medical correction: Cancer involves abnormal cells; metastasis spreads cancer cells.. Practical consequence: Ask about the investigation. Do not delay because of the toxin claim.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Pohimi dhe shpjegimi mjekësor",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Pohimi në video",
+            "Tumori mbledh toksina për ta mbrojtur trupin."
+          ],
+          [
+            "Korrigjimi mjekësor",
+            "Kanceri përfshin qeliza jonormale; metastaza përhap qeliza kancerogjene."
+          ],
+          [
+            "Pasoja praktike",
+            "Pyet për ekzaminimin. Mos e shty për shkak të pohimit për toksinat."
+          ]
+        ],
+        "caption": "Konteksti shkencor: Instituti Kombëtar i Kancerit.",
+        "alt": "Pohimi dhe shpjegimi mjekësor. Pohimi në video: Tumori mbledh toksina për ta mbrojtur trupin.. Korrigjimi mjekësor: Kanceri përfshin qeliza jonormale; metastaza përhap qeliza kancerogjene.. Pasoja praktike: Pyet për ekzaminimin. Mos e shty për shkak të pohimit për toksinat.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "cancer-biopsy-questions-and-evidence",
+      "name": "biopsy-questions",
+      "type": "cards",
+      "en": {
+        "title": "Questions for the appointment",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Purpose",
+            "What will the sample tell us?"
+          ],
+          [
+            "Decision",
+            "How will the result affect what happens next?"
+          ],
+          [
+            "Risks and timing",
+            "What are the specific risks and the consequences of waiting?"
+          ]
+        ],
+        "caption": "A conversation guide; individual advice comes from the treating team.",
+        "alt": "Questions for the appointment. Purpose: What will the sample tell us?. Decision: How will the result affect what happens next?. Risks and timing: What are the specific risks and the consequences of waiting?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Pyetje për konsultën",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Qëllimi",
+            "Çfarë do të na tregojë mostra?"
+          ],
+          [
+            "Vendimi",
+            "Si do të ndikojë rezultati në hapin e ardhshëm?"
+          ],
+          [
+            "Rreziqet dhe koha",
+            "Cilat janë rreziqet konkrete dhe pasojat e pritjes?"
+          ]
+        ],
+        "caption": "Udhëzues bisede; këshilla individuale vjen nga ekipi trajtues.",
+        "alt": "Pyetje për konsultën. Qëllimi: Çfarë do të na tregojë mostra?. Vendimi: Si do të ndikojë rezultati në hapin e ardhshëm?. Rreziqet dhe koha: Cilat janë rreziqet konkrete dhe pasojat e pritjes?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "anger-during-illness-support-without-pressure",
+      "name": "room-for-feelings",
+      "type": "cards",
+      "en": {
+        "title": "Make room before offering a method",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Hear the feeling",
+            "Anger and fear do not need a positive ending."
+          ],
+          [
+            "Ask about help",
+            "Company, practical support or quiet?"
+          ],
+          [
+            "Keep medical care involved",
+            "Report symptoms; do not explain them away as emotion."
+          ]
+        ],
+        "caption": "A listening guide, not a clinical assessment.",
+        "alt": "Make room before offering a method. Hear the feeling: Anger and fear do not need a positive ending.. Ask about help: Company, practical support or quiet?. Keep medical care involved: Report symptoms; do not explain them away as emotion.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Lër hapësirë para se të ofrosh metodë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Dëgjo ndjenjën",
+            "Zemërimi dhe frika nuk kërkojnë fund pozitiv."
+          ],
+          [
+            "Pyet për ndihmën",
+            "Shoqëri, ndihmë praktike apo qetësi?"
+          ],
+          [
+            "Mbaje kujdesin mjekësor pranë",
+            "Raporto simptomat; mos i shpjego vetëm si emocione."
+          ]
+        ],
+        "caption": "Udhëzues dëgjimi, jo vlerësim klinik.",
+        "alt": "Lër hapësirë para se të ofrosh metodë. Dëgjo ndjenjën: Zemërimi dhe frika nuk kërkojnë fund pozitiv.. Pyet për ndihmën: Shoqëri, ndihmë praktike apo qetësi?. Mbaje kujdesin mjekësor pranë: Raporto simptomat; mos i shpjego vetëm si emocione.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "anger-during-illness-support-without-pressure",
+      "name": "comfort-and-care",
+      "type": "cards",
+      "en": {
+        "title": "Comfort and treatment are different questions",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Personal comfort",
+            "The person may welcome nature, prayer or company."
+          ],
+          [
+            "Medical effect",
+            "Feeling calmer does not establish a cancer treatment."
+          ],
+          [
+            "Choice",
+            "An invitation includes permission to decline."
+          ]
+        ],
+        "caption": "Personal meaning does not require a cure claim.",
+        "alt": "Comfort and treatment are different questions. Personal comfort: The person may welcome nature, prayer or company.. Medical effect: Feeling calmer does not establish a cancer treatment.. Choice: An invitation includes permission to decline.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Qetësimi dhe trajtimi janë pyetje të ndryshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Qetësimi personal",
+            "Personi mund ta mirëpresë natyrën, lutjen apo shoqërinë."
+          ],
+          [
+            "Efekti mjekësor",
+            "Qetësia nuk vërteton trajtim të kancerit."
+          ],
+          [
+            "Zgjedhja",
+            "Ftesa përfshin edhe mundësinë për ta refuzuar."
+          ]
+        ],
+        "caption": "Kuptimi personal nuk ka nevojë për premtim shërimi.",
+        "alt": "Qetësimi dhe trajtimi janë pyetje të ndryshme. Qetësimi personal: Personi mund ta mirëpresë natyrën, lutjen apo shoqërinë.. Efekti mjekësor: Qetësia nuk vërteton trajtim të kancerit.. Zgjedhja: Ftesa përfshin edhe mundësinë për ta refuzuar.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "empathy-hypervigilance-and-a-safer-home",
+      "name": "sensitivity-and-safety",
+      "type": "cards",
+      "en": {
+        "title": "Three things worth separating",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Empathy",
+            "Trying to understand another person’s experience."
+          ],
+          [
+            "Constant watchfulness",
+            "Continually checking for possible danger."
+          ],
+          [
+            "Accuracy",
+            "An interpretation still needs context and evidence."
+          ]
+        ],
+        "caption": "Conceptual distinctions, not a diagnostic test.",
+        "alt": "Three things worth separating. Empathy: Trying to understand another person’s experience.. Constant watchfulness: Continually checking for possible danger.. Accuracy: An interpretation still needs context and evidence.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri gjëra që duhen dalluar",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Empatia",
+            "Përpjekja për ta kuptuar përvojën e tjetrit."
+          ],
+          [
+            "Vigjilenca e pandërprerë",
+            "Kontroll i vazhdueshëm për rrezik të mundshëm."
+          ],
+          [
+            "Saktësia",
+            "Interpretimi ende kërkon kontekst dhe prova."
+          ]
+        ],
+        "caption": "Dallime konceptuale, jo test diagnostikues.",
+        "alt": "Tri gjëra që duhen dalluar. Empatia: Përpjekja për ta kuptuar përvojën e tjetrit.. Vigjilenca e pandërprerë: Kontroll i vazhdueshëm për rrezik të mundshëm.. Saktësia: Interpretimi ende kërkon kontekst dhe prova.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "empathy-hypervigilance-and-a-safer-home",
+      "name": "interpretation-check",
+      "type": "cards",
+      "en": {
+        "title": "From a signal to a conversation",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Notice",
+            "The reply was short."
+          ],
+          [
+            "Leave room",
+            "There may be more than one explanation."
+          ],
+          [
+            "Ask when safe",
+            "Check instead of declaring what the other person feels."
+          ]
+        ],
+        "caption": "An illustrative conversation, not a claim that unsafe situations should be ignored.",
+        "alt": "From a signal to a conversation. Notice: The reply was short.. Leave room: There may be more than one explanation.. Ask when safe: Check instead of declaring what the other person feels.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga një sinjal te biseda",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vëreje",
+            "Përgjigjja ishte e shkurtër."
+          ],
+          [
+            "Lër hapësirë",
+            "Mund të ketë më shumë se një shpjegim."
+          ],
+          [
+            "Pyet kur është e sigurt",
+            "Verifiko, në vend që të shpallësh çfarë ndien tjetri."
+          ]
+        ],
+        "caption": "Bisedë ilustruese, jo kërkesë për të shpërfillur situata të pasigurta.",
+        "alt": "Nga një sinjal te biseda. Vëreje: Përgjigjja ishte e shkurtër.. Lër hapësirë: Mund të ketë më shumë se një shpjegim.. Pyet kur është e sigurt: Verifiko, në vend që të shpallësh çfarë ndien tjetri.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "healing-avoidance-and-the-dmt-death-claim",
+      "name": "evidence-boundary",
+      "type": "cards",
+      "en": {
+        "title": "From a measurement to an unproven story",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Measured",
+            "DMT in rat brains around experimental cardiac arrest."
+          ],
+          [
+            "Not established",
+            "A seven-minute human life review caused by DMT."
+          ],
+          [
+            "Separate question",
+            "What meaning someone gives to death and living."
+          ]
+        ],
+        "caption": "An evidence boundary, not a timeline of dying.",
+        "alt": "From a measurement to an unproven story. Measured: DMT in rat brains around experimental cardiac arrest.. Not established: A seven-minute human life review caused by DMT.. Separate question: What meaning someone gives to death and living.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga matja te një rrëfim i paprovuar",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "E matur",
+            "DMT në trurin e minjve rreth arrestit kardiak eksperimental."
+          ],
+          [
+            "E pavërtetuar",
+            "Rishikim shtatëminutësh i jetës te njeriu, i shkaktuar nga DMT-ja."
+          ],
+          [
+            "Pyetje më vete",
+            "Kuptimi që dikush i jep vdekjes dhe jetës."
+          ]
+        ],
+        "caption": "Kufi i provave, jo vijë kohore e vdekjes.",
+        "alt": "Nga matja te një rrëfim i paprovuar. E matur: DMT në trurin e minjve rreth arrestit kardiak eksperimental.. E pavërtetuar: Rishikim shtatëminutësh i jetës te njeriu, i shkaktuar nga DMT-ja.. Pyetje më vete: Kuptimi që dikush i jep vdekjes dhe jetës.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "healing-avoidance-and-the-dmt-death-claim",
+      "name": "chosen-next-step",
+      "type": "cards",
+      "en": {
+        "title": "A chosen step, not a forced confrontation",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name it",
+            "What have I been postponing?"
+          ],
+          [
+            "Check safety",
+            "Would contact or distance serve me better?"
+          ],
+          [
+            "Choose support",
+            "I can ask for help and set the pace."
+          ]
+        ],
+        "caption": "Reflection prompts, not a trauma-treatment protocol.",
+        "alt": "A chosen step, not a forced confrontation. Name it: What have I been postponing?. Check safety: Would contact or distance serve me better?. Choose support: I can ask for help and set the pace.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Hap i zgjedhur, jo përballje e detyruar",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Emërtoje",
+            "Çfarë kam shtyrë vazhdimisht?"
+          ],
+          [
+            "Shiko sigurinë",
+            "A më shërben më mirë kontakti apo distanca?"
+          ],
+          [
+            "Zgjidh mbështetjen",
+            "Mund të kërkoj ndihmë dhe ta përcaktoj ritmin."
+          ]
+        ],
+        "caption": "Pyetje reflektimi, jo protokoll trajtimi për traumën.",
+        "alt": "Hap i zgjedhur, jo përballje e detyruar. Emërtoje: Çfarë kam shtyrë vazhdimisht?. Shiko sigurinë: A më shërben më mirë kontakti apo distanca?. Zgjidh mbështetjen: Mund të kërkoj ndihmë dhe ta përcaktoj ritmin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "tiredness-enthusiasm-and-a-life-you-want",
+      "name": "energy-and-meaning",
+      "type": "cards",
+      "en": {
+        "title": "Three questions, no character test",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "How is my body?",
+            "Persistent unexplained fatigue deserves assessment."
+          ],
+          [
+            "What matters to me?",
+            "Notice one activity or relationship you value."
+          ],
+          [
+            "What fits today?",
+            "Choose within your capacity; rest still counts."
+          ]
+        ],
+        "caption": "A reflection guide, not a fatigue diagnosis.",
+        "alt": "Three questions, no character test. How is my body?: Persistent unexplained fatigue deserves assessment.. What matters to me?: Notice one activity or relationship you value.. What fits today?: Choose within your capacity; rest still counts.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri pyetje, asnjëra provim karakteri",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Si është trupi im?",
+            "Lodhja e vazhdueshme e pashpjeguar meriton vlerësim."
+          ],
+          [
+            "Çfarë ka rëndësi për mua?",
+            "Vëre një aktivitet apo marrëdhënie që e vlerëson."
+          ],
+          [
+            "Çfarë mundem sot?",
+            "Zgjidh sipas mundësive; edhe pushimi vlen."
+          ]
+        ],
+        "caption": "Udhëzues reflektimi, jo diagnozë lodhjeje.",
+        "alt": "Tri pyetje, asnjëra provim karakteri. Si është trupi im?: Lodhja e vazhdueshme e pashpjeguar meriton vlerësim.. Çfarë ka rëndësi për mua?: Vëre një aktivitet apo marrëdhënie që e vlerëson.. Çfarë mundem sot?: Zgjidh sipas mundësive; edhe pushimi vlen.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
