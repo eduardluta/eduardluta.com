@@ -1,0 +1,514 @@
+{
+  "articles": [
+    {
+      "id": "7643206378277850375",
+      "slug": "creativity-inner-voice-and-the-untethered-soul",
+      "publishedAt": "2026-05-23T21:44:25+00:00",
+      "durationSeconds": 151,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643206378277850375"
+    },
+    {
+      "id": "7649503793603693842",
+      "slug": "create-every-day-without-waiting-for-inspiration",
+      "publishedAt": "2026-06-09T21:01:40+00:00",
+      "durationSeconds": 97,
+      "url": "https://www.tiktok.com/@eduardluta/video/7649503793603693842"
+    },
+    {
+      "id": "7648342167802498322",
+      "slug": "relationship-workshop-planning-a-life-together",
+      "publishedAt": "2026-06-06T17:53:58+00:00",
+      "durationSeconds": 155,
+      "url": "https://www.tiktok.com/@eduardluta/video/7648342167802498322"
+    },
+    {
+      "id": "7641955933077146896",
+      "slug": "gifted-prince-practice-and-the-next-shiny-thing",
+      "publishedAt": "2026-05-20T12:48:29+00:00",
+      "durationSeconds": 173,
+      "url": "https://www.tiktok.com/@eduardluta/video/7641955933077146896"
+    },
+    {
+      "id": "7641665382972919058",
+      "slug": "why-i-started-posting-finding-my-own-voice",
+      "publishedAt": "2026-05-19T18:04:35+00:00",
+      "durationSeconds": 130,
+      "url": "https://www.tiktok.com/@eduardluta/video/7641665382972919058"
+    },
+    {
+      "id": "7644272679683509511",
+      "slug": "one-hour-a-day-five-years-the-real-math",
+      "publishedAt": "2026-05-26T18:42:15+00:00",
+      "durationSeconds": 142,
+      "url": "https://www.tiktok.com/@eduardluta/video/7644272679683509511"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "creativity-inner-voice-and-the-untethered-soul",
+      "name": "thought-and-action",
+      "type": "cards",
+      "en": {
+        "title": "A thought is not yet a decision",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Notice",
+            "Write down the judgment that arrives."
+          ],
+          [
+            "Question",
+            "Is it evidence, a prediction or a preference?"
+          ],
+          [
+            "Make",
+            "Try one small version and then review it."
+          ]
+        ],
+        "caption": "An exercise for separating an automatic judgment from the next action. It does not require a silent mind.",
+        "alt": "A thought is not yet a decision. Notice: Write down the judgment that arrives.. Question: Is it evidence, a prediction or a preference?. Make: Try one small version and then review it.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mendimi nuk është ende vendim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vëreje",
+            "Shkruaje gjykimin që të vjen."
+          ],
+          [
+            "Pyete",
+            "Është provë, parashikim apo preferencë?"
+          ],
+          [
+            "Krijo",
+            "Provo një version të vogël, pastaj vlerësoje."
+          ]
+        ],
+        "caption": "Ushtrim për ta ndarë gjykimin automatik nga veprimi i radhës. Nuk kërkon mendje pa mendime.",
+        "alt": "Mendimi nuk është ende vendim. Vëreje: Shkruaje gjykimin që të vjen.. Pyete: Është provë, parashikim apo preferencë?. Krijo: Provo një version të vogël, pastaj vlerësoje.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "create-every-day-without-waiting-for-inspiration",
+      "name": "creative-loop",
+      "type": "cards",
+      "en": {
+        "title": "Give each stage a different job",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Generate",
+            "Try different openings to one real question."
+          ],
+          [
+            "Choose",
+            "Select the versions that communicate clearly."
+          ],
+          [
+            "Learn",
+            "Ask what a reader understood; revise."
+          ]
+        ],
+        "caption": "A suggested creative process. More attempts alone do not establish quality.",
+        "alt": "Give each stage a different job. Generate: Try different openings to one real question.. Choose: Select the versions that communicate clearly.. Learn: Ask what a reader understood; revise.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi secilës fazë një punë tjetër",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Krijo",
+            "Provo hyrje të ndryshme për një pyetje reale."
+          ],
+          [
+            "Zgjidh",
+            "Përzgjidh versionet që shprehen qartë."
+          ],
+          [
+            "Mëso",
+            "Pyet çfarë kuptoi lexuesi; përmirësoje."
+          ]
+        ],
+        "caption": "Proces krijues i sugjeruar. Vetëm numri i përpjekjeve nuk dëshmon cilësi.",
+        "alt": "Jepi secilës fazë një punë tjetër. Krijo: Provo hyrje të ndryshme për një pyetje reale.. Zgjidh: Përzgjidh versionet që shprehen qartë.. Mëso: Pyet çfarë kuptoi lexuesi; përmirësoje.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "create-every-day-without-waiting-for-inspiration",
+      "name": "seven-day-example",
+      "type": "bars",
+      "values": [
+        21,
+        3
+      ],
+      "en": {
+        "title": "Seven days: drafts and selection",
+        "subtitle": "Hypothetical: 3 openings/day × 7 days. The 3 chosen are included in the 21.",
+        "labels": [
+          "Rough openings",
+          "Chosen to develop"
+        ],
+        "display": [
+          "21",
+          "3 of 21"
+        ],
+        "foot": "Hypothetical: 3 openings/day × 7 days. The 3 chosen are included in the 21.",
+        "caption": "Hypothetical: 3 openings/day × 7 days. The 3 chosen are included in the 21.",
+        "alt": "Seven days: drafts and selection. Rough openings: 21; Chosen to develop: 3 of 21"
+      },
+      "sq": {
+        "title": "Shtatë ditë: draftet dhe përzgjedhja",
+        "subtitle": "Hipotetikisht: 3 hyrje/ditë × 7 ditë. Tri të zgjedhurat janë pjesë e 21 hyrjeve.",
+        "labels": [
+          "Hyrje paraprake",
+          "Për t’u zhvilluar"
+        ],
+        "display": [
+          "21",
+          "3 nga 21"
+        ],
+        "foot": "Hipotetikisht: 3 hyrje/ditë × 7 ditë. Tri të zgjedhurat janë pjesë e 21 hyrjeve.",
+        "caption": "Hipotetikisht: 3 hyrje/ditë × 7 ditë. Tri të zgjedhurat janë pjesë e 21 hyrjeve.",
+        "alt": "Shtatë ditë: draftet dhe përzgjedhja. Hyrje paraprake: 21; Për t’u zhvilluar: 3 nga 21"
+      }
+    },
+    {
+      "slug": "relationship-workshop-planning-a-life-together",
+      "name": "shared-future",
+      "type": "cards",
+      "en": {
+        "title": "Put two futures on the same table",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Each person",
+            "Say what you want before assuming agreement."
+          ],
+          [
+            "Shared reality",
+            "Discuss constraints and differences openly."
+          ],
+          [
+            "Next step",
+            "Choose one action and a time to return."
+          ]
+        ],
+        "caption": "A conversation guide inspired by the personal story, not a record of the couple’s original decisions.",
+        "alt": "Put two futures on the same table. Each person: Say what you want before assuming agreement.. Shared reality: Discuss constraints and differences openly.. Next step: Choose one action and a time to return.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Vendosni dy të ardhme në të njëjtën tryezë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Secili",
+            "Thuaj çfarë do para se ta supozosh pajtimin."
+          ],
+          [
+            "Realiteti",
+            "Diskutoni hapur kufizimet dhe dallimet."
+          ],
+          [
+            "Hapi tjetër",
+            "Zgjidhni një veprim dhe kohën për t’u kthyer."
+          ]
+        ],
+        "caption": "Udhëzues bisede i frymëzuar nga rrëfimi, jo regjistër i vendimeve fillestare të çiftit.",
+        "alt": "Vendosni dy të ardhme në të njëjtën tryezë. Secili: Thuaj çfarë do para se ta supozosh pajtimin.. Realiteti: Diskutoni hapur kufizimet dhe dallimet.. Hapi tjetër: Zgjidhni një veprim dhe kohën për t’u kthyer.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "relationship-workshop-planning-a-life-together",
+      "name": "one-hour-agenda",
+      "type": "bars",
+      "values": [
+        10,
+        15,
+        15,
+        15,
+        5
+      ],
+      "en": {
+        "title": "An example 60-minute agenda",
+        "subtitle": "Suggested allocation, not the original workshop timings or a tested relationship formula.",
+        "labels": [
+          "What went well",
+          "Individual hopes",
+          "Real constraints",
+          "One shared step",
+          "Return date"
+        ],
+        "display": [
+          "10 min",
+          "15 min",
+          "15 min",
+          "15 min",
+          "5 min"
+        ],
+        "foot": "Suggested allocation, not the original workshop timings or a tested relationship formula.",
+        "caption": "Suggested allocation, not the original workshop timings or a tested relationship formula.",
+        "alt": "An example 60-minute agenda. What went well: 10 min; Individual hopes: 15 min; Real constraints: 15 min; One shared step: 15 min; Return date: 5 min"
+      },
+      "sq": {
+        "title": "Shembull agjende 60-minutëshe",
+        "subtitle": "Ndarje e sugjeruar, jo kohët e workshopit të parë apo formulë e provuar për lidhjen.",
+        "labels": [
+          "Çfarë shkoi mirë",
+          "Shpresat e secilit",
+          "Kufizimet reale",
+          "Një hap bashkë",
+          "Kur kthehemi"
+        ],
+        "display": [
+          "10 min",
+          "15 min",
+          "15 min",
+          "15 min",
+          "5 min"
+        ],
+        "foot": "Ndarje e sugjeruar, jo kohët e workshopit të parë apo formulë e provuar për lidhjen.",
+        "caption": "Ndarje e sugjeruar, jo kohët e workshopit të parë apo formulë e provuar për lidhjen.",
+        "alt": "Shembull agjende 60-minutëshe. Çfarë shkoi mirë: 10 min; Shpresat e secilit: 15 min; Kufizimet reale: 15 min; Një hap bashkë: 15 min; Kur kthehemi: 5 min"
+      }
+    },
+    {
+      "slug": "gifted-prince-practice-and-the-next-shiny-thing",
+      "name": "explore-or-escape",
+      "type": "cards",
+      "en": {
+        "title": "Are you exploring or escaping?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Explore",
+            "Try something to answer a real question."
+          ],
+          [
+            "Stay",
+            "Work on the specific part that is difficult."
+          ],
+          [
+            "Review",
+            "Continue, change or stop for a reason."
+          ]
+        ],
+        "caption": "A reflection guide based on the story, not a test of your personality.",
+        "alt": "Are you exploring or escaping?. Explore: Try something to answer a real question.. Stay: Work on the specific part that is difficult.. Review: Continue, change or stop for a reason.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Po eksploron apo po ikën?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Eksploro",
+            "Provo për t’iu përgjigjur një pyetjeje reale."
+          ],
+          [
+            "Qëndro",
+            "Puno me pjesën konkrete që është e vështirë."
+          ],
+          [
+            "Vlerëso",
+            "Vazhdo, ndrysho ose ndalu për një arsye."
+          ]
+        ],
+        "caption": "Udhëzues reflektimi nga tregimi, jo test i personalitetit.",
+        "alt": "Po eksploron apo po ikën?. Eksploro: Provo për t’iu përgjigjur një pyetjeje reale.. Qëndro: Puno me pjesën konkrete që është e vështirë.. Vlerëso: Vazhdo, ndrysho ose ndalu për një arsye.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "gifted-prince-practice-and-the-next-shiny-thing",
+      "name": "practice-time",
+      "type": "cards",
+      "en": {
+        "title": "Count the time; test the skill",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "5 hours per week",
+            "Five one-hour sessions in this example."
+          ],
+          [
+            "20 hours",
+            "4 weeks at that schedule."
+          ],
+          [
+            "10,000 hours",
+            "2,000 weeks; about 38.5 years at 52 weeks/year."
+          ]
+        ],
+        "caption": "Arithmetic for a hypothetical schedule, with no missed sessions. Neither total guarantees a skill level.",
+        "alt": "Count the time; test the skill. 5 hours per week: Five one-hour sessions in this example.. 20 hours: 4 weeks at that schedule.. 10,000 hours: 2,000 weeks; about 38.5 years at 52 weeks/year.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Numëro kohën; provo aftësinë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "5 orë në javë",
+            "Pesë seanca nga një orë në këtë shembull."
+          ],
+          [
+            "20 orë",
+            "4 javë me këtë orar."
+          ],
+          [
+            "10.000 orë",
+            "2.000 javë; rreth 38,5 vjet me 52 javë/vit."
+          ]
+        ],
+        "caption": "Llogaritje e një orari hipotetik, pa seanca të humbura. Asnjë total nuk garanton nivel aftësie.",
+        "alt": "Numëro kohën; provo aftësinë. 5 orë në javë: Pesë seanca nga një orë në këtë shembull.. 20 orë: 4 javë me këtë orar.. 10.000 orë: 2.000 javë; rreth 38,5 vjet me 52 javë/vit.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "why-i-started-posting-finding-my-own-voice",
+      "name": "younger-self",
+      "type": "cards",
+      "en": {
+        "title": "An audience of one: your younger self",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Experience",
+            "What actually happened to you?"
+          ],
+          [
+            "Interpretation",
+            "What do you now think it means?"
+          ],
+          [
+            "Open question",
+            "What should that younger person investigate?"
+          ]
+        ],
+        "caption": "A writing prompt inspired by the video. Experience, interpretation and evidence deserve separate space.",
+        "alt": "An audience of one: your younger self. Experience: What actually happened to you?. Interpretation: What do you now think it means?. Open question: What should that younger person investigate?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një dëgjues: vetja jote më e re",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përvoja",
+            "Çfarë të ka ndodhur realisht?"
+          ],
+          [
+            "Interpretimi",
+            "Çfarë mendon tani se do të thotë?"
+          ],
+          [
+            "Pyetja e hapur",
+            "Çfarë duhet të shqyrtojë ai person më i ri?"
+          ]
+        ],
+        "caption": "Nxitje për shkrim nga videoja. Përvoja, interpretimi dhe provat meritojnë hapësirë më vete.",
+        "alt": "Një dëgjues: vetja jote më e re. Përvoja: Çfarë të ka ndodhur realisht?. Interpretimi: Çfarë mendon tani se do të thotë?. Pyetja e hapur: Çfarë duhet të shqyrtojë ai person më i ri?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "one-hour-a-day-five-years-the-real-math",
+      "name": "practice-hours",
+      "type": "bars",
+      "values": [
+        365,
+        1096,
+        1826
+      ],
+      "en": {
+        "title": "Planned practice at 1 hour a day",
+        "subtitle": "Start: 26 Sep 2026. End: each anniversary, excluded. Every daily session assumed completed.",
+        "labels": [
+          "1 year",
+          "3 years",
+          "5 years"
+        ],
+        "display": [
+          "365 hours",
+          "1,096 hours",
+          "1,826 hours"
+        ],
+        "foot": "Start: 26 Sep 2026. End: each anniversary, excluded. Every daily session assumed completed.",
+        "caption": "Start: 26 Sep 2026. End: each anniversary, excluded. Every daily session assumed completed.",
+        "alt": "Planned practice at 1 hour a day. 1 year: 365 hours; 3 years: 1,096 hours; 5 years: 1,826 hours"
+      },
+      "sq": {
+        "title": "Praktika e planifikuar: 1 orë në ditë",
+        "subtitle": "Fillimi: 26 shtator 2026. Fundi: përvjetori, i përjashtuar. Supozohet çdo seancë e përfunduar.",
+        "labels": [
+          "1 vit",
+          "3 vjet",
+          "5 vjet"
+        ],
+        "display": [
+          "365 orë",
+          "1.096 orë",
+          "1.826 orë"
+        ],
+        "foot": "Fillimi: 26 shtator 2026. Fundi: përvjetori, i përjashtuar. Supozohet çdo seancë e përfunduar.",
+        "caption": "Fillimi: 26 shtator 2026. Fundi: përvjetori, i përjashtuar. Supozohet çdo seancë e përfunduar.",
+        "alt": "Praktika e planifikuar: 1 orë në ditë. 1 vit: 365 orë; 3 vjet: 1.096 orë; 5 vjet: 1.826 orë"
+      }
+    },
+    {
+      "slug": "one-hour-a-day-five-years-the-real-math",
+      "name": "input-and-outcome",
+      "type": "cards",
+      "en": {
+        "title": "What the calendar cannot tell you",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Hours",
+            "Count completed practice time."
+          ],
+          [
+            "Performance",
+            "Test the actual skill against a clear standard."
+          ],
+          [
+            "Rank or income",
+            "Needs separate evidence; hours cannot guarantee either."
+          ]
+        ],
+        "caption": "Time is an input. Skill, relative rank and earnings are different outcomes.",
+        "alt": "What the calendar cannot tell you. Hours: Count completed practice time.. Performance: Test the actual skill against a clear standard.. Rank or income: Needs separate evidence; hours cannot guarantee either.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë nuk të tregon kalendari",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Orët",
+            "Numëro kohën e praktikës së përfunduar."
+          ],
+          [
+            "Performanca",
+            "Provoje aftësinë kundrejt një standardi të qartë."
+          ],
+          [
+            "Renditja ose rroga",
+            "Kërkon prova më vete; orët nuk garantojnë asnjërën."
+          ]
+        ],
+        "caption": "Koha është kontribut. Aftësia, renditja relative dhe të ardhurat janë rezultate të ndryshme.",
+        "alt": "Çfarë nuk të tregon kalendari. Orët: Numëro kohën e praktikës së përfunduar.. Performanca: Provoje aftësinë kundrejt një standardi të qartë.. Renditja ose rroga: Kërkon prova më vete; orët nuk garantojnë asnjërën.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-26",
+  "type": "hypothetical_editorial_agenda",
+  "minutes": [
+    10,
+    15,
+    15,
+    15,
+    5
+  ],
+  "totalMinutes": 60,
+  "centralSectionsMinutes": 45,
+  "centralSectionsPercent": 75
+}

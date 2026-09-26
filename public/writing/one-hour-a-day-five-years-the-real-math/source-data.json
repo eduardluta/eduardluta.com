@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-26",
+  "type": "calendar_scenario",
+  "startInclusive": "2026-09-26",
+  "endsExclusive": [
+    "2027-09-26",
+    "2029-09-26",
+    "2031-09-26"
+  ],
+  "calendarDays": [
+    365,
+    1096,
+    1826
+  ],
+  "hoursPerDay": 1,
+  "plannedHours": [
+    365,
+    1096,
+    1826
+  ],
+  "leapDay": "2028-02-29",
+  "completionScenarioPercent": 80,
+  "completionScenarioHours": 1460.8,
+  "wholeHours": 1460,
+  "remainderMinutes": 48,
+  "guaranteesPercentileOrIncome": false
+}

@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-26",
+  "type": "hypothetical_practice_schedule",
+  "sessionsPerWeek": 5,
+  "hoursPerSession": 1,
+  "hoursPerWeek": 5,
+  "startingHours": 20,
+  "startingWeeks": 4,
+  "comparisonHours": 10000,
+  "comparisonWeeks": 2000,
+  "approxWeeksPerYear": 52,
+  "comparisonYearsApprox": 38.46153846153846,
+  "guaranteesMastery": false
+}
