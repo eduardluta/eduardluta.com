@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-26",
+  "kind": "illustrative_calculation",
+  "participants": 6,
+  "durationsMinutes": [
+    30,
+    20
+  ],
+  "personMinutes": [
+    180,
+    120
+  ],
+  "differencePersonMinutes": 60
+}

@@ -1,0 +1,549 @@
+{
+  "articles": [
+    {
+      "id": "7665714159472119060",
+      "slug": "generational-wealth-a-child-asks-for-help",
+      "publishedAt": "2026-07-23T13:26:08+00:00",
+      "durationSeconds": 163,
+      "url": "https://www.tiktok.com/@eduardluta/video/7665714159472119060"
+    },
+    {
+      "id": "7656528214088518919",
+      "slug": "road-trips-conversations-and-apologies",
+      "publishedAt": "2026-06-28T19:20:01+00:00",
+      "durationSeconds": 101,
+      "url": "https://www.tiktok.com/@eduardluta/video/7656528214088518919"
+    },
+    {
+      "id": "7657092263679511826",
+      "slug": "i-see-you-shared-language-and-connection",
+      "publishedAt": "2026-06-30T07:48:49+00:00",
+      "durationSeconds": 118,
+      "url": "https://www.tiktok.com/@eduardluta/video/7657092263679511826"
+    },
+    {
+      "id": "7656157652715638023",
+      "slug": "love-more-judge-less",
+      "publishedAt": "2026-06-27T19:22:06+00:00",
+      "durationSeconds": 86,
+      "url": "https://www.tiktok.com/@eduardluta/video/7656157652715638023"
+    },
+    {
+      "id": "7655230568459750674",
+      "slug": "value-per-minute-respect-peoples-time",
+      "publishedAt": "2026-06-25T07:24:28+00:00",
+      "durationSeconds": 101,
+      "url": "https://www.tiktok.com/@eduardluta/video/7655230568459750674"
+    },
+    {
+      "id": "7665001107583667477",
+      "slug": "why-normal-is-not-my-goal",
+      "publishedAt": "2026-07-21T15:19:07+00:00",
+      "durationSeconds": 116,
+      "url": "https://www.tiktok.com/@eduardluta/video/7665001107583667477"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "generational-wealth-a-child-asks-for-help",
+      "name": "passing-on-help",
+      "type": "cards",
+      "en": {
+        "title": "What can be passed on",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Curiosity",
+            "Permission to try making something."
+          ],
+          [
+            "Access",
+            "A person who will help with a real question."
+          ],
+          [
+            "Confidence",
+            "Experience of trying the next step yourself."
+          ]
+        ],
+        "caption": "A reading of the moment in the video, not a prediction of a child’s future.",
+        "alt": "What can be passed on. Curiosity: Permission to try making something.. Access: A person who will help with a real question.. Confidence: Experience of trying the next step yourself.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë mund të përcillet",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kureshtja",
+            "Hapësira për të provuar të krijosh diçka."
+          ],
+          [
+            "Qasja",
+            "Një njeri që ndihmon me një pyetje reale."
+          ],
+          [
+            "Besimi",
+            "Përvoja e provimit të hapit tjetër vetë."
+          ]
+        ],
+        "caption": "Lexim i çastit në video, jo parashikim i së ardhmes së fëmijës.",
+        "alt": "Çfarë mund të përcillet. Kureshtja: Hapësira për të provuar të krijosh diçka.. Qasja: Një njeri që ndihmon me një pyetje reale.. Besimi: Përvoja e provimit të hapit tjetër vetë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "road-trips-conversations-and-apologies",
+      "name": "second-conversation",
+      "type": "cards",
+      "en": {
+        "title": "Make room for the second attempt",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Pause",
+            "Stop when attention or safety requires it."
+          ],
+          [
+            "Understand",
+            "Check what the other person actually means."
+          ],
+          [
+            "Return",
+            "Continue only when both are willing."
+          ]
+        ],
+        "caption": "A conversation guide, not a reason to argue while driving.",
+        "alt": "Make room for the second attempt. Pause: Stop when attention or safety requires it.. Understand: Check what the other person actually means.. Return: Continue only when both are willing.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Lëri vend përpjekjes së dytë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Ndalu",
+            "Bëj pushim kur e kërkon vëmendja apo siguria."
+          ],
+          [
+            "Kupto",
+            "Kontrollo çfarë nënkupton realisht tjetri."
+          ],
+          [
+            "Kthehu",
+            "Vazhdo vetëm kur të dy e dëshironi."
+          ]
+        ],
+        "caption": "Udhëzues bisede, jo arsye për debat gjatë vozitjes.",
+        "alt": "Lëri vend përpjekjes së dytë. Ndalu: Bëj pushim kur e kërkon vëmendja apo siguria.. Kupto: Kontrollo çfarë nënkupton realisht tjetri.. Kthehu: Vazhdo vetëm kur të dy e dëshironi.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "road-trips-conversations-and-apologies",
+      "name": "specific-apology",
+      "type": "cards",
+      "en": {
+        "title": "Give the apology an action",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name it",
+            "What did I do?"
+          ],
+          [
+            "Hear it",
+            "What effect did it have?"
+          ],
+          [
+            "Change it",
+            "What will I do differently?"
+          ]
+        ],
+        "caption": "Illustrative prompts for taking responsibility.",
+        "alt": "Give the apology an action. Name it: What did I do?. Hear it: What effect did it have?. Change it: What will I do differently?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Lidhe kërkimfaljen me një veprim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Emërtoje",
+            "Çfarë bëra?"
+          ],
+          [
+            "Dëgjoje",
+            "Çfarë ndikimi pati?"
+          ],
+          [
+            "Ndryshoje",
+            "Çfarë do të bëj ndryshe?"
+          ]
+        ],
+        "caption": "Pyetje ilustruese për marrjen e përgjegjësisë.",
+        "alt": "Lidhe kërkimfaljen me një veprim. Emërtoje: Çfarë bëra?. Dëgjoje: Çfarë ndikimi pati?. Ndryshoje: Çfarë do të bëj ndryshe?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "i-see-you-shared-language-and-connection",
+      "name": "familiarity-and-understanding",
+      "type": "cards",
+      "en": {
+        "title": "From familiarity to understanding",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Shared references",
+            "Language, humour and memories can open a door."
+          ],
+          [
+            "Real questions",
+            "Ask about values through everyday decisions."
+          ],
+          [
+            "Mutual attention",
+            "Stay curious about the person who is different from you."
+          ]
+        ],
+        "caption": "Shared culture can start a conversation; compatibility is not assumed.",
+        "alt": "From familiarity to understanding. Shared references: Language, humour and memories can open a door.. Real questions: Ask about values through everyday decisions.. Mutual attention: Stay curious about the person who is different from you.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga afërsia te kuptimi",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Referenca të përbashkëta",
+            "Gjuha, humori dhe kujtimet mund të hapin derën."
+          ],
+          [
+            "Pyetje reale",
+            "Pyet për vlerat përmes vendimeve të përditshme."
+          ],
+          [
+            "Vëmendje e ndërsjellë",
+            "Ruaje kureshtjen për njeriun që ndryshon nga ti."
+          ]
+        ],
+        "caption": "Kultura e përbashkët mund të nisë bisedën; përputhja nuk supozohet.",
+        "alt": "Nga afërsia te kuptimi. Referenca të përbashkëta: Gjuha, humori dhe kujtimet mund të hapin derën.. Pyetje reale: Pyet për vlerat përmes vendimeve të përditshme.. Vëmendje e ndërsjellë: Ruaje kureshtjen për njeriun që ndryshon nga ti.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "i-see-you-shared-language-and-connection",
+      "name": "what-a-platform-can-do",
+      "type": "cards",
+      "en": {
+        "title": "A meeting is a beginning",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Opportunity",
+            "A platform can help people encounter each other."
+          ],
+          [
+            "Conversation",
+            "People discover whether their expectations fit."
+          ],
+          [
+            "Relationship",
+            "Trust and commitment belong to the people involved."
+          ]
+        ],
+        "caption": "No promised relationship outcome or success rate.",
+        "alt": "A meeting is a beginning. Opportunity: A platform can help people encounter each other.. Conversation: People discover whether their expectations fit.. Relationship: Trust and commitment belong to the people involved.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Takimi është fillim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mundësia",
+            "Platforma mund t’i ndihmojë njerëzit të takohen."
+          ],
+          [
+            "Biseda",
+            "Njerëzit zbulojnë nëse u përputhen pritjet."
+          ],
+          [
+            "Marrëdhënia",
+            "Besimi dhe përkushtimi u përkasin personave të përfshirë."
+          ]
+        ],
+        "caption": "Pa premtim rezultati marrëdhënieje apo përqindjeje suksesi.",
+        "alt": "Takimi është fillim. Mundësia: Platforma mund t’i ndihmojë njerëzit të takohen.. Biseda: Njerëzit zbulojnë nëse u përputhen pritjet.. Marrëdhënia: Besimi dhe përkushtimi u përkasin personave të përfshirë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "love-more-judge-less",
+      "name": "attention-direction",
+      "type": "cards",
+      "en": {
+        "title": "Where does the attention go?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Understand",
+            "Ask what you do not yet know."
+          ],
+          [
+            "Care",
+            "Notice the person and the effort."
+          ],
+          [
+            "Build",
+            "Do something for the life you want."
+          ]
+        ],
+        "caption": "Personal prompts, not a measure of someone’s capacity for love.",
+        "alt": "Where does the attention go?. Understand: Ask what you do not yet know.. Care: Notice the person and the effort.. Build: Do something for the life you want.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ku shkon vëmendja?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kupto",
+            "Pyet për atë që ende nuk e di."
+          ],
+          [
+            "Kujdesu",
+            "Vëre njeriun dhe përpjekjen."
+          ],
+          [
+            "Ndërto",
+            "Bëj diçka për jetën që dëshiron."
+          ]
+        ],
+        "caption": "Pyetje personale, jo matje e aftësisë së dikujt për dashuri.",
+        "alt": "Ku shkon vëmendja?. Kupto: Pyet për atë që ende nuk e di.. Kujdesu: Vëre njeriun dhe përpjekjen.. Ndërto: Bëj diçka për jetën që dëshiron.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "love-more-judge-less",
+      "name": "criticism-with-purpose",
+      "type": "cards",
+      "en": {
+        "title": "Give criticism a purpose",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Specific",
+            "Name the action or claim."
+          ],
+          [
+            "Grounded",
+            "Check what you actually know."
+          ],
+          [
+            "Useful",
+            "Say what needs correcting or changing."
+          ]
+        ],
+        "caption": "A suggested distinction between criticism and contempt.",
+        "alt": "Give criticism a purpose. Specific: Name the action or claim.. Grounded: Check what you actually know.. Useful: Say what needs correcting or changing.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi kritikës një qëllim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Konkrete",
+            "Emërto veprimin ose pohimin."
+          ],
+          [
+            "E mbështetur",
+            "Kontrollo çfarë di realisht."
+          ],
+          [
+            "E dobishme",
+            "Thuaj çfarë duhet korrigjuar ose ndryshuar."
+          ]
+        ],
+        "caption": "Një dallim i sugjeruar mes kritikës dhe përçmimit.",
+        "alt": "Jepi kritikës një qëllim. Konkrete: Emërto veprimin ose pohimin.. E mbështetur: Kontrollo çfarë di realisht.. E dobishme: Thuaj çfarë duhet korrigjuar ose ndryshuar.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "value-per-minute-respect-peoples-time",
+      "name": "communication-purpose",
+      "type": "cards",
+      "en": {
+        "title": "What should the listener gain?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Understanding",
+            "A clear explanation or a useful question."
+          ],
+          [
+            "Decision",
+            "The information needed to choose."
+          ],
+          [
+            "Next step",
+            "A specific action or request."
+          ]
+        ],
+        "caption": "Purpose matters more than speaking speed.",
+        "alt": "What should the listener gain?. Understanding: A clear explanation or a useful question.. Decision: The information needed to choose.. Next step: A specific action or request.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë duhet të fitojë dëgjuesi?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Kuptim",
+            "Një shpjegim i qartë ose pyetje e dobishme."
+          ],
+          [
+            "Vendim",
+            "Informacioni i nevojshëm për të zgjedhur."
+          ],
+          [
+            "Hapi tjetër",
+            "Një veprim ose kërkesë konkrete."
+          ]
+        ],
+        "caption": "Qëllimi vlen më shumë se shpejtësia e të folurit.",
+        "alt": "Çfarë duhet të fitojë dëgjuesi?. Kuptim: Një shpjegim i qartë ose pyetje e dobishme.. Vendim: Informacioni i nevojshëm për të zgjedhur.. Hapi tjetër: Një veprim ose kërkesë konkrete.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "value-per-minute-respect-peoples-time",
+      "name": "combined-meeting-time",
+      "type": "bars",
+      "values": [
+        180,
+        120
+      ],
+      "en": {
+        "title": "Six people: combined time",
+        "subtitle": "Illustrative: same six people, duration only; outcome quality not measured.",
+        "labels": [
+          "30-minute meeting",
+          "20-minute meeting"
+        ],
+        "display": [
+          "180 person-minutes",
+          "120 person-minutes"
+        ],
+        "foot": "Illustrative: same six people, duration only; outcome quality not measured.",
+        "caption": "Illustrative: same six people, duration only; outcome quality not measured.",
+        "alt": "Six people: combined time. 30-minute meeting: 180 person-minutes; 20-minute meeting: 120 person-minutes"
+      },
+      "sq": {
+        "title": "Gjashtë veta: koha e përbashkët",
+        "subtitle": "Ilustrim: të njëjtët gjashtë veta, vetëm koha; cilësia nuk matet.",
+        "labels": [
+          "Takim 30-minutësh",
+          "Takim 20-minutësh"
+        ],
+        "display": [
+          "180 minuta-person",
+          "120 minuta-person"
+        ],
+        "foot": "Ilustrim: të njëjtët gjashtë veta, vetëm koha; cilësia nuk matet.",
+        "caption": "Ilustrim: të njëjtët gjashtë veta, vetëm koha; cilësia nuk matet.",
+        "alt": "Gjashtë veta: koha e përbashkët. Takim 30-minutësh: 180 minuta-person; Takim 20-minutësh: 120 minuta-person"
+      }
+    },
+    {
+      "slug": "why-normal-is-not-my-goal",
+      "name": "habit-question",
+      "type": "cards",
+      "en": {
+        "title": "Examine the habit, not the label",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Notice",
+            "What does my actual week contain?"
+          ],
+          [
+            "Choose",
+            "Which part serves the life I want?"
+          ],
+          [
+            "Adjust",
+            "What small change fits my circumstances?"
+          ]
+        ],
+        "caption": "A personal reflection, not a judgement about another person’s health.",
+        "alt": "Examine the habit, not the label. Notice: What does my actual week contain?. Choose: Which part serves the life I want?. Adjust: What small change fits my circumstances?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Shqyrto zakonin, jo etiketën",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vëre",
+            "Çfarë përmban java ime reale?"
+          ],
+          [
+            "Zgjidh",
+            "Cila pjesë i shërben jetës që dua?"
+          ],
+          [
+            "Përshtat",
+            "Cili ndryshim i vogël u përshtatet rrethanave?"
+          ]
+        ],
+        "caption": "Reflektim personal, jo gjykim për shëndetin e tjetrit.",
+        "alt": "Shqyrto zakonin, jo etiketën. Vëre: Çfarë përmban java ime reale?. Zgjidh: Cila pjesë i shërben jetës që dua?. Përshtat: Cili ndryshim i vogël u përshtatet rrethanave?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "why-normal-is-not-my-goal",
+      "name": "chosen-time",
+      "type": "bars",
+      "values": [
+        20,
+        140
+      ],
+      "en": {
+        "title": "Twenty minutes, repeated",
+        "subtitle": "Illustrative chosen time; not measured screen use or an exercise target.",
+        "labels": [
+          "One day",
+          "Seven days"
+        ],
+        "display": [
+          "20 minutes",
+          "140 minutes"
+        ],
+        "foot": "Illustrative chosen time; not measured screen use or an exercise target.",
+        "caption": "Illustrative chosen time; not measured screen use or an exercise target.",
+        "alt": "Twenty minutes, repeated. One day: 20 minutes; Seven days: 140 minutes"
+      },
+      "sq": {
+        "title": "Njëzet minuta, të përsëritura",
+        "subtitle": "Kohë e zgjedhur ilustruese; jo matje ekrani apo synim ushtrimesh.",
+        "labels": [
+          "Një ditë",
+          "Shtatë ditë"
+        ],
+        "display": [
+          "20 minuta",
+          "140 minuta"
+        ],
+        "foot": "Kohë e zgjedhur ilustruese; jo matje ekrani apo synim ushtrimesh.",
+        "caption": "Kohë e zgjedhur ilustruese; jo matje ekrani apo synim ushtrimesh.",
+        "alt": "Njëzet minuta, të përsëritura. Një ditë: 20 minuta; Shtatë ditë: 140 minuta"
+      }
+    }
+  ]
+}
