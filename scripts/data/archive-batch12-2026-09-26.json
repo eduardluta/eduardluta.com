@@ -1,0 +1,374 @@
+{
+  "articles": [
+    {
+      "id": "7655063726055230738",
+      "slug": "three-days-of-silence-with-my-wife",
+      "publishedAt": "2026-06-24T20:37:02+00:00",
+      "durationSeconds": 170,
+      "url": "https://www.tiktok.com/@eduardluta/video/7655063726055230738"
+    },
+    {
+      "id": "7646354188145888520",
+      "slug": "autobiography-of-a-yogi-self-forgiveness-and-responsibility",
+      "publishedAt": "2026-06-01T09:19:37+00:00",
+      "durationSeconds": 118,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646354188145888520"
+    },
+    {
+      "id": "7666426182375623957",
+      "slug": "i-zgjuar-albanian-awake-clever-and-awareness",
+      "publishedAt": "2026-07-25T11:29:10+00:00",
+      "durationSeconds": 108,
+      "url": "https://www.tiktok.com/@eduardluta/video/7666426182375623957"
+    },
+    {
+      "id": "7646868475478068487",
+      "slug": "personal-agency-without-dismissing-real-hardship",
+      "publishedAt": "2026-06-02T18:35:18+00:00",
+      "durationSeconds": 146,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646868475478068487"
+    },
+    {
+      "id": "7646708517360946440",
+      "slug": "kosovo-better-future-starts-with-solving-problems-together",
+      "publishedAt": "2026-06-02T08:14:39+00:00",
+      "durationSeconds": 183,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646708517360946440"
+    },
+    {
+      "id": "7645025092962929928",
+      "slug": "personal-healing-ripple-effect-seven-people-maths",
+      "publishedAt": "2026-05-28T19:21:58+00:00",
+      "durationSeconds": 116,
+      "url": "https://www.tiktok.com/@eduardluta/video/7645025092962929928"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "three-days-of-silence-with-my-wife",
+      "name": "silence-experience-meaning",
+      "type": "cards",
+      "en": {
+        "title": "What belongs in the account",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Arrangement",
+            "Three days together without new media."
+          ],
+          [
+            "Experience",
+            "The thoughts and images I remember."
+          ],
+          [
+            "Interpretation",
+            "The spiritual meaning we gave them."
+          ]
+        ],
+        "caption": "Distinguishing the arrangement, recollection and interpretation keeps the story honest.",
+        "alt": "What belongs in the account. Arrangement: Three days together without new media. Experience: The thoughts and images I remember. Interpretation: The spiritual meaning we gave them.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë përmban rrëfimi",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Marrëveshja",
+            "Tri ditë bashkë pa përmbajtje të re."
+          ],
+          [
+            "Përvoja",
+            "Mendimet dhe pamjet që kujtoj."
+          ],
+          [
+            "Interpretimi",
+            "Kuptimi shpirtëror që ua dhamë."
+          ]
+        ],
+        "caption": "Dallimi mes marrëveshjes, kujtimit dhe interpretimit e mban rrëfimin të ndershëm.",
+        "alt": "Çfarë përmban rrëfimi. Marrëveshja: Tri ditë bashkë pa përmbajtje të re. Përvoja: Mendimet dhe pamjet që kujtoj. Interpretimi: Kuptimi shpirtëror që ua dhamë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "autobiography-of-a-yogi-self-forgiveness-and-responsibility",
+      "name": "forgiveness-and-repair",
+      "type": "cards",
+      "en": {
+        "title": "Make forgiveness concrete",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Acknowledge",
+            "Name the action without rewriting it."
+          ],
+          [
+            "Consider",
+            "What effect did it have on someone else?"
+          ],
+          [
+            "Respond",
+            "Repair what you can and change the next action."
+          ]
+        ],
+        "caption": "An editorial application of the video’s reflection, not a quotation from the book.",
+        "alt": "Make forgiveness concrete. Acknowledge: Name the action without rewriting it. Consider: What effect did it have on someone else? Respond: Repair what you can and change the next action.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Bëje faljen konkrete",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Prano",
+            "Emërtoje veprimin pa e rishkruar."
+          ],
+          [
+            "Shqyrto",
+            "Çfarë ndikimi pati te personi tjetër?"
+          ],
+          [
+            "Vepro",
+            "Ndreq çfarë mundesh dhe ndrysho veprimin tjetër."
+          ]
+        ],
+        "caption": "Zbatim editorial i reflektimit në video, jo citim nga libri.",
+        "alt": "Bëje faljen konkrete. Prano: Emërtoje veprimin pa e rishkruar. Shqyrto: Çfarë ndikimi pati te personi tjetër? Vepro: Ndreq çfarë mundesh dhe ndrysho veprimin tjetër.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "i-zgjuar-albanian-awake-clever-and-awareness",
+      "name": "word-and-interpretation",
+      "type": "cards",
+      "en": {
+        "title": "One word, different kinds of meaning",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Awake",
+            "A literal dictionary sense."
+          ],
+          [
+            "Clever",
+            "A figurative dictionary sense."
+          ],
+          [
+            "Aware of habits",
+            "My metaphor, not a scientific conclusion."
+          ]
+        ],
+        "caption": "The first two senses are lexical; the third expresses the reflection in the video.",
+        "alt": "One word, different kinds of meaning. Awake: A literal dictionary sense. Clever: A figurative dictionary sense. Aware of habits: My metaphor, not a scientific conclusion.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një fjalë, kuptime të ndryshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Pa gjumë",
+            "Kuptim i drejtpërdrejtë në fjalor."
+          ],
+          [
+            "I mençur",
+            "Kuptim figurativ në fjalor."
+          ],
+          [
+            "I vëmendshëm",
+            "Metafora ime për shprehitë, jo përfundim shkencor."
+          ]
+        ],
+        "caption": "Dy kuptimet e para janë leksikore; i treti shpreh reflektimin në video.",
+        "alt": "Një fjalë, kuptime të ndryshme. Pa gjumë: Kuptim i drejtpërdrejtë në fjalor. I mençur: Kuptim figurativ në fjalor. I vëmendshëm: Metafora ime për shprehitë, jo përfundim shkencor.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "personal-agency-without-dismissing-real-hardship",
+      "name": "control-and-response",
+      "type": "cards",
+      "en": {
+        "title": "Three questions before giving up",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Available action",
+            "What can I actually do here?"
+          ],
+          [
+            "Real constraint",
+            "What needs support or is outside my control?"
+          ],
+          [
+            "Useful feedback",
+            "What would make me reconsider my approach?"
+          ]
+        ],
+        "caption": "A reflection tool, not a judgment about somebody’s worth or effort.",
+        "alt": "Three questions before giving up. Available action: What can I actually do here? Real constraint: What needs support or is outside my control? Useful feedback: What would make me reconsider my approach?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri pyetje para dorëzimit",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Veprimi i mundshëm",
+            "Çfarë mund të bëj realisht këtu?"
+          ],
+          [
+            "Kufizimi real",
+            "Çfarë kërkon ndihmë apo është jashtë kontrollit tim?"
+          ],
+          [
+            "Komenti i dobishëm",
+            "Çfarë do të më bënte ta rishqyrtoja qasjen?"
+          ]
+        ],
+        "caption": "Mjet reflektimi, jo gjykim për vlerën apo përpjekjen e dikujt.",
+        "alt": "Tri pyetje para dorëzimit. Veprimi i mundshëm: Çfarë mund të bëj realisht këtu? Kufizimi real: Çfarë kërkon ndihmë apo është jashtë kontrollit tim? Komenti i dobishëm: Çfarë do të më bënte ta rishqyrtoja qasjen?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "kosovo-better-future-starts-with-solving-problems-together",
+      "name": "problem-responsibility-result",
+      "type": "cards",
+      "en": {
+        "title": "Give cooperation something to work on",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Problem",
+            "Define one thing that needs to change."
+          ],
+          [
+            "Responsibility",
+            "Identify who can act and what they will do."
+          ],
+          [
+            "Result",
+            "Check the outcome against the starting point."
+          ]
+        ],
+        "caption": "An editorial framework for a practical discussion, not a rating of any party.",
+        "alt": "Give cooperation something to work on. Problem: Define one thing that needs to change. Responsibility: Identify who can act and what they will do. Result: Check the outcome against the starting point.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi bashkëpunimit një detyrë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Problemi",
+            "Përcakto një gjë që duhet të ndryshojë."
+          ],
+          [
+            "Përgjegjësia",
+            "Gjej kush vepron dhe çfarë do të bëjë."
+          ],
+          [
+            "Rezultati",
+            "Krahasoje përfundimin me pikën fillestare."
+          ]
+        ],
+        "caption": "Kornizë editoriale për bisedë praktike, jo vlerësim i ndonjë partie.",
+        "alt": "Jepi bashkëpunimit një detyrë. Problemi: Përcakto një gjë që duhet të ndryshojë. Përgjegjësia: Gjej kush vepron dhe çfarë do të bëjë. Rezultati: Krahasoje përfundimin me pikën fillestare.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "personal-healing-ripple-effect-seven-people-maths",
+      "name": "seven-person-model",
+      "type": "bars",
+      "values": [
+        7,
+        49,
+        343
+      ],
+      "en": {
+        "title": "A hypothetical branching model",
+        "subtitle": "Assumes seven new people per person, no overlap and full continuation. Not measured healing.",
+        "labels": [
+          "Round 1: 7¹",
+          "Round 2: 7²",
+          "Round 3: 7³"
+        ],
+        "display": [
+          "7 new people",
+          "49 new people",
+          "343 new people"
+        ],
+        "foot": "Assumes seven new people per person, no overlap and full continuation. Not measured healing.",
+        "caption": "Assumes seven new people per person, no overlap and full continuation. Not measured healing.",
+        "alt": "A hypothetical branching model. Round 1: 7¹: 7 new people; Round 2: 7²: 49 new people; Round 3: 7³: 343 new people"
+      },
+      "sq": {
+        "title": "Model hipotetik degëzimi",
+        "subtitle": "Supozohet nga shtatë persona të rinj, pa mbivendosje e pa ndërprerje. Jo shërim i matur.",
+        "labels": [
+          "Raundi 1: 7¹",
+          "Raundi 2: 7²",
+          "Raundi 3: 7³"
+        ],
+        "display": [
+          "7 persona të rinj",
+          "49 persona të rinj",
+          "343 persona të rinj"
+        ],
+        "foot": "Supozohet nga shtatë persona të rinj, pa mbivendosje e pa ndërprerje. Jo shërim i matur.",
+        "caption": "Supozohet nga shtatë persona të rinj, pa mbivendosje e pa ndërprerje. Jo shërim i matur.",
+        "alt": "Model hipotetik degëzimi. Raundi 1: 7¹: 7 persona të rinj; Raundi 2: 7²: 49 persona të rinj; Raundi 3: 7³: 343 persona të rinj"
+      }
+    },
+    {
+      "slug": "personal-healing-ripple-effect-seven-people-maths",
+      "name": "influence-and-limits",
+      "type": "cards",
+      "en": {
+        "title": "An action is not a guaranteed outcome",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "My action",
+            "I can offer an honest apology or support."
+          ],
+          [
+            "Their choice",
+            "The other person decides how to respond."
+          ],
+          [
+            "The effect",
+            "The result may be limited and still matter."
+          ]
+        ],
+        "caption": "An illustration of responsibility and boundaries, not a recovery model.",
+        "alt": "An action is not a guaranteed outcome. My action: I can offer an honest apology or support. Their choice: The other person decides how to respond. The effect: The result may be limited and still matter.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Veprimi nuk garanton rezultatin",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Veprimi im",
+            "Mund të kërkoj falje sinqerisht ose të ofroj mbështetje."
+          ],
+          [
+            "Zgjedhja e tjetrit",
+            "Personi tjetër vendos si të përgjigjet."
+          ],
+          [
+            "Ndikimi",
+            "Rezultati mund të jetë i kufizuar dhe prapë të vlejë."
+          ]
+        ],
+        "caption": "Ilustrim i përgjegjësisë dhe kufijve, jo model rikuperimi.",
+        "alt": "Veprimi nuk garanton rezultatin. Veprimi im: Mund të kërkoj falje sinqerisht ose të ofroj mbështetje. Zgjedhja e tjetrit: Personi tjetër vendos si të përgjigjet. Ndikimi: Rezultati mund të jetë i kufizuar dhe prapë të vlejë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "hypothetical_branching_not_health_evidence",
+  "branchingFactor": 7,
+  "rounds": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "newPeopleByRound": [
+    1,
+    7,
+    49,
+    343
+  ],
+  "cumulativePeople": [
+    1,
+    8,
+    57,
+    400
+  ],
+  "othersAfterThreeRounds": 399,
+  "assumptions": [
+    "unique people at every step",
+    "no overlap",
+    "every participant continues"
+  ],
+  "empiricalHealingRate": false
+}
