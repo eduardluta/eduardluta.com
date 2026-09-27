@@ -1,0 +1,421 @@
+{
+  "articles": [
+    {
+      "id": "7651862909848440082",
+      "slug": "advice-at-24-ai-work-and-health",
+      "publishedAt": "2026-06-16T05:36:23+00:00",
+      "durationSeconds": 179,
+      "url": "https://www.tiktok.com/@eduardluta/video/7651862909848440082"
+    },
+    {
+      "id": "7651279483936197896",
+      "slug": "your-twenties-are-not-a-deadline",
+      "publishedAt": "2026-06-14T15:52:13+00:00",
+      "durationSeconds": 39,
+      "url": "https://www.tiktok.com/@eduardluta/video/7651279483936197896"
+    },
+    {
+      "id": "7647640876172233991",
+      "slug": "albanian-family-values-in-everyday-actions",
+      "publishedAt": "2026-06-04T20:32:48+00:00",
+      "durationSeconds": 126,
+      "url": "https://www.tiktok.com/@eduardluta/video/7647640876172233991"
+    },
+    {
+      "id": "7646006847534566663",
+      "slug": "protect-new-ideas-without-rejecting-feedback",
+      "publishedAt": "2026-05-31T10:51:43+00:00",
+      "durationSeconds": 95,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646006847534566663"
+    },
+    {
+      "id": "7645411015533808904",
+      "slug": "a-different-perspective-on-an-ordinary-good-moment",
+      "publishedAt": "2026-05-29T20:19:37+00:00",
+      "durationSeconds": 95,
+      "url": "https://www.tiktok.com/@eduardluta/video/7645411015533808904"
+    },
+    {
+      "id": "7645265044824919304",
+      "slug": "address-small-problems-before-they-grow",
+      "publishedAt": "2026-05-29T10:53:06+00:00",
+      "durationSeconds": 59,
+      "url": "https://www.tiktok.com/@eduardluta/video/7645265044824919304"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "advice-at-24-ai-work-and-health",
+      "name": "learn-build-sustain",
+      "type": "cards",
+      "en": {
+        "title": "Three priorities that belong together",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Learn",
+            "Try a small AI task and check the result."
+          ],
+          [
+            "Build",
+            "Get experience through work and useful feedback."
+          ],
+          [
+            "Sustain",
+            "Keep health and recovery inside the plan."
+          ]
+        ],
+        "caption": "An editorial summary of the three themes, not a guaranteed career plan.",
+        "alt": "Three priorities that belong together. Learn: Try a small AI task and check the result. Build: Get experience through work and useful feedback. Sustain: Keep health and recovery inside the plan.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri përparësi që shkojnë bashkë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mëso",
+            "Provo një detyrë me AI dhe kontrollo rezultatin."
+          ],
+          [
+            "Ndërto",
+            "Fito përvojë me punë dhe komente të dobishme."
+          ],
+          [
+            "Ruaje",
+            "Mbaji shëndetin dhe rikuperimin brenda planit."
+          ]
+        ],
+        "caption": "Përmbledhje e tri temave, jo plan karriere me rezultat të garantuar.",
+        "alt": "Tri përparësi që shkojnë bashkë. Mëso: Provo një detyrë me AI dhe kontrollo rezultatin. Ndërto: Fito përvojë me punë dhe komente të dobishme. Ruaje: Mbaji shëndetin dhe rikuperimin brenda planit.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "advice-at-24-ai-work-and-health",
+      "name": "hours-comparison",
+      "type": "bars",
+      "values": [
+        1300,
+        1560,
+        2080
+      ],
+      "en": {
+        "title": "Check the hours, not the hype",
+        "subtitle": "13 weeks approximates three months. No holidays deducted. Extreme schedules are not recommended.",
+        "labels": [
+          "13 weeks × 100 hours",
+          "13 weeks × 120 hours",
+          "52 weeks × 40 hours"
+        ],
+        "display": [
+          "1,300 hours",
+          "1,560 hours",
+          "2,080 hours"
+        ],
+        "foot": "13 weeks approximates three months. No holidays deducted. Extreme schedules are not recommended.",
+        "caption": "13 weeks approximates three months. No holidays deducted. Extreme schedules are not recommended.",
+        "alt": "Check the hours, not the hype. 13 weeks × 100 hours: 1,300 hours; 13 weeks × 120 hours: 1,560 hours; 52 weeks × 40 hours: 2,080 hours"
+      },
+      "sq": {
+        "title": "Kontrollo orët, jo bujën",
+        "subtitle": "13 javë përafrojnë tre muaj. Pa zbritur pushimet. Oraret ekstreme nuk rekomandohen.",
+        "labels": [
+          "13 javë × 100 orë",
+          "13 javë × 120 orë",
+          "52 javë × 40 orë"
+        ],
+        "display": [
+          "1.300 orë",
+          "1.560 orë",
+          "2.080 orë"
+        ],
+        "foot": "13 javë përafrojnë tre muaj. Pa zbritur pushimet. Oraret ekstreme nuk rekomandohen.",
+        "caption": "13 javë përafrojnë tre muaj. Pa zbritur pushimet. Oraret ekstreme nuk rekomandohen.",
+        "alt": "Kontrollo orët, jo bujën. 13 javë × 100 orë: 1.300 orë; 13 javë × 120 orë: 1.560 orë; 52 javë × 40 orë: 2.080 orë"
+      }
+    },
+    {
+      "slug": "your-twenties-are-not-a-deadline",
+      "name": "better-questions",
+      "type": "cards",
+      "en": {
+        "title": "Questions beyond the birthday",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Experience",
+            "What do I understand better now?"
+          ],
+          [
+            "Direction",
+            "What would I like to try next?"
+          ],
+          [
+            "Presence",
+            "What is already worth enjoying today?"
+          ]
+        ],
+        "caption": "Reflection prompts, not a scale that ranks decades or people.",
+        "alt": "Questions beyond the birthday. Experience: What do I understand better now?. Direction: What would I like to try next?. Presence: What is already worth enjoying today?.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Pyetje përtej ditëlindjes",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përvoja",
+            "Çfarë kuptoj më mirë tani?"
+          ],
+          [
+            "Drejtimi",
+            "Çfarë do të doja të provoja më pas?"
+          ],
+          [
+            "Prania",
+            "Çfarë ia vlen ta shijoj sot?"
+          ]
+        ],
+        "caption": "Pyetje reflektimi, jo shkallë që rendit dekadat apo njerëzit.",
+        "alt": "Pyetje përtej ditëlindjes. Përvoja: Çfarë kuptoj më mirë tani?. Drejtimi: Çfarë do të doja të provoja më pas?. Prania: Çfarë ia vlen ta shijoj sot?.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "albanian-family-values-in-everyday-actions",
+      "name": "values-in-practice",
+      "type": "cards",
+      "en": {
+        "title": "Let the value describe an action",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Respect",
+            "How do we speak when we disagree?"
+          ],
+          [
+            "Responsibility",
+            "Who does the work we say matters?"
+          ],
+          [
+            "Care",
+            "Do the people beside us feel included?"
+          ]
+        ],
+        "caption": "Questions for the household, not a ranking of family types.",
+        "alt": "Let the value describe an action. Respect: How do we speak when we disagree?. Responsibility: Who does the work we say matters?. Care: Do the people beside us feel included?.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Le ta përshkruajë vlera një veprim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Respekti",
+            "Si flasim kur nuk pajtohemi?"
+          ],
+          [
+            "Përgjegjësia",
+            "Kush e bën punën që themi se ka rëndësi?"
+          ],
+          [
+            "Kujdesi",
+            "A ndihen të përfshirë njerëzit pranë nesh?"
+          ]
+        ],
+        "caption": "Pyetje për shtëpinë, jo renditje e formave të familjes.",
+        "alt": "Le ta përshkruajë vlera një veprim. Respekti: Si flasim kur nuk pajtohemi?. Përgjegjësia: Kush e bën punën që themi se ka rëndësi?. Kujdesi: A ndihen të përfshirë njerëzit pranë nesh?.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "albanian-family-values-in-everyday-actions",
+      "name": "attention-to-children",
+      "type": "cards",
+      "en": {
+        "title": "Give attention a visible form",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Listen",
+            "Make room for the child to finish."
+          ],
+          [
+            "Respond",
+            "Talk about the specific behaviour, without insults."
+          ],
+          [
+            "Model",
+            "Keep the promises you make."
+          ]
+        ],
+        "caption": "Adapted from UNICEF communication guidance for young children.",
+        "alt": "Give attention a visible form. Listen: Make room for the child to finish. Respond: Talk about the specific behaviour, without insults. Model: Keep the promises you make.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi vëmendjes formë të dukshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Dëgjo",
+            "Lëre fëmijën ta përfundojë mendimin."
+          ],
+          [
+            "Përgjigju",
+            "Fol për sjelljen konkrete, pa fyerje."
+          ],
+          [
+            "Jep shembull",
+            "Mbaji premtimet që bën."
+          ]
+        ],
+        "caption": "Përshtatur nga udhëzimi i UNICEF për komunikimin me fëmijët e vegjël.",
+        "alt": "Jepi vëmendjes formë të dukshme. Dëgjo: Lëre fëmijën ta përfundojë mendimin. Përgjigju: Fol për sjelljen konkrete, pa fyerje. Jep shembull: Mbaji premtimet që bën.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "protect-new-ideas-without-rejecting-feedback",
+      "name": "feedback-that-helps",
+      "type": "cards",
+      "en": {
+        "title": "Can the response lead to a test?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Dismissal",
+            "A permanent verdict with nothing to examine."
+          ],
+          [
+            "Useful criticism",
+            "A specific concern you can investigate."
+          ],
+          [
+            "Your next step",
+            "Check the concern before committing more."
+          ]
+        ],
+        "caption": "An editorial comparison of responses, not a test of anyone’s personality.",
+        "alt": "Can the response lead to a test. Dismissal: A permanent verdict with nothing to examine. Useful criticism: A specific concern you can investigate. Your next step: Check the concern before committing more.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "A mund të çojë përgjigjja te një provë?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Hedhje poshtë",
+            "Vendim përfundimtar pa diçka për shqyrtim."
+          ],
+          [
+            "Kritikë e dobishme",
+            "Shqetësim konkret që mund ta hulumtosh."
+          ],
+          [
+            "Hapi yt",
+            "Kontrolloje shqetësimin para zotimit tjetër."
+          ]
+        ],
+        "caption": "Krahasim editorial përgjigjesh, jo test i personalitetit të dikujt.",
+        "alt": "A mund të çojë përgjigjja te një provë. Hedhje poshtë: Vendim përfundimtar pa diçka për shqyrtim. Kritikë e dobishme: Shqetësim konkret që mund ta hulumtosh. Hapi yt: Kontrolloje shqetësimin para zotimit tjetër.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "a-different-perspective-on-an-ordinary-good-moment",
+      "name": "two-truths",
+      "type": "cards",
+      "en": {
+        "title": "Two things can be true together",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The difficulty",
+            "Name the problem without minimising it."
+          ],
+          [
+            "The good moment",
+            "Notice something specific you valued."
+          ],
+          [
+            "The next action",
+            "Keep the help, conversation or time that matters."
+          ]
+        ],
+        "caption": "An editorial reflection exercise, not a happiness score or clinical treatment.",
+        "alt": "Two things can be true together. The difficulty: Name the problem without minimising it. The good moment: Notice something specific you valued. The next action: Keep the help, conversation or time that matters.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dy gjëra mund të jenë të vërteta bashkë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Vështirësia",
+            "Emërtoje problemin pa e zvogëluar."
+          ],
+          [
+            "Çasti i mirë",
+            "Vëre diçka konkrete që e vlerësove."
+          ],
+          [
+            "Veprimi tjetër",
+            "Ruaje ndihmën, bisedën ose kohën që vlen."
+          ]
+        ],
+        "caption": "Ushtrim editorial reflektimi, jo matje lumturie apo trajtim klinik.",
+        "alt": "Dy gjëra mund të jenë të vërteta bashkë. Vështirësia: Emërtoje problemin pa e zvogëluar. Çasti i mirë: Vëre diçka konkrete që e vlerësove. Veprimi tjetër: Ruaje ndihmën, bisedën ose kohën që vlen.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "address-small-problems-before-they-grow",
+      "name": "make-it-discussable",
+      "type": "cards",
+      "en": {
+        "title": "Make one problem discussable",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name it",
+            "Describe the event and its effect."
+          ],
+          [
+            "Listen",
+            "Ask what happened before assuming intent."
+          ],
+          [
+            "Agree",
+            "Choose one next action or a time to return."
+          ]
+        ],
+        "caption": "An editorial guide for ordinary disagreements; safety takes priority.",
+        "alt": "Make one problem discussable. Name it: Describe the event and its effect. Listen: Ask what happened before assuming intent. Agree: Choose one next action or a time to return.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Bëje të diskutueshëm një problem",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Emërtoje",
+            "Përshkruaje ngjarjen dhe ndikimin e saj."
+          ],
+          [
+            "Dëgjo",
+            "Pyet çfarë ndodhi para se të supozosh qëllimin."
+          ],
+          [
+            "Pajtohuni",
+            "Zgjidhni një veprim ose kohën e rikthimit."
+          ]
+        ],
+        "caption": "Udhëzues editorial për mosmarrëveshje të zakonshme; siguria ka përparësi.",
+        "alt": "Bëje të diskutueshëm një problem. Emërtoje: Përshkruaje ngjarjen dhe ndikimin e saj. Dëgjo: Pyet çfarë ndodhi para se të supozosh qëllimin. Pajtohuni: Zgjidhni një veprim ose kohën e rikthimit.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "arithmetic_check_not_schedule_recommendation",
+  "quarterWeeks": 13,
+  "yearWeeks": 52,
+  "weeklyHours": [
+    100,
+    120,
+    40
+  ],
+  "totalHours": [
+    1300,
+    1560,
+    2080
+  ],
+  "sharesPercent": [
+    62.5,
+    75,
+    100
+  ],
+  "equalProductivityAssumed": false
+}
