@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "illustrative_practice_schedule",
+  "sessions": 4,
+  "minutesPerSession": 30,
+  "totalMinutes": 120,
+  "totalHours": 2,
+  "guaranteedCompletion": false
+}

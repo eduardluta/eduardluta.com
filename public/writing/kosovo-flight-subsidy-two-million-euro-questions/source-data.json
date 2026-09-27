@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "hypothetical_unit_budget_not_ticket_savings",
+  "approvedAllocationEur": 2000000,
+  "decision": "01/21",
+  "decisionDate": "2026-05-26",
+  "assumedFullSpend": true,
+  "oneWayPassengerJourneys": [
+    20000,
+    50000,
+    100000
+  ],
+  "budgetPerJourneyEur": [
+    100,
+    40,
+    20
+  ],
+  "observedPayouts": false,
+  "observedFareReduction": false
+}

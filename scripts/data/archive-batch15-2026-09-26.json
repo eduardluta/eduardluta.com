@@ -1,0 +1,216 @@
+{
+  "articles": [
+    {
+      "id": "7643898923777641736",
+      "slug": "ai-opportunity-curiosity-practice-and-real-expertise",
+      "publishedAt": "2026-05-25T18:31:55+00:00",
+      "durationSeconds": 174,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643898923777641736"
+    },
+    {
+      "id": "7652791701760675079",
+      "slug": "how-to-start-learning-ai-with-a-real-project",
+      "publishedAt": "2026-06-18T17:40:24+00:00",
+      "durationSeconds": 180,
+      "url": "https://www.tiktok.com/@eduardluta/video/7652791701760675079"
+    },
+    {
+      "id": "7644272513131793682",
+      "slug": "kosovo-politics-focus-on-living-standards",
+      "publishedAt": "2026-05-26T18:41:40+00:00",
+      "durationSeconds": 70,
+      "url": "https://www.tiktok.com/@eduardluta/video/7644272513131793682"
+    },
+    {
+      "id": "7644563074589953298",
+      "slug": "kosovo-flight-subsidy-two-million-euro-questions",
+      "publishedAt": "2026-05-27T13:29:54+00:00",
+      "durationSeconds": 157,
+      "url": "https://www.tiktok.com/@eduardluta/video/7644563074589953298"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "ai-opportunity-curiosity-practice-and-real-expertise",
+      "name": "practice-becomes-evidence",
+      "type": "cards",
+      "en": {
+        "title": "Make curiosity produce evidence",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Try one real task",
+            "Choose a result you know how to check."
+          ],
+          [
+            "Find the weakness",
+            "Compare the output with a reliable reference."
+          ],
+          [
+            "Improve and explain",
+            "Keep the revision and explain what changed."
+          ]
+        ],
+        "caption": "A practice loop, not a promise of expertise or employment.",
+        "alt": "Make curiosity produce evidence. Try one real task: Choose a result you know how to check. Find the weakness: Compare the output with a reliable reference. Improve and explain: Keep the revision and explain what changed.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ktheje kureshtjen në provë të punës",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Provo një detyrë reale",
+            "Zgjidh rezultat që di ta kontrollosh."
+          ],
+          [
+            "Gjej dobësinë",
+            "Krahasoje përgjigjen me një burim të besueshëm."
+          ],
+          [
+            "Përmirëso dhe shpjego",
+            "Ruaje rishikimin dhe shpjego çfarë ndryshoi."
+          ]
+        ],
+        "caption": "Cikël ushtrimi, jo premtim ekspertize apo punësimi.",
+        "alt": "Ktheje kureshtjen në provë të punës. Provo një detyrë reale: Zgjidh rezultat që di ta kontrollosh. Gjej dobësinë: Krahasoje përgjigjen me një burim të besueshëm. Përmirëso dhe shpjego: Ruaje rishikimin dhe shpjego çfarë ndryshoi.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "how-to-start-learning-ai-with-a-real-project",
+      "name": "three-ways-to-learn",
+      "type": "cards",
+      "en": {
+        "title": "Learn, personalise, build",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Learn the basics",
+            "Use an official introductory resource."
+          ],
+          [
+            "Personalise the practice",
+            "Give the tool your goal, context and available time."
+          ],
+          [
+            "Build and check",
+            "Make one small result and test whether it works."
+          ]
+        ],
+        "caption": "Three routes from the video. Move between them as you learn.",
+        "alt": "Learn, personalise, build. Learn the basics: Use an official introductory resource. Personalise the practice: Give the tool your goal, context and available time. Build and check: Make one small result and test whether it works.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mëso, përshtate, krijo",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mëso bazat",
+            "Përdor burim hyrës zyrtar."
+          ],
+          [
+            "Përshtate ushtrimin",
+            "Jepi mjetit qëllimin, kontekstin dhe kohën që ke."
+          ],
+          [
+            "Krijo dhe kontrollo",
+            "Bëj një rezultat të vogël dhe provo nëse punon."
+          ]
+        ],
+        "caption": "Tri rrugët nga videoja. Kalo mes tyre ndërsa mëson.",
+        "alt": "Mëso, përshtate, krijo. Mëso bazat: Përdor burim hyrës zyrtar. Përshtate ushtrimin: Jepi mjetit qëllimin, kontekstin dhe kohën që ke. Krijo dhe kontrollo: Bëj një rezultat të vogël dhe provo nëse punon.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "kosovo-politics-focus-on-living-standards",
+      "name": "slower-inflation-prices",
+      "type": "bars",
+      "values": [
+        100,
+        110,
+        113.3
+      ],
+      "en": {
+        "title": "Slower inflation can still mean higher prices",
+        "subtitle": "Hypothetical unchanged basket; not Kosovo price data.",
+        "labels": [
+          "Start",
+          "After +10%",
+          "Then +3%"
+        ],
+        "display": [
+          "€100.00",
+          "€110.00",
+          "€113.30"
+        ],
+        "foot": "Hypothetical unchanged basket; not Kosovo price data.",
+        "caption": "Hypothetical unchanged basket; not Kosovo price data.",
+        "alt": "Slower inflation can still mean higher prices. Start: €100.00; After +10%: €110.00; Then +3%: €113.30"
+      },
+      "sq": {
+        "title": "Inflacioni më i ulët mund të sjellë çmime më të larta",
+        "subtitle": "Shportë hipotetike e pandryshuar; jo të dhëna çmimesh të Kosovës.",
+        "labels": [
+          "Fillimi",
+          "Pas +10%",
+          "Pastaj +3%"
+        ],
+        "display": [
+          "€100.00",
+          "€110.00",
+          "€113.30"
+        ],
+        "foot": "Shportë hipotetike e pandryshuar; jo të dhëna çmimesh të Kosovës.",
+        "caption": "Shportë hipotetike e pandryshuar; jo të dhëna çmimesh të Kosovës.",
+        "alt": "Inflacioni më i ulët mund të sjellë çmime më të larta. Fillimi: €100.00; Pas +10%: €110.00; Pastaj +3%: €113.30"
+      }
+    },
+    {
+      "slug": "kosovo-flight-subsidy-two-million-euro-questions",
+      "name": "budget-per-passenger",
+      "type": "bars",
+      "values": [
+        100,
+        40,
+        20
+      ],
+      "en": {
+        "title": "The same budget, different denominators",
+        "subtitle": "€2m divided by hypothetical one-way passenger journeys. Not actual payouts or fare reductions.",
+        "labels": [
+          "20,000 journeys",
+          "50,000 journeys",
+          "100,000 journeys"
+        ],
+        "display": [
+          "€100 / journey",
+          "€40 / journey",
+          "€20 / journey"
+        ],
+        "foot": "€2m divided by hypothetical one-way passenger journeys. Not actual payouts or fare reductions.",
+        "caption": "€2m divided by hypothetical one-way passenger journeys. Not actual payouts or fare reductions.",
+        "alt": "The same budget, different denominators. 20,000 journeys: €100 / journey; 50,000 journeys: €40 / journey; 100,000 journeys: €20 / journey"
+      },
+      "sq": {
+        "title": "I njëjti buxhet, emërues të ndryshëm",
+        "subtitle": "€2m pjesëtuar me udhëtime hipotetike pasagjerësh në një drejtim. Jo pagesa reale apo ulje biletash.",
+        "labels": [
+          "20,000 udhëtime",
+          "50,000 udhëtime",
+          "100,000 udhëtime"
+        ],
+        "display": [
+          "€100 / udhëtim",
+          "€40 / udhëtim",
+          "€20 / udhëtim"
+        ],
+        "foot": "€2m pjesëtuar me udhëtime hipotetike pasagjerësh në një drejtim. Jo pagesa reale apo ulje biletash.",
+        "caption": "€2m pjesëtuar me udhëtime hipotetike pasagjerësh në një drejtim. Jo pagesa reale apo ulje biletash.",
+        "alt": "I njëjti buxhet, emërues të ndryshëm. 20,000 udhëtime: €100 / udhëtim; 50,000 udhëtime: €40 / udhëtim; 100,000 udhëtime: €20 / udhëtim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "hypothetical_price_basket",
+  "startEur": 100,
+  "rates": [
+    0.1,
+    0.03
+  ],
+  "pricesEur": [
+    100,
+    110,
+    113.3
+  ],
+  "cumulativePercent": 13.3,
+  "rateFallPercentagePoints": 7,
+  "kosovoObservedData": false
+}
