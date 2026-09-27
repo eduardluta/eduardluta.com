@@ -825,6 +825,12 @@ a.project-name:hover {
   border-radius: 6px;
   background: rgba(var(--ink-rgb), 0.04);
 }
+.article-video[data-orientation='landscape'] {
+  max-width: 640px;
+}
+.article-video[data-orientation='landscape'] .article-video-stage {
+  aspect-ratio: 16 / 9;
+}
 .article-video-poster,
 .article-video-stage iframe {
   position: absolute;

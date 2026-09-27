@@ -8,6 +8,7 @@ interface Props {
   lang: Lang;
 }
 const { video, title, lang } = Astro.props;
+const landscape = video.orientation === 'landscape';
 const labels = lang === 'sq' ? {
   original: 'Videoja origjinale · TikTok',
   load: 'Hap videon',
@@ -31,6 +32,7 @@ const labels = lang === 'sq' ? {
 
 <article-video
   class="article-video"
+  data-orientation={video.orientation}
   data-video-id={video.id}
   data-video-title={`${labels.original}: ${title}`}
   data-loading={labels.loading}
@@ -40,7 +42,7 @@ const labels = lang === 'sq' ? {
   <figure>
     <p class="article-video-label">{labels.original}</p>
     <div class="article-video-stage">
-      <img class="article-video-poster" src={video.poster} alt={video.posterAlt} width="540" height="960" decoding="async" />
+      <img class="article-video-poster" src={video.poster} alt={video.posterAlt} width={landscape ? 960 : 540} height={landscape ? 540 : 960} decoding="async" />
       <button class="article-video-load" type="button" data-video-load hidden aria-label={`${labels.load}: ${title}`}>
         <span class="article-video-play" aria-hidden="true">▶</span>
         <span>{labels.load}</span>

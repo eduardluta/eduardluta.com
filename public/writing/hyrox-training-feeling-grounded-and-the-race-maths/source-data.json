@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "illustrative_running_time_not_result",
+  "raceFormatSource": "https://hyroxapac.zendesk.com/hc/en-us/articles/16522642285839-What-are-the-workouts-done-during-a-HYROX-race",
+  "runs": 8,
+  "kmPerRun": 1,
+  "runningKm": 8,
+  "workoutStations": 8,
+  "paceMinutesPerKm": [
+    5,
+    6
+  ],
+  "runningMinutes": [
+    40,
+    48
+  ],
+  "differenceMinutes": 8,
+  "includesStationsAndTransitions": false,
+  "raceResultVerified": false
+}

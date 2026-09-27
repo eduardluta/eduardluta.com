@@ -30,6 +30,8 @@ const writing = defineCollection({
       }, 'Use the original HTTPS TikTok video URL'),
       poster: z.string().regex(/^\/(?!\/)/, 'Use a local, root-relative poster path'),
       posterAlt: z.string().min(1),
+      /** Match landscape source thumbnails without cropping them into a portrait frame. */
+      orientation: z.enum(['portrait', 'landscape']).default('portrait'),
       /** Optional complete metadata for VideoObject; uploadDate is the original video publication. */
       seo: z.object({
         name: z.string().trim().min(1),
