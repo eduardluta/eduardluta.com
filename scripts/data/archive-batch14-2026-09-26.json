@@ -1,0 +1,378 @@
+{
+  "articles": [
+    {
+      "id": "7643124730110807303",
+      "slug": "start-a-service-business-with-ai-skills-and-real-costs",
+      "publishedAt": "2026-05-23T16:27:38+00:00",
+      "durationSeconds": 66,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643124730110807303"
+    },
+    {
+      "id": "7642383785148960007",
+      "slug": "narcissus-self-love-and-the-limits-of-a-label",
+      "publishedAt": "2026-05-21T16:29:48+00:00",
+      "durationSeconds": 101,
+      "url": "https://www.tiktok.com/@eduardluta/video/7642383785148960007"
+    },
+    {
+      "id": "7641163366878268679",
+      "slug": "gym-overthinking-potential-and-a-repeatable-week",
+      "publishedAt": "2026-05-18T09:36:33+00:00",
+      "durationSeconds": 14,
+      "url": "https://www.tiktok.com/@eduardluta/video/7641163366878268679"
+    },
+    {
+      "id": "7645631433213496594",
+      "slug": "politicians-road-bumps-and-maintenance-in-kosovo",
+      "publishedAt": "2026-05-30T10:34:58+00:00",
+      "durationSeconds": 19,
+      "url": "https://www.tiktok.com/@eduardluta/video/7645631433213496594",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 25,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7679772122033523988",
+      "slug": "jusuf-gervalla-monument-respect-in-the-details",
+      "publishedAt": "2026-08-30T10:38:13+00:00",
+      "durationSeconds": 8,
+      "url": "https://www.tiktok.com/@eduardluta/video/7679772122033523988",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 60,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7654531722389900562",
+      "slug": "follower-count-is-not-a-measure-of-a-person",
+      "publishedAt": "2026-06-23T10:12:45+00:00",
+      "durationSeconds": 31,
+      "url": "https://www.tiktok.com/@eduardluta/video/7654531722389900562"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "start-a-service-business-with-ai-skills-and-real-costs",
+      "name": "project-hours",
+      "type": "bars",
+      "values": [
+        6,
+        5
+      ],
+      "en": {
+        "title": "A faster draft is only part of the job",
+        "subtitle": "Hypothetical project: production plus checking. Same €200 fee; no measured or guaranteed AI saving.",
+        "labels": [
+          "Original workflow",
+          "Illustrative AI workflow"
+        ],
+        "display": [
+          "6 total hours",
+          "5 total hours"
+        ],
+        "foot": "Hypothetical project: production plus checking. Same €200 fee; no measured or guaranteed AI saving.",
+        "caption": "Hypothetical project: production plus checking. Same €200 fee; no measured or guaranteed AI saving.",
+        "alt": "A faster draft is only part of the job. Original workflow: 6 total hours; Illustrative AI workflow: 5 total hours"
+      },
+      "sq": {
+        "title": "Drafti më i shpejtë është vetëm një pjesë",
+        "subtitle": "Projekt hipotetik: prodhimi plus kontrolli. I njëjti çmim €200; kursim i supozuar, jo i matur apo i garantuar.",
+        "labels": [
+          "Mënyra fillestare",
+          "Shembulli me AI"
+        ],
+        "display": [
+          "6 orë gjithsej",
+          "5 orë gjithsej"
+        ],
+        "foot": "Projekt hipotetik: prodhimi plus kontrolli. I njëjti çmim €200; kursim i supozuar, jo i matur apo i garantuar.",
+        "caption": "Projekt hipotetik: prodhimi plus kontrolli. I njëjti çmim €200; kursim i supozuar, jo i matur apo i garantuar.",
+        "alt": "Drafti më i shpejtë është vetëm një pjesë. Mënyra fillestare: 6 orë gjithsej; Shembulli me AI: 5 orë gjithsej"
+      }
+    },
+    {
+      "slug": "start-a-service-business-with-ai-skills-and-real-costs",
+      "name": "skill-ai-customer",
+      "type": "cards",
+      "en": {
+        "title": "Three things the business still needs",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Skill",
+            "Know what a good result looks like."
+          ],
+          [
+            "AI assistance",
+            "Use it where the output can be checked."
+          ],
+          [
+            "A customer",
+            "Someone must value the result enough to pay."
+          ]
+        ],
+        "caption": "An editorial way to turn the video’s invitation into a concrete service.",
+        "alt": "Three things the business still needs. Skill: Know what a good result looks like. AI assistance: Use it where the output can be checked. A customer: Someone must value the result enough to pay.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Tri gjëra që biznesit ende i duhen",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Aftësia",
+            "Dije si duket një rezultat i mirë."
+          ],
+          [
+            "Ndihma e AI-së",
+            "Përdore aty ku rezultati kontrollohet."
+          ],
+          [
+            "Klienti",
+            "Dikush duhet ta vlerësojë punën sa të paguajë."
+          ]
+        ],
+        "caption": "Mënyrë editoriale për ta kthyer ftesën e videos në shërbim konkret.",
+        "alt": "Tri gjëra që biznesit ende i duhen. Aftësia: Dije si duket një rezultat i mirë. Ndihma e AI-së: Përdore aty ku rezultati kontrollohet. Klienti: Dikush duhet ta vlerësojë punën sa të paguajë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "narcissus-self-love-and-the-limits-of-a-label",
+      "name": "story-reflection-diagnosis",
+      "type": "cards",
+      "en": {
+        "title": "Keep three meanings distinct",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The myth",
+            "A story about being trapped by a reflection."
+          ],
+          [
+            "My reflection",
+            "How can I value myself and still notice others?"
+          ],
+          [
+            "A diagnosis",
+            "A clinical assessment, not a label from a video."
+          ]
+        ],
+        "caption": "A literary story, an ethical question and a clinical category do different jobs.",
+        "alt": "Keep three meanings distinct. The myth: A story about being trapped by a reflection. My reflection: How can I value myself and still notice others? A diagnosis: A clinical assessment, not a label from a video.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dalloji tri kuptime",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Miti",
+            "Rrëfim për ngecjen te pasqyrimi."
+          ],
+          [
+            "Reflektimi im",
+            "Si ta vlerësoj veten dhe t’i vërej të tjerët?"
+          ],
+          [
+            "Diagnoza",
+            "Vlerësim klinik, jo etiketë nga një video."
+          ]
+        ],
+        "caption": "Rrëfimi letrar, pyetja etike dhe kategoria klinike kanë role të ndryshme.",
+        "alt": "Dalloji tri kuptime. Miti: Rrëfim për ngecjen te pasqyrimi. Reflektimi im: Si ta vlerësoj veten dhe t’i vërej të tjerët? Diagnoza: Vlerësim klinik, jo etiketë nga një video.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "gym-overthinking-potential-and-a-repeatable-week",
+      "name": "weekly-minutes",
+      "type": "bars",
+      "values": [
+        150,
+        150,
+        150
+      ],
+      "en": {
+        "title": "Three ways to add up 150 minutes",
+        "subtitle": "Arithmetic examples for moderate aerobic activity. Not leg-press minutes, a personal programme or proof of equal effects.",
+        "labels": [
+          "5 × 30 minutes",
+          "3 × 50 minutes",
+          "10 × 15 minutes"
+        ],
+        "display": [
+          "150 min / week",
+          "150 min / week",
+          "150 min / week"
+        ],
+        "foot": "Arithmetic examples for moderate aerobic activity. Not leg-press minutes, a personal programme or proof of equal effects.",
+        "caption": "Arithmetic examples for moderate aerobic activity. Not leg-press minutes, a personal programme or proof of equal effects.",
+        "alt": "Three ways to add up 150 minutes. 5 × 30 minutes: 150 min / week; 3 × 50 minutes: 150 min / week; 10 × 15 minutes: 150 min / week"
+      },
+      "sq": {
+        "title": "Tri mënyra për t’i mbledhur 150 minuta",
+        "subtitle": "Shembuj aritmetikë për aktivitet aerobik mesatar. Jo minuta leg-press, program personal apo provë efektesh të barabarta.",
+        "labels": [
+          "5 × 30 minuta",
+          "3 × 50 minuta",
+          "10 × 15 minuta"
+        ],
+        "display": [
+          "150 min / javë",
+          "150 min / javë",
+          "150 min / javë"
+        ],
+        "foot": "Shembuj aritmetikë për aktivitet aerobik mesatar. Jo minuta leg-press, program personal apo provë efektesh të barabarta.",
+        "caption": "Shembuj aritmetikë për aktivitet aerobik mesatar. Jo minuta leg-press, program personal apo provë efektesh të barabarta.",
+        "alt": "Tri mënyra për t’i mbledhur 150 minuta. 5 × 30 minuta: 150 min / javë; 3 × 50 minuta: 150 min / javë; 10 × 15 minuta: 150 min / javë"
+      }
+    },
+    {
+      "slug": "politicians-road-bumps-and-maintenance-in-kosovo",
+      "name": "from-bump-to-repair",
+      "type": "cards",
+      "en": {
+        "title": "From a bump to a useful answer",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name the place",
+            "Road name, direction and a precise location."
+          ],
+          [
+            "Find responsibility",
+            "Confirm the road category and responsible authority."
+          ],
+          [
+            "Check the result",
+            "Ask what will be done, then look at the finished work."
+          ]
+        ],
+        "caption": "A practical reporting sequence, not a statutory complaint procedure.",
+        "alt": "From a bump to a useful answer. Name the place: Road name, direction and a precise location. Find responsibility: Confirm the road category and responsible authority. Check the result: Ask what will be done, then look at the finished work.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga tronditja te një përgjigje e dobishme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përcakto vendin",
+            "Emri i rrugës, drejtimi dhe vendndodhja e saktë."
+          ],
+          [
+            "Gjej përgjegjësinë",
+            "Konfirmo kategorinë e rrugës dhe institucionin përgjegjës."
+          ],
+          [
+            "Kontrollo rezultatin",
+            "Pyet çfarë do të bëhet dhe shiko punën e përfunduar."
+          ]
+        ],
+        "caption": "Një rend praktik raportimi, jo procedurë ligjore e ankesës.",
+        "alt": "Nga tronditja te një përgjigje e dobishme. Përcakto vendin: Emri i rrugës, drejtimi dhe vendndodhja e saktë. Gjej përgjegjësinë: Konfirmo kategorinë e rrugës dhe institucionin përgjegjës. Kontrollo rezultatin: Pyet çfarë do të bëhet dhe shiko punën e përfunduar.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "jusuf-gervalla-monument-respect-in-the-details",
+      "name": "monument-and-care",
+      "type": "cards",
+      "en": {
+        "title": "Seeing a detail, asking a fair question",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Visible in the frame",
+            "A bust, its pedestal and the surrounding public space."
+          ],
+          [
+            "Needs a closer check",
+            "Alignment, condition and any required maintenance."
+          ],
+          [
+            "The lasting standard",
+            "Care for the place after the ceremony is over."
+          ]
+        ],
+        "caption": "The video raises a question about care. A camera angle cannot establish a structural defect.",
+        "alt": "Seeing a detail, asking a fair question. Visible in the frame: A bust, its pedestal and the surrounding public space. Needs a closer check: Alignment, condition and any required maintenance. The lasting standard: Care for the place after the ceremony is over.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Vëren një detaj, bën një pyetje të drejtë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Shihet në pamje",
+            "Një bust, bazamenti dhe hapësira publike përreth."
+          ],
+          [
+            "Kërkon kontroll afër",
+            "Drejtimi, gjendja dhe mirëmbajtja që mund të nevojitet."
+          ],
+          [
+            "Standardi afatgjatë",
+            "Kujdesi për vendin pasi ceremonia ka përfunduar."
+          ]
+        ],
+        "caption": "Videoja ngre pyetje për kujdesin. Këndi i kamerës nuk vërteton defekt strukturor.",
+        "alt": "Vëren një detaj, bën një pyetje të drejtë. Shihet në pamje: Një bust, bazamenti dhe hapësira publike përreth. Kërkon kontroll afër: Drejtimi, gjendja dhe mirëmbajtja që mund të nevojitet. Standardi afatgjatë: Kujdesi për vendin pasi ceremonia ka përfunduar.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "follower-count-is-not-a-measure-of-a-person",
+      "name": "profile-person-conversation",
+      "type": "cards",
+      "en": {
+        "title": "A profile is the beginning of knowing someone",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "The photograph",
+            "An impression from a selected moment."
+          ],
+          [
+            "The follower count",
+            "A visible number, not a measure of character."
+          ],
+          [
+            "The conversation",
+            "A chance to learn how you actually relate."
+          ]
+        ],
+        "caption": "A reflection on the joke in the video, not a scoring system for people.",
+        "alt": "A profile is the beginning of knowing someone. The photograph: An impression from a selected moment. The follower count: A visible number, not a measure of character. The conversation: A chance to learn how you actually relate.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Profili është fillimi i njohjes së dikujt",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Fotografia",
+            "Përshtypje nga një moment i zgjedhur."
+          ],
+          [
+            "Numri i ndjekësve",
+            "Numër i dukshëm, jo matje e karakterit."
+          ],
+          [
+            "Biseda",
+            "Mundësi për të kuptuar si lidheni në të vërtetë."
+          ]
+        ],
+        "caption": "Reflektim mbi shakanë në video, jo sistem pikëzimi për njerëzit.",
+        "alt": "Profili është fillimi i njohjes së dikujt. Fotografia: Përshtypje nga një moment i zgjedhur. Numri i ndjekësve: Numër i dukshëm, jo matje e karakterit. Biseda: Mundësi për të kuptuar si lidheni në të vërtetë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

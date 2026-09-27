@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "hypothetical_service_project",
+  "feeEur": 200,
+  "originalProductionHours": 5,
+  "originalReviewHours": 1,
+  "aiProductionHours": 3,
+  "aiReviewHours": 2,
+  "originalTotalHours": 6,
+  "aiTotalHours": 5,
+  "timeSavingPercent": 16.666666666666668,
+  "grossHourlyRateEur": [
+    33.333333333333336,
+    40
+  ],
+  "grossHourlyRateIncreasePercent": 20,
+  "projects": 20,
+  "revenueEurBoth": 4000,
+  "totalHours": [
+    120,
+    100
+  ],
+  "hoursFreed": 20,
+  "expensesTaxesSalesTimeIncluded": false,
+  "measuredAISaving": false
+}

@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-27",
+  "kind": "arithmetic_schedules_not_individual_prescription",
+  "moderateAerobicWeeklyMinutes": 150,
+  "periods": [
+    5,
+    3,
+    10
+  ],
+  "minutesPerPeriod": [
+    30,
+    50,
+    15
+  ],
+  "totals": [
+    150,
+    150,
+    150
+  ],
+  "legPressLoadVerified": false,
+  "measuredHealthOutcome": false
+}
