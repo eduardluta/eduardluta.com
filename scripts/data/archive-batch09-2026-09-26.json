@@ -1,0 +1,556 @@
+{
+  "articles": [
+    {
+      "id": "7651926939288046866",
+      "slug": "hospital-parking-prishtina-keep-patient-routes-clear",
+      "publishedAt": "2026-06-16T09:44:44+00:00",
+      "durationSeconds": 98,
+      "url": "https://www.tiktok.com/@eduardluta/video/7651926939288046866"
+    },
+    {
+      "id": "7651696448920243464",
+      "slug": "telling-a-patient-the-truth-with-care",
+      "publishedAt": "2026-06-15T18:50:17+00:00",
+      "durationSeconds": 174,
+      "url": "https://www.tiktok.com/@eduardluta/video/7651696448920243464"
+    },
+    {
+      "id": "7650038606836403474",
+      "slug": "honesty-preparation-and-asking-for-help",
+      "publishedAt": "2026-06-11T07:37:01+00:00",
+      "durationSeconds": 154,
+      "url": "https://www.tiktok.com/@eduardluta/video/7650038606836403474"
+    },
+    {
+      "id": "7650536702871637266",
+      "slug": "missing-you-or-missing-control",
+      "publishedAt": "2026-06-12T15:49:48+00:00",
+      "durationSeconds": 47,
+      "url": "https://www.tiktok.com/@eduardluta/video/7650536702871637266"
+    },
+    {
+      "id": "7646508132616654098",
+      "slug": "political-disagreement-without-personal-hatred",
+      "publishedAt": "2026-06-01T19:17:06+00:00",
+      "durationSeconds": 96,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646508132616654098"
+    },
+    {
+      "id": "7646504942873693447",
+      "slug": "think-for-yourself-without-rejecting-expertise",
+      "publishedAt": "2026-06-01T19:04:44+00:00",
+      "durationSeconds": 83,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646504942873693447"
+    },
+    {
+      "id": "7689889271490252052",
+      "slug": "meta-glasses-apple-watch-capturing-creative-ideas",
+      "publishedAt": "2026-09-26T16:57:36+00:00",
+      "durationSeconds": 131,
+      "url": "https://www.tiktok.com/@eduardluta/video/7689889271490252052"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "hospital-parking-prishtina-keep-patient-routes-clear",
+      "name": "clear-route",
+      "type": "cards",
+      "en": {
+        "title": "Keep the whole arrival route usable",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Guide",
+            "Help drivers find an appropriate space."
+          ],
+          [
+            "Protect",
+            "Keep the pedestrian route and access points clear."
+          ],
+          [
+            "Check",
+            "Ask patients whether the route actually works."
+          ]
+        ],
+        "caption": "A proposed service sequence, not a map or audit of the hospital grounds.",
+        "alt": "Keep the whole arrival route usable. Guide: Help drivers find an appropriate space. Protect: Keep the pedestrian route and access points clear. Check: Ask patients whether the route actually works.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mbaje të kalueshme gjithë rrugën e mbërritjes",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Oriento",
+            "Ndihmoji shoferët të gjejnë vend të përshtatshëm."
+          ],
+          [
+            "Ruaj",
+            "Mbaji të lira kalimin dhe pikat e qasjes."
+          ],
+          [
+            "Kontrollo",
+            "Pyeti pacientët nëse rruga funksionon realisht."
+          ]
+        ],
+        "caption": "Rend veprimesh i propozuar, jo hartë apo auditim i hapësirës së spitalit.",
+        "alt": "Mbaje të kalueshme gjithë rrugën e mbërritjes. Oriento: Ndihmoji shoferët të gjejnë vend të përshtatshëm. Ruaj: Mbaji të lira kalimin dhe pikat e qasjes. Kontrollo: Pyeti pacientët nëse rruga funksionon realisht.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "hospital-parking-prishtina-keep-patient-routes-clear",
+      "name": "staffing-example",
+      "type": "bars",
+      "values": [
+        16,
+        24
+      ],
+      "en": {
+        "title": "Two positions: daily coverage hours",
+        "subtitle": "Illustrative: 2 simultaneous positions. Excludes breaks, leave and other duties; not employee headcount.",
+        "labels": [
+          "8-hour coverage",
+          "12-hour coverage"
+        ],
+        "display": [
+          "16 staff-hours",
+          "24 staff-hours"
+        ],
+        "foot": "Illustrative: 2 simultaneous positions. Excludes breaks, leave and other duties; not employee headcount.",
+        "caption": "Illustrative: 2 simultaneous positions. Excludes breaks, leave and other duties; not employee headcount.",
+        "alt": "Two positions: daily coverage hours. 8-hour coverage: 16 staff-hours; 12-hour coverage: 24 staff-hours"
+      },
+      "sq": {
+        "title": "Dy pika: orët ditore të mbulimit",
+        "subtitle": "Ilustrim: 2 pika njëkohësisht. Pa pushime, leje e detyra të tjera; nuk është numër punonjësish.",
+        "labels": [
+          "Mbulim 8-orësh",
+          "Mbulim 12-orësh"
+        ],
+        "display": [
+          "16 orë-personel",
+          "24 orë-personel"
+        ],
+        "foot": "Ilustrim: 2 pika njëkohësisht. Pa pushime, leje e detyra të tjera; nuk është numër punonjësish.",
+        "caption": "Ilustrim: 2 pika njëkohësisht. Pa pushime, leje e detyra të tjera; nuk është numër punonjësish.",
+        "alt": "Dy pika: orët ditore të mbulimit. Mbulim 8-orësh: 16 orë-personel; Mbulim 12-orësh: 24 orë-personel"
+      }
+    },
+    {
+      "slug": "telling-a-patient-the-truth-with-care",
+      "name": "patient-voice",
+      "type": "cards",
+      "en": {
+        "title": "Keep the patient in the conversation",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Preference",
+            "Ask how much information they want, and with whom."
+          ],
+          [
+            "Understanding",
+            "Let the clinical team explain and check understanding."
+          ],
+          [
+            "Choice",
+            "Support their participation without taking over."
+          ]
+        ],
+        "caption": "A communication guide informed by WMA and NCI, adapted to the person with their clinical team.",
+        "alt": "Keep the patient in the conversation. Preference: Ask how much information they want, and with whom. Understanding: Let the clinical team explain and check understanding. Choice: Support their participation without taking over.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Mbaje pacientin pjesë të bisedës",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Preferenca",
+            "Pyet sa informacion dëshiron dhe me kë."
+          ],
+          [
+            "Kuptimi",
+            "Ekipi mjekësor shpjegon dhe kontrollon kuptimin."
+          ],
+          [
+            "Zgjedhja",
+            "Mbështete pjesëmarrjen pa ia marrë vendimin."
+          ]
+        ],
+        "caption": "Udhëzues komunikimi nga WMA dhe NCI, i përshtatur për personin me ekipin mjekësor.",
+        "alt": "Mbaje pacientin pjesë të bisedës. Preferenca: Pyet sa informacion dëshiron dhe me kë. Kuptimi: Ekipi mjekësor shpjegon dhe kontrollon kuptimin. Zgjedhja: Mbështete pjesëmarrjen pa ia marrë vendimin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "telling-a-patient-the-truth-with-care",
+      "name": "care-and-truth",
+      "type": "cards",
+      "en": {
+        "title": "Honesty can include care",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Before",
+            "Bring worries to the treating team."
+          ],
+          [
+            "During",
+            "Use understandable information and allow pauses."
+          ],
+          [
+            "After",
+            "Agree what happens next and who can help."
+          ]
+        ],
+        "caption": "Practical support, not a script for disclosing every diagnosis or predicting recovery.",
+        "alt": "Honesty can include care. Before: Bring worries to the treating team. During: Use understandable information and allow pauses. After: Agree what happens next and who can help.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Sinqeriteti mund ta përfshijë kujdesin",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Para",
+            "Tregoji shqetësimet ekipit trajtues."
+          ],
+          [
+            "Gjatë",
+            "Përdor informacion të kuptueshëm dhe pauza."
+          ],
+          [
+            "Pas",
+            "Sqaroni hapin tjetër dhe kush mund të ndihmojë."
+          ]
+        ],
+        "caption": "Mbështetje praktike, jo skenar për çdo diagnozë apo parashikim shërimi.",
+        "alt": "Sinqeriteti mund ta përfshijë kujdesin. Para: Tregoji shqetësimet ekipit trajtues. Gjatë: Përdor informacion të kuptueshëm dhe pauza. Pas: Sqaroni hapin tjetër dhe kush mund të ndihmojë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "honesty-preparation-and-asking-for-help",
+      "name": "clear-request",
+      "type": "cards",
+      "en": {
+        "title": "A request somebody can act on",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Outcome",
+            "Explain what you need to complete."
+          ],
+          [
+            "Preparation",
+            "Show what you already have or tried."
+          ],
+          [
+            "Missing step",
+            "Ask for the specific information or help you need."
+          ]
+        ],
+        "caption": "A fictional request structure; actual requirements come from the relevant institution.",
+        "alt": "A request somebody can act on. Outcome: Explain what you need to complete. Preparation: Show what you already have or tried. Missing step: Ask for the specific information or help you need.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një kërkesë me të cilën mund të punohet",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Rezultati",
+            "Shpjego çfarë duhet të përfundosh."
+          ],
+          [
+            "Përgatitja",
+            "Trego çfarë ke ose çfarë ke provuar."
+          ],
+          [
+            "Hapi që mungon",
+            "Kërko informacionin ose ndihmën konkrete."
+          ]
+        ],
+        "caption": "Strukturë kërkese si shembull; kërkesat reale vijnë nga institucioni përkatës.",
+        "alt": "Një kërkesë me të cilën mund të punohet. Rezultati: Shpjego çfarë duhet të përfundosh. Përgatitja: Trego çfarë ke ose çfarë ke provuar. Hapi që mungon: Kërko informacionin ose ndihmën konkrete.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "honesty-preparation-and-asking-for-help",
+      "name": "fair-next-step",
+      "type": "cards",
+      "en": {
+        "title": "Clear communication, fair process",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Explain",
+            "State urgency accurately, without exaggeration."
+          ],
+          [
+            "Clarify",
+            "Ask who handles the next step and how."
+          ],
+          [
+            "Follow up",
+            "Use the published route and keep a factual record."
+          ]
+        ],
+        "caption": "Preparation is useful; it does not justify queue-jumping or guarantee a favourable decision.",
+        "alt": "Clear communication, fair process. Explain: State urgency accurately, without exaggeration. Clarify: Ask who handles the next step and how. Follow up: Use the published route and keep a factual record.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Komunikim i qartë, procedurë e drejtë",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Shpjego",
+            "Thuaje urgjencën saktë, pa e tepruar."
+          ],
+          [
+            "Sqaro",
+            "Pyet kush e trajton hapin tjetër dhe si."
+          ],
+          [
+            "Ndiqe",
+            "Përdor rrugën zyrtare dhe mbaj shënime faktike."
+          ]
+        ],
+        "caption": "Përgatitja ndihmon; nuk arsyeton kalimin e radhës dhe nuk garanton vendim në favorin tënd.",
+        "alt": "Komunikim i qartë, procedurë e drejtë. Shpjego: Thuaje urgjencën saktë, pa e tepruar. Sqaro: Pyet kush e trajton hapin tjetër dhe si. Ndiqe: Përdor rrugën zyrtare dhe mbaj shënime faktike.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "missing-you-or-missing-control",
+      "name": "boundary-response",
+      "type": "cards",
+      "en": {
+        "title": "What happens after a clear boundary?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "State it",
+            "Explain the limit without guessing motives."
+          ],
+          [
+            "Listen",
+            "Check whether there is a reasonable concern."
+          ],
+          [
+            "Observe",
+            "Look for respect or repeated pressure over time."
+          ]
+        ],
+        "caption": "Reflection questions, not a test that labels someone from one interaction.",
+        "alt": "What happens after a clear boundary? State it: Explain the limit without guessing motives. Listen: Check whether there is a reasonable concern. Observe: Look for respect or repeated pressure over time.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë ndodh pas një kufiri të qartë?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Shprehe",
+            "Shpjego kufirin pa hamendësuar motive."
+          ],
+          [
+            "Dëgjo",
+            "Shiko nëse ka shqetësim të arsyeshëm."
+          ],
+          [
+            "Vëzhgo",
+            "Shiko respektin ose presionin e përsëritur me kohë."
+          ]
+        ],
+        "caption": "Pyetje reflektimi, jo test që e etiketon dikë nga një ndërveprim.",
+        "alt": "Çfarë ndodh pas një kufiri të qartë? Shprehe: Shpjego kufirin pa hamendësuar motive. Dëgjo: Shiko nëse ka shqetësim të arsyeshëm. Vëzhgo: Shiko respektin ose presionin e përsëritur me kohë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "political-disagreement-without-personal-hatred",
+      "name": "useful-disagreement",
+      "type": "cards",
+      "en": {
+        "title": "Move from a person to a checkable issue",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Issue",
+            "Name the decision or service you are discussing."
+          ],
+          [
+            "Evidence",
+            "Separate what is known from what you assume."
+          ],
+          [
+            "Accountability",
+            "Ask what should change and how to assess it."
+          ]
+        ],
+        "caption": "An editorial discussion guide. Apply the same questions to people you support and oppose.",
+        "alt": "Move from a person to a checkable issue. Issue: Name the decision or service you are discussing. Evidence: Separate what is known from what you assume. Accountability: Ask what should change and how to assess it.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Nga personi te çështja që mund të kontrollohet",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Çështja",
+            "Emërto vendimin ose shërbimin që diskuton."
+          ],
+          [
+            "Provat",
+            "Ndaj atë që dihet nga ajo që supozon."
+          ],
+          [
+            "Llogaridhënia",
+            "Pyet çfarë duhet të ndryshojë dhe si vlerësohet."
+          ]
+        ],
+        "caption": "Udhëzues editorial diskutimi. Të njëjtat pyetje vlejnë për ata që mbështet dhe ata që kundërshton.",
+        "alt": "Nga personi te çështja që mund të kontrollohet. Çështja: Emërto vendimin ose shërbimin që diskuton. Provat: Ndaj atë që dihet nga ajo që supozon. Llogaridhënia: Pyet çfarë duhet të ndryshojë dhe si vlerësohet.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "think-for-yourself-without-rejecting-expertise",
+      "name": "participate",
+      "type": "cards",
+      "en": {
+        "title": "Bring your questions into the decision",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Expertise",
+            "Ask for the evidence, options and limits."
+          ],
+          [
+            "Your life",
+            "Explain what matters and what you can manage."
+          ],
+          [
+            "Next step",
+            "Agree an action and a point to review it."
+          ]
+        ],
+        "caption": "A participation guide inspired by shared decision making. It does not replace professional advice.",
+        "alt": "Bring your questions into the decision. Expertise: Ask for the evidence, options and limits. Your life: Explain what matters and what you can manage. Next step: Agree an action and a point to review it.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Silli pyetjet e tua në vendim",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Ekspertiza",
+            "Pyet për provat, mundësitë dhe kufizimet."
+          ],
+          [
+            "Jeta jote",
+            "Shpjego çfarë ka rëndësi dhe çfarë mund të bësh."
+          ],
+          [
+            "Hapi tjetër",
+            "Përcaktoni veprimin dhe kohën për rishikim."
+          ]
+        ],
+        "caption": "Udhëzues pjesëmarrjeje i frymëzuar nga vendimmarrja e përbashkët. Nuk zëvendëson këshillën profesionale.",
+        "alt": "Silli pyetjet e tua në vendim. Ekspertiza: Pyet për provat, mundësitë dhe kufizimet. Jeta jote: Shpjego çfarë ka rëndësi dhe çfarë mund të bësh. Hapi tjetër: Përcaktoni veprimin dhe kohën për rishikim.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "meta-glasses-apple-watch-capturing-creative-ideas",
+      "name": "capture-and-create",
+      "type": "cards",
+      "en": {
+        "title": "Capture is the beginning",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Glasses",
+            "Record a point of view with supported capture controls."
+          ],
+          [
+            "Watch",
+            "A quick note now; a custom tracker is still an idea."
+          ],
+          [
+            "You",
+            "Review the material and decide what to create."
+          ]
+        ],
+        "caption": "Documented capture capabilities and a proposed workflow, not a measured creativity effect.",
+        "alt": "Capture is the beginning. Glasses: Record a point of view with supported capture controls. Watch: A quick note now; a custom tracker is still an idea. You: Review the material and decide what to create.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Regjistrimi është fillimi",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Syzet",
+            "Regjistro këndvështrimin me komandat e mbështetura."
+          ],
+          [
+            "Ora",
+            "Një shënim tani; aplikacioni i posaçëm mbetet ide."
+          ],
+          [
+            "Ti",
+            "Rishiko materialin dhe vendos çfarë do të krijosh."
+          ]
+        ],
+        "caption": "Aftësi të dokumentuara regjistrimi dhe rrjedhë pune e propozuar, jo efekt i matur në kreativitet.",
+        "alt": "Regjistrimi është fillimi. Syzet: Regjistro këndvështrimin me komandat e mbështetura. Ora: Një shënim tani; aplikacioni i posaçëm mbetet ide. Ti: Rishiko materialin dhe vendos çfarë do të krijosh.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "meta-glasses-apple-watch-capturing-creative-ideas",
+      "name": "capture-time-example",
+      "type": "bars",
+      "values": [
+        100,
+        25
+      ],
+      "en": {
+        "title": "Example: five captures per day",
+        "subtitle": "Hypothetical timings, not device benchmarks. Difference: 75 seconds/day; 525 seconds over 7 days.",
+        "labels": [
+          "At 20 seconds each",
+          "At 5 seconds each"
+        ],
+        "display": [
+          "100 seconds/day",
+          "25 seconds/day"
+        ],
+        "foot": "Hypothetical timings, not device benchmarks. Difference: 75 seconds/day; 525 seconds over 7 days.",
+        "caption": "Hypothetical timings, not device benchmarks. Difference: 75 seconds/day; 525 seconds over 7 days.",
+        "alt": "Example: five captures per day. At 20 seconds each: 100 seconds/day; At 5 seconds each: 25 seconds/day"
+      },
+      "sq": {
+        "title": "Shembull: pesë regjistrime në ditë",
+        "subtitle": "Kohë hipotetike, jo test pajisjesh. Dallimi: 75 sekonda/ditë; 525 sekonda për 7 ditë.",
+        "labels": [
+          "Nga 20 sekonda secili",
+          "Nga 5 sekonda secili"
+        ],
+        "display": [
+          "100 sekonda/ditë",
+          "25 sekonda/ditë"
+        ],
+        "foot": "Kohë hipotetike, jo test pajisjesh. Dallimi: 75 sekonda/ditë; 525 sekonda për 7 ditë.",
+        "caption": "Kohë hipotetike, jo test pajisjesh. Dallimi: 75 sekonda/ditë; 525 sekonda për 7 ditë.",
+        "alt": "Shembull: pesë regjistrime në ditë. Nga 20 sekonda secili: 100 sekonda/ditë; Nga 5 sekonda secili: 25 sekonda/ditë"
+      }
+    }
+  ]
+}

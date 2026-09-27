@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-09-27",
+  "type": "hypothetical_capture_time",
+  "capturesPerDay": 5,
+  "secondsPerCapture": [
+    20,
+    5
+  ],
+  "secondsPerDay": [
+    100,
+    25
+  ],
+  "savedSecondsPerDay": 75,
+  "days": 7,
+  "savedSeconds": 525,
+  "savedMinutes": 8,
+  "remainderSeconds": 45,
+  "measuredDeviceBenchmark": false,
+  "creativityEffectMeasured": false
+}

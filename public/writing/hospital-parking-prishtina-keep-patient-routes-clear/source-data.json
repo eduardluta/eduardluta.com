@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-27",
+  "type": "hypothetical_staffing_coverage",
+  "positions": 2,
+  "coverageHoursPerDay": [
+    8,
+    12
+  ],
+  "staffHoursPerDay": [
+    16,
+    24
+  ],
+  "increaseStaffHours": 8,
+  "increasePercent": 50,
+  "excludes": [
+    "breaks",
+    "leave",
+    "training",
+    "other duties"
+  ],
+  "wageOrCostEstimate": false
+}
