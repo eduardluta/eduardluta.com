@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "id": "7690181462942813441",
+      "slug": "haus-des-doners-prishtina-germany-joke",
+      "publishedAt": "2026-09-27T11:51:44+00:00",
+      "durationSeconds": 9,
+      "url": "https://www.tiktok.com/@eduardluta/video/7690181462942813441"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "haus-des-doners-prishtina-germany-joke",
+      "name": "joke-and-company-history",
+      "type": "cards",
+      "en": {
+        "title": "The joke and the company history",
+        "subtitle": "Two different things the same sign can prompt",
+        "items": [
+          [
+            "In the joke",
+            "Prishtina → Germany. I reverse the direction."
+          ],
+          [
+            "In the company’s account",
+            "First location: Hürth, Germany, 2019."
+          ],
+          [
+            "What stays separate",
+            "A familiar sign does not establish who owns a shop."
+          ]
+        ],
+        "caption": "The first line explains the joke; the second comes from the company’s own history. No ownership connection is established.",
+        "alt": "The joke and the company history. In the joke: Prishtina → Germany. I reverse the direction. In the company’s account: First location: Hürth, Germany, 2019. What stays separate: A familiar sign does not establish who owns a shop.",
+        "foot": "Company history: hausdesdoners.de/unternehmen/"
+      },
+      "sq": {
+        "title": "Shakaja dhe historia e kompanisë",
+        "subtitle": "Dy gjëra të ndryshme që i nxit e njëjta tabelë",
+        "items": [
+          [
+            "Në shaka",
+            "Prishtinë → Gjermani. E përmbys drejtimin."
+          ],
+          [
+            "Sipas kompanisë",
+            "Pika e parë: Hürth, Gjermani, 2019."
+          ],
+          [
+            "Dallimi që mbetet",
+            "Tabela e njohur nuk tregon kush e zotëron lokalin."
+          ]
+        ],
+        "caption": "Rreshti i parë shpjegon shakanë; i dyti vjen nga historia e vetë kompanisë. Nuk vërtetohet lidhje pronësie.",
+        "alt": "Shakaja dhe historia e kompanisë. Në shaka: Prishtinë → Gjermani. E përmbys drejtimin. Sipas kompanisë: Pika e parë: Hürth, Gjermani, 2019. Dallimi që mbetet: Tabela e njohur nuk tregon kush e zotëron lokalin.",
+        "foot": "Historia e kompanisë: hausdesdoners.de/unternehmen/"
+      }
+    }
+  ]
+}
