@@ -1,0 +1,225 @@
+{
+  "articles": [
+    {
+      "id": "7657632998791187720",
+      "slug": "prishtina-cleanups-and-municipal-waste-responsibility",
+      "publishedAt": "2026-07-01T18:47:13+00:00",
+      "durationSeconds": 87,
+      "url": "https://www.tiktok.com/@eduardluta/video/7657632998791187720"
+    },
+    {
+      "id": "7643905727756586248",
+      "slug": "kosovo-fourteenth-salary-annual-pay-and-public-services",
+      "publishedAt": "2026-05-25T18:58:16+00:00",
+      "durationSeconds": 93,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643905727756586248",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 100,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7673566361783667989",
+      "slug": "diaspora-kosovo-assembly-viral-clips-representation",
+      "publishedAt": "2026-08-13T17:16:40+00:00",
+      "durationSeconds": 95,
+      "url": "https://www.tiktok.com/@eduardluta/video/7673566361783667989"
+    },
+    {
+      "id": "7652827875107704082",
+      "slug": "elon-musk-create-more-than-you-consume",
+      "publishedAt": "2026-06-18T20:00:46+00:00",
+      "durationSeconds": 175,
+      "url": "https://www.tiktok.com/@eduardluta/video/7652827875107704082"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "prishtina-cleanups-and-municipal-waste-responsibility",
+      "name": "cleanup-and-service",
+      "type": "cards",
+      "en": {
+        "title": "A clean-up needs a next collection",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Today",
+            "Volunteers remove litter."
+          ],
+          [
+            "Next week",
+            "The operator collects on schedule."
+          ],
+          [
+            "Accountability",
+            "The municipality checks the service."
+          ]
+        ],
+        "caption": "Three complementary jobs. A one-day action does not demonstrate a reliable weekly service.",
+        "alt": "A clean-up needs a next collection. Today: Volunteers remove litter. Next week: The operator collects on schedule. Accountability: The municipality checks the service.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Pastrimi kërkon edhe mbledhjen e radhës",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Sot",
+            "Vullnetarët largojnë mbeturinat."
+          ],
+          [
+            "Javën tjetër",
+            "Operatori mbledh sipas orarit."
+          ],
+          [
+            "Llogaridhënia",
+            "Komuna kontrollon shërbimin."
+          ]
+        ],
+        "caption": "Tri punë që plotësojnë njëra-tjetrën. Një aksion ditor nuk dëshmon se shërbimi javor funksionon.",
+        "alt": "Pastrimi kërkon edhe mbledhjen e radhës. Sot: Vullnetarët largojnë mbeturinat. Javën tjetër: Operatori mbledh sipas orarit. Llogaridhënia: Komuna kontrollon shërbimin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "kosovo-fourteenth-salary-annual-pay-and-public-services",
+      "name": "annual-pay",
+      "type": "bars",
+      "values": [
+        7200,
+        7800,
+        8400
+      ],
+      "en": {
+        "title": "What extra salary payments change",
+        "subtitle": "Illustration: equal gross payments of €600; not an official salary or policy costing.",
+        "labels": [
+          "12 payments",
+          "13 payments",
+          "14 payments"
+        ],
+        "display": [
+          "€7,200",
+          "€7,800",
+          "€8,400"
+        ],
+        "foot": "Illustration: equal gross payments of €600; not an official salary or policy costing.",
+        "caption": "Illustration: equal gross payments of €600; not an official salary or policy costing.",
+        "alt": "What extra salary payments change. 12 payments: €7,200; 13 payments: €7,800; 14 payments: €8,400"
+      },
+      "sq": {
+        "title": "Çfarë ndryshojnë pagat shtesë",
+        "subtitle": "Ilustrim: pagesa të barabarta bruto prej 600 €; jo pagë zyrtare apo kosto e politikës.",
+        "labels": [
+          "12 pagesa",
+          "13 pagesa",
+          "14 pagesa"
+        ],
+        "display": [
+          "7 200 €",
+          "7 800 €",
+          "8 400 €"
+        ],
+        "foot": "Ilustrim: pagesa të barabarta bruto prej 600 €; jo pagë zyrtare apo kosto e politikës.",
+        "caption": "Ilustrim: pagesa të barabarta bruto prej 600 €; jo pagë zyrtare apo kosto e politikës.",
+        "alt": "Çfarë ndryshojnë pagat shtesë. 12 pagesa: 7 200 €; 13 pagesa: 7 800 €; 14 pagesa: 8 400 €"
+      }
+    },
+    {
+      "slug": "diaspora-kosovo-assembly-viral-clips-representation",
+      "name": "clip-to-community",
+      "type": "cards",
+      "en": {
+        "title": "A clip cannot represent a community",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Observed",
+            "What a person actually said or did."
+          ],
+          [
+            "Interpretation",
+            "What I think that behaviour means."
+          ],
+          [
+            "Unproven",
+            "Claims about the whole diaspora or a hidden plan."
+          ]
+        ],
+        "caption": "An evidence guide for the August reaction, not a survey of diaspora opinion.",
+        "alt": "A clip cannot represent a community. Observed: What a person actually said or did. Interpretation: What I think that behaviour means. Unproven: Claims about the whole diaspora or a hidden plan.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Një klip nuk përfaqëson një komunitet",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "E vëzhguar",
+            "Çfarë tha ose bëri një person."
+          ],
+          [
+            "Interpretim",
+            "Si e kuptoj unë atë sjellje."
+          ],
+          [
+            "E paprovuar",
+            "Pohime për gjithë mërgatën ose një plan të fshehtë."
+          ]
+        ],
+        "caption": "Udhëzues për provat në reagimin e gushtit, jo anketë e mendimeve të mërgatës.",
+        "alt": "Një klip nuk përfaqëson një komunitet. E vëzhguar: Çfarë tha ose bëri një person. Interpretim: Si e kuptoj unë atë sjellje. E paprovuar: Pohime për gjithë mërgatën ose një plan të fshehtë.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "elon-musk-create-more-than-you-consume",
+      "name": "useful-output",
+      "type": "cards",
+      "en": {
+        "title": "Turn inspiration into useful output",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Learn",
+            "Choose a problem you understand."
+          ],
+          [
+            "Build",
+            "Make one small thing that helps."
+          ],
+          [
+            "Check",
+            "Ask its user what actually improved."
+          ]
+        ],
+        "caption": "An editorial way to apply the video’s create-more-than-you-consume idea; not a wealth formula.",
+        "alt": "Turn inspiration into useful output. Learn: Choose a problem you understand. Build: Make one small thing that helps. Check: Ask its user what actually improved.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Ktheje frymëzimin në punë të dobishme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mëso",
+            "Zgjidh një problem që e kupton."
+          ],
+          [
+            "Ndërto",
+            "Bëj një gjë të vogël që ndihmon."
+          ],
+          [
+            "Kontrollo",
+            "Pyete përdoruesin çfarë u përmirësua."
+          ]
+        ],
+        "caption": "Mënyrë editoriale për ta zbatuar idenë e krijimit të vlerës; jo formulë pasurimi.",
+        "alt": "Ktheje frymëzimin në punë të dobishme. Mëso: Zgjidh një problem që e kupton. Ndërto: Bëj një gjë të vogël që ndihmon. Kontrollo: Pyete përdoruesin çfarë u përmirësua.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-09-27",
+  "scheduledPerWeek": 3,
+  "weeks": 4,
+  "scheduled": 12,
+  "completed": 9,
+  "missed": 3,
+  "completionPercent": 75,
+  "missedPercent": 25,
+  "observedMunicipalData": false
+}
