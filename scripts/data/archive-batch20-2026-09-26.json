@@ -1,0 +1,120 @@
+{
+  "articles": [
+    {
+      "id": "7690549210764086580",
+      "slug": "meta-glasses-virtual-monitors-voice-workspace",
+      "publishedAt": "2026-09-28T11:39:00+00:00",
+      "durationSeconds": 76,
+      "url": "https://www.tiktok.com/@eduardluta/video/7690549210764086580",
+      "thumbnailSource": {
+        "file": "conversation-still.jpg",
+        "videoSeconds": 3,
+        "fit": "cover",
+        "position": "north",
+        "width": 256,
+        "height": 256
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "meta-glasses-virtual-monitors-voice-workspace",
+      "name": "which-glasses",
+      "type": "cards",
+      "en": {
+        "title": "Which device do you mean?",
+        "subtitle": "A display is not automatically a desktop",
+        "items": [
+          [
+            "Ray-Ban Meta",
+            "Camera and audio glasses, without a display."
+          ],
+          [
+            "Meta Ray-Ban Display",
+            "A small in-lens screen for brief interactions."
+          ],
+          [
+            "Meta Quest",
+            "An existing headset route to virtual computer monitors."
+          ],
+          [
+            "Meta VR Glasses",
+            "A future workspace product, announced for spring 2027."
+          ]
+        ],
+        "caption": "Different products, different jobs. Product status checked on 28 September 2026.",
+        "alt": "Which device do you mean. Ray-Ban Meta: Camera and audio glasses, without a display. Meta Ray-Ban Display: A small in-lens screen for brief interactions. Meta Quest: An existing headset route to virtual computer monitors. Meta VR Glasses: A future workspace product, announced for spring 2027.",
+        "foot": "Sources: Meta product announcements and Virtual Display help."
+      },
+      "sq": {
+        "title": "Për cilën pajisje po flasim?",
+        "subtitle": "Një ekran nuk është automatikisht hapësirë pune",
+        "items": [
+          [
+            "Ray-Ban Meta",
+            "Syza me kamerë dhe audio, pa ekran."
+          ],
+          [
+            "Meta Ray-Ban Display",
+            "Ekran i vogël në lente për ndërveprime të shkurtra."
+          ],
+          [
+            "Meta Quest",
+            "Pajisje ekzistuese për monitorë virtualë të kompjuterit."
+          ],
+          [
+            "Meta VR Glasses",
+            "Pajisje për hapësirë pune, e paralajmëruar për pranverë 2027."
+          ]
+        ],
+        "caption": "Produkte të ndryshme, përdorime të ndryshme. Gjendja u kontrollua më 28 shtator 2026.",
+        "alt": "Për cilën pajisje po flasim. Ray-Ban Meta: Syza me kamerë dhe audio, pa ekran. Meta Ray-Ban Display: Ekran i vogël në lente për ndërveprime të shkurtra. Meta Quest: Pajisje ekzistuese për monitorë virtualë të kompjuterit. Meta VR Glasses: Pajisje për hapësirë pune, e paralajmëruar për pranverë 2027.",
+        "foot": "Burimet: njoftimet e Meta dhe udhëzuesi për Virtual Display."
+      }
+    },
+    {
+      "slug": "meta-glasses-virtual-monitors-voice-workspace",
+      "name": "desktop-area",
+      "type": "bars",
+      "values": [
+        2073600,
+        4147200,
+        6220800
+      ],
+      "en": {
+        "title": "More room for open windows",
+        "subtitle": "Scenario: each desktop is 1920 × 1080. Logical workspace area, not headset resolution or a productivity measurement.",
+        "labels": [
+          "1 virtual screen",
+          "2 virtual screens",
+          "3 virtual screens"
+        ],
+        "display": [
+          "2.07 million pixels",
+          "4.15 million pixels",
+          "6.22 million pixels"
+        ],
+        "foot": "Scenario: each desktop is 1920 × 1080. Logical workspace area, not headset resolution or a productivity measurement.",
+        "caption": "Scenario: each desktop is 1920 × 1080. Logical workspace area, not headset resolution or a productivity measurement.",
+        "alt": "More room for open windows. 1 virtual screen: 2.07 million pixels; 2 virtual screens: 4.15 million pixels; 3 virtual screens: 6.22 million pixels"
+      },
+      "sq": {
+        "title": "Më shumë hapësirë për dritare të hapura",
+        "subtitle": "Shembull: çdo ekran pune është 1920 × 1080. Hapësirë logjike, jo rezolucion i pajisjes apo matje produktiviteti.",
+        "labels": [
+          "1 ekran virtual",
+          "2 ekrane virtuale",
+          "3 ekrane virtuale"
+        ],
+        "display": [
+          "2,07 milionë pikselë",
+          "4,15 milionë pikselë",
+          "6,22 milionë pikselë"
+        ],
+        "foot": "Shembull: çdo ekran pune është 1920 × 1080. Hapësirë logjike, jo rezolucion i pajisjes apo matje produktiviteti.",
+        "caption": "Shembull: çdo ekran pune është 1920 × 1080. Hapësirë logjike, jo rezolucion i pajisjes apo matje produktiviteti.",
+        "alt": "Më shumë hapësirë për dritare të hapura. 1 ekran virtual: 2,07 milionë pikselë; 2 ekrane virtuale: 4,15 milionë pikselë; 3 ekrane virtuale: 6,22 milionë pikselë"
+      }
+    }
+  ]
+}

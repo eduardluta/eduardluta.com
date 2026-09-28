@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-09-28",
+  "videoId": "7690549210764086580",
+  "sourceUrl": "https://www.tiktok.com/@eduardluta/video/7690549210764086580",
+  "scenario": {
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "screenCounts": [
+      1,
+      2,
+      3
+    ],
+    "logicalPixels": [
+      2073600,
+      4147200,
+      6220800
+    ],
+    "threeScreenIncreasePercent": 200,
+    "formula": "width * height * screenCount",
+    "headsetPhysicalResolution": false,
+    "productivityBenchmark": false
+  },
+  "sources": {
+    "virtualDisplay": "https://www.meta.com/en-gb/help/quest/1370025034331518/",
+    "windowsRequirements": "https://support.microsoft.com/en-us/windows/experience/compatibility/about-windows-mixed-reality-link",
+    "cameraGlasses": "https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/",
+    "displayGlasses": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+    "displayRegionalRollout": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
+    "vrGlassesAnnouncement": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/"
+  },
+  "availabilityAsOf": "2026-09-28",
+  "futureDates": {
+    "metaRayBanDisplayGermany": "2026-10-13",
+    "metaVrGlasses": "spring 2027"
+  },
+  "videoIsHandsOnWorkspaceTest": false,
+  "exactProductImageModelVerified": false
+}
