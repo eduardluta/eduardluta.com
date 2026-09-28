@@ -1,6 +1,6 @@
 # Video articles through the Codex desktop account
 
-Prepared 23 September 2026. Eduard has given standing authorization to finish and publish video articles from start to finish after the checks below pass. The native hourly heartbeat **Publish new video articles** (automation ID `publish-new-video-articles`) is **ACTIVE** in this task. Tool creation and the saved `automation.toml` were verified. Pilot release `db62113` is successfully deployed on Railway. Both live language pages, 18 linked assets, indexability, canonicals, language alternates, structured data, sitemap and RSS were verified on 23 September 2026. Google Search Console submission is pending Google account sign-in; indexing is not confirmed.
+Prepared 23 September 2026. Eduard has given standing authorization to finish and publish video articles from start to finish after the checks below pass. The native hourly heartbeat **Publish new video articles** (automation ID `publish-new-video-articles`) is **ACTIVE** in this task. Tool creation and the saved `automation.toml` were verified. Pilot release `db62113` is successfully deployed on Railway. Both live language pages, 18 linked assets, indexability, canonicals, language alternates, structured data, sitemap and RSS were verified on 23 September 2026. On 28 September 2026, Eduard reported that he had requested Google indexing for the published articles. Treat that as a user-reported submission; actual indexing is not confirmed.
 
 ## Account and model
 
@@ -27,7 +27,7 @@ Track the platform video ID and article slug so repeated checks, deployment retr
 - Status: published and live-verified from release `db62113`.
 - English: https://eduardluta.com/writing/kosovo-germany-grocery-prices/
 - Albanian: https://eduardluta.com/sq/writing/kosovo-germany-grocery-prices/
-- Search Console: pending Google sign-in. The usable TikTok fallback was verified; embedded playback has not been verified.
+- Search Console: Eduard reported requesting indexing on 28 September 2026; actual indexing is not confirmed. The usable TikTok fallback was verified; embedded playback has not been verified.
 
 The initial discovery succeeded on 23 September 2026 at 17:05 UTC. The newest non-pinned video in the Latest listing was published at 14:26 UTC, before monitoring began at 16:58 UTC; no new eligible posts were waiting in that initial monitored period. The durable state records that evidence and the successful discovery watermark.
 
@@ -37,13 +37,26 @@ Eduard explicitly requested articles for **all his videos**, expanding the earli
 
 Complete every pending video through the same researched English/Albanian publication workflow. Historical dates do not exclude these explicitly authorized records. Resume them at each available run alongside new-video discovery; never equate inventory, asset retrieval, or transcription with completed articles. Keep the new-video discovery watermark separate from archive completion. Photo-only posts are recorded separately and are not silently treated as videos. Preserve existing articles and reconcile possible duplicate source material before drafting.
 
+## Archive completion and exclusions — 28 September 2026
+
+The original inventory remains 119 videos. **117 archive videos are published and two are excluded at Eduard’s explicit request.** Together with two newer videos, this gives **119 published video articles and 238 English/Albanian pages**. The included archive is complete; new-video monitoring remains active.
+
+Always skip these source IDs, including when rediscovered or encountered through a cross-post, unless Eduard explicitly reverses the exclusion:
+
+- `7647214780662533383` — the short reply to User321.
+- `7668226028770299157` — “Vibe i mengjesit.”
+
+Persist their state as `excluded`, not blocked or pending. Do not retry publication or ask for their context again. Preserve the inventory IDs for deduplication. Count only records whose status is neither `published` nor `excluded` as remaining work.
+
+Eduard has reported requesting Google indexing for the existing published articles. Record this as `indexing_requested_user_reported`; do not keep treating those submissions as awaiting sign-in. This is not independent confirmation that Google has indexed any particular URL. Apply submission tracking separately to future articles.
+
 ## Catch up after missed runs
 
 Use the initialized, gitignored local file `work/video-article-state/state.json` as durable state, independently of the replaceable social-wall cache. Schema version 1 contains `monitoringStartedAt`, the last successful discovery watermark `lastCompleteDiscoveryAt`, and `videos` keyed by platform video ID. Each video record stores its URL, slug, status, and `articlePaths`; add verified retry/error, deployment, and live-URL details as work progresses. Write updates atomically by writing and validating a temporary file in the same directory, then replacing the state file. Never replace valid state with a partial or malformed write. Cross-posted copies of the same video must resolve to the existing article record.
 
-At every available execution, first load unfinished/failed records for retry, then scan the entire period since `lastCompleteDiscoveryAt` with a 24-hour overlapping boundary, never earlier than `monitoringStartedAt` unless retrying an explicit pending item. When that field is null, use `monitoringStartedAt` as the starting boundary and include explicit pending records such as the pilot; do not bulk-publish the historical backlog. Paginate through the missed period; checking only the latest four posts is insufficient. Reconcile discovered IDs with existing records, article frontmatter video IDs, and live articles before creating anything. Frontmatter IDs provide a duplicate guard if local state is lost; reconstruct safely without treating all old posts as newly authorized work. This must recover all accessible new videos since monitoring began even if several checks were missed while the app or computer was unavailable.
+At every available execution, first load unfinished/failed records for retry, skipping all explicitly excluded IDs, then scan the entire period since `lastCompleteDiscoveryAt` with a 24-hour overlapping boundary, never earlier than `monitoringStartedAt` unless retrying an explicit pending item. When that field is null, use `monitoringStartedAt` as the starting boundary and include explicit pending records such as the pilot; do not bulk-publish the historical backlog. Paginate through the missed period; checking only the latest four posts is insufficient. Reconcile discovered IDs with existing records, article frontmatter video IDs, and live articles before creating anything. Frontmatter IDs provide a duplicate guard if local state is lost; reconstruct safely without treating all old posts as newly authorized work. This must recover all accessible new videos since monitoring began even if several checks were missed while the app or computer was unavailable.
 
-Advance the discovery watermark only after the entire intended scan has completed successfully. Failed requests, login/CAPTCHA interruptions, inaccessible results, or partial pagination must not advance it or be treated as an empty successful scan. Persist verified per-video progress as it happens so a restart can resume safely, but do not mark a failed step, deployment, or article complete. Retry unfinished records even when they are older than the discovery watermark. A run that cannot finish must leave durable state that makes the remaining work visible to the next run.
+Advance the discovery watermark only after the entire intended scan has completed successfully. Failed requests, login/CAPTCHA interruptions, inaccessible results, or partial pagination must not advance it or be treated as an empty successful scan. Persist verified per-video progress as it happens so a restart can resume safely, but do not mark a failed step, deployment, or article complete. Retry unfinished records even when they are older than the discovery watermark. Excluded records are terminal and are never retried without renewed user authorization. A run that cannot finish must leave durable state that makes the remaining work visible to the next run.
 
 The hourly native heartbeat is active. Catch-up runs on its next available scheduled execution after downtime. This is not a verified immediate app-open trigger. Preserve the durable state and retry rules regardless of when the scheduler next executes; scheduling activation is separate from successful discovery, publication, and Google indexing.
 
