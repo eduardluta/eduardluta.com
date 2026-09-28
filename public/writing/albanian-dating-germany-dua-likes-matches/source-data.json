@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-09-28",
+  "videoId": "7690517184795168052",
+  "sourceUrl": "https://www.tiktok.com/@eduardluta/video/7690517184795168052",
+  "reportedCommunityEstimateRange": [
+    1000000,
+    1200000
+  ],
+  "communityEstimateIndependentlyVerified": false,
+  "reportedRegistrationsRounded": 108000,
+  "datedCompanyRegistrations": {
+    "value": 107715,
+    "period": "2026-07",
+    "geography": "Germany",
+    "definition": "Registered members who self-identified as Albanian",
+    "source": "https://www.dua.com/albanians-in-germany/",
+    "independentlyAudited": false
+  },
+  "reportedDailyLikes": "over 35000",
+  "reportedDailyMatches": {
+    "videoOverlay": "up to 1000",
+    "caption": "over 1000",
+    "conflictResolved": false
+  },
+  "activityGeography": "Not specified clearly enough to restrict to Germany",
+  "activityReportingWindow": null,
+  "scenarioDays": [
+    1,
+    7,
+    30
+  ],
+  "likesDailyBaseline": 35000,
+  "likesScenario": [
+    35000,
+    245000,
+    1050000
+  ],
+  "matchesDailyAssumption": 1000,
+  "matchesScenario": [
+    1000,
+    7000,
+    30000
+  ],
+  "calculation": "daily assumed event count multiplied by days",
+  "scenarioIsObservedMonthlyData": false,
+  "uniquePeopleInferred": false,
+  "conversionRateInferred": false,
+  "verifiedFamilyCount": null,
+  "sources": [
+    "https://help.dua.com/hc/en-us/articles/19128148322578-How-do-I-match-with-someone-on-dua-com",
+    "https://www.dua.com/love-stories/gentiana-xhemajl-an-everlasting-albanian-love/"
+  ]
+}

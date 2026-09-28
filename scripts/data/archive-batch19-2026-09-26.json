@@ -1,0 +1,157 @@
+{
+  "articles": [
+    {
+      "id": "7690517184795168052",
+      "slug": "albanian-dating-germany-dua-likes-matches",
+      "publishedAt": "2026-09-28T09:34:54+00:00",
+      "durationSeconds": 24,
+      "url": "https://www.tiktok.com/@eduardluta/video/7690517184795168052",
+      "thumbnailCrop": {
+        "left": 100,
+        "top": 320,
+        "width": 400,
+        "height": 400
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "albanian-dating-germany-dua-likes-matches",
+      "name": "different-measures",
+      "type": "cards",
+      "en": {
+        "title": "Four numbers, four different meanings",
+        "subtitle": "How to read the figures in the video",
+        "items": [
+          [
+            "Community",
+            "The people we mean when we talk about Albanians in Germany."
+          ],
+          [
+            "Registered members",
+            "Accounts on a platform. Registration alone does not tell us who is active today."
+          ],
+          [
+            "Likes and matches",
+            "Actions and mutual connections. One person can appear in many events."
+          ],
+          [
+            "Relationships",
+            "Lives beyond the app. A match count cannot tell us how many couples marry."
+          ]
+        ],
+        "caption": "These are different units, not stages of a measured conversion funnel.",
+        "alt": "Four numbers, four different meanings. Community: The people we mean when we talk about Albanians in Germany. Registered members: Accounts on a platform. Registration alone does not tell us who is active today. Likes and matches: Actions and mutual connections. One person can appear in many events. Relationships: Lives beyond the app. A match count cannot tell us how many couples marry.",
+        "foot": "Definitions and interpretation; no success rate is implied."
+      },
+      "sq": {
+        "title": "Katër shifra, katër kuptime të ndryshme",
+        "subtitle": "Si lexohen shifrat e videos",
+        "items": [
+          [
+            "Komuniteti",
+            "Njerëzit që kemi parasysh kur flasim për shqiptarët në Gjermani."
+          ],
+          [
+            "Anëtarët e regjistruar",
+            "Llogari në një platformë. Regjistrimi nuk tregon kush është aktiv sot."
+          ],
+          [
+            "Pëlqimet dhe match-et",
+            "Veprime dhe pëlqime të ndërsjella. Një person mund të marrë pjesë në shumë prej tyre."
+          ],
+          [
+            "Lidhjet",
+            "Jeta jashtë aplikacionit. Numri i match-eve nuk tregon sa çifte martohen."
+          ]
+        ],
+        "caption": "Këto janë njësi të ndryshme, jo faza të një procesi me norma kalimi të matura.",
+        "alt": "Katër shifra, katër kuptime të ndryshme. Komuniteti: Njerëzit që kemi parasysh kur flasim për shqiptarët në Gjermani. Anëtarët e regjistruar: Llogari në një platformë. Regjistrimi nuk tregon kush është aktiv sot. Pëlqimet dhe match-et: Veprime dhe pëlqime të ndërsjella. Një person mund të marrë pjesë në shumë prej tyre. Lidhjet: Jeta jashtë aplikacionit. Numri i match-eve nuk tregon sa çifte martohen.",
+        "foot": "Përkufizime dhe interpretim; nuk nënkuptohet një normë suksesi."
+      }
+    },
+    {
+      "slug": "albanian-dating-germany-dua-likes-matches",
+      "name": "likes-over-time",
+      "type": "bars",
+      "values": [
+        35000,
+        245000,
+        1050000
+      ],
+      "en": {
+        "title": "If 35,000 likes happened every day",
+        "subtitle": "Illustration at a constant daily baseline; event counts, not unique people or observed monthly results.",
+        "labels": [
+          "1 day",
+          "7 days",
+          "30 days"
+        ],
+        "display": [
+          "35,000 likes",
+          "245,000 likes",
+          "1,050,000 likes"
+        ],
+        "foot": "Illustration at a constant daily baseline; event counts, not unique people or observed monthly results.",
+        "caption": "Illustration at a constant daily baseline; event counts, not unique people or observed monthly results.",
+        "alt": "If 35,000 likes happened every day. 1 day: 35,000 likes; 7 days: 245,000 likes; 30 days: 1,050,000 likes"
+      },
+      "sq": {
+        "title": "Nëse do të kishte 35.000 pëlqime çdo ditë",
+        "subtitle": "Shembull me bazë ditore të pandryshuar; numërohen veprimet, jo njerëzit unikë apo rezultate mujore të vëzhguara.",
+        "labels": [
+          "1 ditë",
+          "7 ditë",
+          "30 ditë"
+        ],
+        "display": [
+          "35.000 pëlqime",
+          "245.000 pëlqime",
+          "1.050.000 pëlqime"
+        ],
+        "foot": "Shembull me bazë ditore të pandryshuar; numërohen veprimet, jo njerëzit unikë apo rezultate mujore të vëzhguara.",
+        "caption": "Shembull me bazë ditore të pandryshuar; numërohen veprimet, jo njerëzit unikë apo rezultate mujore të vëzhguara.",
+        "alt": "Nëse do të kishte 35.000 pëlqime çdo ditë. 1 ditë: 35.000 pëlqime; 7 ditë: 245.000 pëlqime; 30 ditë: 1.050.000 pëlqime"
+      }
+    },
+    {
+      "slug": "albanian-dating-germany-dua-likes-matches",
+      "name": "match-scenario",
+      "type": "cards",
+      "en": {
+        "title": "What 1,000 matches a day would mean",
+        "subtitle": "A calculation, not a forecast",
+        "items": [
+          [
+            "7 days: 7,000",
+            "1,000 × 7. A sum of match events, not 7,000 distinct couples in a relationship."
+          ],
+          [
+            "30 days: 30,000",
+            "1,000 × 30. Only if this daily level holds; not a verified monthly total."
+          ]
+        ],
+        "caption": "An illustrative scenario. The video says “up to 1,000”; its caption says “over 1,000”. Neither establishes a monthly average.",
+        "alt": "What 1,000 matches a day would mean. 7 days: 7,000: 1,000 × 7. A sum of match events, not 7,000 distinct couples in a relationship. 30 days: 30,000: 1,000 × 30. Only if this daily level holds; not a verified monthly total.",
+        "foot": "Assumption: exactly 1,000 match events on each day."
+      },
+      "sq": {
+        "title": "Çfarë do të thoshin 1.000 match-e në ditë",
+        "subtitle": "Llogaritje, jo parashikim",
+        "items": [
+          [
+            "7 ditë: 7.000",
+            "1.000 × 7. Shumë e match-eve, jo 7.000 çifte të ndryshme në një lidhje."
+          ],
+          [
+            "30 ditë: 30.000",
+            "1.000 × 30. Vetëm nëse ky nivel ditor ruhet; jo total mujor i verifikuar."
+          ]
+        ],
+        "caption": "Skenar ilustrues. Videoja thotë “deri në 1.000”; përshkrimi thotë “mbi 1.000”. Asnjëra nuk përcakton një mesatare mujore.",
+        "alt": "Çfarë do të thoshin 1.000 match-e në ditë. 7 ditë: 7.000: 1.000 × 7. Shumë e match-eve, jo 7.000 çifte të ndryshme në një lidhje. 30 ditë: 30.000: 1.000 × 30. Vetëm nëse ky nivel ditor ruhet; jo total mujor i verifikuar.",
+        "foot": "Supozimi: saktësisht 1.000 match-e në secilën ditë."
+      }
+    }
+  ]
+}
