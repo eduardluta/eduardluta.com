@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-09-28",
+  "grossMonthlyEur": 1000,
+  "primaryEmployer": true,
+  "employeePensionRate": 0.05,
+  "employerPensionRate": 0.05,
+  "employeePensionEur": 50,
+  "employerPensionEur": 50,
+  "taxableIncomeEur": 950,
+  "bands": [
+    {
+      "amount": 250,
+      "rate": 0,
+      "tax": 0
+    },
+    {
+      "amount": 200,
+      "rate": 0.08,
+      "tax": 16
+    },
+    {
+      "amount": 500,
+      "rate": 0.1,
+      "tax": 50
+    }
+  ],
+  "incomeTaxEur": 66,
+  "netPayEur": 884,
+  "oneOffEur": 100,
+  "comparisonMonths": 12,
+  "monthlyEquivalentEurRounded": 8.33,
+  "hypotheticalMonthlyEur": 100,
+  "hypotheticalAnnualEur": 1200,
+  "eligibilityExample": false,
+  "observedProgrammeCost": false,
+  "calculatorUrl": "https://crmm.atk-ks.org/sq/Public/CalculatorDetail?id=21"
+}

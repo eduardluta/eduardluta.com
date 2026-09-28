@@ -1,0 +1,162 @@
+{
+  "articles": [
+    {
+      "id": "7646063961971952904",
+      "slug": "fifty-hours-fasting-time-focus-and-reflection",
+      "publishedAt": "2026-05-31T14:33:18+00:00",
+      "durationSeconds": 87,
+      "url": "https://www.tiktok.com/@eduardluta/video/7646063961971952904",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 100,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7643157010066001160",
+      "slug": "kosovo-one-hundred-euro-payments-tax-and-public-services",
+      "publishedAt": "2026-05-23T18:32:54+00:00",
+      "durationSeconds": 139,
+      "url": "https://www.tiktok.com/@eduardluta/video/7643157010066001160",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 240,
+        "width": 540,
+        "height": 540
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "fifty-hours-fasting-time-focus-and-reflection",
+      "name": "experience-and-evidence",
+      "type": "cards",
+      "en": {
+        "title": "What I felt, and what it can establish",
+        "subtitle": "A reading of this particular recording",
+        "items": [
+          [
+            "Time",
+            "I described having more space to reflect."
+          ],
+          [
+            "Focus",
+            "Ideas and unfinished tasks felt easier to examine."
+          ],
+          [
+            "Evidence",
+            "A personal report does not measure cognitive improvement or detoxification."
+          ]
+        ],
+        "caption": "The first two cards summarise the recording. The third separates experience from a scientific conclusion.",
+        "alt": "What I felt, and what it can establish. Time: I described having more space to reflect. Focus: Ideas and unfinished tasks felt easier to examine. Evidence: A personal report does not measure cognitive improvement or detoxification.",
+        "foot": "Personal observations, not measured health outcomes."
+      },
+      "sq": {
+        "title": "Çfarë ndjeva dhe çfarë dëshmon kjo",
+        "subtitle": "Një lexim i këtij regjistrimi konkret",
+        "items": [
+          [
+            "Koha",
+            "Përshkrova më shumë hapësirë për reflektim."
+          ],
+          [
+            "Fokusi",
+            "Idetë dhe punët e papërfunduara më dukeshin më të lehta për t’u shqyrtuar."
+          ],
+          [
+            "Provat",
+            "Përvoja personale nuk mat përmirësimin e aftësive mendore ose detoksifikimin."
+          ]
+        ],
+        "caption": "Dy kartat e para përmbledhin regjistrimin. E treta e ndan përvojën nga përfundimi shkencor.",
+        "alt": "Çfarë ndjeva dhe çfarë dëshmon kjo. Koha: Përshkrova më shumë hapësirë për reflektim. Fokusi: Idetë dhe punët e papërfunduara më dukeshin më të lehta për t’u shqyrtuar. Provat: Përvoja personale nuk mat përmirësimin e aftësive mendore ose detoksifikimin.",
+        "foot": "Vëzhgime personale, jo rezultate shëndetësore të matura."
+      }
+    },
+    {
+      "slug": "kosovo-one-hundred-euro-payments-tax-and-public-services",
+      "name": "gross-pay-breakdown",
+      "type": "bars",
+      "values": [
+        884,
+        50,
+        66
+      ],
+      "en": {
+        "title": "Where a €1,000 gross salary goes",
+        "subtitle": "Illustration: primary employer, 5% employee pension, no other adjustments. €884 + €50 + €66 = €1,000.",
+        "labels": [
+          "Net pay",
+          "Employee pension contribution",
+          "Personal income tax"
+        ],
+        "display": [
+          "€884",
+          "€50",
+          "€66"
+        ],
+        "foot": "Illustration: primary employer, 5% employee pension, no other adjustments. €884 + €50 + €66 = €1,000.",
+        "caption": "Illustration: primary employer, 5% employee pension, no other adjustments. €884 + €50 + €66 = €1,000.",
+        "alt": "Where a €1,000 gross salary goes. Net pay: €884; Employee pension contribution: €50; Personal income tax: €66"
+      },
+      "sq": {
+        "title": "Si ndahet paga bruto prej 1.000 €",
+        "subtitle": "Shembull: punëdhënës primar, 5% pension nga punëmarrësi, pa ndryshime të tjera. 884 € + 50 € + 66 € = 1.000 €.",
+        "labels": [
+          "Paga neto",
+          "Kontributi pensional i punëmarrësit",
+          "Tatimi në të ardhurat personale"
+        ],
+        "display": [
+          "884 €",
+          "50 €",
+          "66 €"
+        ],
+        "foot": "Shembull: punëdhënës primar, 5% pension nga punëmarrësi, pa ndryshime të tjera. 884 € + 50 € + 66 € = 1.000 €.",
+        "caption": "Shembull: punëdhënës primar, 5% pension nga punëmarrësi, pa ndryshime të tjera. 884 € + 50 € + 66 € = 1.000 €.",
+        "alt": "Si ndahet paga bruto prej 1.000 €. Paga neto: 884 €; Kontributi pensional i punëmarrësit: 50 €; Tatimi në të ardhurat personale: 66 €"
+      }
+    },
+    {
+      "slug": "kosovo-one-hundred-euro-payments-tax-and-public-services",
+      "name": "one-payment-and-twelve",
+      "type": "bars",
+      "values": [
+        100,
+        1200
+      ],
+      "en": {
+        "title": "The frequency changes the total",
+        "subtitle": "Arithmetic comparison only. The monthly series is hypothetical; the May announcement was for one-off support.",
+        "labels": [
+          "One €100 payment",
+          "€100 each month for twelve months"
+        ],
+        "display": [
+          "€100 over a year",
+          "€1,200 over a year"
+        ],
+        "foot": "Arithmetic comparison only. The monthly series is hypothetical; the May announcement was for one-off support.",
+        "caption": "Arithmetic comparison only. The monthly series is hypothetical; the May announcement was for one-off support.",
+        "alt": "The frequency changes the total. One €100 payment: €100 over a year; €100 each month for twelve months: €1,200 over a year"
+      },
+      "sq": {
+        "title": "Shpeshtësia e ndryshon shumën",
+        "subtitle": "Vetëm krahasim aritmetik. Pagesa mujore është hipotetike; njoftimi i majit ishte për mbështetje të njëhershme.",
+        "labels": [
+          "Një pagesë prej 100 €",
+          "100 € çdo muaj për dymbëdhjetë muaj"
+        ],
+        "display": [
+          "100 € gjatë vitit",
+          "1.200 € gjatë vitit"
+        ],
+        "foot": "Vetëm krahasim aritmetik. Pagesa mujore është hipotetike; njoftimi i majit ishte për mbështetje të njëhershme.",
+        "caption": "Vetëm krahasim aritmetik. Pagesa mujore është hipotetike; njoftimi i majit ishte për mbështetje të njëhershme.",
+        "alt": "Shpeshtësia e ndryshon shumën. Një pagesë prej 100 €: 100 € gjatë vitit; 100 € çdo muaj për dymbëdhjetë muaj: 1.200 € gjatë vitit"
+      }
+    }
+  ]
+}
