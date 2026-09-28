@@ -31,7 +31,12 @@ app.use((_req, res, next) => {
 // Legacy 301s preserving SEO from the previous multi-page site.
 const REDIRECTS = {
   '/blog.html': '/writing/',
-  '/principles.html': '/principles/',
+  '/principles.html': '/',
+  '/principles': '/',
+  '/principles/': '/',
+  '/sq/principles.html': '/sq/',
+  '/sq/principles': '/sq/',
+  '/sq/principles/': '/sq/',
   '/worth-the-time.html': '/writing/',
 };
 app.use((req, res, next) => {

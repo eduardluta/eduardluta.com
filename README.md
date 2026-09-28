@@ -1,9 +1,9 @@
 # eduardluta.com
 
 Personal website of Eduard Luta — a lean, bilingual (English ⇄ Albanian) static
-site: bio, writing with a full article reader, projects, principles, a social
-wall, and a newsletter capture. Monospace, warm paper / warm‑charcoal themes,
-one pine accent.
+site: bio, writing with a full article reader, projects, a social wall, and a
+newsletter capture. Editorial typography, warm paper / warm‑charcoal themes,
+and one pine accent.
 
 Built with **[Astro](https://astro.build)** and deployed on **Railway** as a Node
 server (Express wrapping the Astro handler). No CMS — content lives natively in
@@ -19,7 +19,8 @@ the repo as Markdown + typed data, pre‑rendered to static HTML for best‑in�
 - **SEO** — per‑page title/description, canonical, `hreflang` (incl. `x-default`),
   Open Graph + Twitter cards, JSON‑LD (`Person`, `WebSite`, `BlogPosting`,
   `BreadcrumbList`), `sitemap-index.xml`, `robots.txt`.
-- **Fonts** — IBM Plex Mono, self‑hosted via `@fontsource` (no CLS, no third party).
+- **Fonts** — Newsreader and DM Sans for the main pages; IBM Plex Serif and Mono
+  for the original article reader and details. All self-hosted via `@fontsource`.
 - **Newsletter** — Astro API route (`/api/subscribe/`) → Railway Postgres.
 
 ## Develop
@@ -74,10 +75,19 @@ description: One-sentence summary used for SEO + social cards.
 Body in Markdown…
 ```
 
-The home "Latest writing" (top 3), the Writing list, sitemap, and the reader all
-update automatically. Dates drive ordering (newest first).
+The Writing list, sitemap, and reader update automatically. Dates drive ordering
+(newest first). The homepage’s “Thinking out loud” section shows the newest three
+published personal essays with `homepageEssay: true` in their frontmatter. Add
+that flag to both language versions only for standalone personal writing. Leave
+it omitted for articles produced through the social-media/content workflow;
+video-derived articles are excluded from the homepage even if flagged.
 
-Other content (bio, principles, "worth the time", projects, social wall) lives in
+The Writing archive shows 10 articles per page, with personal essays selected
+by default. Search and category filters cover the full archive, and the URL
+preserves the selected filter, query, and page. Article lists use existing
+thumbnails; individual articles keep the original reading layout.
+
+Other content (bio, "worth the time", projects, social wall) lives in
 `src/data/*.ts` and `src/i18n/ui.ts` as `{ en, sq }` pairs.
 
 ## Newsletter → Railway Postgres

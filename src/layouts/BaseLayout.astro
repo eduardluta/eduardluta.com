@@ -9,7 +9,12 @@ import '@fontsource/ibm-plex-serif/400.css';
 import '@fontsource/ibm-plex-serif/400-italic.css';
 import '@fontsource/ibm-plex-serif/600.css';
 import '@fontsource/ibm-plex-serif/600-italic.css';
+import '@fontsource/newsreader/400.css';
+import '@fontsource/newsreader/400-italic.css';
+import '@fontsource/dm-sans/400.css';
+import '@fontsource/dm-sans/500.css';
 import '../styles/global.css';
+import '../styles/editorial.css';
 
 import { SITE } from '../consts';
 import { SITE_NAME, X_HANDLE, useTranslations, type Lang } from '../i18n/ui';
@@ -36,6 +41,10 @@ interface Props {
   noindex?: boolean;
   /** Widen the content column (used by the article reader). */
   wide?: boolean;
+  /** Portrait-led homepage with a wider editorial layout. */
+  home?: boolean;
+  /** Shared editorial presentation for Work, Writing and Social. */
+  editorial?: boolean;
 }
 
 const {
@@ -51,6 +60,8 @@ const {
   pageSchema,
   noindex = false,
   wide = false,
+  home = false,
+  editorial = false,
 } = Astro.props;
 
 const pathname = Astro.url.pathname;
@@ -203,8 +214,8 @@ const t = useTranslations(lang);
   </head>
   <body>
     <a class="skip-link" href="#main-content">{t('nav.skip')}</a>
-    <div class="shell">
-      <div class:list={['wrap', { 'wrap--wide': wide }]}>
+    <div class:list={['shell', { 'shell--home': home, 'shell--editorial': editorial }]}>
+      <div class:list={['wrap', { 'wrap--wide': wide, 'wrap--home': home, 'wrap--editorial': editorial }]}>
         <Header lang={lang} />
         <main class="main" id="main-content" tabindex="-1">
           <slot />

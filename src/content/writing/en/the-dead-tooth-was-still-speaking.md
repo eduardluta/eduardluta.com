@@ -13,6 +13,7 @@ tags:
   - Synchronicity
 heroImage: "/writing/the-dead-tooth-was-still-speaking/the-dead-tooth-was-still-speaking-1.webp"
 heroImageAlt: "Two root-canal-treated teeth immediately after extraction"
+homepageEssay: true
 ---
 
 Nothing happened.

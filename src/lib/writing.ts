@@ -21,6 +21,15 @@ export async function getArticles(lang: Lang): Promise<Article[]> {
     .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 }
 
+/** Select personal essays for the homepage from an already date-sorted list.
+ * Explicit opt-in keeps new social/content-workflow articles out even when they
+ * have no video metadata. Never feature drafts or a video-derived article. */
+export function getHomepageArticles(articles: readonly Article[], limit = 3): Article[] {
+  return articles
+    .filter(({ data }) => data.homepageEssay && !data.draft && !data.video)
+    .slice(0, limit);
+}
+
 /** Every (lang, slug) pair for static path generation. */
 export async function getAllArticleParams(): Promise<Article[]> {
   const entries = await getCollection('writing');

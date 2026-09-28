@@ -21,6 +21,8 @@ const writing = defineCollection({
     /** Explicit social-card image (ideally 1200x630). Falls back to the first body image for JSON-LD only. */
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
+    /** Opt in verified standalone essays to the homepage. Social/content-workflow articles stay false. */
+    homepageEssay: z.boolean().default(false),
     /** Original TikTok video; the local poster remains available without the embed. */
     video: z.object({
       id: z.string().regex(/^\d+$/, 'TikTok video IDs contain digits only'),

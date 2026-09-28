@@ -1,27 +1,95 @@
 ---
-import { useTranslations, type Lang } from '../../i18n/ui';
+import '../../styles/work.css';
+import type { Lang } from '../../i18n/ui';
+import { localizePath } from '../../i18n/utils';
 import { projects } from '../../data/projects';
 
 interface Props {
   lang: Lang;
 }
 const { lang } = Astro.props;
-const t = useTranslations(lang);
+const copy = {
+  en: {
+    label: 'Work',
+    title: 'Ideas, out in',
+    titleAccent: 'the world.',
+    introduction: 'Different projects, a shared thread: helping people connect, grow, and move forward. This is where the thinking becomes something you can use.',
+    index: 'Explore the projects',
+    visit: 'Visit',
+    nextLabel: 'The other side of building',
+    nextTitle: 'Thinking it through.',
+    nextDescription: 'Writing is where I make sense of the questions that stay with me — in work and in life.',
+    nextAction: 'Read my writing',
+  },
+  sq: {
+    label: 'Projekte',
+    title: 'Ide që',
+    titleAccent: 'marrin jetë.',
+    introduction: 'Projekte të ndryshme, një fill i përbashkët: t’i ndihmojmë njerëzit të lidhen, të rriten dhe të ecin përpara. Këtu mendimet bëhen diçka që mund ta përdorësh.',
+    index: 'Zbulo projektet',
+    visit: 'Vizito',
+    nextLabel: 'Ana tjetër e ndërtimit',
+    nextTitle: 'Duke i menduar më thellë.',
+    nextDescription: 'Shkrimi është mënyra si u jap kuptim pyetjeve që më shoqërojnë — në punë dhe në jetë.',
+    nextAction: 'Lexo shkrimet e mia',
+  },
+}[lang];
 ---
 
-<h1 class="view-title">{t('building.title')}</h1>
-<p class="view-sub">{t('building.subtitle')}</p>
+<div class="editorial-page work-page">
+  <header class="page-intro work-intro">
+    <p class="page-kicker"><span aria-hidden="true">01 /</span> {copy.label}</p>
+    <h1 class="page-title">{copy.title}{' '}<em>{copy.titleAccent}</em></h1>
+    <p class="page-lead">{copy.introduction}</p>
+    <nav class="work-index" aria-label={copy.index}>
+      {projects.map((project, index) => (
+        <a href={`#${project.id}`}>
+          <span class="work-index-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span>
+          {project.name}
+          <span class="work-index-arrow" aria-hidden="true">↘</span>
+        </a>
+      ))}
+    </nav>
+  </header>
 
-{projects.map((project) => (
-  <div class="project">
-    <div class="project-head">
-      {project.url ? (
-        <a class="project-name" href={project.url} target="_blank" rel="noopener noreferrer">{project.name}</a>
-      ) : (
-        <span class="project-name">{project.name}</span>
-      )}
-      <span class="project-stat">{project.stat[lang]}</span>
-    </div>
-    <p class="project-desc">{project.description[lang]}</p>
+  <div class="work-projects">
+    {projects.map((project, index) => (
+      <article class="work-project" id={project.id} aria-labelledby={`work-${project.id}-title`}>
+        <div class:list={['work-art', `work-art--${project.id}`]} aria-hidden="true">
+          <span class="work-art-index">{String(index + 1).padStart(2, '0')} / {String(projects.length).padStart(2, '0')}</span>
+          <img
+            class="work-logo"
+            src={project.logo.src}
+            width={project.logo.width}
+            height={project.logo.height}
+            alt=""
+            loading={index === 0 ? 'eager' : 'lazy'}
+            decoding="async"
+          />
+          <span class="work-art-caption">{project.name}</span>
+        </div>
+        <div class="work-project-copy">
+          <p class="work-category">{project.category[lang]}</p>
+          <h2 id={`work-${project.id}-title`}>{project.name}</h2>
+          <p class="work-summary">{project.summary[lang]}</p>
+          {project.id === 'mik' && <p class="work-detail">{project.description[lang]}</p>}
+          <div class="work-project-bottom">
+            <a class="work-visit" href={project.url ?? 'https://www.mikgroup.ch/'} target="_blank" rel="noopener noreferrer">
+              {copy.visit} {project.name} <span aria-hidden="true">↗</span>
+            </a>
+            {project.stat && <span class="work-stat">{project.stat[lang]}</span>}
+          </div>
+        </div>
+      </article>
+    ))}
   </div>
-))}
+
+  <section class="work-next" aria-labelledby="work-next-title">
+    <div>
+      <p class="page-kicker">{copy.nextLabel}</p>
+      <h2 id="work-next-title">{copy.nextTitle}</h2>
+      <p>{copy.nextDescription}</p>
+    </div>
+    <a href={localizePath('/writing/', lang)}>{copy.nextAction} <span aria-hidden="true">↗</span></a>
+  </section>
+</div>

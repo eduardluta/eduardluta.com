@@ -12,6 +12,7 @@ tags:
   - Higher Self
 heroImage: "/writing/warhammer-simulation-dream/warhammer-simulation-dream-1.webp"
 heroImageAlt: "An Ultramarine and a Crimson Fists battle brother holding a line under fire"
+homepageEssay: true
 ---
 
 *I want to say this before anything else: I knew nothing about Warhammer 40,000. Maybe a figure scrolling past on some meme page, a name I never looked twice at. I had never read the lore. I had never searched a single thing about it. That matters, because of what came next.*

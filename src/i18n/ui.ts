@@ -12,7 +12,7 @@ export type Lang = keyof typeof languages;
 export const defaultLang: Lang = 'en';
 
 export const SITE_NAME = 'Eduard Luta';
-export const SITE_EMAIL = 'info@eduardluta.com';
+export const SITE_EMAIL = 'eduard@dua.com';
 /** X (Twitter) handle for twitter:site / twitter:creator cards. Keep in sync with social.x below. */
 export const X_HANDLE = '@eduardluta';
 
@@ -32,7 +32,7 @@ export const ui = {
       'Eduard Luta — friend, father, husband & entrepreneur building at the intersection of AI and meaning: dua.com for love, MIK Group for growth.',
 
     'nav.writing': 'Writing',
-    'nav.building': 'Building',
+    'nav.building': 'Work',
     'nav.principles': 'Principles',
     'nav.social': 'Social',
     'nav.home': 'Home',
@@ -54,10 +54,10 @@ export const ui = {
     'worth.title': 'Worth the time',
     'worth.subtitle': 'Words I keep coming back to.',
 
-    'building.title': 'Building',
+    'building.title': 'Work',
     'building.subtitle': "Things I'm making at the intersection of AI and meaning.",
     'building.description':
-      "The things Eduard Luta is building — dua.com, the Albanian dating app, and MIK Group, a Swiss AI-driven marketing agency.",
+      'Explore Eduard Luta’s projects: dua.com, MIK Group, spotted.de and bethe.one — across dating, marketing and personal growth.',
 
     'principles.title': 'Principles',
     'principles.subtitle': 'How I try to operate.',
@@ -127,7 +127,7 @@ export const ui = {
     'building.title': 'Projekte',
     'building.subtitle': 'Gjëra që po ndërtoj në kryqëzimin e AI-së dhe kuptimit.',
     'building.description':
-      'Gjërat që po ndërton Eduard Luta — dua.com, aplikacioni shqiptar i takimeve, dhe MIK Group, agjenci zvicerane marketingu me AI.',
+      'Zbulo projektet e Eduard Lutës: dua.com, MIK Group, spotted.de dhe bethe.one — në njohje, marketing dhe zhvillim personal.',
 
     'principles.title': 'Parime',
     'principles.subtitle': 'Si përpiqem të veproj.',

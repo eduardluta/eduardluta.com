@@ -13,9 +13,8 @@ const base = stripLangFromPath(Astro.url.pathname);
 const section = base === '/' ? 'home' : base.split('/').filter(Boolean)[0];
 
 const navItems = [
-  { key: 'writing', label: t('nav.writing'), path: '/writing/' },
   { key: 'building', label: t('nav.building'), path: '/building/' },
-  { key: 'principles', label: t('nav.principles'), path: '/principles/' },
+  { key: 'writing', label: t('nav.writing'), path: '/writing/' },
   { key: 'social', label: t('nav.social'), path: '/social/' },
 ] as const;
 

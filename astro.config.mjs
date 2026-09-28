@@ -34,6 +34,10 @@ const WRITING_LASTMOD = writingLastmod();
 export default defineConfig({
   site: SITE,
   trailingSlash: 'always',
+  redirects: {
+    '/principles/': '/',
+    '/sq/principles/': '/sq/',
+  },
   // Runs on Railway behind a small Express wrapper (server.mjs) that adds security
   // headers + legacy redirects and serves the static assets. Pages are prerendered
   // (static); only routes that opt out with `export const prerender = false` (the

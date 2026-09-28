@@ -1,8 +1,10 @@
 ---
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { recommendations } from '../../data/recommendations';
-import type { Article } from '../../lib/writing';
-import PostList from '../PostList.astro';
+import { countWords, getHomepageArticles, getThumb, type Article } from '../../lib/writing';
+import { WRITING_PAGE_SIZE } from '../../lib/writing-archive';
+import { formatDateLong, formatDateShort, isoDate, localizePath } from '../../i18n/utils';
+import '../../styles/writing-index.css';
 
 interface Props {
   lang: Lang;
@@ -10,28 +12,288 @@ interface Props {
 }
 const { lang, articles } = Astro.props;
 const t = useTranslations(lang);
+const copy = lang === 'sq' ? {
+  title: 'Duke menduar', titleAccent: 'me zë të lartë.',
+  intro: 'Për vetëdijen, kodin, marketingun dhe modelet që i lidhin. Mendime që ia vlen të ndahen dhe përvoja që ia vlen të ruhen.',
+  latest: 'Eseja më e fundit', read: 'Lexo esenë', archive: 'Arkivi i shkrimeve',
+  archiveIntro: 'Ese personale, shënime dhe ide nga videot.',
+  essays: 'Ese personale', notes: 'Shënime & video', all: 'Të gjitha',
+  search: 'Kërko në shkrime', placeholder: 'Një fjalë, ide ose titull…',
+  filter: 'Lloji i shkrimit', results: '{count} shkrime', resultSingular: '{count} shkrim',
+  empty: 'Nuk u gjet asnjë shkrim.', emptyHint: 'Provo një fjalë tjetër ose shiko gjithë arkivin.',
+  reset: 'Shfaq të gjitha', essay: 'Ese personale', note: 'Shënim', video: 'Shënim & video',
+  allAvailable: 'I gjithë arkivi është më poshtë.',
+  range: '{start}–{end} nga {count} shkrime', previous: 'Prapa', next: 'Tjetra',
+  pagination: 'Faqet e shkrimeve', page: 'Faqja {page}',
+} : {
+  title: 'Thinking', titleAccent: 'out loud.',
+  intro: 'On consciousness, code, marketing, and the patterns connecting them. Thoughts worth sharing and experiences worth keeping.',
+  latest: 'The latest essay', read: 'Read the essay', archive: 'The writing archive',
+  archiveIntro: 'Personal essays, shorter notes, and ideas from my videos.',
+  essays: 'Personal essays', notes: 'Notes & videos', all: 'All writing',
+  search: 'Search the writing', placeholder: 'A word, idea, or title…',
+  filter: 'Type of writing', results: '{count} pieces', resultSingular: '{count} piece',
+  empty: 'No writing found.', emptyHint: 'Try another word or explore the full archive.',
+  reset: 'Show all writing', essay: 'Personal essay', note: 'Note', video: 'Note & video',
+  allAvailable: 'The complete archive is below.',
+  range: '{start}–{end} of {count} pieces', previous: 'Previous', next: 'Next',
+  pagination: 'Writing archive pages', page: 'Page {page}',
+};
+const personalEssays = getHomepageArticles(articles, articles.length);
+const essaySlugs = new Set(personalEssays.map(({ slug }) => slug));
+const featured = personalEssays[0];
+const featureImage = featured?.data.heroImage;
+const initialArticles = (personalEssays.length ? personalEssays : articles).slice(0, WRITING_PAGE_SIZE);
+const initialSlugs = new Set(initialArticles.map(({ slug }) => slug));
+const initialCount = personalEssays.length || articles.length;
+const initialResults = copy.range.replace('{start}', initialCount ? '1' : '0').replace('{end}', String(initialArticles.length)).replace('{count}', String(initialCount));
+const articleHref = (article: Article) => localizePath(`/writing/${article.slug}/`, lang);
+const minutes = (article: Article) => Math.max(1, Math.round(countWords(article.body) / 200));
+const filters = [
+  { value: 'essays', label: copy.essays, count: personalEssays.length },
+  { value: 'notes', label: copy.notes, count: articles.length - personalEssays.length },
+  { value: 'all', label: copy.all, count: articles.length },
+];
 ---
 
-<h1 class="view-title">{t('writing.title')}</h1>
-<p class="view-sub">{t('writing.subtitle')}</p>
+<div class="editorial-page writing-index">
+  <header class="page-intro">
+    <p class="page-kicker"><span>02 /</span> {t('writing.title')}</p>
+    <h1 class="page-title">{copy.title}{' '}<em>{copy.titleAccent}</em></h1>
+    <p class="page-lead">{copy.intro}</p>
+  </header>
 
-<PostList lang={lang} articles={articles} variant="writing" />
-
-<section class="worth" aria-labelledby="worth-title">
-  <h2 class="view-title" id="worth-title">{t('worth.title')}</h2>
-  <p class="view-sub" style="margin-bottom:22px">{t('worth.subtitle')}</p>
-  <div>
-    {recommendations.map((rec) => (
-      <div class="worth-item">
-        {rec.text.split('\n\n').map((para) => (
-          <p class="worth-text">{para}</p>
-        ))}
-        {rec.source && (
-          <a class="worth-source" href={rec.source.url} target="_blank" rel="noopener noreferrer">
-            {rec.source.label} ↗
-          </a>
-        )}
+  {featured && (
+    <section class="writing-feature" aria-labelledby="featured-title">
+      <div class="writing-feature-copy">
+        <p class="writing-eyebrow"><span class="writing-ink-dot" aria-hidden="true"></span>{copy.latest}</p>
+        <h2 id="featured-title"><a href={articleHref(featured)}>{featured.data.title}</a></h2>
+        <p class="writing-feature-description">{featured.data.teaser ?? featured.data.description}</p>
+        <p class="writing-feature-meta"><time datetime={isoDate(featured.data.date)}>{formatDateLong(featured.data.date, lang)}</time><span aria-hidden="true">·</span>{minutes(featured)} {t('writing.minRead')}</p>
+        <a class="writing-read-link" href={articleHref(featured)}>{copy.read}<span aria-hidden="true">↗</span></a>
       </div>
-    ))}
-  </div>
-</section>
+      {featureImage && (
+        <a class="writing-feature-art" href={articleHref(featured)} tabindex="-1" aria-hidden="true">
+          <img src={featureImage} alt="" width="720" height="540" decoding="async" />
+        </a>
+      )}
+    </section>
+  )}
+
+  <section class="writing-archive" aria-labelledby="writing-archive-title" data-writing-archive data-results-template={copy.results} data-result-singular={copy.resultSingular} data-range-template={copy.range} data-previous={copy.previous} data-next={copy.next} data-page-template={copy.page}>
+    <div class="writing-archive-heading">
+      <div>
+        <h2 id="writing-archive-title" tabindex="-1">{copy.archive}</h2>
+        <p>{copy.archiveIntro}</p>
+      </div>
+      <p class="writing-results" data-writing-results role="status" aria-live="polite" aria-atomic="true">{initialResults}</p>
+    </div>
+
+    <div class="writing-tools" data-writing-tools hidden>
+      <div class="writing-filters" role="group" aria-label={copy.filter}>
+        {filters.map((filter) => (
+          <button type="button" data-writing-filter={filter.value} aria-pressed={filter.value === (personalEssays.length ? 'essays' : 'all')} aria-controls="writing-archive-list">
+            {filter.label}<span class="writing-filter-count">{filter.count}</span>
+          </button>
+        ))}
+      </div>
+      <label class="writing-search">
+        <span>{copy.search}</span>
+        <span class="writing-search-field">
+          <svg viewBox="0 0 20 20" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m12.5 12.5 4 4"/></svg>
+          <input type="search" data-writing-search placeholder={copy.placeholder} aria-controls="writing-archive-list" autocomplete="off" />
+        </span>
+      </label>
+    </div>
+    <noscript>
+      <p class="writing-no-script">{copy.allAvailable}</p>
+      <style is:inline>
+        .writing-index [data-writing-item][hidden] { display: list-item !important; }
+        .writing-index [data-writing-results] { display: none; }
+      </style>
+    </noscript>
+
+    <ul class="writing-archive-list" id="writing-archive-list">
+      {articles.map((article) => {
+        const thumbnail = getThumb(article);
+        return (
+        <li hidden={!initialSlugs.has(article.slug)} data-writing-item data-category={essaySlugs.has(article.slug) ? 'essays' : 'notes'} data-search={[article.data.title, article.data.description, ...(article.data.tags ?? [])].join(' ')}>
+          <a class="writing-entry" href={articleHref(article)}>
+            <span class="writing-entry-visual">
+              <span class="writing-entry-thumbnail" aria-hidden="true">
+                {thumbnail ? <img src={thumbnail} alt="" width="112" height="84" loading="lazy" decoding="async" /> : <span class="writing-entry-placeholder">EL /</span>}
+              </span>
+              <time class="writing-entry-date" datetime={isoDate(article.data.date)}>{formatDateShort(article.data.date)}</time>
+            </span>
+            <span class="writing-entry-copy">
+              <span class="writing-entry-title">{article.data.title}</span>
+              <span class="writing-entry-description">{article.data.teaser ?? article.data.description}</span>
+              <span class="writing-entry-meta">{essaySlugs.has(article.slug) ? copy.essay : article.data.video ? copy.video : copy.note}<span aria-hidden="true">·</span>{minutes(article)} {t('writing.minRead')}</span>
+            </span>
+            <span class="writing-entry-arrow" aria-hidden="true">↗</span>
+          </a>
+        </li>
+      );})}
+    </ul>
+    <nav class="writing-pagination" data-writing-pagination aria-label={copy.pagination} hidden></nav>
+    <div class="writing-empty" data-writing-empty hidden>
+      <h3>{copy.empty}</h3>
+      <p>{copy.emptyHint}</p>
+      <button type="button" data-writing-reset>{copy.reset}<span aria-hidden="true">↗</span></button>
+    </div>
+  </section>
+
+  <details class="writing-worth">
+    <summary>
+      <span><span class="writing-worth-title">{t('worth.title')}</span><span class="writing-worth-description">{t('worth.subtitle')}</span></span>
+      <span class="writing-worth-toggle" aria-hidden="true">+</span>
+    </summary>
+    <div class="writing-worth-content">
+      {recommendations.map((rec) => (
+        <div class="writing-recommendation">
+          {rec.text.split('\n\n').map((para) => <p>{para}</p>)}
+          {rec.source && <a href={rec.source.url} target="_blank" rel="noopener noreferrer">{rec.source.label}<span aria-hidden="true">↗</span></a>}
+        </div>
+      ))}
+    </div>
+  </details>
+</div>
+
+<script>
+  import {
+    archivePageNumbers, archiveUrl, changeArchiveState, paginateArchive, readArchiveState,
+    type ArchiveCategory, type ArchiveState,
+  } from '../../lib/writing-archive';
+
+  function initializeWritingArchive() {
+    const archive = document.querySelector<HTMLElement>('[data-writing-archive]');
+    if (!archive || archive.dataset.initialized) return;
+    archive.dataset.initialized = 'true';
+
+    const tools = archive.querySelector<HTMLElement>('[data-writing-tools]');
+    const search = archive.querySelector<HTMLInputElement>('[data-writing-search]');
+    const result = archive.querySelector<HTMLElement>('[data-writing-results]');
+    const empty = archive.querySelector<HTMLElement>('[data-writing-empty]');
+    const pagination = archive.querySelector<HTMLElement>('[data-writing-pagination]');
+    const heading = archive.querySelector<HTMLElement>('#writing-archive-title');
+    const buttons = [...archive.querySelectorAll<HTMLButtonElement>('[data-writing-filter]')];
+    const items = [...archive.querySelectorAll<HTMLElement>('[data-writing-item]')];
+    if (!tools || !search || !result || !empty || !pagination) return;
+
+    const searchable = items.map((item) => ({ item, category: item.dataset.category ?? 'notes', text: item.dataset.search ?? '' }));
+    const defaultCategory: ArchiveCategory = items.some((item) => item.dataset.category === 'essays') ? 'essays' : 'all';
+    let state = readArchiveState(new URL(window.location.href), defaultCategory);
+    search.value = state.query;
+
+    const pageLink = (page: number, text: string, className: string) => {
+      const link = document.createElement('a');
+      const url = archiveUrl(new URL(window.location.href), { ...state, page }, defaultCategory);
+      url.hash = 'writing-archive-title';
+      link.href = url.href;
+      link.dataset.writingPage = String(page);
+      link.className = className;
+      link.textContent = text;
+      link.setAttribute('aria-controls', 'writing-archive-list');
+      return link;
+    };
+
+    const render = (historyMode: 'push' | 'replace' | 'none' = 'replace', focusArchive = false) => {
+      const page = paginateArchive(searchable, state);
+      state = { ...state, page: page.page };
+      const visible = new Set(page.items.map(({ item }) => item));
+      items.forEach((item) => { item.hidden = !visible.has(item); });
+      buttons.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.writingFilter === state.category)));
+      const template = page.total === 1 ? archive.dataset.resultSingular : page.total ? archive.dataset.rangeTemplate : archive.dataset.resultsTemplate;
+      result.textContent = (template ?? '{start}–{end} / {count}')
+        .replace('{start}', String(page.start)).replace('{end}', String(page.end)).replace('{count}', String(page.total));
+      empty.hidden = page.total !== 0;
+      pagination.replaceChildren();
+      pagination.hidden = page.pages <= 1;
+
+      if (page.pages > 1) {
+        const previousText = archive.dataset.previous ?? 'Previous';
+        const nextText = archive.dataset.next ?? 'Next';
+        const previous = page.page > 1 ? pageLink(page.page - 1, `← ${previousText}`, 'writing-page-direction') : document.createElement('span');
+        if (page.page === 1) {
+          previous.className = 'writing-page-direction writing-page-disabled';
+          previous.textContent = `← ${previousText}`;
+          previous.setAttribute('aria-disabled', 'true');
+        }
+        pagination.append(previous);
+
+        const numbers = document.createElement('div');
+        numbers.className = 'writing-page-numbers';
+        for (const number of archivePageNumbers(page.page, page.pages)) {
+          if (number === 'gap') {
+            const gap = document.createElement('span');
+            gap.className = 'writing-page-gap';
+            gap.textContent = '…';
+            gap.setAttribute('aria-hidden', 'true');
+            numbers.append(gap);
+          } else {
+            const link = pageLink(number, String(number), 'writing-page-number');
+            link.setAttribute('aria-label', (archive.dataset.pageTemplate ?? 'Page {page}').replace('{page}', String(number)));
+            if (number === page.page) link.setAttribute('aria-current', 'page');
+            numbers.append(link);
+          }
+        }
+        pagination.append(numbers);
+        const next = page.page < page.pages ? pageLink(page.page + 1, `${nextText} →`, 'writing-page-direction') : document.createElement('span');
+        if (page.page === page.pages) {
+          next.className = 'writing-page-direction writing-page-disabled';
+          next.textContent = `${nextText} →`;
+          next.setAttribute('aria-disabled', 'true');
+        }
+        pagination.append(next);
+      }
+
+      if (historyMode !== 'none') {
+        const url = archiveUrl(new URL(window.location.href), state, defaultCategory);
+        if (focusArchive) url.hash = 'writing-archive-title';
+        if (url.href !== window.location.href) {
+          // Astro's router needs its index and scroll metadata when returning
+          // from an article. Never replace that state with a null archive entry.
+          const historyState = { ...window.history.state, scrollX: window.scrollX, scrollY: window.scrollY };
+          if (historyMode === 'push') window.history.pushState(historyState, '', url);
+          else window.history.replaceState(historyState, '', url);
+        }
+      }
+      if (focusArchive && heading) {
+        heading.focus({ preventScroll: true });
+        heading.scrollIntoView({ block: 'start', behavior: 'instant' });
+      }
+    };
+
+    const change = (updates: Partial<ArchiveState>, historyMode: 'push' | 'replace', focusArchive = false) => {
+      state = changeArchiveState(state, updates);
+      render(historyMode, focusArchive);
+    };
+    buttons.forEach((button) => button.addEventListener('click', () => {
+      change({ category: button.dataset.writingFilter as ArchiveCategory }, 'push');
+    }));
+    search.addEventListener('input', () => change({ query: search.value }, 'replace'));
+    archive.querySelector('[data-writing-reset]')?.addEventListener('click', () => {
+      search.value = '';
+      change({ category: 'all', query: '', page: 1 }, 'push');
+      search.focus();
+    });
+    pagination.addEventListener('click', (event) => {
+      const link = (event.target as Element).closest<HTMLAnchorElement>('[data-writing-page]');
+      if (!link || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      change({ page: Number(link.dataset.writingPage) }, 'push', true);
+    });
+    const restoreFromHistory = () => {
+      state = readArchiveState(new URL(window.location.href), defaultCategory);
+      search.value = state.query;
+      render('none');
+    };
+    window.addEventListener('popstate', restoreFromHistory);
+    document.addEventListener('astro:before-swap', () => window.removeEventListener('popstate', restoreFromHistory), { once: true });
+    tools.hidden = false;
+    render();
+  }
+
+  initializeWritingArchive();
+  document.addEventListener('astro:page-load', initializeWritingArchive);
+</script>

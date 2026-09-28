@@ -1,5 +1,7 @@
 ---
+import '../../styles/social-page.css';
 import { social, useTranslations, type Lang } from '../../i18n/ui';
+import { localizePath } from '../../i18n/utils';
 import { getSocialFeed } from '../../lib/social';
 import SocialCard from '../SocialCard.astro';
 
@@ -9,23 +11,80 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 const posts = getSocialFeed();
+const copy = {
+  en: {
+    title: 'The everyday,',
+    titleAccent: 'in between.',
+    introduction: 'Small observations, conversations, and moments from life and work. Collected here from X and TikTok.',
+    profiles: 'Find me here',
+    note: 'Some thoughts become essays. Others start with a conversation.',
+    feed: 'From the feeds',
+    feedNote: 'Each post opens where it was shared.',
+    empty: 'The feed is quiet for now. You can find my latest posts through the links here.',
+    writingTitle: 'For the longer version.',
+    writingNote: 'Essays on the questions that stay with me.',
+    writingLink: 'Explore my writing',
+  },
+  sq: {
+    title: 'Përditshmëria,',
+    titleAccent: 'mes gjithë të tjerave.',
+    introduction: 'Vëzhgime të vogla, biseda dhe çaste nga jeta e puna. Të mbledhura këtu nga X dhe TikTok.',
+    profiles: 'Më gjen këtu',
+    note: 'Disa mendime bëhen ese. Të tjerat fillojnë me një bisedë.',
+    feed: 'Nga rrjetet',
+    feedNote: 'Çdo postim hapet aty ku është ndarë.',
+    empty: 'Për momentin nuk ka postime këtu. Postimet e mia të fundit mund t’i gjesh përmes lidhjeve në këtë faqe.',
+    writingTitle: 'Kur mendimi kërkon më shumë.',
+    writingNote: 'Ese për pyetjet që më mbeten në mendje.',
+    writingLink: 'Zbulo shkrimet e mia',
+  },
+}[lang];
+const profiles = [
+  { name: 'Instagram', url: social.instagram },
+  { name: 'TikTok', url: social.tiktok },
+  { name: 'X', url: social.x },
+  { name: 'LinkedIn', url: social.linkedin },
+];
 ---
 
-<h1 class="view-title">{t('social.title')}</h1>
-<p class="view-sub" style="margin-bottom:28px">{t('social.subtitle')}</p>
+<div class="editorial-page social-page">
+  <header class="page-intro">
+    <p class="page-kicker"><span class="page-index" aria-hidden="true">03 /</span> {t('social.title')}</p>
+    <h1 class="page-title">{copy.title}{' '}<em>{copy.titleAccent}</em></h1>
+    <p class="page-lead">{copy.introduction}</p>
+  </header>
 
-{posts.length > 0 ? (
-  <div class="wall">
-    {posts.map((post) => <SocialCard post={post} lang={lang} />)}
+  <div class="social-page-layout">
+    <aside class="social-profile-rail" aria-labelledby="social-profile-title">
+      <h2 id="social-profile-title" class="social-small-heading">{copy.profiles}</h2>
+      <ul class="social-profile-links">
+        {profiles.map((profile) => (
+          <li><a href={profile.url} target="_blank" rel="noopener noreferrer me">{profile.name}<span aria-hidden="true">↗</span></a></li>
+        ))}
+      </ul>
+      <p class="social-rail-note">{copy.note}</p>
+    </aside>
+
+    <section class="social-feed-section" aria-labelledby="social-feed-title">
+      <div class="social-feed-heading">
+        <h2 id="social-feed-title" class="social-small-heading">{copy.feed}</h2>
+        <p>{copy.feedNote}</p>
+      </div>
+      {posts.length > 0 ? (
+        <div class="wall">
+          {posts.map((post) => <SocialCard post={post} lang={lang} />)}
+        </div>
+      ) : (
+        <p class="social-empty">{copy.empty}</p>
+      )}
+    </section>
   </div>
-) : (
-  <p class="view-sub">
-    <a href={social.x} target="_blank" rel="noopener noreferrer me">X</a>
-    {' · '}
-    <a href={social.tiktok} target="_blank" rel="noopener noreferrer me">TikTok</a>
-    {' · '}
-    <a href={social.instagram} target="_blank" rel="noopener noreferrer me">Instagram</a>
-    {' · '}
-    <a href={social.linkedin} target="_blank" rel="noopener noreferrer me">LinkedIn</a>
-  </p>
-)}
+
+  <section class="social-writing-note" aria-labelledby="social-writing-title">
+    <div>
+      <h2 id="social-writing-title">{copy.writingTitle}</h2>
+      <p>{copy.writingNote}</p>
+    </div>
+    <a href={localizePath('/writing/', lang)}>{copy.writingLink}<span aria-hidden="true">↗</span></a>
+  </section>
+</div>

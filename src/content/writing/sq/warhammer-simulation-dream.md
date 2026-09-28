@@ -12,6 +12,7 @@ tags:
   - Higher Self
 heroImage: "/writing/warhammer-simulation-dream/warhammer-simulation-dream-1.webp"
 heroImageAlt: "Një Ultramarin dhe një vëlla lufte i Crimson Fists duke mbajtur vijën nën zjarr"
+homepageEssay: true
 ---
 
 *Dua ta them këtë para çdo gjëje tjetër: nuk dija asgjë për Warhammer 40,000. Ndoshta ndonjë figurë që më kishte kaluar para syve në ndonjë faqe memesh, një emër që kurrë s’e kisha vështruar dy herë. Kurrë s’e kisha lexuar lore-in. Kurrë s’kisha kërkuar asnjë gjë të vetme për të. Kjo ka rëndësi, për shkak të asaj që erdhi më pas.*

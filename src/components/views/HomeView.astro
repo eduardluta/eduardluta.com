@@ -1,10 +1,15 @@
 ---
+import '@fontsource/newsreader/400.css';
+import '@fontsource/newsreader/400-italic.css';
+import '@fontsource/dm-sans/400.css';
+import '@fontsource/dm-sans/500.css';
+import '../../styles/home.css';
 import { useTranslations, type Lang } from '../../i18n/ui';
-import { localizePath } from '../../i18n/utils';
-import { bio } from '../../data/home';
+import { localizePath, formatDateShort, isoDate } from '../../i18n/utils';
+import { homepage } from '../../data/homepage';
+import { projects } from '../../data/projects';
 import { getFeaturedPosts } from '../../lib/social';
-import type { Article } from '../../lib/writing';
-import PostList from '../PostList.astro';
+import { getHomepageArticles, getThumb, type Article } from '../../lib/writing';
 import SocialCard from '../SocialCard.astro';
 
 interface Props {
@@ -13,32 +18,109 @@ interface Props {
 }
 const { lang, articles } = Astro.props;
 const t = useTranslations(lang);
-const latest = articles.slice(0, 3);
+const copy = homepage[lang];
+const latest = getHomepageArticles(articles);
 const featuredPosts = getFeaturedPosts();
+const buildingPath = localizePath('/building/', lang);
+const writingPath = localizePath('/writing/', lang);
 ---
 
-<h1 class="hero-tagline">{t('site.tagline')}</h1>
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-introduction">
+    <p class="home-hello">{copy.greeting}</p>
+    <p class="home-identity">{t('site.tagline')}</p>
+    <h1 id="home-title" class="home-title">
+      {copy.headline}{' '}<em>{copy.headlineAccent}</em>
+    </h1>
+    <p class="home-bio">{copy.introduction}</p>
+    <p class="home-bio home-bio--note">{copy.introductionNote}</p>
+    <div class="home-actions">
+      <a href="#home-building" class="home-button">{copy.buildingAction}<span aria-hidden="true">↗</span></a>
+      <a href={writingPath} class="home-text-link">{copy.writingAction} <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <figure class="home-portrait">
+    <img
+      src="/writing/missing-you-or-missing-control/video-thumbnail.jpg"
+      alt={copy.portraitAlt}
+      width="540"
+      height="960"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
+    />
+  </figure>
+</section>
 
-<div class="bio">
-  {bio.map((p) => <p class={p.muted ? 'muted' : undefined}>{p.text[lang]}</p>)}
+<p class="home-experience"><span aria-hidden="true"></span>{copy.experience}</p>
+
+<div class="home-content">
+  <section class="home-section" id="home-building" aria-labelledby="home-building-title">
+    <p class="home-section-label"><span aria-hidden="true">01 /</span>{copy.buildingLabel}</p>
+    <div>
+      <div class="home-section-heading">
+        <h2 id="home-building-title">{copy.buildingHeading}</h2>
+        <a class="home-more" href={buildingPath}>{copy.buildingMore} <span aria-hidden="true">↗</span></a>
+      </div>
+      <p class="home-section-intro">{copy.buildingIntro}</p>
+      <div class="home-projects">
+        {projects.map((project) => (
+          <a
+            class="home-project"
+            href={project.url ?? buildingPath}
+            target={project.url ? '_blank' : undefined}
+            rel={project.url ? 'noopener noreferrer' : undefined}
+          >
+            <div class:list={['home-project-art', `home-project-art--${project.id}`]} aria-hidden="true">
+              <img class="home-project-logo" src={project.logo.src} width={project.logo.width} height={project.logo.height} alt="" loading="lazy" decoding="async" />
+              <span class="home-project-arrow">↗</span>
+            </div>
+            <h3>{project.name}</h3>
+            <p>{project.summary[lang]}</p>
+            <span class="home-project-detail">{project.category[lang]}{project.stat && ` · ${project.stat[lang]}`}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section" aria-labelledby="home-writing-title">
+    <p class="home-section-label"><span aria-hidden="true">02 /</span>{copy.writingLabel}</p>
+    <div>
+      <div class="home-section-heading">
+        <h2 id="home-writing-title">{copy.writingHeading}</h2>
+        <a class="home-more" href={writingPath}>{copy.allWriting} <span aria-hidden="true">↗</span></a>
+      </div>
+      <p class="home-section-intro">{copy.writingIntro}</p>
+      <ul class="home-writing-list">
+        {latest.map((article) => {
+          const thumbnail = getThumb(article);
+          return (
+          <li>
+            <a class:list={{ 'home-writing-link--with-image': thumbnail }} href={localizePath(`/writing/${article.slug}/`, lang)}>
+              {thumbnail && <img class="home-writing-image" src={thumbnail} alt="" width="112" height="112" loading="lazy" decoding="async" />}
+              <span class="home-writing-copy">
+                <time datetime={isoDate(article.data.date)}>{formatDateShort(article.data.date)}</time>
+                <span class="home-writing-title">{article.data.title}</span>
+              </span>
+              <span class="home-writing-arrow" aria-hidden="true">↗</span>
+            </a>
+          </li>
+          );
+        })}
+      </ul>
+    </div>
+  </section>
+  <section class="home-section home-section--feeds" aria-labelledby="home-feeds-title">
+    <p class="home-section-label"><span aria-hidden="true">03 /</span>{copy.socialLabel}</p>
+    <div>
+      <div class="home-section-heading">
+        <h2 id="home-feeds-title">{t('home.fromFeeds')}</h2>
+        <a class="home-more" href={localizePath('/social/', lang)}>{t('home.socialWall')}</a>
+      </div>
+      <div class="feeds">
+        {featuredPosts.map((post) => <SocialCard post={post} lang={lang} />)}
+      </div>
+    </div>
+  </section>
 </div>
-
-<p class="currently">{t('home.currently')}</p>
-
-<section class="block block--first" aria-labelledby="lw-eyebrow">
-  <div class="block-head">
-    <span class="eyebrow" id="lw-eyebrow">{t('home.latestWriting')}</span>
-    <a class="block-link" href={localizePath('/writing/', lang)}>{t('home.allWriting')}</a>
-  </div>
-  <PostList lang={lang} articles={latest} variant="home" />
-</section>
-
-<section class="block" aria-labelledby="ff-eyebrow">
-  <div class="block-head">
-    <span class="eyebrow" id="ff-eyebrow">{t('home.fromFeeds')}</span>
-    <a class="block-link" href={localizePath('/social/', lang)}>{t('home.socialWall')}</a>
-  </div>
-  <div class="feeds">
-    {featuredPosts.map((post) => <SocialCard post={post} lang={lang} />)}
-  </div>
-</section>

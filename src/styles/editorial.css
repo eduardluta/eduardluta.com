@@ -1,0 +1,46 @@
+/* The inner pages share the homepage's paper, type and generous margins.
+   The social cards, article body and simple footer retain their own styles. */
+.shell--editorial { padding: 0 48px 40px; }
+.wrap--editorial {
+  --home-serif: 'Newsreader', Georgia, serif;
+  --home-sans: 'DM Sans', Arial, sans-serif;
+  --home-rule: rgba(var(--ink-rgb), 0.13);
+  --home-surface: rgba(var(--ink-rgb), 0.035);
+  max-width: 1100px;
+}
+.wrap--editorial .hdr { min-height: 108px; align-items: center; border-bottom: 1px solid var(--home-rule); }
+.wrap--editorial .wordmark { font: 400 30px/1.1 var(--home-serif); letter-spacing: -1px; }
+.wrap--editorial .nav { font-family: var(--home-sans); font-size: 13px; gap: 26px; align-items: center; }
+.wrap--editorial .seg { font: 11px var(--font-mono); }
+.wrap--editorial .main { padding-top: 0; }
+.editorial-page { font-family: var(--home-sans); }
+.page-intro { padding: 72px 0 54px; }
+.page-kicker, .page-index { font: 11px/1.7 var(--font-mono); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.page-kicker { margin-bottom: 24px; color: var(--accent); }
+.page-title { max-width: 900px; font: 400 clamp(48px, 5.8vw, 76px)/1.05 var(--home-serif); letter-spacing: -2.4px; text-wrap: balance; }
+.page-title em { color: var(--accent); font-weight: 400; }
+.page-lead { max-width: 590px; margin-top: 25px; font-size: 17px; line-height: 1.8; color: var(--muted); text-wrap: pretty; }
+.page-index { margin-top: 28px; }
+
+@media (max-width: 1000px) {
+  .shell--editorial { padding-inline: 32px; }
+  .page-intro { padding-top: 60px; }
+}
+@media (max-width: 760px) {
+  .wrap--editorial .hdr { min-height: 100px; gap: 15px; flex-wrap: wrap; padding: 20px 0; }
+  .wrap--editorial .nav { gap: 18px; font-size: 12px; }
+  .page-title { letter-spacing: -1.7px; }
+  .page-intro { padding: 46px 0 38px; }
+}
+@media (max-width: 600px) {
+  .shell--editorial { padding: 0 23px 30px; }
+  .wrap--editorial .wordmark { width: 100%; font-size: 28px; }
+  .wrap--editorial .nav { width: 100%; gap: 14px; flex-wrap: wrap; }
+  .wrap--editorial .nav .seg { margin-left: auto; }
+  .wrap--editorial .nav a { display: inline-flex; align-items: center; min-height: 36px; }
+  .wrap--editorial .theme-btn { min-height: 36px; }
+  .page-intro { padding-top: 38px; }
+  .page-kicker { font-size: 10px; margin-bottom: 20px; }
+  .page-title { font-size: clamp(42px, 11vw, 62px); line-height: 1.07; letter-spacing: -1.6px; }
+  .page-lead { font-size: 15px; line-height: 1.8; margin-top: 20px; }
+}

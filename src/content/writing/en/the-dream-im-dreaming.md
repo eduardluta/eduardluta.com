@@ -3,6 +3,7 @@ title: "The dream I’m dreaming"
 date: 2025-11-01
 description: "I dream to have lived a fulfilled life. To have created so much that it still gives me purpose when I’m old."
 teaser: "“What a dream it would be, to give more than to take in this life.”"
+homepageEssay: true
 ---
 
 I dream to have lived a fulfilled life.  

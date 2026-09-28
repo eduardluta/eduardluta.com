@@ -3,6 +3,7 @@ title: "Ëndrra që po ëndërroj"
 date: 2025-11-01
 description: "Ëndërroj të kem jetuar një jetë të përmbushur. Të kem krijuar aq shumë, sa të më japë ende qëllim kur të jem plak."
 teaser: "“Çfarë ëndrre do të ishte, të japësh më shumë sesa merr në këtë jetë.”"
+homepageEssay: true
 ---
 
 Ëndërroj të kem jetuar një jetë të përmbushur.  

@@ -40,7 +40,7 @@ export function websiteSchema() {
     alternateName: 'eduardluta.com',
     url: SITE,
     description:
-      'Personal site of Eduard Luta — essays, projects and principles, in English and Albanian.',
+      'Personal site of Eduard Luta — essays and projects, in English and Albanian.',
     inLanguage: ['en', 'sq'],
     publisher: { '@id': `${SITE}/#person` },
   };

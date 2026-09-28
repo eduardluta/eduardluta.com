@@ -74,18 +74,18 @@ export const privacy: LegalDoc = {
       heading: { en: 'Your choices', sq: 'Zgjedhjet tuaja' },
       paras: {
         en: [
-          'You can unsubscribe at any time using the link in any newsletter email, or email info@eduardluta.com to have your address removed.',
+          'You can unsubscribe at any time using the link in any newsletter email, or email eduard@dua.com to have your address removed.',
         ],
         sq: [
-          'Mund të çregjistroheni në çdo kohë duke përdorur lidhjen në çdo email të buletinit, ose shkruani te info@eduardluta.com që adresa juaj të hiqet.',
+          'Mund të çregjistroheni në çdo kohë duke përdorur lidhjen në çdo email të buletinit, ose shkruani te eduard@dua.com që adresa juaj të hiqet.',
         ],
       },
     },
     {
       heading: { en: 'Contact', sq: 'Kontakt' },
       paras: {
-        en: ['Questions about this policy? Email info@eduardluta.com.'],
-        sq: ['Pyetje për këtë politikë? Shkruani te info@eduardluta.com.'],
+        en: ['Questions about this policy? Email eduard@dua.com.'],
+        sq: ['Pyetje për këtë politikë? Shkruani te eduard@dua.com.'],
       },
     },
   ],
@@ -145,8 +145,8 @@ export const terms: LegalDoc = {
     {
       heading: { en: 'Changes & contact', sq: 'Ndryshimet & kontakti' },
       paras: {
-        en: ['These terms may be updated from time to time. Questions? Email info@eduardluta.com.'],
-        sq: ['Këto kushte mund të përditësohen herë pas here. Pyetje? Shkruani te info@eduardluta.com.'],
+        en: ['These terms may be updated from time to time. Questions? Email eduard@dua.com.'],
+        sq: ['Këto kushte mund të përditësohen herë pas here. Pyetje? Shkruani te eduard@dua.com.'],
       },
     },
   ],
