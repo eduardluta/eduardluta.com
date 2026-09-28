@@ -1,0 +1,194 @@
+{
+  "articles": [
+    {
+      "id": "7653393524867468562",
+      "slug": "covid-trust-bodily-autonomy-and-evidence",
+      "publishedAt": "2026-06-20T08:35:52+00:00",
+      "durationSeconds": 179,
+      "url": "https://www.tiktok.com/@eduardluta/video/7653393524867468562",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 210,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7647621888797150472",
+      "slug": "water-fasting-experience-and-medical-evidence",
+      "publishedAt": "2026-06-04T19:19:05+00:00",
+      "durationSeconds": 595,
+      "url": "https://www.tiktok.com/@eduardluta/video/7647621888797150472",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 150,
+        "width": 540,
+        "height": 540
+      }
+    },
+    {
+      "id": "7651196637699689735",
+      "slug": "sazan-investment-protests-public-interest-and-documents",
+      "publishedAt": "2026-06-14T10:30:48+00:00",
+      "durationSeconds": 94,
+      "url": "https://www.tiktok.com/@eduardluta/video/7651196637699689735",
+      "thumbnailCrop": {
+        "left": 0,
+        "top": 80,
+        "width": 540,
+        "height": 540
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "covid-trust-bodily-autonomy-and-evidence",
+      "name": "different-questions",
+      "type": "cards",
+      "en": {
+        "title": "Four questions need different evidence",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Autonomy",
+            "An ethical and policy question."
+          ],
+          [
+            "Origins",
+            "A question for scientific and documentary evidence."
+          ],
+          [
+            "Safety",
+            "Compare outcomes and known adverse effects."
+          ],
+          [
+            "Accountability",
+            "Check specific decisions and records."
+          ]
+        ],
+        "caption": "One conclusion cannot answer all four questions. This diagram is an editorial evidence guide, not medical risk data.",
+        "alt": "Four questions need different evidence. Autonomy: An ethical and policy question. Origins: A question for scientific and documentary evidence. Safety: Compare outcomes and known adverse effects. Accountability: Check specific decisions and records.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Katër pyetje kërkojnë prova të ndryshme",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Autonomia",
+            "Pyetje etike dhe e politikave publike."
+          ],
+          [
+            "Origjina",
+            "Kërkon prova shkencore e dokumentare."
+          ],
+          [
+            "Siguria",
+            "Krahason rezultatet dhe efektet e padëshiruara."
+          ],
+          [
+            "Llogaridhënia",
+            "Shqyrton vendime e dokumente konkrete."
+          ]
+        ],
+        "caption": "Një përfundim nuk u përgjigjet të katër pyetjeve. Diagrami shpjegon llojet e provave, jo norma rreziku mjekësor.",
+        "alt": "Katër pyetje kërkojnë prova të ndryshme. Autonomia: Pyetje etike dhe e politikave publike. Origjina: Kërkon prova shkencore e dokumentare. Siguria: Krahason rezultatet dhe efektet e padëshiruara. Llogaridhënia: Shqyrton vendime e dokumente konkrete.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "water-fasting-experience-and-medical-evidence",
+      "name": "experience-and-treatment",
+      "type": "cards",
+      "en": {
+        "title": "A personal experience is not a treatment trial",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Experience",
+            "Calm, focus and reflection are self-reported."
+          ],
+          [
+            "Mechanism",
+            "Autophagy is cellular recycling, not proof of emotional cleansing."
+          ],
+          [
+            "Treatment",
+            "Cancer and parasite claims need clinical evidence."
+          ]
+        ],
+        "caption": "The distinctions that matter when reading the original fasting account. Not a fasting or refeeding plan.",
+        "alt": "A personal experience is not a treatment trial. Experience: Calm, focus and reflection are self-reported. Mechanism: Autophagy is cellular recycling, not proof of emotional cleansing. Treatment: Cancer and parasite claims need clinical evidence.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Përvoja personale nuk është studim trajtimi",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Përvoja",
+            "Qetësia, fokusi dhe reflektimi raportohen personalisht."
+          ],
+          [
+            "Mekanizmi",
+            "Autofagia riciklon përbërës qelizorë; nuk provon pastrim emocional."
+          ],
+          [
+            "Trajtimi",
+            "Pohimet për kancerin e parazitët kërkojnë prova klinike."
+          ]
+        ],
+        "caption": "Dallimet kryesore për ta lexuar rrëfimin origjinal. Nuk është plan agjërimi apo rifillimi të ushqimit.",
+        "alt": "Përvoja personale nuk është studim trajtimi. Përvoja: Qetësia, fokusi dhe reflektimi raportohen personalisht. Mekanizmi: Autofagia riciklon përbërës qelizorë; nuk provon pastrim emocional. Trajtimi: Pohimet për kancerin e parazitët kërkojnë prova klinike.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "sazan-investment-protests-public-interest-and-documents",
+      "name": "public-interest-test",
+      "type": "cards",
+      "en": {
+        "title": "What would demonstrate public benefit?",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Public assets",
+            "What is contributed, and at what independently checked value?"
+          ],
+          [
+            "Public costs",
+            "Who pays for infrastructure, protection and maintenance?"
+          ],
+          [
+            "Public return",
+            "What enforceable benefit remains for residents?"
+          ]
+        ],
+        "caption": "Questions for evaluating the Sazan proposal. They are not findings of wrongdoing or estimates of a final contract.",
+        "alt": "What would demonstrate public benefit. Public assets: What is contributed, and at what independently checked value? Public costs: Who pays for infrastructure, protection and maintenance? Public return: What enforceable benefit remains for residents?",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Çfarë do ta dëshmonte përfitimin publik?",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Pasuria publike",
+            "Çfarë jepet dhe me çfarë vlere të verifikuar?"
+          ],
+          [
+            "Kostot publike",
+            "Kush paguan infrastrukturën, mbrojtjen dhe mirëmbajtjen?"
+          ],
+          [
+            "Përfitimi publik",
+            "Çfarë përfitimi të garantuar u mbetet banorëve?"
+          ]
+        ],
+        "caption": "Pyetje për vlerësimin e projektit në Sazan. Nuk janë konstatime shkeljesh apo vlerësime të kontratës përfundimtare.",
+        "alt": "Çfarë do ta dëshmonte përfitimin publik. Pasuria publike: Çfarë jepet dhe me çfarë vlere të verifikuar? Kostot publike: Kush paguan infrastrukturën, mbrojtjen dhe mirëmbajtjen? Përfitimi publik: Çfarë përfitimi të garantuar u mbetet banorëve?",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

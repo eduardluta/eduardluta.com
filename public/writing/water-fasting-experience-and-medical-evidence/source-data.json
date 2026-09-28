@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-09-28",
+  "exampleStartHour": 12,
+  "exampleEndHour": 18,
+  "eatingWindowHours": 6,
+  "remainingHours": 18,
+  "recommendedRegimen": false
+}
