@@ -1,6 +1,6 @@
 # Video articles through the Codex desktop account
 
-Prepared 23 September 2026. Eduard has given standing authorization to finish and publish video articles from start to finish after the checks below pass. The native hourly heartbeat **Publish new video articles** (automation ID `publish-new-video-articles`) is **ACTIVE** in this task. Tool creation and the saved `automation.toml` were verified. Pilot release `db62113` is successfully deployed on Railway. Both live language pages, 18 linked assets, indexability, canonicals, language alternates, structured data, sitemap and RSS were verified on 23 September 2026. On 28 September 2026, Eduard reported that he had requested Google indexing for the published articles. Treat that as a user-reported submission; actual indexing is not confirmed.
+Prepared 23 September 2026. Eduard has given standing authorization to finish and publish video articles from start to finish after the checks below pass. The native daily heartbeat **Publish new video articles** (automation ID `publish-new-video-articles`) is **ACTIVE** in this task. The saved schedule was verified: daily at 09:00 Europe/Berlin, following Eduard’s frequency change on 28 September 2026. Pilot release `db62113` is successfully deployed on Railway. Both live language pages, 18 linked assets, indexability, canonicals, language alternates, structured data, sitemap and RSS were verified on 23 September 2026. On 28 September 2026, Eduard reported that he had requested Google indexing for the published articles. Treat that as a user-reported submission; actual indexing is not confirmed.
 
 ## Account and model
 
@@ -8,13 +8,13 @@ Use Codex in the desktop app, signed in with Eduard's existing ChatGPT account. 
 
 Requested model: **GPT-6 Astra (`gpt-6-astra`), High reasoning (`high`)**. The native `send_message_to_thread` tool accepted those settings for the initial workflow follow-up in this task. The heartbeat configuration has no model/reasoning fields, and persistent model inheritance for later heartbeat runs has not been verified. Do not describe every future run as guaranteed to use Astra High until that behavior is confirmed. A saved instruction naming a model cannot change runtime settings by itself. A standalone scheduled task, if Eduard later chooses one, should explicitly save the requested model and reasoning settings.
 
-Keep the computer on, the desktop app running, and this project available. Do not promise work while the computer is asleep or the app is closed. Eduard requires missed work to catch up when the app is available again. The active hourly heartbeat resumes from durable state on its next available scheduled execution after reopening. An immediate app-open trigger has not been verified, and no supported control for enabling one has been established; do not promise that reopening the app starts the workflow immediately.
+Keep the computer on, the desktop app running, and this project available. Do not promise work while the computer is asleep or the app is closed. Eduard requires missed work to catch up when the app is available again. The active daily heartbeat resumes from durable state on its next available scheduled execution after reopening. An immediate app-open trigger has not been verified, and no supported control for enabling one has been established; do not promise that reopening the app starts the workflow immediately.
 
 Codex uses its supported cached sign-in. Do not copy account cookies or OAuth tokens into this website, Railway, GitHub, or a custom API proxy. TikTok and Google sign-ins, when needed, are separate from the OpenAI account.
 
 ## Discover new videos without a TikTok API
 
-The active native hourly heartbeat **Publish new video articles** checks the public `@eduardluta` TikTok profile in this task while the desktop workflow can run. Eduard can also paste a published video link into this task. A configured schedule does not establish that discovery or publication has already succeeded; record the results of actual runs separately.
+The active native daily heartbeat **Publish new video articles** checks the public `@eduardluta` TikTok profile in this task while the desktop workflow can run. Eduard can also paste a published video link into this task. A configured schedule does not establish that discovery or publication has already succeeded; record the results of actual runs separately.
 
 Browser discovery is best effort: login prompts, unavailable posts, and CAPTCHA can interrupt it. Use the normal browser session. Stop and report an actionable source-access problem instead of bypassing access controls or treating the absence of accessible results as proof that no new videos exist.
 
@@ -58,7 +58,7 @@ At every available execution, first load unfinished/failed records for retry, sk
 
 Advance the discovery watermark only after the entire intended scan has completed successfully. Failed requests, login/CAPTCHA interruptions, inaccessible results, or partial pagination must not advance it or be treated as an empty successful scan. Persist verified per-video progress as it happens so a restart can resume safely, but do not mark a failed step, deployment, or article complete. Retry unfinished records even when they are older than the discovery watermark. Excluded records are terminal and are never retried without renewed user authorization. A run that cannot finish must leave durable state that makes the remaining work visible to the next run.
 
-The hourly native heartbeat is active. Catch-up runs on its next available scheduled execution after downtime. This is not a verified immediate app-open trigger. Preserve the durable state and retry rules regardless of when the scheduler next executes; scheduling activation is separate from successful discovery, publication, and Google indexing.
+The daily native heartbeat is active. Catch-up runs on its next available scheduled execution after downtime. This is not a verified immediate app-open trigger. Preserve the durable state and retry rules regardless of when the scheduler next executes; scheduling activation is separate from successful discovery, publication, and Google indexing.
 
 ## Finish and publish each article
 

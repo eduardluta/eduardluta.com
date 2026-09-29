@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "id": "7690629850951929109",
+      "slug": "cologne-dragon-statue-albanian-plis",
+      "publishedAt": "2026-09-28T16:51:48+00:00",
+      "durationSeconds": 42,
+      "url": "https://www.tiktok.com/@eduardluta/video/7690629850951929109"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "cologne-dragon-statue-albanian-plis",
+      "name": "reading-an-object",
+      "type": "cards",
+      "en": {
+        "title": "Three questions before the story",
+        "subtitle": "A familiar shape is a starting point for a question",
+        "items": [
+          [
+            "Material",
+            "What is it made from, and how was it made?"
+          ],
+          [
+            "Marks",
+            "Is there a signature, stamp or maker’s label?"
+          ],
+          [
+            "Date",
+            "When was this object made—not just the scene it depicts?"
+          ]
+        ],
+        "caption": "A short looking guide inspired by ICOM’s Object ID categories. These questions do not identify the shop figure.",
+        "alt": "Three questions before the story. Material: What is it made from, and how was it made?. Marks: Is there a signature, stamp or maker’s label?. Date: When was this object made—not just the scene it depicts?.",
+        "foot": "Adapted from ICOM Object ID; not the complete checklist."
+      },
+      "sq": {
+        "title": "Tri pyetje para tregimit",
+        "subtitle": "Një formë e njohur është fillimi i një pyetjeje",
+        "items": [
+          [
+            "Materiali",
+            "Nga çfarë është bërë dhe me çfarë teknike?"
+          ],
+          [
+            "Shenjat",
+            "A ka nënshkrim, vulë apo etiketë të prodhuesit?"
+          ],
+          [
+            "Data",
+            "Kur është bërë objekti, jo vetëm cilën kohë paraqet?"
+          ]
+        ],
+        "caption": "Udhëzues i shkurtër i frymëzuar nga kategoritë Object ID të ICOM. Këto pyetje nuk e identifikojnë figurën në dyqan.",
+        "alt": "Tri pyetje para tregimit. Materiali: Nga çfarë është bërë dhe me çfarë teknike?. Shenjat: A ka nënshkrim, vulë apo etiketë të prodhuesit?. Data: Kur është bërë objekti, jo vetëm cilën kohë paraqet?.",
+        "foot": "Përshtatur nga ICOM Object ID; jo lista e plotë."
+      }
+    }
+  ]
+}

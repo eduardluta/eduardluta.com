@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-09-29",
+  "videoId": "7690629850951929109",
+  "sourceUrl": "https://www.tiktok.com/@eduardluta/video/7690629850951929109",
+  "videoReview": {
+    "durationSeconds": 42,
+    "meaning": "Shop discovery: dragon for Edon; joking resemblance between a figure’s cap and an Albanian plis.",
+    "numericPriceVerified": false,
+    "shopIdentityVerified": false,
+    "statueIdentityVerified": false,
+    "statueMaterialVerified": false,
+    "purchaseCompletedVerified": false
+  },
+  "museumReferences": [
+    {
+      "institution": "British Museum",
+      "objectId": "Eu2004,03.10",
+      "url": "https://www.britishmuseum.org/collection/object/H_Eu2004-03-10",
+      "object": "Seamless cream wool-felt cap",
+      "date": "1900–1960",
+      "purchasePlace": "Peć / Peja market",
+      "purchaseYear": 1960,
+      "productionPlace": "Kosovo (?)",
+      "uncertainProductionPlace": true
+    },
+    {
+      "institution": "The Metropolitan Museum of Art",
+      "objectId": "08.2.4",
+      "url": "https://www.metmuseum.org/art/collection/search/248012",
+      "object": "Greek bronze helmet of the pilos type",
+      "date": "5th century BCE or later",
+      "credit": "Rogers Fund, 1908",
+      "imageRights": "Public Domain",
+      "imageSource": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/248012/537108/main-image"
+    }
+  ],
+  "editorialGuideSource": "https://icom.museum/en/resources/standards-guidelines/objectid/",
+  "guideIsCompleteObjectIdChecklist": false,
+  "identifiesShopStatue": false,
+  "claimsDirectHistoricalLineage": false,
+  "calculation": "not_applicable_no_verified_numeric_price",
+  "assets": {
+    "video-thumbnail.jpg": "Original TikTok poster, unchanged",
+    "thumb.webp": "Cropped original poster for article cards",
+    "warrior-still.jpg": "Frame at 35 seconds from original video",
+    "met-pilos-helmet.jpg": "Resized Met Open Access image, Public Domain"
+  }
+}
