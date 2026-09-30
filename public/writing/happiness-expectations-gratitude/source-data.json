@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-09-30",
+  "videoId": "7691047395676785940",
+  "sourceUrl": "https://www.tiktok.com/@eduardluta/video/7691047395676785940",
+  "originalFormula": "happiness = expectations - reality",
+  "editorialCorrection": "surprise gap = actual outcome - expected outcome",
+  "isCompleteHappinessEquation": false,
+  "scenario": {
+    "invented": true,
+    "unit": "game points",
+    "actual": [
+      50,
+      50,
+      50
+    ],
+    "expected": [
+      20,
+      50,
+      80
+    ],
+    "gap": [
+      30,
+      0,
+      -30
+    ],
+    "gapChangeFromHighToLowExpectation": 60,
+    "formula": "actual - expected",
+    "chartBarsRepresent": "actual points received",
+    "notHappinessScores": true
+  },
+  "research": {
+    "rutledge2014": {
+      "url": "https://rutledgelab.org/happinessequation",
+      "doi": "10.1073/pnas.1407535111",
+      "initialLaboratoryParticipants": 26,
+      "smartphoneParticipants": 18420,
+      "scope": "Momentary self-reported happiness during reward tasks, not overall life satisfaction",
+      "model": "Recent certain rewards, expected values and reward prediction errors with temporal weighting"
+    },
+    "replication2021": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33632071/",
+      "finding": "Preregistered behavioural replication mostly confirmed the original findings"
+    },
+    "expectationsCommentary2021": {
+      "url": "https://www.ucl.ac.uk/news/2021/may/opinion-there-happiness-equation-heres-how-were-trying-find-out",
+      "finding": "Anticipation matters before outcomes; realistic expectations rather than blanket pessimism"
+    },
+    "gratitude2003": {
+      "url": "https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf",
+      "doi": "10.1037/0022-3514.84.2.377",
+      "experiments": 3,
+      "finding": "Benefits on several but not all outcomes; positive affect the most robust finding"
+    }
+  },
+  "editorialPromptsAreValidatedIntervention": false,
+  "assets": {
+    "video-thumbnail.jpg": "Original TikTok poster, unchanged",
+    "thumb.webp": "Crop of the original poster; creator portrait"
+  }
+}

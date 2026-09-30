@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "id": "7691047395676785940",
+      "slug": "happiness-expectations-gratitude",
+      "publishedAt": "2026-09-29T19:52:10+00:00",
+      "durationSeconds": 54,
+      "url": "https://www.tiktok.com/@eduardluta/video/7691047395676785940"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "happiness-expectations-gratitude",
+      "name": "same-result-different-expectations",
+      "type": "bars",
+      "values": [
+        50,
+        50,
+        50
+      ],
+      "en": {
+        "title": "Same result. Different surprise.",
+        "subtitle": "Invented game example. Bars show points received; gap = received − expected. These are not happiness scores.",
+        "labels": [
+          "Expected 20 points",
+          "Expected 50 points",
+          "Expected 80 points"
+        ],
+        "display": [
+          "Received 50 · gap +30",
+          "Received 50 · gap 0",
+          "Received 50 · gap −30"
+        ],
+        "foot": "Units: game points. No measured happiness gain.",
+        "caption": "Each round ends at 50 points; only the expected result changes.",
+        "alt": "Same result. Different surprise. Expected 20 points: Received 50 · gap +30; Expected 50 points: Received 50 · gap 0; Expected 80 points: Received 50 · gap −30"
+      },
+      "sq": {
+        "title": "I njëjti rezultat. Befasi e ndryshme.",
+        "subtitle": "Shembull i sajuar loje. Shiritat tregojnë pikët e marra; diferenca = more − prite. Këto nuk janë pikë lumturie.",
+        "labels": [
+          "Prite 20 pikë",
+          "Prite 50 pikë",
+          "Prite 80 pikë"
+        ],
+        "display": [
+          "More 50 · diferenca +30",
+          "More 50 · diferenca 0",
+          "More 50 · diferenca −30"
+        ],
+        "foot": "Njësia: pikë loje. Pa rritje të matur të lumturisë.",
+        "caption": "Çdo raund mbaron me 50 pikë; ndryshon vetëm rezultati i pritur.",
+        "alt": "I njëjti rezultat. Befasi e ndryshme. Prite 20 pikë: More 50 · diferenca +30; Prite 50 pikë: More 50 · diferenca 0; Prite 80 pikë: More 50 · diferenca −30"
+      }
+    },
+    {
+      "slug": "happiness-expectations-gratitude",
+      "name": "gratitude-and-ambition",
+      "type": "cards",
+      "en": {
+        "title": "Keep the goal. Check the demand.",
+        "subtitle": "Gratitude can sit beside unfinished work",
+        "items": [
+          [
+            "The goal",
+            "What do I want to build or improve?"
+          ],
+          [
+            "The expectation",
+            "What am I assuming must happen before today can count?"
+          ],
+          [
+            "The gratitude",
+            "What is already here that I would miss if it disappeared?"
+          ]
+        ],
+        "caption": "A reflection exercise drawn from the video’s message, not a measured intervention.",
+        "alt": "Keep the goal. Check the demand. The goal: What do I want to build or improve. The expectation: What am I assuming must happen before today can count. The gratitude: What is already here that I would miss if it disappeared.",
+        "foot": "Editorial prompts; no promised happiness gain."
+      },
+      "sq": {
+        "title": "Mbaje synimin. Shqyrto kërkesën.",
+        "subtitle": "Mirënjohja mund të bashkëjetojë me punën e papërfunduar",
+        "items": [
+          [
+            "Synimi",
+            "Çfarë dua të ndërtoj apo të përmirësoj?"
+          ],
+          [
+            "Pritshmëria",
+            "Çfarë po kërkoj të ndodhë patjetër që dita e sotme të ketë vlerë?"
+          ],
+          [
+            "Mirënjohja",
+            "Çfarë kam tani që do të më mungonte po të mos ishte?"
+          ]
+        ],
+        "caption": "Ushtrim reflektimi nga mesazhi i videos, jo ndërhyrje e matur në studim.",
+        "alt": "Mbaje synimin. Shqyrto kërkesën. Synimi: Çfarë dua të ndërtoj apo të përmirësoj. Pritshmëria: Çfarë po kërkoj të ndodhë patjetër që dita e sotme të ketë vlerë. Mirënjohja: Çfarë kam tani që do të më mungonte po të mos ishte.",
+        "foot": "Pyetje për reflektim; pa premtim për rritje lumturie."
+      }
+    }
+  ]
+}
