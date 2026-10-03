@@ -67,7 +67,7 @@ export const ui = {
     'social.title': 'Social',
     'social.subtitle': 'Straight from my feeds — X & TikTok, one place.',
     'social.description':
-      "Eduard Luta across X and TikTok — one place for the feeds.",
+      'Eduard Luta across social media, television, and radio — posts and appearances in one place.',
 
     'article.back': '← Writing',
     'article.backToWriting': 'Back to all writing',
@@ -137,7 +137,7 @@ export const ui = {
     'social.title': 'Rrjetet',
     'social.subtitle': 'Drejt nga rrjetet e mia — X & TikTok, në një vend.',
     'social.description':
-      'Eduard Luta në X dhe TikTok — të gjitha rrjetet në një vend.',
+      'Eduard Luta në rrjete sociale, televizion dhe radio — postime dhe intervista në një vend.',
 
     'article.back': '← Shkrime',
     'article.backToWriting': 'Kthehu te të gjitha shkrimet',

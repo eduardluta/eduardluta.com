@@ -3,6 +3,7 @@ import '../../styles/social-page.css';
 import { social, useTranslations, type Lang } from '../../i18n/ui';
 import { localizePath } from '../../i18n/utils';
 import { getSocialFeed } from '../../lib/social';
+import { mediaAppearances } from '../../data/media';
 import SocialCard from '../SocialCard.astro';
 
 interface Props {
@@ -15,12 +16,18 @@ const copy = {
   en: {
     title: 'The everyday,',
     titleAccent: 'in between.',
-    introduction: 'Small observations, conversations, and moments from life and work. Collected here from X and TikTok.',
+    introduction: 'Small observations, conversations, and moments from life and work. From my social feeds and conversations on air.',
     profiles: 'Find me here',
     note: 'Some thoughts become essays. Others start with a conversation.',
     feed: 'From the feeds',
     feedNote: 'Each post opens where it was shared.',
     empty: 'The feed is quiet for now. You can find my latest posts through the links here.',
+    mediaLabel: 'TV & media',
+    mediaTitle: 'Conversations on air.',
+    mediaNote: 'A selection of interviews and conversations from television and radio.',
+    mediaVideo: 'Video',
+    mediaShort: 'Short clip',
+    mediaWatch: 'Watch on YouTube',
     writingTitle: 'For the longer version.',
     writingNote: 'Essays on the questions that stay with me.',
     writingLink: 'Explore my writing',
@@ -28,12 +35,18 @@ const copy = {
   sq: {
     title: 'Përditshmëria,',
     titleAccent: 'mes gjithë të tjerave.',
-    introduction: 'Vëzhgime të vogla, biseda dhe çaste nga jeta e puna. Të mbledhura këtu nga X dhe TikTok.',
+    introduction: 'Vëzhgime të vogla, biseda dhe çaste nga jeta e puna. Nga rrjetet e mia dhe bisedat në televizion e radio.',
     profiles: 'Më gjen këtu',
     note: 'Disa mendime bëhen ese. Të tjerat fillojnë me një bisedë.',
     feed: 'Nga rrjetet',
     feedNote: 'Çdo postim hapet aty ku është ndarë.',
     empty: 'Për momentin nuk ka postime këtu. Postimet e mia të fundit mund t’i gjesh përmes lidhjeve në këtë faqe.',
+    mediaLabel: 'TV & media',
+    mediaTitle: 'Biseda në ekran e në radio.',
+    mediaNote: 'Disa intervista dhe biseda nga televizioni dhe radioja.',
+    mediaVideo: 'Video',
+    mediaShort: 'Video e shkurtër',
+    mediaWatch: 'Shiko në YouTube',
     writingTitle: 'Kur mendimi kërkon më shumë.',
     writingNote: 'Ese për pyetjet që më mbeten në mendje.',
     writingLink: 'Zbulo shkrimet e mia',
@@ -79,6 +92,32 @@ const profiles = [
       )}
     </section>
   </div>
+
+  <section class="social-media-section" aria-labelledby="social-media-title">
+    <div class="social-media-heading">
+      <div>
+        <p class="page-kicker">{copy.mediaLabel}</p>
+        <h2 id="social-media-title">{copy.mediaTitle}</h2>
+      </div>
+      <p>{copy.mediaNote}</p>
+    </div>
+    <div class="social-media-grid">
+      {mediaAppearances.map((appearance) => (
+        <a class="social-media-card" href={appearance.url} target="_blank" rel="noopener noreferrer">
+          <span class="social-media-image">
+            <img src={appearance.image} alt="" width="1280" height="720" loading="lazy" decoding="async" />
+            <span class="social-media-play" aria-hidden="true">▶</span>
+          </span>
+          <span class="social-media-meta">
+            <span>{appearance.outlet}</span>
+            <span>{appearance.format === 'short' ? copy.mediaShort : copy.mediaVideo}</span>
+          </span>
+          <span class="social-media-program">{appearance.program}</span>
+          <span class="social-media-watch">{copy.mediaWatch}<span aria-hidden="true">↗</span></span>
+        </a>
+      ))}
+    </div>
+  </section>
 
   <section class="social-writing-note" aria-labelledby="social-writing-title">
     <div>
