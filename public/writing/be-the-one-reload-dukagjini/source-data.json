@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-03",
+  "videoId": "7692168976784215317",
+  "scenario": {
+    "illustrative": true,
+    "minutesPerDay": 10,
+    "days": [
+      7,
+      30,
+      90
+    ],
+    "minutes": [
+      70,
+      300,
+      900
+    ],
+    "hours": [
+      1.1666666666666667,
+      5,
+      15
+    ],
+    "missedDays": 0,
+    "predictedHealthOrRelationshipOutcome": false
+  },
+  "productAvailability": {
+    "videoCaption": "beta testing",
+    "publicJoinPage": "invitation list; app not yet open",
+    "checkedAt": "2026-10-03"
+  },
+  "sources": [
+    "https://bethe.one/",
+    "https://bethe.one/join",
+    "https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally"
+  ]
+}

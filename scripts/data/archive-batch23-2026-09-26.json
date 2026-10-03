@@ -1,0 +1,228 @@
+{
+  "articles": [
+    {
+      "id": "7692168976784215317",
+      "slug": "be-the-one-reload-dukagjini",
+      "publishedAt": "2026-10-02T20:24:21+00:00",
+      "durationSeconds": 55,
+      "url": "https://www.tiktok.com/@eduardluta/video/7692168976784215317"
+    },
+    {
+      "id": "7692045736980040981",
+      "slug": "grief-returning-to-life-after-loss",
+      "publishedAt": "2026-10-02T12:26:05+00:00",
+      "durationSeconds": 138,
+      "url": "https://www.tiktok.com/@eduardluta/video/7692045736980040981"
+    },
+    {
+      "id": "7691976192123047189",
+      "slug": "munich-albanian-meetup-gratitude",
+      "publishedAt": "2026-10-02T07:56:18+00:00",
+      "durationSeconds": 7,
+      "url": "https://www.tiktok.com/@eduardluta/video/7691976192123047189"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "be-the-one-reload-dukagjini",
+      "name": "six-practices",
+      "type": "cards",
+      "en": {
+        "title": "Six ways to practise showing up",
+        "subtitle": "The current Be The One product structure",
+        "items": [
+          [
+            "Higher Self",
+            "Reflect on what matters."
+          ],
+          [
+            "Body",
+            "Make room for movement."
+          ],
+          [
+            "Breathwork",
+            "Pause and pay attention."
+          ],
+          [
+            "Meditation",
+            "Return to the present."
+          ],
+          [
+            "Affirmations",
+            "Give an intention a voice."
+          ],
+          [
+            "Create",
+            "Make something of your own."
+          ]
+        ],
+        "caption": "The six practice areas shown on bethe.one, checked 3 October 2026. These describe the product, not proven health outcomes.",
+        "alt": "Six ways to practise showing up. Higher Self: Reflect on what matters. Body: Make room for movement. Breathwork: Pause and pay attention. Meditation: Return to the present. Affirmations: Give an intention a voice. Create: Make something of your own.",
+        "foot": "Source: bethe.one · Product may change during beta."
+      },
+      "sq": {
+        "title": "Gjashtë mënyra për t’u angazhuar",
+        "subtitle": "Struktura aktuale e produktit Be The One",
+        "items": [
+          [
+            "Higher Self",
+            "Reflekto për atë që ka rëndësi."
+          ],
+          [
+            "Body",
+            "Krijo hapësirë për lëvizje."
+          ],
+          [
+            "Breathwork",
+            "Ndalu dhe kushto vëmendje."
+          ],
+          [
+            "Meditation",
+            "Ktheje vëmendjen te e tashmja."
+          ],
+          [
+            "Affirmations",
+            "Jepi zë një qëllimi."
+          ],
+          [
+            "Create",
+            "Krijo diçka tënden."
+          ]
+        ],
+        "caption": "Gjashtë fushat e praktikës në bethe.one, kontrolluar më 3 tetor 2026. Përshkruajnë produktin, jo rezultate të provuara shëndetësore.",
+        "alt": "Gjashtë mënyra për t’u angazhuar. Higher Self: Reflekto për atë që ka rëndësi. Body: Krijo hapësirë për lëvizje. Breathwork: Ndalu dhe kushto vëmendje. Meditation: Ktheje vëmendjen te e tashmja. Affirmations: Jepi zë një qëllimi. Create: Krijo diçka tënden.",
+        "foot": "Burimi: bethe.one · Produkti mund të ndryshojë gjatë fazës beta."
+      }
+    },
+    {
+      "slug": "be-the-one-reload-dukagjini",
+      "name": "practice-time",
+      "type": "bars",
+      "values": [
+        70,
+        300,
+        900
+      ],
+      "en": {
+        "title": "What ten minutes can add up to",
+        "subtitle": "Illustration: 10 minutes every day, with no missed days. Time invested, not a predicted result.",
+        "labels": [
+          "7 days",
+          "30 days",
+          "90 days"
+        ],
+        "display": [
+          "70 minutes",
+          "300 minutes · 5 hours",
+          "900 minutes · 15 hours"
+        ],
+        "foot": "Illustration: 10 minutes every day, with no missed days. Time invested, not a predicted result.",
+        "caption": "Illustration: 10 minutes every day, with no missed days. Time invested, not a predicted result.",
+        "alt": "What ten minutes can add up to. 7 days: 70 minutes; 30 days: 300 minutes · 5 hours; 90 days: 900 minutes · 15 hours"
+      },
+      "sq": {
+        "title": "Sa bëhen dhjetë minuta në ditë",
+        "subtitle": "Shembull: 10 minuta çdo ditë, pa mungesa. Kohë e kushtuar, jo rezultat i parashikuar.",
+        "labels": [
+          "7 ditë",
+          "30 ditë",
+          "90 ditë"
+        ],
+        "display": [
+          "70 minuta",
+          "300 minuta · 5 orë",
+          "900 minuta · 15 orë"
+        ],
+        "foot": "Shembull: 10 minuta çdo ditë, pa mungesa. Kohë e kushtuar, jo rezultat i parashikuar.",
+        "caption": "Shembull: 10 minuta çdo ditë, pa mungesa. Kohë e kushtuar, jo rezultat i parashikuar.",
+        "alt": "Sa bëhen dhjetë minuta në ditë. 7 ditë: 70 minuta; 30 ditë: 300 minuta · 5 orë; 90 ditë: 900 minuta · 15 orë"
+      }
+    },
+    {
+      "slug": "grief-returning-to-life-after-loss",
+      "name": "remember-and-live",
+      "type": "cards",
+      "en": {
+        "title": "Two things can belong in the same day",
+        "subtitle": "Returning to life does not require forgetting",
+        "items": [
+          [
+            "Remember the person",
+            "A memory can have a place without filling every moment."
+          ],
+          [
+            "Care for the life still here",
+            "One ordinary action can coexist with missing someone."
+          ]
+        ],
+        "caption": "An editorial illustration of the video’s central idea. These are not stages, a treatment plan or a recovery deadline.",
+        "alt": "Two things can belong in the same day. Remember the person: A memory can have a place without filling every moment. Care for the life still here: One ordinary action can coexist with missing someone.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dy gjëra mund të kenë vend në të njëjtën ditë",
+        "subtitle": "Kthimi në jetë nuk kërkon harresë",
+        "items": [
+          [
+            "Kujto personin",
+            "Një kujtim mund të ketë vend pa e mbushur çdo çast."
+          ],
+          [
+            "Kujdesu për jetën që vazhdon",
+            "Një veprim i zakonshëm mund të bashkëjetojë me mallin."
+          ]
+        ],
+        "caption": "Ilustrim editorial i idesë qendrore të videos. Këto nuk janë faza, plan trajtimi apo afat shërimi.",
+        "alt": "Dy gjëra mund të kenë vend në të njëjtën ditë. Kujto personin: Një kujtim mund të ketë vend pa e mbushur çdo çast. Kujdesu për jetën që vazhdon: Një veprim i zakonshëm mund të bashkëjetojë me mallin.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "munich-albanian-meetup-gratitude",
+      "name": "after-meeting",
+      "type": "cards",
+      "en": {
+        "title": "Give a good meeting a next step",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Remember",
+            "Keep one detail from the conversation."
+          ],
+          [
+            "Reconnect",
+            "Send a personal thank-you, if contact was welcomed."
+          ],
+          [
+            "Return",
+            "Choose a shared activity you would both enjoy."
+          ]
+        ],
+        "caption": "An editorial follow-up guide inspired by the clip. It does not describe measured results or what every participant did.",
+        "alt": "Give a good meeting a next step. Remember: Keep one detail from the conversation. Reconnect: Send a personal thank-you, if contact was welcomed. Return: Choose a shared activity you would both enjoy.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi një takim të bukur edhe një hap",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Mbaje mend",
+            "Ruaje një detaj nga biseda."
+          ],
+          [
+            "Lidhu përsëri",
+            "Dërgo një falënderim personal, nëse kontakti ishte i mirëpritur."
+          ],
+          [
+            "Takohu prapë",
+            "Zgjidh një aktivitet që do t’ju pëlqente të dyve."
+          ]
+        ],
+        "caption": "Udhëzues editorial i frymëzuar nga videoja. Nuk përshkruan rezultate të matura apo atë që bëri secili pjesëmarrës.",
+        "alt": "Jepi një takim të bukur edhe një hap. Mbaje mend: Ruaje një detaj nga biseda. Lidhu përsëri: Dërgo një falënderim personal, nëse kontakti ishte i mirëpritur. Takohu prapë: Zgjidh një aktivitet që do t’ju pëlqente të dyve.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}

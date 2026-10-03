@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-03",
+  "videoId": "7692045736980040981",
+  "evidence": "Full audio transcribed in Albanian and visual frames reviewed; transcript used for meaning, not verbatim quotation. No identity of a deceased person is asserted.",
+  "clinicalDistinctions": {
+    "griefEqualsDepression": false,
+    "canCoexist": true,
+    "fixedRecoveryDeadline": false,
+    "activityIsGuaranteedTreatment": false
+  },
+  "visualType": "editorial illustration; not clinical model",
+  "sources": [
+    "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+    "https://www.psychiatry.org/patients-families/depression/what-is-depression",
+    "https://www.telefonseelsorge.de/telefon/"
+  ]
+}
