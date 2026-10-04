@@ -20,9 +20,8 @@ video:
   poster: /writing/talent-needs-practice-not-endless-hours/video-thumbnail.jpg
   posterAlt: Eduardi jashtë me bluzë të errët, në videon origjinale për talentin dhe punën.
   seo:
-    name: Talenti kërkon praktikë, jo orë pa fund
-    description: Si fëmijë doja talent të veçantë. Kjo video flet për punën, me një krahasim praktik kohe dhe një
-      kufi për mesazhin e orëve të gjata.
+    name: "Talenti dhe puna për ta vënë në përdorim"
+    description: "Eduardi kujton dëshirën e fëmijërisë për një talent të veçantë dhe reflekton për vlerën e punës, zgjidhjes së problemeve dhe përdorimit të aftësive."
     uploadDate: '2026-05-30T17:46:36+00:00'
     durationSeconds: 70
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta duke folur për politikat e COVID-it jashtë, para pemëve me gjethe.
   seo:
     name: Reagimi im ndaj politikave të COVID-it dhe njoftimit të qershorit
-    description: Eduardi diskuton autonominë trupore, kufizimet e COVID-it dhe njoftimin e inteligjencës. Pohimet
-      mjekësore shqyrtohen në artikullin shoqërues.
+    description: "Eduardi flet për autonominë trupore, kufizimet gjatë pandemisë dhe mosbesimin e tij ndaj shpjegimeve zyrtare për COVID-in."
     uploadDate: '2026-06-20T08:35:52+00:00'
     durationSeconds: 179
     language: sq

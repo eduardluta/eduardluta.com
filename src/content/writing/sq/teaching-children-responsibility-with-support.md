@@ -18,9 +18,8 @@ video:
   poster: /writing/teaching-children-responsibility-with-support/video-thumbnail.jpg
   posterAlt: 'Miniatura origjinale e TikTok-ut: Eduardi dhe Marini duke qeshur bashkë jashtë.'
   seo:
-    name: Si t’ia mësosh fëmijës përgjegjësinë me mbështetje
-    description: 'Një bisedë me Marinin hap pyetjen si mësohet përgjegjësia: detyra të përballueshme, praktikë,
-      kërkim ndihme dhe një i rritur që mbetet pranë.'
+    name: "Një çast lozonjar me Marinin për përgjegjësinë"
+    description: "Eduardi dhe Marini flasin e qeshin jashtë në një klip lozonjar, përshkrimi i të cilit e paraqet përgjegjësinë si një prej mësimeve të para të Marinit."
     uploadDate: '2026-09-18T17:34:48+00:00'
     durationSeconds: 26
     language: sq

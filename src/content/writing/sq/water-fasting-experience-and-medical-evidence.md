@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta duke iu përgjigjur pyetjes së një shikuesi për përvojën me agjërimin me ujë.
   seo:
     name: Përgjigje për përvojën time me agjërimin
-    description: Eduardi përshkruan përvojën personale me agjërimin, fokusin dhe reflektimet shpirtërore. Artikulli
-      verifikon pohimet mjekësore të pambështetura në regjistrim.
+    description: "Eduardi u përgjigjet pyetjeve të një shikuesi për rutinën e agjërimit dhe përshkruan përjetimet e urisë, fokusit, meditimit dhe reflektimit shpirtëror."
     uploadDate: '2026-06-04T19:19:05+00:00'
     durationSeconds: 595
     language: sq

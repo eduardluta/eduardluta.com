@@ -20,9 +20,8 @@ video:
   poster: /writing/cancer-meaning-emotions-without-blame/video-thumbnail.jpg
   posterAlt: Eduardi jashtë gjatë natës me këmishë të gjelbër, në videon origjinale për nënën dhe kancerin.
   seo:
-    name: 'Kanceri, kuptimi dhe emocionet: shpresë pa fajësim'
-    description: Çfarë më mësuan bisedat me të mbijetuarit e kancerit për kuptimin, dhe pse mbështetja emocionale
-      nuk duhet të kthehet në fajësim apo premtim shërimi.
+    name: "Reflektime pas bisedave me të mbijetuar të kancerit"
+    description: "Eduardi rrëfen biseda me të mbijetuar të kancerit për ndryshimet në jetën e tyre dhe ndan interpretimin personal të një të mbijetuari për sëmundjen dhe emocionet."
     uploadDate: '2026-07-23T22:13:16+00:00'
     durationSeconds: 178
     language: sq

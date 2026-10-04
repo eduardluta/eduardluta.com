@@ -20,9 +20,8 @@ video:
   poster: /writing/first-supporter-and-a-real-business-test/video-thumbnail.jpg
   posterAlt: The original video cover showing Elon Musk, a rocket and Albanian text about a first follower.
   seo:
-    name: One Believer Is a Start. Then Test the Idea.
-    description: A book about Elon Musk led me to the first-supporter question. Here is how to separate encouragement
-      from demand, with a worked example of a small business test.
+    name: "Finding one person who believes in a new idea"
+    description: "After reading about Elon Musk, Eduard reflects on change and suggests finding one experienced supporter for a new idea instead of waiting for everyone's encouragement."
     uploadDate: '2026-06-22T05:58:50+00:00'
     durationSeconds: 124
     language: sq

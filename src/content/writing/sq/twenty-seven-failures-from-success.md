@@ -18,8 +18,7 @@ video:
   posterAlt: Miniatura origjinale e eksperimentit mendor të Eduardit për 27 dështime larg suksesit.
   seo:
     name: Po sikur të ishe 27 dështime larg suksesit?
-    description: Numri në videon time është eksperiment mendor. Si ta kthesh frikën nga dështimi në një përpjekje
-      të dobishme, pa premtuar sukses.
+    description: "Eduardi i fton shikuesit të përfytyrojnë sikur janë njëzet e shtatë dështime larg suksesit më të madh dhe si ai mendim mund ta ndryshojë të nesërmen."
     uploadDate: '2026-06-29T21:39:36+00:00'
     durationSeconds: 12
     language: sq

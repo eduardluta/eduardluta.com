@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard wearing a green cap, white polo and dark hoodie, recording himself inside a car.
   seo:
     name: 'Why I Started Posting: Finding My Own Voice'
-    description: I began making videos to speak more freely and to reach the sixteen-to-eighteen-year-old version
-      of myself. A note on experience, honesty and changing your mind.
+    description: "I began making videos to speak more freely and to reach the sixteen-to-eighteen-year-old version of myself."
     uploadDate: '2026-05-19T18:04:35+00:00'
     durationSeconds: 130
     language: sq

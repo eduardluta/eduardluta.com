@@ -20,9 +20,8 @@ video:
   poster: /writing/playfulness-without-losing-responsibility/video-thumbnail.jpg
   posterAlt: Original TikTok thumbnail of Eduard smiling outdoors and making a peace sign.
   seo:
-    name: Being Childlike Without Giving Up Responsibility
-    description: 'A short video about feeling playful again becomes a reflection on adult playfulness: what research
-      suggests, what it cannot prove, and a small way to try it.'
+    name: "Wanting to Be a Child Again"
+    description: "Eduard smiles and makes a peace sign in a short clip whose caption connects feeling closer to healing with wanting to be a child again."
     uploadDate: '2026-09-22T16:47:58+00:00'
     durationSeconds: 8
     language: sq

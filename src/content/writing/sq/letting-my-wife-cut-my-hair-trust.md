@@ -18,8 +18,7 @@ video:
   posterAlt: Miniatura origjinale që shoqëron shakanë e Eduardit për t’ia besuar gruas prerjen e flokëve.
   seo:
     name: 'Kur gruaja t’i pret flokët: Një shaka e vogël për pjekurinë'
-    description: Një shaka dymbëdhjetësekondëshe për flokët, martesën dhe nevojën për miratimin e të tjerëve. Ideja
-      është besimi, jo test burrërie.
+    description: "Në një klip dymbëdhjetësekondësh, Eduardi bën shaka se pjekuria është të mos kesh më nevojë për miratimin e të gjithëve dhe ta lejosh gruan të t’i presë flokët."
     uploadDate: '2026-08-31T14:41:59+00:00'
     durationSeconds: 12
     language: sq

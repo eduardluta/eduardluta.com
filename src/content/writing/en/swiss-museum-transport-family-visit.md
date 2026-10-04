@@ -23,9 +23,8 @@ video:
   posterAlt: Original TikTok thumbnail from the family visit, showing a blue mirrored installation at the Swiss
     Museum of Transport.
   seo:
-    name: 'Swiss Museum of Transport: A Family Visit and the Ticket Maths'
-    description: 'A family visit to the Swiss Museum of Transport in Lucerne, plus a full ticket comparison: CHF106
-      museum entry or CHF182 day passes for an example family.'
+    name: "A Family Visit to the Swiss Museum of Transport"
+    description: "During a family visit to the Swiss Museum of Transport, Eduard reflects on how looking, playing and learning together create new conversations."
     uploadDate: '2026-09-20T20:20:40+00:00'
     durationSeconds: 36
     language: sq

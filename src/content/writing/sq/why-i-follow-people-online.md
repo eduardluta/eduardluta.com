@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi duke folur në videon origjinale për arsyet pse i ndjek njerëzit online.
   seo:
     name: 'Pse i ndjek njerëzit online: Më jep një ide'
-    description: 'Pse i ndjek ose nuk i ndjek më njerëzit online: ide, punë me vlerë dhe lidhje të sinqerta, me
-      një mënyrë të thjeshtë për ta parë ku shkon vëmendja.'
+    description: "Eduardi shpjegon pse i ndjek njerëzit online, duke kërkuar ide, punë krijuese dhe këndvështrime përtej stileve të jetesës të paraqitura me kujdes."
     uploadDate: '2026-09-10T05:13:26+00:00'
     durationSeconds: 64
     language: sq

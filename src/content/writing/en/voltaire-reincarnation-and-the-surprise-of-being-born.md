@@ -20,8 +20,7 @@ video:
   posterAlt: Eduard walking on a residential street under a blue sky in the original video about reincarnation.
   seo:
     name: Voltaire, Reincarnation and the Surprise of Being Born
-    description: The thought about being born twice comes from a phoenix in Voltaire’s The Princess of Babylon.
-      Its context makes the question more interesting, not more certain.
+    description: "Eduard reflects on reincarnation through an idea associated with Voltaire: being born again may be no more astonishing than being born once."
     uploadDate: '2026-06-27T16:11:19+00:00'
     durationSeconds: 49
     language: sq

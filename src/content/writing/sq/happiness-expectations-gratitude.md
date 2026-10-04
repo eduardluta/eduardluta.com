@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta flet për lumturinë dhe pritshmëritë pranë një ndërtese, në rrugë gjatë mbrëmjes.
   seo:
     name: 'Lumturia dhe pritshmëritë: fillo me mirënjohjen'
-    description: Pse edhe një rezultat i mirë mund të na zhgënjejë? Videoja për lumturinë, pritshmëritë dhe mirënjohjen,
-      me llogaritjen e korrigjuar dhe hulumtimet pas idesë.
+    description: "Eduardi reflekton mbi lumturinë, pritshmëritë që rriten dhe mirënjohjen, duke iu përgjigjur një kërkese për ta shpjeguar sërish idenë."
     uploadDate: '2026-09-29T19:52:10+00:00'
     durationSeconds: 54
     language: sq

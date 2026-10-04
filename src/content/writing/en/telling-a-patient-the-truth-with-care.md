@@ -20,8 +20,7 @@ video:
   posterAlt: Eduard wearing a light green shirt, speaking inside a car about communicating with a sick family member.
   seo:
     name: Telling a Patient the Truth, With Care
-    description: 'A reflection from oncology visits with my mother: honest communication, the patient’s wishes and
-      the difference between support and deciding for someone.'
+    description: "Eduard recalls oncology visits with his mother and questions relatives’ decisions to hide a diagnosis from the person living with the illness."
     uploadDate: '2026-06-15T18:50:17+00:00'
     durationSeconds: 174
     language: sq

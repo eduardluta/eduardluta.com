@@ -21,8 +21,7 @@ video:
   posterAlt: Original video cover showing a Swiss café with curved ceiling lights, pink chairs and a cup on a table.
   seo:
     name: What Swiss Order Makes Me Want for Kosovo
-    description: A Swiss café prompts a question about everyday standards. SBB punctuality offers one measurable
-      example, with the maths and limits made explicit.
+    description: "A scene in Switzerland prompts Eduard to reflect on the peace of having things in order and what could be built in Kosovo."
     uploadDate: '2026-09-18T08:56:39+00:00'
     durationSeconds: 97
     language: sq

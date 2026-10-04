@@ -21,8 +21,7 @@ video:
     video thumbnail.
   seo:
     name: A Family Joke and an Oversized Celebration
-    description: An eight-second living-room clip uses an exaggerated celebration and a cheeky caption. A small
-      piece about enjoying the joke without inventing a family announcement.
+    description: "An eight-second family-humour clip shows Eduard celebrating on an ottoman in the living room, with a joking caption about pregnancy."
     uploadDate: '2026-07-23T14:11:47+00:00'
     durationSeconds: 8
     language: sq

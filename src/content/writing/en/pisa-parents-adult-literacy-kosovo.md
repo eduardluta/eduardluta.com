@@ -19,8 +19,7 @@ video:
   posterAlt: Original thumbnail of Eduard discussing his proposal about parents and PISA.
   seo:
     name: 'PISA and Parents: Can We Explain What We Expect Children to Know?'
-    description: My provocative suggestion to test parents opens a practical question about adult literacy, children’s
-      learning and the limits of PISA results.
+    description: "Eduard provocatively suggests testing parents too, asking whether adults can demonstrate the reading and reasoning skills they expect from children."
     uploadDate: '2026-09-10T08:36:41+00:00'
     durationSeconds: 66
     language: sq

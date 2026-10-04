@@ -1,6 +1,6 @@
 ---
 import { render } from 'astro:content';
-import { useTranslations, type Lang } from '../../i18n/ui';
+import { useTranslations, SITE_NAME, type Lang } from '../../i18n/ui';
 import { localizePath, formatDateLong, isoDate } from '../../i18n/utils';
 import type { Article } from '../../lib/writing';
 import ArticleVideo from '../ArticleVideo.astro';
@@ -22,6 +22,13 @@ const { Content } = await render(article);
 <article class:list={['article', { 'article--feature': article.data.standfirst }]}>
   {article.data.draft && <p class="article-draft">{lang === 'sq' ? 'Draft lokal · I pabotuar' : 'Local draft · Unpublished'}</p>}
   <h1 class="article-title">{article.data.title}</h1>
+  <div class="article-attribution">
+    <p>{lang === 'sq' ? 'Nga' : 'By'} <a rel="author" href={localizePath('/', lang)}>{SITE_NAME}</a></p>
+    {article.data.updated && <p>
+      {lang === 'sq' ? 'Përditësuar më' : 'Updated'}{' '}
+      <time datetime={isoDate(article.data.updated)}>{formatDateLong(article.data.updated, lang)}</time>
+    </p>}
+  </div>
   {article.data.standfirst && <p class="article-standfirst">{article.data.standfirst}</p>}
   {article.data.video && <ArticleVideo video={article.data.video} title={article.data.title} lang={lang} />}
   <div class="article-body">
@@ -34,3 +41,18 @@ const { Content } = await render(article);
     {t('article.backToWriting')} →
   </a>
 </div>
+
+<style>
+  .article-title { margin-bottom: 1rem; }
+  .article-attribution {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    margin: -0.25rem 0 1.75rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.6;
+  }
+  .article-attribution p { margin: 0; }
+  .article-attribution a { color: inherit; text-underline-offset: 0.2em; }
+</style>

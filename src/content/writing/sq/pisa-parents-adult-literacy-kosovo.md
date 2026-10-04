@@ -19,8 +19,7 @@ video:
   posterAlt: Miniatura origjinale e Eduardit duke diskutuar propozimin për prindërit dhe PISA-n.
   seo:
     name: 'PISA dhe prindërit: A dimë ta shpjegojmë atë që kërkojmë nga fëmijët?'
-    description: Sugjerimi im provokues për testimin e prindërve hap një pyetje për aftësitë e të rriturve, mësimin
-      e fëmijëve dhe kufijtë e rezultateve PISA.
+    description: "Eduardi sugjeron në mënyrë provokuese të testohen edhe prindërit, duke pyetur nëse të rriturit i tregojnë aftësitë e leximit dhe arsyetimit që presin nga fëmijët."
     uploadDate: '2026-09-10T08:36:41+00:00'
     durationSeconds: 66
     language: sq

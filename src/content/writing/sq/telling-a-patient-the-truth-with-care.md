@@ -23,8 +23,7 @@ video:
     sëmurë.
   seo:
     name: T’ia thuash të vërtetën pacientit, me kujdes
-    description: 'Reflektim nga vizitat në onkologji me nënën time: komunikimi i sinqertë, dëshirat e pacientit
-      dhe dallimi mes mbështetjes e vendimit në emër të tij.'
+    description: "Eduardi kujton vizitat në onkologji me nënën dhe vë në pikëpyetje vendimet e familjarëve për t’ia fshehur diagnozën personit që jeton me sëmundjen."
     uploadDate: '2026-06-15T18:50:17+00:00'
     durationSeconds: 174
     language: sq

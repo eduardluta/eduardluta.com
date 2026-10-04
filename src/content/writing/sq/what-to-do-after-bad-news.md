@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi flet për reagimin ndaj lajmeve të vështira.
   seo:
     name: 'Çfarë të bësh pas një lajmi të keq: Lëri vend vendimit të radhës'
-    description: 'Katër hapa nga videoja ime për lajmet e këqija: qetësohu, largohu pak kur është e sigurt, mbro
-      përditshmërinë dhe shkruaji mundësitë.'
+    description: "Eduardi flet për qetësimin pas një lajmi të keq, marrjen e pak distance, ruajtjen e përditshmërisë dhe shkrimin e hapave të mundshëm."
     uploadDate: '2026-07-31T15:59:54+00:00'
     durationSeconds: 213
     language: sq

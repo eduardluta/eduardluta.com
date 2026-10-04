@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi me bluzë polo të bardhë dhe kapelë brenda veturës, me grafikën origjinale për 94 orë agjërim.
   seo:
     name: 'Agjërimi me ujë: përditësimi pas 94 orësh'
-    description: Eduardi raporton dhimbje shpine, stërvitje dhe ndryshim të hamendësuar në peshë. Artikulli korrigjon
-      shpjegimin e pambështetur për riparimin qelizor.
+    description: "Eduardi thotë se ka arritur 94 orë pa ushqim dhe flet për stërvitjen, energjinë që ndien, dhimbjen në pjesën e poshtme të shpinës dhe një ndryshim të vlerësuar të peshës."
     uploadDate: '2026-06-02T17:56:33+00:00'
     durationSeconds: 112
     language: sq

@@ -19,8 +19,7 @@ video:
   posterAlt: Eduard discussing a follower’s question about returning to Kosovo.
   seo:
     name: 'Returning to Kosovo: Bring the Longing and a Business Plan'
-    description: A practical response to a diaspora question about returning to Kosovo, with a worked cash-runway
-      example and a distinction between belonging and business demand.
+    description: "Eduard answers a follower in Germany who wants to return to Kosovo and start a business, encouraging the move with an idea and a plan."
     uploadDate: '2026-07-30T19:53:20+00:00'
     durationSeconds: 250
     language: sq

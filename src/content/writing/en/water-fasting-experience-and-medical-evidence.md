@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta replying to a viewer’s question about his water-fasting experience.
   seo:
     name: Replying to a viewer about my fasting experience
-    description: Eduard describes his personal fasting experience, focus and spiritual reflections. The article
-      checks the recording’s unsupported medical assertions.
+    description: "Eduard answers a viewer’s questions about his fasting routine and describes his experiences of hunger, focus, meditation and spiritual reflection."
     uploadDate: '2026-06-04T19:19:05+00:00'
     durationSeconds: 595
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta discussing happiness and expectations beside a building on an evening street.
   seo:
     name: 'Happiness and Expectations: Start with Gratitude'
-    description: Why can a good result still feel disappointing? My video on happiness, expectations and gratitude,
-      with corrected maths and the research behind the idea.
+    description: "Eduard reflects on happiness, growing expectations and gratitude while answering a request to explain the idea again."
     uploadDate: '2026-09-29T19:52:10+00:00'
     durationSeconds: 54
     language: sq

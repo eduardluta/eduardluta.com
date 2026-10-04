@@ -21,8 +21,7 @@ video:
   posterAlt: Një vend i lirë parkimi me vija mes veturave në hapësirën e spitalit, nga videoja origjinale.
   seo:
     name: 'Parkimi në spitalin e Prishtinës: rruga e pacientit duhet të mbetet e lirë'
-    description: 'Një vëzhgim në parkingun e spitalit kthehet në propozim praktik: orientim për shoferët, trotuare
-      të lira dhe matje të qasjes së pacientëve.'
+    description: "Në një parking spitali në Prishtinë, Eduardi tregon makina mbi trotuar pavarësisht vendeve të lira dhe sugjeron që shoferët të udhëzohen drejt parkimit."
     uploadDate: '2026-06-16T09:44:44+00:00'
     durationSeconds: 98
     language: sq

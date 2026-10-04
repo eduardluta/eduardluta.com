@@ -21,8 +21,7 @@ video:
   posterAlt: Mönckebergbrunnen and its former reading hall in Hamburg, with Eduard speaking in a selfie inset.
   seo:
     name: 'Moin, Hamburg: Finding Our Albanian Community'
-    description: A greeting from Hamburg, the story of Mönckebergbrunnen, and what official population figures can
-      tell us about a city where we want to connect.
+    description: "Walking through Hamburg, Eduard greets the city in German and asks where to meet members of the Albanian community."
     uploadDate: '2026-09-24T11:28:09+00:00'
     durationSeconds: 22
     language: sq

@@ -18,9 +18,8 @@ video:
   poster: /writing/green-water-cagllavice-matcha-joke/video-thumbnail.jpg
   posterAlt: Bright green water and vegetation in the original Çagllavicë video, with Eduard speaking in an inset.
   seo:
-    name: '“Matcha” in Çagllavicë: What Green Water Can Tell Us'
-    description: 'A joke about green water in Çagllavicë opens a serious question: what can a video show, what requires
-      testing, and how can an observation become useful?'
+    name: "A matcha joke about green water in Çagllavicë"
+    description: "Eduard films green water in Çagllavicë near Prishtina and jokingly compares its colour to matcha in a nine-second clip."
     uploadDate: '2026-09-12T09:26:57+00:00'
     durationSeconds: 9
     language: sq

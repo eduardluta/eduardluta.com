@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi vë në pyetje zakonet që njerëzit i pranojnë si normale.
   seo:
     name: Pse “normalja” nuk është synimi im
-    description: Një sfidë ndaj zakoneve të trashëguara, duke ndarë statistikat e përgjithshme të videos nga udhëzimet
-      e verifikuara dhe zgjedhjet javore.
+    description: "Eduardi pyet pse të qenët normal duhet të jetë synimi, duke reflektuar për shprehitë rreth kohës, lëvizjes, konsumit dhe punës."
     uploadDate: '2026-07-21T15:19:07+00:00'
     durationSeconds: 116
     language: sq

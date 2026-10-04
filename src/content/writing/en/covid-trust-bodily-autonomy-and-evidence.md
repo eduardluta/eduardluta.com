@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta speaking about COVID policy outdoors in front of leafy trees.
   seo:
     name: My reaction to COVID policy and the June intelligence release
-    description: Eduard discusses bodily autonomy, COVID restrictions and the June 2026 intelligence release. Medical
-      assertions in the recording require the accompanying evidence checks.
+    description: "Eduard discusses bodily autonomy, pandemic restrictions and his distrust of official explanations about COVID."
     uploadDate: '2026-06-20T08:35:52+00:00'
     durationSeconds: 179
     language: sq

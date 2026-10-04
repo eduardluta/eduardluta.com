@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard speaking outdoors beside green shrubs and trees, with sunglasses resting on his head.
   seo:
     name: 'A Relationship Workshop: Planning a Life Together'
-    description: The conversation my wife and I began before marriage, why some plans changed, and a practical one-hour
-      agenda for discussing a shared future.
+    description: "Eduard recalls the workshop he and his wife held before marriage to discuss their relationship, parenthood and a shared future."
     uploadDate: '2026-06-06T17:53:58+00:00'
     durationSeconds: 155
     language: sq

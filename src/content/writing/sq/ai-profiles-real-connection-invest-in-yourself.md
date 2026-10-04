@@ -20,9 +20,8 @@ video:
   poster: /writing/ai-profiles-real-connection-invest-in-yourself/video-thumbnail.jpg
   posterAlt: Eduardi duke folur jashtë në videon origjinale, me një skenë filmi sipër tij.
   seo:
-    name: 'Profilet me AI dhe vetmia: investo në jetën tënde'
-    description: 'Nga profilet artificiale te lidhjet reale: një plan konkret për mësim, biseda dhe reflektim, me
-      burime dhe kufij të qartë mes fakteve dhe mendimit.'
+    name: "Një reagim ndaj profileve të AI-së dhe vëmendjes që u japim"
+    description: "Eduardi reagon ndaj profileve artificiale në rrjetet sociale dhe nxit shikuesit t’ia kushtojnë vëmendjen mësimit, shëndetit, reflektimit dhe lidhjeve në jetën reale."
     uploadDate: '2026-09-18T12:34:03+00:00'
     durationSeconds: 179
     language: sq

@@ -23,8 +23,7 @@ video:
     filxhanë kafeje.
   seo:
     name: Syzet Meta, Apple Watch dhe kapja e ideve krijuese
-    description: Prova e syzeve Meta gjatë një kafeje në Düsseldorf solli një ide për Apple Watch. Çfarë bëjnë pajisjet,
-      çfarë mbetet koncept dhe si testohet dobia.
+    description: "Gjatë një kafeje në Düsseldorf, Eduardi provon syze Meta, diskuton krijimtarinë dhe AI-në dhe flet për idenë e një mjeti për ndjekjen e përditshme në Apple Watch."
     uploadDate: '2026-09-26T16:57:36+00:00'
     durationSeconds: 131
     language: sq

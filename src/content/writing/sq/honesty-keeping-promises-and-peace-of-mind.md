@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi jashtë me bluzë polo të zezë dhe gjethe të gjelbra pas tij, në videon origjinale për sinqeritetin.
   seo:
     name: Sinqeriteti, mbajtja e premtimeve dhe qetësia
-    description: Një reflektim personal për Ray Dalion, të vërtetën, kthimin e kusurit të tepërt dhe premtimet,
-      pa e ngatërruar sinqeritetin me zbulimin e gjithçkaje.
+    description: "Eduardi reflekton mbi ide nga Ray Dalio, vendimin për të mos gënjyer e për të mbajtur premtimet dhe kthimin e kusurit të tepërt te një kamerier."
     uploadDate: '2026-06-17T13:59:55+00:00'
     durationSeconds: 156
     language: sq

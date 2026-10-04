@@ -23,8 +23,7 @@ video:
     e vogël të videos origjinale.
   seo:
     name: 'Döneri i Podolskit në Düsseldorf: Përtej emrit të famshëm'
-    description: 'Një vizitë te Mangal në Düsseldorf ngre pyetjen çfarë mund të ndërtojnë sportistët: çmime të verifikuara,
-      krahasime dhe dallimi mes shitjeve e fitimit.'
+    description: "Gjatë një vizite në një lokal döneri Mangal në Düsseldorf, Eduardi vëren lidhjen me Podolskin dhe pyet çfarë biznesesh mund të ndërtojnë sportistët."
     uploadDate: '2026-09-25T15:22:29+00:00'
     durationSeconds: 26
     language: sq

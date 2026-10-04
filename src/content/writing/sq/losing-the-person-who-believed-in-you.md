@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi reflekton për humbjen e një mbështetësi të rëndësishëm.
   seo:
     name: Kur e humb njeriun që besonte te ti
-    description: Një reflektim për humbjen e mbështetësit më të madh, kuptimin e arritjeve më pas dhe dallimin mes
-      pajtimit e rikthimit.
+    description: "Eduardi reflekton mbi humbjen e dikujt që besonte tek ai, mënyrën si ndihen arritjet më pas dhe gjetjen e paqes aty ku është e mundur."
     uploadDate: '2026-07-31T12:16:12+00:00'
     durationSeconds: 177
     language: sq

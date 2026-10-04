@@ -21,9 +21,8 @@ video:
   poster: /writing/have-more-fun-adult-playfulness/video-thumbnail.jpg
   posterAlt: Eduardi duke buzëqeshur e vallëzuar në një dhomë zhveshjeje, me mesazhin origjinal “Have a lot of fun!”.
   seo:
-    name: 'Argëtohu më shumë: Fryma lozonjare në jetën e përditshme'
-    description: 'Shtatë sekonda vallëzim, kërkimi për frymën lozonjare tek të rriturit dhe një krahasim kohor:
-      vend për argëtim, pa e bërë lumturinë një detyrim tjetër.'
+    name: "Shtatë sekonda kërcim: argëtohu"
+    description: "Një klip shtatësekondësh e tregon Eduardin duke kërcyer në një dhomë zhveshjeje, me një mesazh në ekran për t’u argëtuar."
     uploadDate: '2026-09-25T08:47:25+00:00'
     durationSeconds: 7
     language: en

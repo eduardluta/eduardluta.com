@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi duke folur brenda veturës, nën pyetjen e një shikuesi për këshillat në moshën 24-vjeçare.
   seo:
     name: 'Këshilla në moshën 24-vjeçare: AI, puna dhe shëndeti'
-    description: Çfarë do t’i thosha vetes në moshën 24-vjeçare për AI, punën dhe shëndetin, me llogaritjen reale
-      të pretendimit se tre muaj punë barazohen me një vit.
+    description: "Duke iu përgjigjur një shikuesi, Eduardi tregon çfarë do t’i këshillonte vetes në moshën 24-vjeçare për mësimin e AI-së, punën praktike dhe kujdesin për shëndetin."
     uploadDate: '2026-06-16T05:36:23+00:00'
     durationSeconds: 179
     language: sq

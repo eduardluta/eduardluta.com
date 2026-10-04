@@ -18,9 +18,8 @@ video:
   poster: /writing/love-making-room-for-your-child/video-thumbnail.jpg
   posterAlt: Original TikTok thumbnail of Eduard and Marin smiling together outdoors among autumn leaves.
   seo:
-    name: Love Is Also Making Room for Your Child
-    description: 'A short conversation with Marin about love leads to something practical: inclusion, attention
-      and the ordinary moments in which a child gets a real response.'
+    name: "A conversation with Marin about love"
+    description: "Outside with Marin, Eduard asks him what it means to love someone a lot in a brief, smiling father-and-child conversation."
     uploadDate: '2026-09-19T17:38:53+00:00'
     durationSeconds: 16
     language: sq

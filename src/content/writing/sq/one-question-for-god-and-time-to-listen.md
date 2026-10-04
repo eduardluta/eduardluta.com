@@ -20,8 +20,7 @@ video:
     Zotit.
   seo:
     name: Një pyetje për Zotin dhe kohë për të dëgjuar
-    description: Një ftesë për ta zgjedhur pyetjen që ka më shumë rëndësi, për lutje apo reflektim dhe për ta shqyrtuar
-      atë që vjen pa kërkuar siguri absolute.
+    description: "Eduardi pyet çfarë pyetjeje të vetme do t’i bëje Zotit dhe i fton shikuesit të kalojnë dhjetë ose pesëmbëdhjetë minuta në qetësi me të."
     uploadDate: '2026-06-20T20:23:50+00:00'
     durationSeconds: 37
     language: sq

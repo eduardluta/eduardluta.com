@@ -19,9 +19,8 @@ video:
   poster: /writing/oscar-wilde-love-boundaries-courage/video-thumbnail.jpg
   posterAlt: Eduard answering a viewer’s question about narcissistic people, shown above him in the original video.
   seo:
-    name: Oscar Wilde, Love and the Courage to Set a Boundary
-    description: A question about narcissistic behaviour led me to Oscar Wilde. What the poem says about harm, and
-      what a safe boundary means outside a short video.
+    name: "Oscar Wilde, Love and Harm"
+    description: "Eduard responds to a question about narcissistic people by recalling an Oscar Wilde poem about love and harm."
     uploadDate: '2026-09-10T20:30:08+00:00'
     durationSeconds: 64
     language: sq

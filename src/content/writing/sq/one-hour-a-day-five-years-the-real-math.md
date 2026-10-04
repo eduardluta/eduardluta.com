@@ -20,9 +20,8 @@ video:
   poster: /writing/one-hour-a-day-five-years-the-real-math/video-thumbnail.jpg
   posterAlt: Eduardi duke folur brenda me bluzë të bardhë polo; në video shfaqen tekstet 1’826 Dite dhe Success.
   seo:
-    name: 'Një orë në ditë për pesë vjet: llogaritja reale'
-    description: Pesë vjet praktikë të përditshme mund të japin 1.826 orë. Llogaritja e kalendarit dhe pse ajo nuk
-      garanton renditje ekspertize apo rrogë dhjetëfish.
+    name: "Një orë në ditë, pesë vjet praktikë"
+    description: "Eduardi i sfidon shikuesit të kalojnë një orë në ditë duke lexuar, ushtruar dhe zhvilluar punën e tyre për pesë vjet."
     uploadDate: '2026-05-26T18:42:15+00:00'
     durationSeconds: 142
     language: sq

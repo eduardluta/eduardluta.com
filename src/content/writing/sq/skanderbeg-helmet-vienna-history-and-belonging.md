@@ -18,9 +18,8 @@ video:
   poster: /writing/skanderbeg-helmet-vienna-history-and-belonging/video-thumbnail.jpg
   posterAlt: Pamje nga videoja e Eduard Lutës për Skënderbeun në Vjenë.
   seo:
-    name: 'Përkrenarja e Skënderbeut në Vjenë: historia dhe përkatësia'
-    description: Çfarë do të thotë për mua përkrenarja e Skënderbeut në Vjenë, çfarë dëshmojnë dokumentet e muzeut
-      dhe pse ky dallim ka rëndësi.
+    name: "Përkrenarja e Skënderbeut dhe ndjenja e përkatësisë"
+    description: "Në Vjenë, Eduardi reflekton për përkrenaren dhe shpatën e Skënderbeut dhe çfarë do të thotë të mbrosh diçka që i përket popullit tënd."
     uploadDate: '2026-09-15T19:43:33+00:00'
     durationSeconds: 25
     language: sq

@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi mbi një puf të gjelbër me krahët hapur dhe familjarë pranë, në miniaturën origjinale të videos.
   seo:
     name: Një shaka familjare dhe një festim i tepruar
-    description: Një klip tetësekondësh në sallon përdor festim të ekzagjeruar dhe përshkrim ngacmues. Ta shijosh
-      shakanë pa shpikur një njoftim familjar.
+    description: "Një klip tetësekondësh me humor familjar e tregon Eduardin duke festuar mbi një puf në dhomën e ndenjjes, me një mbishkrim shakaje për shtatzëninë."
     uploadDate: '2026-07-23T14:11:47+00:00'
     durationSeconds: 8
     language: sq

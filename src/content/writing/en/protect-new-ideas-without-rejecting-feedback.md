@@ -20,9 +20,8 @@ video:
   poster: /writing/protect-new-ideas-without-rejecting-feedback/video-thumbnail.jpg
   posterAlt: Eduard wearing a light polo shirt, speaking to the camera indoors.
   seo:
-    name: Protect New Ideas Without Rejecting Feedback
-    description: Some conversations help an idea grow; others stop every experiment before it begins. How I distinguish
-      useful criticism from repeated dismissal.
+    name: "When Fixed Opinions Stop New Ideas"
+    description: "Eduard warns about fixed opinions, automatic rejection of new ideas and demands for perfection that stop people from beginning."
     uploadDate: '2026-05-31T10:51:43+00:00'
     durationSeconds: 95
     language: sq

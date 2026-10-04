@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi në videon origjinale duke e ilustruar idenë e veprimit me syzet e tij.
   seo:
     name: “Po mundohem” nuk është njësoj si përparimi i dukshëm
-    description: Mësimi im nga biznesi për përpjekjen dhe veprimin, me një mënyrë për ta përcaktuar hapin tjetër
-      duke njohur mundin, pasigurinë dhe kufijtë.
+    description: "Eduardi përdor heqjen e syzeve për të ilustruar një mësim biznesi mbi dallimin mes të thënit se po përpiqesh dhe veprimit."
     uploadDate: '2026-06-30T14:43:37+00:00'
     durationSeconds: 34
     language: sq

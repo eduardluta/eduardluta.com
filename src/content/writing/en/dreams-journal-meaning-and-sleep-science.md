@@ -21,8 +21,7 @@ video:
   posterAlt: Original thumbnail of Eduard speaking to the camera about dreams.
   seo:
     name: Dreams, a Journal, and the Meaning We Bring to Sleep
-    description: Why I record my dreams, how I separate spiritual interpretation from sleep science, and a practical
-      journal that leaves room for uncertainty.
+    description: "Eduard asks what dreams are, shares his spiritual beliefs about them and discusses writing dreams down and looking for connections."
     uploadDate: '2026-09-11T18:30:50+00:00'
     durationSeconds: 64
     language: sq

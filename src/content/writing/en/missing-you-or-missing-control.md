@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard seated outdoors in a green shirt, with his hands resting over one knee and leaves behind him.
   seo:
     name: Missing You, or Missing Control?
-    description: 'A short reflection on changing relationships: look at how people respond to your boundaries, without
-      pretending one disappointed comment reveals their motives.'
+    description: "Eduard reflects on personal growth and contrasts people who support someone's changes with those who want the earlier version of that person back."
     uploadDate: '2026-06-12T15:49:48+00:00'
     durationSeconds: 47
     language: sq

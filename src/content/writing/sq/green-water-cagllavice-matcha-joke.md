@@ -18,9 +18,8 @@ video:
   poster: /writing/green-water-cagllavice-matcha-joke/video-thumbnail.jpg
   posterAlt: Ujë i gjelbër dhe bimësi në videon origjinale nga Çagllavica, me Eduardin në një dritare të vogël.
   seo:
-    name: '“Matcha” në Çagllavicë: çfarë mund të tregojë uji i gjelbër'
-    description: 'Një shaka për ujin e gjelbër në Çagllavicë hap një pyetje serioze: çfarë tregon videoja, çfarë
-      kërkon analizë dhe si bëhet i dobishëm një vëzhgim?'
+    name: "Një shaka për matcha-n dhe ujin e gjelbër në Çagllavicë"
+    description: "Eduardi filmon ujë të gjelbër në Çagllavicë pranë Prishtinës dhe, në një klip nëntësekondësh, e krahason me shaka ngjyrën e tij me matcha."
     uploadDate: '2026-09-12T09:26:57+00:00'
     durationSeconds: 9
     language: sq

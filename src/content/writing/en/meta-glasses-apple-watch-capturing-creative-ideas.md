@@ -23,8 +23,7 @@ video:
     foreground.
   seo:
     name: Meta Glasses, Apple Watch and Capturing Creative Ideas
-    description: Trying Meta glasses over coffee in Düsseldorf led to an Apple Watch tracker idea. What the devices
-      can do, what remains a concept, and how to test usefulness.
+    description: "Over coffee in Düsseldorf, Eduard tries Meta glasses, discusses creativity and AI, and talks about an idea for an Apple Watch daily tracker."
     uploadDate: '2026-09-26T16:57:36+00:00'
     durationSeconds: 131
     language: sq

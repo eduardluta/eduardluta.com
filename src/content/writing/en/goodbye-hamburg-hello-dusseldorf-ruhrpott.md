@@ -23,8 +23,7 @@ video:
     video.
   seo:
     name: 'Goodbye Hamburg, Hello Düsseldorf: Back Toward My Ruhrpott'
-    description: Hamburg earned a place in my heart. The next stop is Düsseldorf, while the Ruhrpott brings back
-      childhood memories. A personal goodbye with clear geography.
+    description: "An eight-second camper-travel clip says goodbye to Hamburg; Eduard's caption greets Düsseldorf and recalls his childhood in the Ruhrpott."
     uploadDate: '2026-09-25T08:02:39+00:00'
     durationSeconds: 8
     language: sq

@@ -1,6 +1,7 @@
 ---
 import type { Article } from '../lib/writing';
 import type { Lang } from '../i18n/ui';
+import { formatDateLong } from '../i18n/utils';
 
 interface Props {
   video: NonNullable<Article['data']['video']>;
@@ -11,30 +12,31 @@ const { video, title, lang } = Astro.props;
 const landscape = video.orientation === 'landscape';
 const labels = lang === 'sq' ? {
   original: 'Videoja origjinale · TikTok',
-  load: 'Hap videon',
-  loading: 'Duke hapur videon…',
-  ready: 'Videoja është gati. Shtyp luajtjen për ta parë.',
-  unavailable: 'Videoja nuk u hap këtu. Mund ta shohësh në TikTok.',
+  published: 'Publikuar në TikTok',
+  retry: 'Ringarko luajtësin',
+  loading: 'Duke ngarkuar luajtësin…',
+  ready: 'Luajtësi është gati. Shtyp luajtjen për ta parë.',
+  unavailable: 'Nëse videoja nuk luhet këtu, ringarko luajtësin ose shikoje në TikTok.',
   external: 'Shiko në TikTok',
-  close: 'Mbyll videon',
-  note: 'Luajtësi i TikTok ngarkohet vetëm kur hap videon.',
+  preview: 'Shiko pamjen paraprake',
 } : {
   original: 'Original video · TikTok',
-  load: 'Load video',
-  loading: 'Loading video…',
-  ready: 'Video ready. Press play to watch.',
-  unavailable: 'The video could not load here. You can watch it on TikTok.',
+  published: 'Published on TikTok',
+  retry: 'Reload player',
+  loading: 'Loading player…',
+  ready: 'Player ready. Press play to watch.',
+  unavailable: 'If the video does not play here, reload the player or watch it on TikTok.',
   external: 'Watch on TikTok',
-  close: 'Close player',
-  note: 'TikTok’s player loads only when you choose to open the video.',
+  preview: 'View video preview',
 };
+const duration = video.seo?.durationSeconds;
+const durationLabel = duration ? `${Math.floor(duration / 60)}:${String(duration % 60).padStart(2, '0')}` : undefined;
+const playerUrl = `https://www.tiktok.com/player/v1/${video.id}?autoplay=0&controls=1&closed_caption=1&rel=0`;
 ---
 
 <article-video
   class="article-video"
   data-orientation={video.orientation}
-  data-video-id={video.id}
-  data-video-title={`${labels.original}: ${title}`}
   data-loading={labels.loading}
   data-ready={labels.ready}
   data-unavailable={labels.unavailable}
@@ -43,17 +45,32 @@ const labels = lang === 'sq' ? {
     <p class="article-video-label">{labels.original}</p>
     <div class="article-video-stage">
       <img class="article-video-poster" src={video.poster} alt={video.posterAlt} width={landscape ? 960 : 540} height={landscape ? 540 : 960} decoding="async" />
-      <button class="article-video-load" type="button" data-video-load hidden aria-label={`${labels.load}: ${title}`}>
-        <span class="article-video-play" aria-hidden="true">▶</span>
-        <span>{labels.load}</span>
-      </button>
+      <iframe
+        src={playerUrl}
+        title={`${labels.original}: ${video.seo?.name || title}`}
+        width={landscape ? 960 : 540}
+        height={landscape ? 540 : 960}
+        loading="eager"
+        allow="fullscreen"
+        allowfullscreen
+        referrerpolicy="strict-origin-when-cross-origin"
+      ></iframe>
     </div>
     <figcaption>
+      {video.seo?.name && <p class="article-video-name">{video.seo.name}</p>}
+      {video.seo?.description && <p class="article-video-description">{video.seo.description}</p>}
+      {video.seo && <p class="article-video-meta">
+        {labels.published} <time datetime={video.seo.uploadDate}>{formatDateLong(new Date(video.seo.uploadDate), lang)}</time>
+        {durationLabel && <> · <time datetime={`PT${duration}S`}>{durationLabel}</time></>}
+      </p>}
       <div class="article-video-links">
         <a href={video.url} target="_blank" rel="noopener noreferrer">{labels.external} ↗</a>
-        <button type="button" data-video-close hidden>{labels.close}</button>
+        <button type="button" data-video-retry hidden>{labels.retry}</button>
       </div>
-      <p>{labels.note}</p>
+      <details class="article-video-preview">
+        <summary>{labels.preview}</summary>
+        <img src={video.poster} alt={video.posterAlt} width={landscape ? 960 : 540} height={landscape ? 540 : 960} loading="lazy" decoding="async" />
+      </details>
       <p class="article-video-status" data-video-status role="status" aria-live="polite"></p>
     </figcaption>
   </figure>
@@ -69,30 +86,31 @@ const labels = lang === 'sq' ? {
       this.events?.abort();
       this.events = new AbortController();
       const { signal } = this.events;
-      const button = this.querySelector<HTMLButtonElement>('[data-video-load]');
-      if (!button) return;
-      button.hidden = false;
-      button.addEventListener('click', () => this.openPlayer(), { signal });
-      this.querySelector('[data-video-close]')?.addEventListener('click', () => this.closePlayer(), { signal });
+      this.frame = this.querySelector<HTMLIFrameElement>('iframe') || undefined;
+      const retry = this.querySelector<HTMLButtonElement>('[data-video-retry]');
+      if (!this.frame || !retry) return;
+      retry.hidden = false;
+      retry.addEventListener('click', () => {
+        if (!this.frame) return;
+        this.watchReadiness();
+        this.frame.src = this.frame.src;
+      }, { signal });
+      this.frame.addEventListener('error', () => {
+        window.clearTimeout(this.timer);
+        this.status(this.dataset.unavailable || '');
+      }, { signal });
       window.addEventListener('message', (event: MessageEvent) => {
         if (event.origin !== 'https://www.tiktok.com' || event.source !== this.frame?.contentWindow) return;
         if (event.data?.['x-tiktok-player'] !== true) return;
         if (event.data.type === 'onPlayerReady') {
-          const transferFocus = document.activeElement === button;
           window.clearTimeout(this.timer);
-          this.dataset.videoReady = 'true';
-          this.querySelector('.article-video-stage')?.removeAttribute('aria-busy');
-          this.frame?.removeAttribute('aria-hidden');
-          this.frame?.removeAttribute('tabindex');
-          const close = this.querySelector<HTMLButtonElement>('[data-video-close]');
-          if (close) close.hidden = false;
           this.status(this.dataset.ready || '');
-          // Keep keyboard focus in the player when its load button disappears.
-          if (transferFocus) this.frame?.focus();
         } else if (event.data.type === 'onPlayerError' || event.data.type === 'onError') {
-          this.closePlayer(this.dataset.unavailable);
+          window.clearTimeout(this.timer);
+          this.status(this.dataset.unavailable || '');
         }
       }, { signal });
+      this.watchReadiness();
     }
 
     disconnectedCallback() {
@@ -105,42 +123,12 @@ const labels = lang === 'sq' ? {
       if (status) status.textContent = message;
     }
 
-    private openPlayer() {
-      if (this.frame || !/^\d+$/.test(this.dataset.videoId || '')) return;
-      const stage = this.querySelector('.article-video-stage');
-      const button = this.querySelector<HTMLButtonElement>('[data-video-load]');
-      if (!stage || !button) return;
-      button.setAttribute('aria-disabled', 'true');
-      stage.setAttribute('aria-busy', 'true');
-      this.status(this.dataset.loading || '');
-      const frame = document.createElement('iframe');
-      frame.src = `https://www.tiktok.com/player/v1/${this.dataset.videoId}?autoplay=0&controls=1&closed_caption=1&rel=0`;
-      frame.title = this.dataset.videoTitle || 'TikTok video';
-      frame.allow = 'fullscreen';
-      frame.allowFullscreen = true;
-      frame.referrerPolicy = 'strict-origin-when-cross-origin';
-      frame.tabIndex = -1;
-      frame.setAttribute('aria-hidden', 'true');
-      frame.addEventListener('error', () => this.closePlayer(this.dataset.unavailable), { signal: this.events?.signal });
-      this.frame = frame;
-      stage.append(frame);
-      // Cross-origin error pages may emit neither a usable load error nor a ready message.
-      this.timer = window.setTimeout(() => this.closePlayer(this.dataset.unavailable), 20_000);
-    }
-
-    private closePlayer(message = '') {
+    private watchReadiness() {
       window.clearTimeout(this.timer);
-      const shouldFocus = this.contains(document.activeElement);
-      this.frame?.remove();
-      this.frame = undefined;
-      delete this.dataset.videoReady;
-      this.querySelector('.article-video-stage')?.removeAttribute('aria-busy');
-      const button = this.querySelector<HTMLButtonElement>('[data-video-load]');
-      button?.removeAttribute('aria-disabled');
-      const close = this.querySelector<HTMLButtonElement>('[data-video-close]');
-      if (close) close.hidden = true;
-      this.status(message);
-      if (shouldFocus) button?.focus();
+      this.status(this.dataset.loading || '');
+      // A blocked cross-origin player may send no ready or error message. Keep
+      // the actual iframe visible and usable, including if it responds later.
+      this.timer = window.setTimeout(() => this.status(this.dataset.unavailable || ''), 20_000);
     }
   }
 

@@ -20,9 +20,8 @@ video:
   poster: /writing/protect-new-ideas-without-rejecting-feedback/video-thumbnail.jpg
   posterAlt: Eduardi me bluzë polo të çelët, duke folur para kamerës brenda një dhome.
   seo:
-    name: Ruaji idetë e reja pa e refuzuar kritikën
-    description: Disa biseda e zhvillojnë idenë; të tjera e ndalin çdo provë para fillimit. Si e dalloj kritikën
-      e dobishme nga hedhja poshtë e përsëritur.
+    name: "Kur mendimet e ngurta i ndalin idetë e reja"
+    description: "Eduardi paralajmëron për mendimet e ngurta, refuzimin automatik të ideve të reja dhe kërkesat për përsosmëri që i pengojnë njerëzit të fillojnë."
     uploadDate: '2026-05-31T10:51:43+00:00'
     durationSeconds: 95
     language: sq

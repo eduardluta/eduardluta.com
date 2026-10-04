@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi duke folur jashtë pranë shkurreve dhe pemëve të gjelbra, me syzet e diellit mbi kokë.
   seo:
     name: 'Një bisedë për lidhjen: ta planifikojmë jetën bashkë'
-    description: Biseda që nisëm me gruan para martesës, pse disa plane ndryshuan dhe një agjendë praktike njëorëshe
-      për të ardhmen e përbashkët.
+    description: "Eduardi kujton workshop-in që bëri me gruan para martesës për të diskutuar marrëdhënien, prindërimin dhe të ardhmen e përbashkët."
     uploadDate: '2026-06-06T17:53:58+00:00'
     durationSeconds: 155
     language: sq

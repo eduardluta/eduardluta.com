@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi në veturë me kapelë dhe bluzë të bardhë polo; sipër tij shkruan Storia nr.1.
   seo:
     name: Princi i talentuar, praktika dhe gjëja tjetër që shkëlqen
-    description: 'Një tregim për dikë që është i mirë në gjithçka ngre pyetjen: me çfarë do të vazhdosh? Praktika
-      përtej garancive të 20 apo 10.000 orëve.'
+    description: "Eduardi ritregon një histori për një princ të talentuar në gjithçka që kalon vazhdimisht nga një interes te tjetri dhe reflekton mbi qëndrimin te një gjë aq gjatë sa për ta zhvilluar."
     uploadDate: '2026-05-20T12:48:29+00:00'
     durationSeconds: 173
     language: sq

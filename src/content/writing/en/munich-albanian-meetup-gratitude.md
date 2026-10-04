@@ -21,8 +21,7 @@ video:
     caption.
   seo:
     name: 'Munich: A Thank-You After Meeting Our People'
-    description: A short Munich video after meeting Albanian dua.com users, plus practical ways to keep a good connection
-      alive and explore Albanian language in the city.
+    description: "In a seven-second clip, Eduard steps out of a car and dances after meeting dua.com users; his caption thanks Munich's Albanian community."
     uploadDate: '2026-10-02T07:56:18+00:00'
     durationSeconds: 7
     language: sq

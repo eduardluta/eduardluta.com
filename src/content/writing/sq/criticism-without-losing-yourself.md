@@ -20,9 +20,8 @@ video:
   poster: /writing/criticism-without-losing-yourself/video-thumbnail.jpg
   posterAlt: 'Miniatura origjinale e TikTok-ut: Eduardi në makinë duke folur për komentet dhe gjykimin publik.'
   seo:
-    name: Si ta përballosh kritikën pa e humbur veten
-    description: 'Si t’i dallosh vërejtjet e dobishme nga fyerjet: tri pyetje për komentet, çka tregon hulumtimi
-      dhe si të korrigjosh gabimet pa humbur drejtimin.'
+    name: "Reagimi im ndaj komenteve fyese"
+    description: "Duke reaguar ndaj komenteve fyese, Eduardi i nxit njerëzit të vazhdojnë të krijojnë dhe pyet kritikës së kujt duhet t’i japin peshë."
     uploadDate: '2026-09-22T13:13:19+00:00'
     durationSeconds: 111
     language: sq

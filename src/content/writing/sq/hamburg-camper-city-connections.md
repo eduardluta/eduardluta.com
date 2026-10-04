@@ -23,8 +23,7 @@ video:
     të vogël.'
   seo:
     name: 'Hamburgu me kamper: qyteti, biletat dhe njerëzit'
-    description: 'Mbërritja në Hamburg dhe takimet me diasporën: kur ia vlejnë bileta ditore HVV prej 8,20 € dhe
-      bileta e grupit prej 16,40 €? Llogaritjet e plota.'
+    description: "Pas mbërritjes me kamper në një kamping në Hamburg, Eduardi flet për mjedisin përreth dhe planet për të takuar përdorues shqiptarë të dua.com në qytet."
     uploadDate: '2026-09-23T14:26:24+00:00'
     durationSeconds: 64
     language: sq

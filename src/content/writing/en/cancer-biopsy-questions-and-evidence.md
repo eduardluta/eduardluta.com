@@ -20,9 +20,8 @@ video:
   poster: /writing/cancer-biopsy-questions-and-evidence/video-thumbnail.jpg
   posterAlt: Eduard speaking from a car in the original video discussing cancer and biopsies.
   seo:
-    name: 'Cancer and Biopsies: Questions Deserve Evidence'
-    description: A personal video about cancer raises claims about tumours and biopsies. Here is the medical context,
-      and practical questions to take to a care team.
+    name: "My questions about cancer and biopsies"
+    description: "Eduard reflects on his mother's cancer and discusses questions and ideas he has heard about tumours and biopsies."
     uploadDate: '2026-06-10T19:43:14+00:00'
     durationSeconds: 140
     language: sq

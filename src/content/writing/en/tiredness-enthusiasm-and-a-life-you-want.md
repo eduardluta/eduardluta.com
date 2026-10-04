@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a car wearing a bucket hat and patterned shirt, in the original video about enthusiasm.
   seo:
     name: Tiredness, Enthusiasm and a Life You Want
-    description: 'A short video about enthusiasm opens a bigger question: what makes life feel meaningful, and why
-      persistent fatigue deserves care rather than judgement.'
+    description: "Eduard reflects on enthusiasm for work, creativity, family and friendship, describing the feeling in spiritual language as a fire inside."
     uploadDate: '2026-06-21T08:42:43+00:00'
     durationSeconds: 44
     language: sq

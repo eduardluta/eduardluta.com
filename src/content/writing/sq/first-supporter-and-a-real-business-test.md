@@ -20,9 +20,8 @@ video:
   poster: /writing/first-supporter-and-a-real-business-test/video-thumbnail.jpg
   posterAlt: Kopertina origjinale e videos me Elon Muskun, raketë dhe tekst shqip për ndjekësin e parë.
   seo:
-    name: Një mbështetës është fillimi. Pastaj provoje idenë.
-    description: Një libër për Elon Muskun më çoi te pyetja për mbështetësin e parë. Si ta dallosh inkurajimin nga
-      kërkesa, me një shembull të llogaritur prove biznesi.
+    name: "Të gjesh një person që beson në një ide të re"
+    description: "Pas leximit për Elon Musk, Eduardi reflekton mbi ndryshimin dhe sugjeron gjetjen e një mbështetësi me përvojë për një ide të re, në vend që të presim inkurajimin e të gjithëve."
     uploadDate: '2026-06-22T05:58:50+00:00'
     durationSeconds: 124
     language: sq

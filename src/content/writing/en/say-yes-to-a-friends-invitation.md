@@ -19,8 +19,7 @@ video:
   posterAlt: Eduard indoors wearing a cream polo shirt in the original video about invitations from friends.
   seo:
     name: When a Friend Invites You, Life Gets a Little Bigger
-    description: 'A reflection on invitations, friendship and new experiences: how to make room for a meaningful
-      yes without turning every invitation into an obligation.'
+    description: "Eduard reflects on accepting friends’ invitations to new experiences and the memorable moments and deeper friendships that followed."
     uploadDate: '2026-05-31T10:40:07+00:00'
     durationSeconds: 69
     language: sq

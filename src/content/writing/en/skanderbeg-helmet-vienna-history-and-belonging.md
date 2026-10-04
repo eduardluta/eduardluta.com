@@ -18,9 +18,8 @@ video:
   poster: /writing/skanderbeg-helmet-vienna-history-and-belonging/video-thumbnail.jpg
   posterAlt: A frame from Eduard Luta’s video about Skanderbeg in Vienna.
   seo:
-    name: 'Skanderbeg’s Helmet in Vienna: History and Belonging'
-    description: What Skanderbeg’s helmet in Vienna means to me, what the museum records establish, and why the
-      distinction makes the visit more interesting.
+    name: "Skanderbeg’s Helmet and a Feeling of Belonging"
+    description: "In Vienna, Eduard reflects on Skanderbeg’s helmet and sword and what it means to protect something that belongs to your people."
     uploadDate: '2026-09-15T19:43:33+00:00'
     durationSeconds: 25
     language: sq

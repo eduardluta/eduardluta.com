@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi i shtrirë në karrige kopshti me kapelë, në videon origjinale për shërimin dhe shmangien.
   seo:
     name: Shërimi, shmangia dhe pohimi për DMT-në në vdekje
-    description: Një video për shtyrjen e jetës ngre një pohim për DMT-në në vdekje. Dallimi mes sfidës personale
-      dhe asaj që mati realisht një studim te minjtë.
+    description: "Eduardi reflekton mbi shmangien e përvojave të reja dhe diskuton një pretendim për DMT-në dhe rishikimin e jetës në çastin e vdekjes."
     uploadDate: '2026-06-21T11:11:28+00:00'
     durationSeconds: 93
     language: sq

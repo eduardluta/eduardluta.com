@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard outdoors in a black polo shirt with green leaves behind him, in the original video about honesty.
   seo:
     name: Honesty, Keeping Promises and Peace of Mind
-    description: A personal reflection on Ray Dalio, telling the truth, returning extra change and keeping promises
-      without confusing honesty with unlimited disclosure.
+    description: "Eduard reflects on ideas from Ray Dalio, his decision to stop lying and keep promises, and returning extra change to a waiter."
     uploadDate: '2026-06-17T13:59:55+00:00'
     durationSeconds: 156
     language: sq

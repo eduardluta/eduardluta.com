@@ -18,7 +18,7 @@ const writing = defineCollection({
     teaser: z.string().optional(),
     /** Topic tags shared verbatim between the en/sq pair; feed schema keywords. */
     tags: z.array(z.string()).default([]),
-    /** Explicit social-card image (ideally 1200x630). Falls back to the first body image for JSON-LD only. */
+    /** Explicit social-card image (ideally 1200x630). Article schema uses the rendered video poster or first body image instead. */
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
     /** Opt in verified standalone essays to the homepage. Social/content-workflow articles stay false. */

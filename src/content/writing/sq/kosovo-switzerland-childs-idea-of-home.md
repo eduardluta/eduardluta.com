@@ -22,8 +22,7 @@ video:
     dhe Zvicrën.'
   seo:
     name: Kosovë apo Zvicër? Çka do të thotë shtëpia për një fëmijë
-    description: 'E pyeta Marinin a do të jetonte në Kosovë apo Zvicër. Përgjigjja hap një krahasim tjetër: njerëzit,
-      përditshmëria dhe ndjenja e përkatësisë.'
+    description: "Në një bisedë të shkurtër në makinë, Eduardi e pyet Marinin nëse do të jetonte më mirë në Kosovë apo në Zvicër; Marini zgjedh Kosovën."
     uploadDate: '2026-09-21T10:59:25+00:00'
     durationSeconds: 13
     language: sq

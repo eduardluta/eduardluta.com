@@ -23,8 +23,7 @@ video:
     selfie.
   seo:
     name: 'Moin, Hamburg: Në kërkim të komunitetit tonë shqiptar'
-    description: Një përshëndetje nga Hamburgu, historia e Mönckebergbrunnen dhe çfarë tregojnë të dhënat zyrtare
-      për qytetin ku duam të takohemi me njerëzit tanë.
+    description: "Duke ecur nëpër Hamburg, Eduardi e përshëndet qytetin në gjermanisht dhe pyet ku mund të takojë pjesëtarë të komunitetit shqiptar."
     uploadDate: '2026-09-24T11:28:09+00:00'
     durationSeconds: 22
     language: sq

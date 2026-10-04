@@ -27,13 +27,11 @@ const url = new URL(localizePath(`/writing/${article.slug}/`, lang), SITE).href;
 const video = article.data.video ? videoSchema({ pageUrl: url, video: article.data.video }) : undefined;
 const published = isoDate(article.data.date);
 const modified = article.data.updated ? isoDate(article.data.updated) : undefined;
-// Social cards keep the 1200x630 default unless an explicit heroImage is set
-// (body images are mostly small/portrait); JSON-LD gets the real article image.
+// Social cards may use the site default; schema only describes imagery that
+// ArticleView actually renders (the video poster or an image in the body).
 const cardImage = article.data.heroImage ?? '/og-default.png';
-const schemaImage = new URL(
-  article.data.heroImage ?? firstBodyImage(article.body) ?? '/og-default.png',
-  SITE
-).href;
+const visibleImage = article.data.video?.poster ?? firstBodyImage(article.body);
+const schemaImage = visibleImage ? new URL(visibleImage, SITE).href : undefined;
 ---
 
 <BaseLayout

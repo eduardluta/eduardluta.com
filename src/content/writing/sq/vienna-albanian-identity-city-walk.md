@@ -20,9 +20,8 @@ video:
   poster: /writing/vienna-albanian-identity-city-walk/video-thumbnail.jpg
   posterAlt: Pamje nga reflektimi i Eduard Lutës në Vjenë.
   seo:
-    name: Vjena, identiteti shqiptar dhe një shëtitje që të mbetet
-    description: Një reflektim personal për Vjenën dhe identitetin shqiptar, me llogaritjen e ecjes në Ringstrasse
-      dhe lidhjen me përkrenaren e Skënderbeut.
+    name: "Vjena dhe ndjenja e të qenët shqiptar"
+    description: "Eduardi përshkruan atmosferën e Vjenës dhe si mendimi për përkrenaren dhe shpatën e Skënderbeut ia forcoi ndjenjën e identitetit shqiptar."
     uploadDate: '2026-09-15T19:37:15+00:00'
     durationSeconds: 48
     language: sq

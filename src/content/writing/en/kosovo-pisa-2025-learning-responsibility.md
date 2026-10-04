@@ -20,9 +20,8 @@ video:
   poster: /writing/kosovo-pisa-2025-learning-responsibility/video-thumbnail.jpg
   posterAlt: Original thumbnail of Eduard discussing education, PISA and responsibility.
   seo:
-    name: 'Kosovo’s PISA 2025 Results: Grades Are Not Enough'
-    description: Kosovo’s PISA 2025 results explained with OECD comparisons, checked calculations and practical
-      questions for parents, teachers and institutions.
+    name: "Grades, diplomas and learning in Kosovo"
+    description: "Eduard criticises treating grades and diplomas as proof of learning and asks parents to take responsibility for their children's education."
     uploadDate: '2026-09-11T13:37:03+00:00'
     durationSeconds: 206
     language: sq

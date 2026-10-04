@@ -18,9 +18,8 @@ video:
   poster: /writing/oscar-wilde-love-boundaries-courage/video-thumbnail.jpg
   posterAlt: Eduardi duke iu përgjigjur pyetjes për njerëzit narcisistë, e shfaqur mbi të në videon origjinale.
   seo:
-    name: Oscar Wilde, dashuria dhe guximi për të vendosur kufij
-    description: Një pyetje për sjelljen narcisiste më kujtoi Oscar Wilde. Çfarë thotë poezia për dëmin dhe çfarë
-      kërkon një kufi i sigurt përtej një videoje.
+    name: "Oscar Wilde, dashuria dhe dëmi"
+    description: "Eduardi i përgjigjet një pyetjeje për njerëzit narcisistë duke kujtuar një poezi të Oscar Wilde për dashurinë dhe dëmin."
     uploadDate: '2026-09-10T20:30:08+00:00'
     durationSeconds: 64
     language: sq

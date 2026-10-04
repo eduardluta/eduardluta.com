@@ -18,9 +18,8 @@ video:
   poster: /writing/teaching-children-responsibility-with-support/video-thumbnail.jpg
   posterAlt: Original TikTok thumbnail of Eduard and Marin laughing together outdoors.
   seo:
-    name: Teaching Children Responsibility Without Leaving Them Alone
-    description: 'A playful conversation with Marin raises a serious parenting question: how to teach responsibility
-      through manageable choices, practice and adult support.'
+    name: "A Playful Moment With Marin About Responsibility"
+    description: "Eduard and Marin talk and laugh outdoors in a playful clip whose caption presents responsibility as one of Marin’s first lessons."
     uploadDate: '2026-09-18T17:34:48+00:00'
     durationSeconds: 26
     language: sq

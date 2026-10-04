@@ -18,7 +18,7 @@ export const privacy: LegalDoc = {
     en: 'What limited data eduardluta.com collects and how it is used.',
     sq: 'Cilat të dhëna të kufizuara mbledh eduardluta.com dhe si përdoren.',
   },
-  updated: UPDATED,
+  updated: { en: 'Last updated: 4 October 2026', sq: 'Përditësuar së fundmi: 4 Tetor 2026' },
   sections: [
     {
       heading: { en: 'Overview', sq: 'Përmbledhje' },
@@ -38,13 +38,13 @@ export const privacy: LegalDoc = {
           'Newsletter: if you subscribe, we store the email address you enter and your language preference so we can send occasional updates. Nothing more.',
           'Server logs: our host (Railway) may record standard request data such as IP address and browser type to operate and secure the site.',
           'Analytics: we use Google Analytics to understand, in aggregate, how the site is visited (pages viewed, approximate region, device type). This data is not used for advertising, and we have disabled sharing it with other Google products.',
-          'There are no advertising trackers, and we do not build profiles about you.',
+          'We do not use analytics to build advertising profiles about you. Embedded third-party players are described below.',
         ],
         sq: [
           'Buletini: nëse regjistroheni, ruajmë adresën e email-it që shkruani dhe preferencën tuaj të gjuhës, që të dërgojmë përditësime herë pas here. Asgjë më shumë.',
           'Regjistrat e serverit: pritësi ynë (Railway) mund të regjistrojë të dhëna standarde kërkese si adresa IP dhe lloji i shfletuesit, për të operuar dhe siguruar faqen.',
           'Analitika: përdorim Google Analytics për të kuptuar, në mënyrë të përmbledhur, si vizitohet faqja (faqet e para, rajoni i përafërt, lloji i pajisjes). Këto të dhëna nuk përdoren për reklama dhe e kemi çaktivizuar ndarjen e tyre me produktet e tjera të Google.',
-          'Nuk ka gjurmues reklamash dhe nuk ndërtojmë profile për ju.',
+          'Nuk e përdorim analitikën për të ndërtuar profile reklamimi për ju. Luajtësit e integruar të palëve të treta përshkruhen më poshtë.',
         ],
       },
     },
@@ -53,9 +53,11 @@ export const privacy: LegalDoc = {
       paras: {
         en: [
           "The social wall shows Eduard's own public posts from Instagram and TikTok, fetched through those platforms' official APIs when the site is built. It does not collect any data about you from those platforms.",
+          "Articles may also embed TikTok's video player. The player loads with the page, without autoplay, so your browser connects directly to TikTok before you press play. TikTok receives standard connection information, such as your IP address and browser information, and processes it under its own privacy policy. An original-video link remains available if the player cannot load.",
         ],
         sq: [
           'Muri social shfaq postimet publike të vetë Eduardit nga Instagram dhe TikTok, të marra përmes API-ve zyrtare të atyre platformave kur ndërtohet faqja. Nuk mbledh asnjë të dhënë për ju nga ato platforma.',
+          'Artikujt mund të përfshijnë edhe luajtësin e videove të TikTok-ut. Luajtësi ngarkohet bashkë me faqen, pa luajtje automatike, ndaj shfletuesi juaj lidhet drejtpërdrejt me TikTok-un përpara se të shtypni luajtjen. TikTok-u merr të dhëna standarde të lidhjes, si adresa IP dhe të dhënat e shfletuesit, dhe i përpunon sipas politikës së vet të privatësisë. Lidhja drejt videos origjinale mbetet e disponueshme nëse luajtësi nuk ngarkohet.',
         ],
       },
     },
@@ -63,10 +65,10 @@ export const privacy: LegalDoc = {
       heading: { en: 'Service providers', sq: 'Ofruesit e shërbimit' },
       paras: {
         en: [
-          'We use a small number of providers solely to run the site: Netlify (hosting) and Railway (the database that stores newsletter subscriptions). We do not sell or rent your data to anyone.',
+          'We use Railway to host the site and the database that stores newsletter subscriptions. We do not sell or rent your data to anyone.',
         ],
         sq: [
-          'Përdorim një numër të vogël ofruesish vetëm për të mbajtur faqen: Netlify (strehim) dhe Railway (baza e të dhënave që ruan regjistrimet e buletinit). Nuk i shesim dhe nuk i japim me qira të dhënat tuaja askujt.',
+          'Përdorim Railway për strehimin e faqes dhe bazës së të dhënave që ruan regjistrimet e buletinit. Nuk i shesim dhe nuk i japim me qira të dhënat tuaja askujt.',
         ],
       },
     },

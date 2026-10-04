@@ -19,9 +19,8 @@ video:
   poster: /writing/vienna-albanian-identity-city-walk/video-thumbnail.jpg
   posterAlt: A frame from Eduard Luta’s Vienna reflection.
   seo:
-    name: Vienna, Albanian Identity, and a Walk That Stays With You
-    description: A personal reflection on Vienna and Albanian identity, with a practical Ringstrasse walking calculation
-      and a connection to Skanderbeg’s helmet.
+    name: "Vienna and Feeling Albanian"
+    description: "Eduard describes Vienna’s atmosphere and how thinking about Skanderbeg’s helmet and sword deepened his feeling of Albanian identity."
     uploadDate: '2026-09-15T19:37:15+00:00'
     durationSeconds: 48
     language: sq

@@ -20,9 +20,8 @@ video:
   poster: /writing/roadworks-empty-site-concrete-curing/video-thumbnail.jpg
   posterAlt: Eduard in a car wearing sunglasses in the original short video about roadworks.
   seo:
-    name: 'Empty Roadworks: Is Nobody Working, or Is Concrete Curing?'
-    description: 'A passing joke about apparently empty roadworks leads to a useful distinction: a quiet site is
-      an observation, while a delay needs a schedule and evidence.'
+    name: "Roadworks: Where Are the Workers?"
+    description: "Eduard jokes that he never sees workers when passing roadworks and may always arrive just after concrete has been poured."
     uploadDate: '2026-06-19T13:47:58+00:00'
     durationSeconds: 17
     language: sq

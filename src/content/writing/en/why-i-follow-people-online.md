@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard speaking to the camera in the original video about the reasons he follows people online.
   seo:
     name: 'Why I Follow People Online: Give Me an Idea'
-    description: 'Why I follow and unfollow people online: ideas, useful work and honest connection, with a simple
-      way to review where your attention goes.'
+    description: "Eduard explains why he follows people online, looking for ideas, creative work and perspectives beyond carefully presented lifestyles."
     uploadDate: '2026-09-10T05:13:26+00:00'
     durationSeconds: 64
     language: sq

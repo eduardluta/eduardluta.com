@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi diskuton qartësinë dhe vlerën e kohës së të tjerëve.
   seo:
     name: 'Vlera për minutë: Respekto kohën në anën tjetër të tavolinës'
-    description: Reflektim për komunikimin e qartë, kohën që marrin takimet dhe pse “vlera për minutë” është pyetje
-      e dobishme, jo test inteligjence.
+    description: "Eduardi flet për “vlerën për minutë” në biseda dhe takime, duke pyetur çfarë jep folësi në këmbim të kohës së dëgjuesit."
     uploadDate: '2026-06-25T07:24:28+00:00'
     durationSeconds: 101
     language: sq

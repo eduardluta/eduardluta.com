@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard responding to a question about moving to Germany for work.
   seo:
     name: 'Moving to Germany: What Problem Are You Trying to Solve?'
-    description: 'A response to a driver considering Germany: separate income, belonging and personal change, then
-      compare what remains after costs.'
+    description: "Eduard responds to someone considering moving to Germany as a professional driver and discusses income, dissatisfaction, loneliness and discrimination abroad."
     uploadDate: '2026-07-26T13:19:49+00:00'
     durationSeconds: 177
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi jashtë me syze dielli dhe këmishë të çelët me motive, nën qiell të kaltër.
   seo:
     name: Trajtoji problemet e vogla para se të rriten
-    description: Biseda e shtyrë mund të mbledhë supozime e pakënaqësi. Reflektim praktik për emërtimin e problemit,
-      kërkimin e faljes dhe caktimin e kohës për bisedë.
+    description: "Eduardi nxit trajtimin e mosmarrëveshjeve sa janë ende të vogla dhe flet për bisedat që shmangim dhe kërkimin e faljes."
     uploadDate: '2026-05-29T10:53:06+00:00'
     durationSeconds: 59
     language: sq

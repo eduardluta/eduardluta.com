@@ -18,8 +18,7 @@ video:
   posterAlt: The original video thumbnail accompanying Eduard’s joke about letting his wife cut his hair.
   seo:
     name: 'Letting My Wife Cut My Hair: A Small Joke About Maturity'
-    description: A twelve-second joke about a haircut, marriage and no longer needing everybody else’s approval.
-      The point is trust, not a test of masculinity.
+    description: "In a twelve-second clip, Eduard jokes that maturity is no longer needing everyone's approval and letting his wife cut his hair."
     uploadDate: '2026-08-31T14:41:59+00:00'
     durationSeconds: 12
     language: sq

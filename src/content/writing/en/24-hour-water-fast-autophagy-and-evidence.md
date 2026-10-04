@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a black T-shirt speaking outdoors under a blue sky, with trees behind him.
   seo:
     name: 'Water fasting: my 24-hour update'
-    description: Eduard reports energy and clarity after 24 hours and makes claims about autophagy. The accompanying
-      article examines those claims and their limits.
+    description: "Eduard describes how he feels after 24 hours of a self-reported water fast and discusses autophagy using a car-service analogy."
     uploadDate: '2026-05-30T17:41:31+00:00'
     durationSeconds: 199
     language: sq

@@ -20,9 +20,8 @@ video:
   posterAlt: Original video thumbnail of a street seen through a vehicle window, with Albanian text about provocation
     and working on yourself.
   seo:
-    name: 'Emotional Triggers: Responsibility Without Self-Blame'
-    description: 'A blunt video about emotional triggers becomes a practical distinction: take responsibility for
-      your response without excusing somebody else’s behaviour.'
+    name: "A reflection on emotional reactions"
+    description: "Eduard encourages noticing what provokes an emotional reaction and working on one's response instead of letting it consume the day."
     uploadDate: '2026-09-17T13:08:41+00:00'
     durationSeconds: 9
     language: sq

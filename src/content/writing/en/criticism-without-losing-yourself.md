@@ -20,9 +20,8 @@ video:
   poster: /writing/criticism-without-losing-yourself/video-thumbnail.jpg
   posterAlt: Original TikTok thumbnail of Eduard in a car, speaking about comments and public judgement.
   seo:
-    name: How to Handle Criticism Without Losing Yourself
-    description: 'A reaction to hostile comments becomes a practical filter for criticism: separate evidence from
-      insults, keep useful feedback, and protect the work.'
+    name: "My reaction to hostile comments"
+    description: "Reacting to hostile comments, Eduard encourages people to keep creating and questions whose criticism they should give weight to."
     uploadDate: '2026-09-22T13:13:19+00:00'
     durationSeconds: 111
     language: sq

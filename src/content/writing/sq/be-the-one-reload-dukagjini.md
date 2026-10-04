@@ -21,8 +21,7 @@ video:
     ndarë.
   seo:
     name: 'Be The One në Reload: Të përgatitesh për një lidhje'
-    description: Çfarë prezantuam në Reload Dukagjini për Be The One, fazën beta, gjashtë praktikat ditore dhe punën
-      me veten para e gjatë një lidhjeje.
+    description: "Në një pjesë interviste në Reload Dukagjini, Eduardi prezanton Be The One, flet për fazën beta dhe e lidh zhvillimin personal me atë që njerëzit sjellin në marrëdhënie."
     uploadDate: '2026-10-02T20:24:21+00:00'
     durationSeconds: 55
     language: sq

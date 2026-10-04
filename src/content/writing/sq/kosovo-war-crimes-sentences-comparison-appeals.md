@@ -19,9 +19,8 @@ video:
   poster: /writing/kosovo-war-crimes-sentences-comparison-appeals/video-thumbnail.jpg
   posterAlt: 'Miniatura origjinale: Eduardi me bluzë të zezë dua.com, duke folur me dorën mbi ballë.'
   seo:
-    name: 'Dënimet për krime lufte: kontrolli i krahasimit'
-    description: 'Krahasimi 109 me 107 vjet, i kontrolluar në burimet e DHSK-së dhe TPNJ-së: emrat, fazat e dënimeve,
-      llogaritjet dhe kufijtë e argumentit.'
+    name: "Reagimi im ndaj dënimeve dhe procesit të apelimit"
+    description: "Eduardi reagon ndaj aktgjykimit kundër ish-drejtuesve të UÇK-së, krahason dënimet me burg dhe thekson rëndësinë e procesit të apelimit."
     uploadDate: '2026-09-17T06:55:23+00:00'
     durationSeconds: 208
     language: sq

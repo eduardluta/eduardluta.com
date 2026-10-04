@@ -20,9 +20,8 @@ video:
   poster: /writing/one-hour-a-day-five-years-the-real-math/video-thumbnail.jpg
   posterAlt: Eduard speaking indoors in a white polo, with the video text 1’826 Dite and Success.
   seo:
-    name: 'One Hour a Day for Five Years: The Real Math'
-    description: Five years of daily practice can mean 1,826 hours. Here is the calendar calculation, and why it
-      cannot guarantee an expertise rank or a tenfold salary.
+    name: "One Hour a Day, Five Years of Practice"
+    description: "Eduard challenges viewers to spend an hour a day reading, practising and developing their work over five years."
     uploadDate: '2026-05-26T18:42:15+00:00'
     durationSeconds: 142
     language: sq

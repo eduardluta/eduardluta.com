@@ -21,8 +21,7 @@ video:
   posterAlt: Miniatura origjinale e Eduardit duke folur për ëndrrat.
   seo:
     name: Ëndrrat, ditari dhe kuptimi që i japim gjumit
-    description: Pse i shënoj ëndrrat, si e ndaj interpretimin shpirtëror nga shkenca e gjumit dhe një ditar praktik
-      që lë hapësirë për pasigurinë.
+    description: "Eduardi pyet çfarë janë ëndrrat, ndan bindjet e tij shpirtërore për to dhe flet për shënimin e ëndrrave e kërkimin e lidhjeve mes tyre."
     uploadDate: '2026-09-11T18:30:50+00:00'
     durationSeconds: 64
     language: sq

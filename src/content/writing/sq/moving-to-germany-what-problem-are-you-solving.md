@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi i përgjigjet një pyetjeje për lëvizjen në Gjermani për punë.
   seo:
     name: 'Të shkosh në Gjermani: Cilin problem po përpiqesh të zgjidhësh?'
-    description: 'Përgjigje për një shofer që mendon Gjermaninë: ndaj të ardhurat, përkatësinë dhe ndryshimin personal,
-      pastaj krahaso paratë pas shpenzimeve.'
+    description: "Eduardi i përgjigjet dikujt që po mendon të shpërngulet në Gjermani si shofer profesionist dhe flet për të ardhurat, pakënaqësinë, vetminë dhe diskriminimin jashtë vendit."
     uploadDate: '2026-07-26T13:19:49+00:00'
     durationSeconds: 177
     language: sq

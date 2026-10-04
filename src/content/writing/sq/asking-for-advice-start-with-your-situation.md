@@ -17,9 +17,8 @@ video:
   poster: /writing/asking-for-advice-start-with-your-situation/video-thumbnail.jpg
   posterAlt: Eduardi diskuton mesazhet që merr me kërkesa për këshilla.
   seo:
-    name: Po kërkon këshillë? Jepi tjetrit një pikënisje
-    description: 'Çfarë dua të them kur pyes çfarë ke provuar: përshkruaj problemin, pengesën dhe vendimin e radhës
-      që këshilla të bëhet e dobishme.'
+    name: "Një përgjigje për ata që kërkojnë këshilla për jetën"
+    description: "Duke iu përgjigjur mesazheve që kërkojnë këshilla për jetën, Eduardi pyet çfarë kanë provuar njerëzit deri tani dhe përmend leximin, shkrimin, mësimin, ushtrimet dhe krijimin."
     uploadDate: '2026-07-25T14:09:31+00:00'
     durationSeconds: 123
     language: sq

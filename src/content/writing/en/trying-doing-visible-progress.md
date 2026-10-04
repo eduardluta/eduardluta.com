@@ -19,8 +19,7 @@ video:
   posterAlt: Eduard in the original video illustrating his point about action with his glasses.
   seo:
     name: “I’m Trying” Is Not the Same as Visible Progress
-    description: My business lesson about trying and doing, with a practical way to define the next action while
-      recognising effort, uncertainty and limits.
+    description: "Eduard uses taking off his glasses to illustrate a business lesson about the difference between saying you are trying and taking action."
     uploadDate: '2026-06-30T14:43:37+00:00'
     durationSeconds: 34
     language: sq

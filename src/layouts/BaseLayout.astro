@@ -93,11 +93,14 @@ const webPageNode = {
   description,
   inLanguage: lang,
   isPartOf: { '@id': `${SITE}/#website` },
+  ...(jsonLdList.some((node) => node['@type'] === 'BreadcrumbList')
+    ? { breadcrumb: { '@id': `${canonical}#breadcrumb` } }
+    : {}),
   ...pageSchema,
 };
 const graph = {
   '@context': 'https://schema.org',
-  '@graph': [webPageNode, websiteSchema(), personSchema(), ...jsonLdList],
+  '@graph': [webPageNode, websiteSchema(), personSchema(lang, home), ...jsonLdList],
 };
 
 const rssHref = lang === 'sq' ? '/sq/rss.xml' : '/rss.xml';

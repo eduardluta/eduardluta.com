@@ -20,9 +20,8 @@ video:
   poster: /writing/playfulness-without-losing-responsibility/video-thumbnail.jpg
   posterAlt: 'Miniatura origjinale e TikTok-ut: Eduardi jashtë, duke buzëqeshur dhe bërë shenjën e paqes.'
   seo:
-    name: Me qenë si fëmijë, pa hequr dorë nga përgjegjësia
-    description: 'Një video për dëshirën me u bërë prapë fëmijë: çka thotë hulumtimi për lojën te të rriturit dhe
-      si mund t’i bëjmë pak vend në jetën e përditshme.'
+    name: "Dëshira për t’u bërë prapë fëmijë"
+    description: "Eduardi buzëqesh dhe bën shenjën e paqes në një klip të shkurtër, përshkrimi i të cilit lidh afrimin me shërimin me dëshirën për t’u bërë prapë fëmijë."
     uploadDate: '2026-09-22T16:47:58+00:00'
     durationSeconds: 8
     language: sq

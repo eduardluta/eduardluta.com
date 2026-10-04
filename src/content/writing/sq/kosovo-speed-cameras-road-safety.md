@@ -22,9 +22,8 @@ video:
   posterAlt: 'Miniatura origjinale e TikTok-ut: kamerë shpejtësie pranë rrugës dhe Eduardi duke folur në një dritare
     të vogël.'
   seo:
-    name: 'Kamerat e shpejtësisë në Kosovë: siguria dhe llogaritjet'
-    description: A mund të shpëtojnë jetë dhe të financojnë paga më të mira kamerat e shpejtësisë? Shifrat e Kosovës
-      për 2025 dhe një skenar pagash prej 54,2 milionë eurosh.
+    name: "Një pyetje për radarët dhe pagat e policisë në Kosovë"
+    description: "Duke treguar një radar shpejtësie, Eduardi pyet pse Kosova nuk mund të përdorë sisteme të ngjashme dhe e lidh idenë me rrugë më të sigurta e paga më të mira për policinë."
     uploadDate: '2026-09-20T14:56:51+00:00'
     durationSeconds: 26
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard outdoors in sunglasses and a light patterned shirt, beneath a blue sky.
   seo:
     name: Address Small Problems Before They Grow
-    description: A delayed conversation can collect assumptions and resentment. A practical reflection on naming
-      a problem, apologising and agreeing when to talk.
+    description: "Eduard encourages addressing disagreements while they are small and talks about avoided conversations and apologies."
     uploadDate: '2026-05-29T10:53:06+00:00'
     durationSeconds: 59
     language: sq

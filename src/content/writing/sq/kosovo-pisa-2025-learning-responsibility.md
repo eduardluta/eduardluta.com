@@ -20,9 +20,8 @@ video:
   poster: /writing/kosovo-pisa-2025-learning-responsibility/video-thumbnail.jpg
   posterAlt: Miniatura origjinale e Eduardit duke diskutuar arsimin, PISA-n dhe përgjegjësinë.
   seo:
-    name: 'PISA 2025 në Kosovë: notat nuk mjaftojnë'
-    description: Rezultatet PISA 2025 të Kosovës, krahasimi me OECD-në, llogaritjet e kontrolluara dhe pyetje praktike
-      për prindërit, mësuesit e institucionet.
+    name: "Notat, diplomat dhe të nxënit në Kosovë"
+    description: "Eduardi kritikon trajtimin e notave dhe diplomave si dëshmi të dijes dhe u kërkon prindërve të marrin përgjegjësi për arsimimin e fëmijëve të tyre."
     uploadDate: '2026-09-11T13:37:03+00:00'
     durationSeconds: 206
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a black training vest beside a friend in a light green T-shirt inside a gym.
   seo:
     name: HYROX training with a friend
-    description: Eduard and a friend describe a gym session and a planned race in Rome. Eduard reports feeling energised;
-      the article adds race-format and health context.
+    description: "Eduard and a friend discuss a mixed gym session and a planned race in Rome; Eduard describes feeling energised and present after training."
     uploadDate: '2026-07-23T20:54:02+00:00'
     durationSeconds: 75
     language: sq

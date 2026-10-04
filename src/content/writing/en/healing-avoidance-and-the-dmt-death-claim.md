@@ -23,8 +23,7 @@ video:
     and avoidance.
   seo:
     name: Healing, Avoidance and the DMT Claim About Death
-    description: A video about postponing your life raises a claim about DMT at death. Separating the personal challenge
-      from what a rat study actually measured.
+    description: "Eduard reflects on withdrawing from new experiences and discusses a claim about DMT and a review of one's life at death."
     uploadDate: '2026-06-21T11:11:28+00:00'
     durationSeconds: 93
     language: sq

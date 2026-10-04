@@ -23,8 +23,7 @@ video:
     video inset.
   seo:
     name: 'Podolski’s Döner in Düsseldorf: Beyond the Famous Name'
-    description: 'A visit to Mangal in Düsseldorf raises a business question: what can athletes build? Verified
-      menu prices, comparisons and the difference between sales and profit.'
+    description: "During a visit to a Mangal döner shop in Düsseldorf, Eduard notices the Podolski connection and asks what businesses athletes could build."
     uploadDate: '2026-09-25T15:22:29+00:00'
     durationSeconds: 26
     language: sq

@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard reflecting on losing an important supporter.
   seo:
     name: When You Lose the Person Who Believed in You
-    description: A reflection on losing your biggest supporter, why achievements can feel different afterwards,
-      and the difference between peace and reunion.
+    description: "Eduard reflects on losing someone who believed in him, how achievements feel afterwards and making peace where possible."
     uploadDate: '2026-07-31T12:16:12+00:00'
     durationSeconds: 177
     language: sq

@@ -20,9 +20,8 @@ video:
   poster: /writing/cancer-meaning-emotions-without-blame/video-thumbnail.jpg
   posterAlt: Eduard outdoors at night in a green shirt, in the original video about his mother and cancer.
   seo:
-    name: 'Cancer, Meaning and Emotions: Hope Without Blame'
-    description: What conversations with cancer survivors taught me about meaning, and why emotional support must
-      never become blame or a promise of cure.
+    name: "Reflections after conversations with cancer survivors"
+    description: "Eduard recounts conversations with cancer survivors about changes in their lives and shares a survivor's personal interpretation of illness and emotions."
     uploadDate: '2026-07-23T22:13:16+00:00'
     durationSeconds: 178
     language: sq

@@ -20,9 +20,8 @@ video:
   poster: /writing/talent-needs-practice-not-endless-hours/video-thumbnail.jpg
   posterAlt: Eduard outdoors in a dark shirt in the original video about talent and work.
   seo:
-    name: Talent Needs Practice, Not Endless Hours
-    description: I wanted a special talent as a child. This video is about doing the work, with a practical time
-      comparison and a limit on the long-hours message.
+    name: "Talent and the Work of Putting It to Use"
+    description: "Eduard recalls wanting a special talent as a child and reflects on the value of working, solving problems and putting ability into practice."
     uploadDate: '2026-05-30T17:46:36+00:00'
     durationSeconds: 70
     language: sq

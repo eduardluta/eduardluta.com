@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi me kanotiere të zezë pranë një shoku me bluzë të gjelbër të çelët brenda palestrës.
   seo:
     name: Stërvitje HYROX me një shok
-    description: Eduardi dhe një shok përshkruajnë stërvitjen dhe një garë të planifikuar në Romë. Eduardi raporton
-      energji; artikulli shton kontekst për garën dhe shëndetin.
+    description: "Eduardi dhe një mik flasin për një seancë me ushtrime të ndryshme në palestër dhe një garë të planifikuar në Romë; Eduardi përshkruan energjinë dhe praninë që ndien pas stërvitjes."
     uploadDate: '2026-07-23T20:54:02+00:00'
     durationSeconds: 75
     language: sq

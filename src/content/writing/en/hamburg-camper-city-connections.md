@@ -23,8 +23,7 @@ video:
     inset.
   seo:
     name: 'Hamburg by Camper: Getting Into the City and Meeting People'
-    description: 'A camper arrival in Hamburg, a plan to meet the Albanian community, and the HVV ticket maths:
-      when €8.20 day tickets and €16.40 group tickets make sense.'
+    description: "After arriving at a Hamburg campsite by camper, Eduard talks about the surroundings and his plans to meet Albanian dua.com users in the city."
     uploadDate: '2026-09-23T14:26:24+00:00'
     durationSeconds: 64
     language: sq

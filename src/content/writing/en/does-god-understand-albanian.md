@@ -18,8 +18,7 @@ video:
   posterAlt: Original thumbnail of Eduard asking his question about God and the Albanian language.
   seo:
     name: Does God Understand Albanian? The Question Behind the Joke
-    description: My question about praying in Albanian opens a distinction between personal faith, understanding
-      and the ritual languages of religious traditions.
+    description: "Eduard jokes about the contradiction of a creator of the universe supposedly having difficulty understanding a prayer in Albanian."
     uploadDate: '2026-07-27T08:20:32+00:00'
     durationSeconds: 31
     language: sq

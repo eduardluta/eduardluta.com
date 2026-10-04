@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in sunglasses sitting outdoors beside his brother in a green T-shirt.
   seo:
     name: Ending the fast with my brother
-    description: Eduard and his brother discuss their meal after ending a fast. The accompanying article clarifies
-      that the parasite joke is not evidence of treatment.
+    description: "Sitting outside with his brother after ending a fast, Eduard talks about soup, yogurt and garlic and makes a joke about parasites."
     uploadDate: '2026-06-03T10:02:26+00:00'
     durationSeconds: 28
     language: sq

@@ -18,9 +18,8 @@ video:
   poster: /writing/pisa-kosovo-parents-learning-at-home/video-thumbnail.jpg
   posterAlt: Eduardi në videon origjinale për përgjegjësinë e prindërve pas rezultateve PISA të Kosovës.
   seo:
-    name: 'Pas PISA-s: Çfarë mund të bëjë një prind sonte?'
-    description: Debati për PISA-n në Kosovë ngre pyetjen çfarë mund të bëjnë prindërit në shtëpi, ndërsa shkollat
-      dhe institucionet mbeten përgjegjëse për mësimin.
+    name: "PISA dhe përgjegjësia e prindërve"
+    description: "Eduardi reagon ndaj fajësimeve rreth rezultateve PISA të Kosovës dhe i pyet prindërit si përfshihen në mësimin e fëmijëve të tyre."
     uploadDate: '2026-09-08T17:55:47+00:00'
     durationSeconds: 108
     language: sq

@@ -20,9 +20,8 @@ video:
   poster: /writing/cancer-biopsy-questions-and-evidence/video-thumbnail.jpg
   posterAlt: Eduardi duke folur nga makina në videon origjinale për kancerin dhe biopsinë.
   seo:
-    name: 'Kanceri dhe biopsia: pyetjet meritojnë prova'
-    description: Një video personale ngre pohime për tumoret dhe biopsinë. Ja konteksti mjekësor dhe pyetjet praktike
-      për ekipin që kujdeset për pacientin.
+    name: "Pyetjet e mia për kancerin dhe biopsitë"
+    description: "Eduardi reflekton mbi kancerin e nënës së tij dhe diskuton pyetje e ide që ka dëgjuar për tumoret dhe biopsitë."
     uploadDate: '2026-06-10T19:43:14+00:00'
     durationSeconds: 140
     language: sq

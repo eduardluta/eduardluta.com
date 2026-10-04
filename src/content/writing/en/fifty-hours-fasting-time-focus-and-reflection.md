@@ -20,8 +20,7 @@ video:
   posterAlt: Eduard outdoors in a patterned bucket hat, speaking about his experience at fifty hours of fasting.
   seo:
     name: My experience at fifty hours of water fasting
-    description: Eduard describes feeling more time, mental space and focus during a self-reported fifty-hour water
-      fast. His personal interpretation is discussed separately from medical evidence.
+    description: "Eduard describes feeling more time, mental space and focus during a self-reported fifty-hour water fast."
     uploadDate: '2026-05-31T14:33:18+00:00'
     durationSeconds: 87
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi i ulur jashtë me këmishë të gjelbër, duart mbi njërin gju dhe gjethe pas tij.
   seo:
     name: I mungon ti, apo i mungon kontrolli?
-    description: 'Një reflektim për ndryshimin e marrëdhënieve: shiko reagimin ndaj kufijve të tu, pa e trajtuar
-      një koment zhgënjimi si provë të motiveve të tjetrit.'
+    description: "Eduardi reflekton mbi zhvillimin personal dhe krahason njerëzit që mbështesin ndryshimet e dikujt me ata që duan rikthimin e versionit të mëparshëm të atij personi."
     uploadDate: '2026-06-12T15:49:48+00:00'
     durationSeconds: 47
     language: sq

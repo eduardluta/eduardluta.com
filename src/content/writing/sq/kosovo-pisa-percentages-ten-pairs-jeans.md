@@ -18,8 +18,7 @@ video:
   posterAlt: Miniatura origjinale e Eduardit duke diskutuar PISA-n në Kosovë dhe një detyrë të thjeshtë me përqindje.
   seo:
     name: 'Dhjetë palë xhinse: Pyetja matematikore pas frustrimit tim me PISA-n'
-    description: Zgjidhja e shembullit me përqindje nga videoja ime për PISA-n, me shifra të verifikuara të vitit
-      2025 dhe dallimin mes pikëve dhe inteligjencës.
+    description: "Duke diskutuar për PISA-n dhe të nxënit, Eduardi pyet sa për qind e dhjetë palë xhinseve janë të zeza kur gjashtë palë janë të bardha dhe katër të zeza."
     uploadDate: '2026-09-08T16:00:43+00:00'
     durationSeconds: 166
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi me syze dielli, ulur jashtë pranë vëllait me bluzë të gjelbër.
   seo:
     name: Fundi i agjërimit me vëllain
-    description: Eduardi dhe vëllai flasin për vaktin pas agjërimit. Artikulli shpjegon se shakaja për parazitët
-      nuk është provë trajtimi.
+    description: "I ulur jashtë me të vëllanë pas përfundimit të një agjërimi, Eduardi flet për supën, kosin dhe hudhrën dhe bën një shaka për parazitët."
     uploadDate: '2026-06-03T10:02:26+00:00'
     durationSeconds: 28
     language: sq

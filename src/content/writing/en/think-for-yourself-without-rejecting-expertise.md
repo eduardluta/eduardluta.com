@@ -18,9 +18,8 @@ video:
   poster: /writing/think-for-yourself-without-rejecting-expertise/video-thumbnail.jpg
   posterAlt: Eduard gesturing while speaking at night in a white T-shirt.
   seo:
-    name: Think for Yourself Without Rejecting Expertise
-    description: Taking responsibility does not mean knowing everything. It means participating, asking useful questions
-      and understanding the decisions that shape your life.
+    name: "Who Is Doing the Thinking for Your Life?"
+    description: "Eduard challenges the habit of handing responsibility for personal decisions to other people and waiting for life to change."
     uploadDate: '2026-06-01T19:04:44+00:00'
     durationSeconds: 83
     language: sq

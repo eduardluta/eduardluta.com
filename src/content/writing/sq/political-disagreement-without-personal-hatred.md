@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi me bluzë të bardhë duke folur para kamerës natën, me një dritë të vogël pas tij.
   seo:
     name: Mospajtim politik pa urrejtje personale
-    description: Pse duhet një bindje politike të na bëjë ta urrejmë njëri-tjetrin? Reflektim për mllefin publik,
-      interesat e përbashkëta dhe llogaridhënien.
+    description: "Eduardi pyet pse mospajtimi politik kthehet në urrejtje personale dhe reflekton për solidaritetin shqiptar dhe të ardhmen e përbashkët."
     uploadDate: '2026-06-01T19:17:06+00:00'
     durationSeconds: 96
     language: sq

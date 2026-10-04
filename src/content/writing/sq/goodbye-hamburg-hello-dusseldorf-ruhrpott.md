@@ -23,8 +23,7 @@ video:
     në videon origjinale.
   seo:
     name: 'Mirupafshim Hamburg, përshëndetje Düsseldorf: Drejt Ruhrpott-it tim'
-    description: Hamburgu fitoi një vend në zemrën time. Destinacioni tjetër është Düsseldorfi, ndërsa Ruhrpott-i
-      më kthen te fëmijëria. Lamtumirë personale, gjeografi e qartë.
+    description: "Një klip tetësekondësh nga udhëtimi me kamper i thotë lamtumirë Hamburgut; mbishkrimi i Eduardit përshëndet Düsseldorf-in dhe kujton fëmijërinë e tij në Ruhrpott."
     uploadDate: '2026-09-25T08:02:39+00:00'
     durationSeconds: 8
     language: sq

@@ -20,9 +20,8 @@ video:
   poster: /writing/empathy-hypervigilance-and-a-safer-home/video-thumbnail.jpg
   posterAlt: Eduard indoors in a green shirt in the original video about empathy and childhood experiences.
   seo:
-    name: Empathy, Hypervigilance and a Safer Home
-    description: A reflection on reading a room, childhood fear and breaking family patterns, with a clear distinction
-      between empathy and constant threat monitoring.
+    name: "Childhood fear and breaking family patterns"
+    description: "Eduard reflects on childhood fear, learning to read adults' moods and people who try not to pass inherited pain on to their children."
     uploadDate: '2026-08-31T13:49:44+00:00'
     durationSeconds: 275
     language: sq

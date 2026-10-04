@@ -19,8 +19,7 @@ video:
   posterAlt: Edon holding a dark dragon figure in the Cologne shop, with rugs and decorative objects around him.
   seo:
     name: A Dragon in Cologne and a Cap That Looked Like Home
-    description: A shop visit in Cologne leads from a dragon for Edon to a statue’s familiar cap. The video, Albanian
-      plis connection and museum context behind the joke.
+    description: "While looking for a dragon for Edon in a Cologne shop, Eduard notices a figure whose cap reminds him of an Albanian plis and makes a joke about it."
     uploadDate: '2026-09-28T16:51:48+00:00'
     durationSeconds: 42
     language: sq

@@ -20,8 +20,7 @@ video:
   posterAlt: Eduardi jashtë, me kapelë me motive, duke folur për përvojën në orën e pesëdhjetë të agjërimit.
   seo:
     name: Përvoja ime pas pesëdhjetë orësh agjërim me ujë
-    description: Eduardi përshkruan ndjesinë e më shumë kohe, hapësire mendore dhe fokusi pas pesëdhjetë orësh agjërim
-      të raportuar prej tij. Interpretimi personal ndahet nga provat mjekësore.
+    description: "Eduardi përshkruan ndjesinë se ka më shumë kohë, hapësirë mendore dhe përqendrim gjatë një agjërimi vetëm me ujë prej pesëdhjetë orësh, sipas rrëfimit të tij."
     uploadDate: '2026-05-31T14:33:18+00:00'
     durationSeconds: 87
     language: sq

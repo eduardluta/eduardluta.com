@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard discussing clarity and the value of other people’s time.
   seo:
     name: 'Value per Minute: Respect the Time on the Other Side of the Table'
-    description: A reflection on clear communication, the cost of long meetings and why “value per minute” is a
-      useful question rather than an intelligence test.
+    description: "Eduard discusses “value per minute” in conversation and meetings, asking what a speaker gives back for the listener’s time."
     uploadDate: '2026-06-25T07:24:28+00:00'
     durationSeconds: 101
     language: sq

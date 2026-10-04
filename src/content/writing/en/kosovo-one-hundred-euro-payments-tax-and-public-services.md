@@ -20,8 +20,7 @@ video:
   posterAlt: Eduard in a black cap inside a vehicle, discussing Kosovo’s €100 payments and public services.
   seo:
     name: My reaction to Kosovo’s €100 payments
-    description: Eduard questions the political timing of Kosovo’s €100 support payments and calls for reliable
-      electricity and public services. The article checks eligibility and corrects his tax example.
+    description: "Eduard questions the political timing of Kosovo's €100 support payments and calls for reliable electricity and public services."
     uploadDate: '2026-05-23T18:32:54+00:00'
     durationSeconds: 139
     language: sq

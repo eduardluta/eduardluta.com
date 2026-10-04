@@ -20,9 +20,8 @@ video:
   poster: /writing/think-for-yourself-without-rejecting-expertise/video-thumbnail.jpg
   posterAlt: Eduardi duke bërë gjeste e duke folur natën me bluzë të bardhë.
   seo:
-    name: Mendo për veten pa e refuzuar ekspertizën
-    description: Përgjegjësia nuk do të thotë t’i dish të gjitha. Do të thotë të marrësh pjesë, të pyesësh dhe t’i
-      kuptosh vendimet që ndikojnë në jetën tënde.
+    name: "Kush po mendon për jetën tënde?"
+    description: "Eduardi sfidon shprehinë e dorëzimit të përgjegjësisë për vendimet personale te të tjerët dhe të pritjes që jeta të ndryshojë."
     uploadDate: '2026-06-01T19:04:44+00:00'
     durationSeconds: 83
     language: sq

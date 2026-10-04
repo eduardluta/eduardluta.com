@@ -20,9 +20,8 @@ video:
   poster: /writing/kosovo-war-crimes-sentences-comparison-appeals/video-thumbnail.jpg
   posterAlt: Original video thumbnail of Eduard in a black dua.com shirt, speaking with a hand on his forehead.
   seo:
-    name: 'Kosovo War-Crimes Sentences: Checking the Comparison'
-    description: 'The 109-versus-107-year comparison checked against KSC and ICTY records: named defendants, sentence
-      stages, calculations and the limits of the argument.'
+    name: "My reaction to the sentences and the appeal process"
+    description: "Eduard reacts to the judgment against former KLA leaders, compares prison terms and argues that the appeal process matters."
     uploadDate: '2026-09-17T06:55:23+00:00'
     durationSeconds: 208
     language: sq

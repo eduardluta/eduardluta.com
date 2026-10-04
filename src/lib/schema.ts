@@ -1,5 +1,6 @@
 import { SITE } from '../consts';
-import { SITE_NAME, SITE_EMAIL, social, type Lang } from '../i18n/ui';
+import { SITE_NAME, SITE_EMAIL, social, useTranslations, type Lang } from '../i18n/ui';
+import { portrait } from '../data/homepage';
 import type { CollectionEntry } from 'astro:content';
 
 // Every helper returns a bare node (no '@context'): BaseLayout merges all nodes
@@ -8,26 +9,19 @@ import type { CollectionEntry } from 'astro:content';
 
 const sameAs = [social.github, social.linkedin, social.instagram, social.tiktok, social.x];
 
-export function personSchema() {
+export function personSchema(lang: Lang, profile = false) {
   return {
     '@type': 'Person',
     '@id': `${SITE}/#person`,
     name: SITE_NAME,
-    givenName: 'Eduard',
-    familyName: 'Luta',
-    url: SITE,
+    url: `${SITE}/`,
     email: `mailto:${SITE_EMAIL}`,
-    jobTitle: 'Entrepreneur',
-    description:
-      'Friend, father, husband & entrepreneur building at the intersection of AI and meaning.',
-    knowsLanguage: [
-      { '@type': 'Language', name: 'English', alternateName: 'en' },
-      { '@type': 'Language', name: 'Albanian', alternateName: 'sq' },
-    ],
-    worksFor: [
-      { '@type': 'Organization', name: 'dua.com', url: 'https://dua.com' },
-      { '@type': 'Organization', name: 'MIK Group' },
-    ],
+    // The profile shows this identity line and portrait. Other pages only
+    // identify the author and link to his public profiles in their footer.
+    ...(profile ? {
+      description: useTranslations(lang)('site.tagline'),
+      image: new URL(portrait.src, SITE).href,
+    } : {}),
     sameAs,
   };
 }
@@ -53,7 +47,7 @@ export function articleSchema(opts: {
   datePublished: string;
   dateModified?: string;
   lang: Lang;
-  image: string;
+  image?: string;
   wordCount?: number;
   tags?: string[];
   videoId?: string;
@@ -65,15 +59,15 @@ export function articleSchema(opts: {
     description: opts.description,
     inLanguage: opts.lang,
     datePublished: opts.datePublished,
-    dateModified: opts.dateModified ?? opts.datePublished,
+    ...(opts.dateModified ? { dateModified: opts.dateModified } : {}),
     mainEntityOfPage: { '@id': `${opts.url}#webpage` },
     url: opts.url,
-    image: opts.image,
+    ...(opts.image ? { image: opts.image } : {}),
     ...(opts.videoId ? { video: { '@id': opts.videoId } } : {}),
     isAccessibleForFree: true,
     ...(opts.wordCount ? { wordCount: opts.wordCount } : {}),
     ...(opts.tags && opts.tags.length
-      ? { keywords: opts.tags.join(', '), articleSection: opts.tags[0] }
+      ? { keywords: opts.tags.join(', ') }
       : {}),
     author: { '@id': `${SITE}/#person` },
     publisher: { '@id': `${SITE}/#person` },
@@ -107,6 +101,7 @@ export function videoSchema(opts: {
 export function breadcrumbSchema(items: { name: string; url: string }[]) {
   return {
     '@type': 'BreadcrumbList',
+    '@id': `${new URL(items[items.length - 1].url, SITE).href}#breadcrumb`,
     itemListElement: items.map((item, i) => ({
       '@type': 'ListItem',
       position: i + 1,

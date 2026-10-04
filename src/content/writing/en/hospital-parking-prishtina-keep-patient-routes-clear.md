@@ -21,8 +21,7 @@ video:
   posterAlt: An empty marked parking bay among parked cars on hospital grounds, seen in the original video.
   seo:
     name: 'Hospital Parking in Prishtina: Keep the Patient’s Route Clear'
-    description: 'A hospital parking observation becomes a practical proposal: guide drivers, keep pavements usable,
-      and measure whether patients can reach the entrance.'
+    description: "At a hospital parking area in Prishtina, Eduard points out cars on the pavement despite available spaces and suggests guiding drivers to parking."
     uploadDate: '2026-06-16T09:44:44+00:00'
     durationSeconds: 98
     language: sq

@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi diskuton pyetjen e një ndjekësi për kthimin në Kosovë.
   seo:
     name: 'Të kthehesh në Kosovë: Sille mallin bashkë me një plan biznesi'
-    description: Përgjigje praktike për kthimin nga diaspora në Kosovë, me shembull të llogaritjes së kursimeve
-      dhe dallimin mes përkatësisë e kërkesës së tregut.
+    description: "Eduardi i përgjigjet një ndjekësi në Gjermani që dëshiron të kthehet në Kosovë dhe të nisë biznes, duke e nxitur të vijë me ide dhe plan."
     uploadDate: '2026-07-30T19:53:20+00:00'
     durationSeconds: 250
     language: sq

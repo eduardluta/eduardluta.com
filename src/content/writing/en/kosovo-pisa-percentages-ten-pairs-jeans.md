@@ -18,8 +18,7 @@ video:
   posterAlt: Original thumbnail of Eduard discussing Kosovo’s PISA performance and a simple percentage problem.
   seo:
     name: 'Ten Pairs of Jeans: The Maths Question Behind My PISA Frustration'
-    description: Work through the percentage example in my Kosovo PISA video, with verified 2025 figures and a clear
-      distinction between scores and intelligence.
+    description: "Discussing PISA and learning, Eduard asks what percentage of ten pairs of jeans are black when six pairs are white and four are black."
     uploadDate: '2026-09-08T16:00:43+00:00'
     durationSeconds: 166
     language: sq

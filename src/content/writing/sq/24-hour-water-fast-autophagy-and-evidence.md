@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi me bluzë të zezë duke folur jashtë, nën qiell të kaltër dhe me pemë prapa tij.
   seo:
     name: 'Agjërimi me ujë: përditësimi pas 24 orësh'
-    description: Eduardi raporton energji dhe qartësi pas 24 orësh dhe bën pretendime për autofaginë. Artikulli
-      shoqërues i shqyrton pretendimet dhe kufijtë e tyre.
+    description: "Eduardi përshkruan si ndihet pas 24 orësh agjërimi vetëm me ujë, sipas rrëfimit të tij, dhe flet për autofagjinë përmes krahasimit me servisin e një makine."
     uploadDate: '2026-05-30T17:41:31+00:00'
     durationSeconds: 199
     language: sq

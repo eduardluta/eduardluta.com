@@ -20,9 +20,8 @@ video:
   poster: /writing/anger-during-illness-support-without-pressure/video-thumbnail.jpg
   posterAlt: Eduardi me nënën e tij jashtë, siç shfaqen në miniaturën origjinale të videos.
   seo:
-    name: 'Zemërimi gjatë sëmundjes: mbështetje pa presion'
-    description: Çfarë më mësoi përkujdesja për nënën për zemërimin gjatë sëmundjes, dëgjimin, natyrën dhe dallimin
-      mes ngushëllimit dhe trajtimit të kancerit.
+    name: "Sëmundja, zemërimi dhe koha me nënën time"
+    description: "Eduardi reflekton mbi zemërimin gjatë sëmundjes së nënës së tij dhe përshkruan kohën në natyrë, ushtrimet e frymëmarrjes, meditimin dhe lutjen që provuan së bashku."
     uploadDate: '2026-06-11T09:08:58+00:00'
     durationSeconds: 159
     language: sq

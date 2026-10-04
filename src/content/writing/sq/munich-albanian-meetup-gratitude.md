@@ -23,8 +23,7 @@ video:
     shqip.
   seo:
     name: 'Mynih: Një falënderim pas takimit me njerëzit tanë'
-    description: Një video e shkurtër nga Mynihu pas takimit me përdorues shqiptarë të dua.com, si ta vazhdojmë
-      kontaktin dhe ku të mësojmë shqip në qytet.
+    description: "Në një klip shtatësekondësh, Eduardi del nga një makinë dhe kërcen pas takimit me përdorues të dua.com; mbishkrimi i tij falënderon komunitetin shqiptar të Mynihut."
     uploadDate: '2026-10-02T07:56:18+00:00'
     durationSeconds: 7
     language: sq

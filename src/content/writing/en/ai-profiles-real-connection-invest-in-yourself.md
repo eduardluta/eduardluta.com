@@ -20,9 +20,8 @@ video:
   poster: /writing/ai-profiles-real-connection-invest-in-yourself/video-thumbnail.jpg
   posterAlt: Eduard speaking outdoors in the original video, with an inset film scene above him.
   seo:
-    name: 'AI Profiles, Real Loneliness: Invest in Your Own Life'
-    description: A reaction to artificial social profiles becomes a practical plan for real connection, learning
-      and attention—with clear boundaries between evidence and opinion.
+    name: "A reaction to AI profiles and the attention we give them"
+    description: "Eduard reacts to artificial social-media profiles and encourages viewers to invest attention in learning, health, reflection and real-life connection."
     uploadDate: '2026-09-18T12:34:03+00:00'
     durationSeconds: 179
     language: sq

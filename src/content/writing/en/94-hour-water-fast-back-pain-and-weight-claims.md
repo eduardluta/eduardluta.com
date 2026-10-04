@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a white polo shirt and cap inside a car, with the original 94-hour fasting graphic.
   seo:
     name: 'Water fasting: my 94-hour update'
-    description: Eduard reports back pain, exercise and an estimated weight change. The accompanying article corrects
-      the unsupported explanation about cellular repair.
+    description: "Eduard reports reaching 94 hours without food, exercising, feeling energetic, experiencing lower-back pain and an estimated change in weight."
     uploadDate: '2026-06-02T17:56:33+00:00'
     durationSeconds: 112
     language: sq

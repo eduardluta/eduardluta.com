@@ -18,9 +18,8 @@ video:
   poster: /writing/pisa-kosovo-parents-learning-at-home/video-thumbnail.jpg
   posterAlt: Eduard in the original video discussing parents’ responsibility after Kosovo’s PISA results.
   seo:
-    name: 'After PISA: What Can a Parent Do Tonight?'
-    description: 'Kosovo’s PISA debate raises a practical question: what parents can do at home while schools and
-      institutions remain responsible for teaching.'
+    name: "PISA and Parents’ Responsibility"
+    description: "Eduard reacts to the blame surrounding Kosovo’s PISA results and asks parents how they are involved in their children’s learning."
     uploadDate: '2026-09-08T17:55:47+00:00'
     durationSeconds: 108
     language: sq

@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard speaking about responding to difficult news.
   seo:
     name: 'What to Do After Bad News: Make Room for the Next Decision'
-    description: 'Four practical steps from my video about bad news: settle, step back when safe, protect daily
-      life and write down your options.'
+    description: "Eduard discusses calming down after bad news, taking some distance, protecting everyday life and writing down possible next steps."
     uploadDate: '2026-07-31T15:59:54+00:00'
     durationSeconds: 213
     language: sq

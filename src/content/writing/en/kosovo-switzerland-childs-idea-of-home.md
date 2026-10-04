@@ -24,8 +24,7 @@ video:
     conversation.
   seo:
     name: Kosovo or Switzerland? A Child’s Idea of Home
-    description: 'I asked Marin whether he preferred Kosovo or Switzerland. His answer opens a different comparison:
-      relationships, daily life and what makes a child feel at home.'
+    description: "In a brief car conversation, Eduard asks Marin whether he would rather live in Kosovo or Switzerland; Marin chooses Kosovo."
     uploadDate: '2026-09-21T10:59:25+00:00'
     durationSeconds: 13
     language: sq

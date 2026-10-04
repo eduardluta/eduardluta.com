@@ -17,9 +17,8 @@ video:
   poster: /writing/asking-for-advice-start-with-your-situation/video-thumbnail.jpg
   posterAlt: Eduard discussing the messages he receives asking for advice.
   seo:
-    name: Asking for Advice? Give the Other Person Somewhere to Start
-    description: 'What I mean when I ask what you have tried: describe the problem, the obstacle and the next decision
-      so advice can become useful.'
+    name: "A response to people asking for life advice"
+    description: "Responding to messages asking for life advice, Eduard asks what people have already tried and mentions reading, writing, learning, exercise and creating."
     uploadDate: '2026-07-25T14:09:31+00:00'
     durationSeconds: 123
     language: sq

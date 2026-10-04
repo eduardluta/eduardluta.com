@@ -20,8 +20,7 @@ video:
   posterAlt: Eduardi në videon origjinale duke përshkruar përvojën e vet pas ayahuasca-s.
   seo:
     name: 'Ayahuasca dhe frika ime nga vdekja: Çfarë ndryshoi për mua'
-    description: Një rrëfim personal për ndryshimin e frikës nga vdekja pas ayahuasca-s, duke ndarë interpretimin
-      shpirtëror nga provat dhe siguria.
+    description: "Eduardi rrëfen një përvojë me ayahuasca, interpretimin e tij shpirtëror dhe mënyrën si ndjeu se iu zvogëlua frika nga vdekja."
     uploadDate: '2026-09-09T14:32:57+00:00'
     durationSeconds: 62
     language: sq

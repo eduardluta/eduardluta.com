@@ -23,8 +23,7 @@ video:
     mbi tavolinë.
   seo:
     name: Rregulli në Zvicër dhe çka dua për Kosovën
-    description: Një pamje nga Zvicra hap pyetjen për standardet e përditshme. Përpikëria e SBB-së jep një shembull
-      të matshëm, me llogaritje dhe kufij të qartë.
+    description: "Një pamje nga Zvicra e shtyn Eduardin të reflektojë për qetësinë që sjell rregulli dhe për atë që mund të ndërtohet në Kosovë."
     uploadDate: '2026-09-18T08:56:39+00:00'
     durationSeconds: 97
     language: sq

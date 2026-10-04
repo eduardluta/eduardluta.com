@@ -21,8 +21,7 @@ video:
   posterAlt: Eduardi në makinë me kapelë dhe këmishë me motive, në videon origjinale për entuziazmin.
   seo:
     name: Lodhja, entuziazmi dhe jeta që dëshiron
-    description: 'Një video për entuziazmin hap një pyetje më të madhe: çfarë i jep kuptim jetës dhe pse lodhja
-      e vazhdueshme kërkon kujdes, jo gjykim.'
+    description: "Eduardi reflekton për entuziazmin ndaj punës, krijimtarisë, familjes dhe shoqërisë, duke e përshkruar ndjenjën me gjuhë shpirtërore si zjarr të brendshëm."
     uploadDate: '2026-06-21T08:42:43+00:00'
     durationSeconds: 44
     language: sq

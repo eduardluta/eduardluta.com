@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a car wearing a cap and white polo, with the text Storia nr.1 above him.
   seo:
     name: The Gifted Prince, Practice and the Next Shiny Thing
-    description: 'A story about being good at everything raises a harder question: what will you stay with? Separating
-      useful practice from 20-hour and 10,000-hour guarantees.'
+    description: "Eduard retells a story about a prince gifted at everything who keeps switching interests, and reflects on staying with something long enough to develop it."
     uploadDate: '2026-05-20T12:48:29+00:00'
     durationSeconds: 173
     language: sq

@@ -18,8 +18,7 @@ video:
   posterAlt: Eduardi në palestër gjatë një seance përgatitore për HYROX.
   seo:
     name: 'Përgatitja për HYROX: Katër runde para Romës'
-    description: Brenda seancës sonë me katër runde për HYROX, me llogaritjen e vrapimit dhe krahasimin e qartë
-      me formatin e plotë me tetë runde.
+    description: "Eduardi ndan një seancë përgatitjeje për HYROX Rome me katër raunde vrapimi të ndërthurura me SkiErg, vozitje, ecje me pesha në duar dhe hapa me ulje."
     uploadDate: '2026-07-25T13:22:22+00:00'
     durationSeconds: 225
     language: sq

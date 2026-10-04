@@ -20,8 +20,7 @@ video:
   posterAlt: Eduardi me bluzë të bardhë polo, duke folur para kamerës brenda një veture.
   seo:
     name: Krijo çdo ditë pa pritur frymëzimin
-    description: Si t’i kthesh përpjekjet e përditshme krijuese në punë që mund ta vlerësosh, me një shembull të
-      llogaritur dhe pa garanci suksesi.
+    description: "Eduardi pyet si të bëhemi më krijues dhe nxit përpjekjet e përsëritura për të bërë diçka të re, ose diçka të re për ne."
     uploadDate: '2026-06-09T21:01:40+00:00'
     durationSeconds: 97
     language: sq

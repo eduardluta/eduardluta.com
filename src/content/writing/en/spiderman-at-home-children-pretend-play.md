@@ -22,9 +22,8 @@ video:
   posterAlt: Original video thumbnail of an adult and a child in a red jacket sitting together on a wooden bench
     outdoors.
   seo:
-    name: 'Our Spider-Man: Making Room for a Child’s Imagination'
-    description: 'A short family Spider-Man joke opens a practical look at pretend play: joining a child’s world,
-      keeping boundaries and letting the story belong to them.'
+    name: "The Best Spider-Man Is at Home"
+    description: "A short family clip with Eduard’s playful caption that the best Spider-Man is at home."
     uploadDate: '2026-09-17T19:42:00+00:00'
     durationSeconds: 14
     language: sq

@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi brenda me bluzë polo krem, në videon origjinale për ftesat nga shokët.
   seo:
     name: Kur të fton një shok, jeta zgjerohet pak
-    description: 'Një reflektim për ftesat, shoqërinë dhe përvojat e reja: si t’i lësh vend një po-je me kuptim
-      pa e kthyer çdo ftesë në detyrim.'
+    description: "Eduardi reflekton për pranimin e ftesave të miqve për përvoja të reja dhe për kujtimet e shoqëritë më të thella që pasuan."
     uploadDate: '2026-05-31T10:40:07+00:00'
     durationSeconds: 69
     language: sq

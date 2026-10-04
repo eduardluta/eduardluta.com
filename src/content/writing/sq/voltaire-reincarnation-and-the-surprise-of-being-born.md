@@ -19,8 +19,7 @@ video:
   posterAlt: Eduardi duke ecur në rrugë banimi nën qiell të kaltër, në videon origjinale për rimishërimin.
   seo:
     name: Volteri, rimishërimi dhe habia e lindjes
-    description: Mendimi për lindjen dy herë vjen nga një feniks te Princesha e Babilonisë e Volterit. Konteksti
-      e bën pyetjen më interesante, jo më të sigurt.
+    description: "Eduardi reflekton për rimishërimin përmes një ideje që lidhet me Volterin: të lindësh sërish mund të mos jetë më mahnitëse se të lindësh një herë."
     uploadDate: '2026-06-27T16:11:19+00:00'
     durationSeconds: 49
     language: sq

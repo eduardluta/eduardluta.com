@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard speaking inside a car beneath a viewer’s question about advice at age 24.
   seo:
     name: 'Advice at 24: Learn AI, Do the Work, Protect Your Health'
-    description: What I would tell my 24-year-old self about AI, work and health—plus the actual arithmetic behind
-      the claim that three intense months equal a year.
+    description: "Answering a viewer, Eduard describes the advice he would give his 24-year-old self about learning AI, doing practical work and caring for his health."
     uploadDate: '2026-06-16T05:36:23+00:00'
     durationSeconds: 179
     language: sq

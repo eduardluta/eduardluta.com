@@ -20,9 +20,8 @@ video:
   poster: /writing/empathy-hypervigilance-and-a-safer-home/video-thumbnail.jpg
   posterAlt: Eduardi brenda me këmishë të gjelbër, në videon origjinale për empatinë dhe përvojat e fëmijërisë.
   seo:
-    name: Empatia, hipervigjilenca dhe një shtëpi më e sigurt
-    description: Një reflektim për leximin e atmosferës, frikën në fëmijëri dhe ndryshimin e modeleve familjare,
-      duke dalluar empatinë nga vigjilenca e pandërprerë.
+    name: "Frika në fëmijëri dhe ndërprerja e modeleve familjare"
+    description: "Eduardi reflekton mbi frikën në fëmijëri, mësimin për të dalluar gjendjen shpirtërore të të rriturve dhe njerëzit që përpiqen të mos ua kalojnë fëmijëve dhimbjen e trashëguar."
     uploadDate: '2026-08-31T13:49:44+00:00'
     durationSeconds: 275
     language: sq

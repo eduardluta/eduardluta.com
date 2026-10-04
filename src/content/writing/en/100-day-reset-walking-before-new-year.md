@@ -21,8 +21,7 @@ video:
   posterAlt: A quiet road and sidewalk under streetlights at night, with Eduard in a small selfie inset.
   seo:
     name: 'My 100-Day Reset: Walking Into the New Year'
-    description: 'A night walk, grief and a year-end reset: remove one harmful habit, add one good one, and see
-      what 99 days of small daily walks can add up to.'
+    description: "During a night walk, Eduard reflects on grief and his year-end habit of removing something harmful and adding something helpful."
     uploadDate: '2026-09-24T00:30:23+00:00'
     durationSeconds: 146
     language: sq

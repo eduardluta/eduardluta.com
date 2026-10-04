@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard questioning the habits people accept as normal.
   seo:
     name: Why “Normal” Is Not My Goal
-    description: A challenge to inherited habits, with the video’s broad statistics separated from verified guidance
-      and a practical look at how a week is spent.
+    description: "Eduard questions why being normal should be the goal, reflecting on habits around time, movement, consumption and work."
     uploadDate: '2026-07-21T15:19:07+00:00'
     durationSeconds: 116
     language: sq

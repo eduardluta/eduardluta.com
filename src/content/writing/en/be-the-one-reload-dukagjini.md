@@ -21,8 +21,7 @@ video:
   posterAlt: Reload Dukagjini split-screen interview with the presenter and the Be The One team beside the camper.
   seo:
     name: 'Be The One on Reload: Becoming Ready for a Relationship'
-    description: What we shared on Reload Dukagjini about Be The One, its beta stage, six daily practices, and the
-      work we bring into a relationship.
+    description: "In a Reload Dukagjini interview clip, Eduard introduces Be The One, discusses its beta stage and connects personal growth with what people bring to relationships."
     uploadDate: '2026-10-02T20:24:21+00:00'
     durationSeconds: 55
     language: sq

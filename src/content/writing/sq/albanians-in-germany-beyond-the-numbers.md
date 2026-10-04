@@ -21,8 +21,7 @@ video:
   posterAlt: 'Miniatura origjinale e TikTok-ut: kamperi natën dhe Eduardi duke përshëndetur shqiptarët në Gjermani.'
   seo:
     name: 'Shqiptarët në Gjermani: më shumë se një numër'
-    description: Gjermania regjistroi 323.260 shtetas të Kosovës në 2025. Çka tregon ky numër, pse nuk është totali
-      i shqiptarëve dhe historitë që dua t’i dëgjoj.
+    description: "Pas mbërritjes në Berlin, Eduardi flet për lidhjen e tij me Gjermaninë dhe planet për të takuar përdorues shqiptarë të dua.com e për të dëgjuar përvojat e tyre."
     uploadDate: '2026-09-22T21:03:45+00:00'
     durationSeconds: 93
     language: sq

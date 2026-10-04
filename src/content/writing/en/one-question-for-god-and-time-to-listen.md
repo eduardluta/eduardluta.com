@@ -21,8 +21,7 @@ video:
     God.
   seo:
     name: One Question for God, and Time to Listen
-    description: A short invitation to choose the question that matters most, make room for prayer or reflection
-      and examine what comes back without demanding certainty.
+    description: "Eduard asks what one question you would ask God and invites viewers to spend ten or fifteen quiet minutes with it."
     uploadDate: '2026-06-20T20:23:50+00:00'
     durationSeconds: 37
     language: sq

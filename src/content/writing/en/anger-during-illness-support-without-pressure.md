@@ -20,9 +20,8 @@ video:
   poster: /writing/anger-during-illness-support-without-pressure/video-thumbnail.jpg
   posterAlt: Eduard with his mother outdoors, as shown in the original video thumbnail.
   seo:
-    name: 'Anger During Illness: Support Without Pressure'
-    description: What helping my mother taught me about anger during illness, listening, nature and the difference
-      between comfort and cancer treatment.
+    name: "Illness, anger and time with my mother"
+    description: "Eduard reflects on anger during his mother's illness and describes time in nature, breathing practices, meditation and prayer they explored together."
     uploadDate: '2026-06-11T09:08:58+00:00'
     durationSeconds: 159
     language: sq

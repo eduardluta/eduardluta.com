@@ -18,9 +18,8 @@ video:
   poster: /writing/love-making-room-for-your-child/video-thumbnail.jpg
   posterAlt: 'Miniatura origjinale e TikTok-ut: Eduardi dhe Marini duke buzëqeshur jashtë, mes gjetheve të vjeshtës.'
   seo:
-    name: Dashuria është edhe me i bërë vend fëmijës
-    description: 'Një bisedë e shkurtër me Marinin për dashurinë: përfshirja, vëmendja dhe momentet e zakonshme
-      kur fëmija merr një përgjigje të vërtetë.'
+    name: "Një bisedë me Marinin për dashurinë"
+    description: "Jashtë me Marinin, Eduardi e pyet çfarë do të thotë ta duash shumë dikë, në një bisedë të shkurtër e të buzëqeshur mes babait dhe fëmijës."
     uploadDate: '2026-09-19T17:38:53+00:00'
     durationSeconds: 16
     language: sq

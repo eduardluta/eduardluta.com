@@ -51,11 +51,11 @@ export async function getArticleSlugSets(): Promise<Record<Lang, Set<string>>> {
   return sets;
 }
 
-/** First markdown image path in an article body (root-relative), or null. Used
- * as the BlogPosting schema image when no explicit heroImage is set. */
+/** First visible Markdown or HTML image path in an article body (root-relative),
+ * or null. Social-only heroImage metadata is not evidence of a visible image. */
 export function firstBodyImage(body: string | undefined): string | null {
-  const match = body?.match(/!\[[^\]]*\]\((\/[^)\s]+)\)/);
-  return match ? match[1] : null;
+  const match = body?.match(/!\[[^\]]*\]\((\/(?!\/)[^)\s]+)\)|<img\b[^>]*?\ssrc\s*=\s*["'](\/(?!\/)[^"'<>\s]+)["'][^>]*>/i);
+  return match ? match[1] ?? match[2] : null;
 }
 
 /** Prefer a prepared list thumbnail, then the article's own imagery. New articles

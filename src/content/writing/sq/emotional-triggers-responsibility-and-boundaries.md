@@ -20,9 +20,8 @@ video:
   posterAlt: Miniatura origjinale e një rruge nga dritarja e automjetit, me tekst shqip për provokimin dhe punën
     me veten.
   seo:
-    name: 'Provokimi emocional: përgjegjësi pa vetëfajësim'
-    description: Merr përgjegjësi për reagimin tënd pa e arsyetuar sjelljen e tjetrit. Një mënyrë praktike për ta
-      ndarë ngjarjen, interpretimin dhe kufirin.
+    name: "Një reflektim mbi reagimet emocionale"
+    description: "Eduardi nxit vërejtjen e asaj që shkakton një reagim emocional dhe punën me reagimin tonë, në vend që ta lëmë të na marrë gjithë ditën."
     uploadDate: '2026-09-17T13:08:41+00:00'
     durationSeconds: 9
     language: sq

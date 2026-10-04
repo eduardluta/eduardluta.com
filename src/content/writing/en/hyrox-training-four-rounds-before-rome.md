@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard at the gym during a HYROX preparation session.
   seo:
     name: 'HYROX Training: Four Rounds Before Rome'
-    description: Inside our four-round HYROX training session, with the running-distance maths and a clear comparison
-      with the full eight-round race format.
+    description: "Eduard shares a HYROX Rome preparation session with four rounds of running interspersed with SkiErg, rowing, a farmer's carry and lunges."
     uploadDate: '2026-07-25T13:22:22+00:00'
     durationSeconds: 225
     language: sq

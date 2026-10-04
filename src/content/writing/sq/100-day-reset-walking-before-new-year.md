@@ -21,8 +21,7 @@ video:
   posterAlt: Rrugë dhe trotuar i qetë nën dritat e natës, me Eduardin në një pamje të vogël selfie.
   seo:
     name: 'Rifillimi im 100-ditor: Me ecje drejt Vitit të Ri'
-    description: 'Një ecje natën, pikëllimi dhe fundi i vitit: pakëso një zakon të dëmshëm, shto një të mirë dhe
-      shiko sa kohë bëjnë 99 ditë ecjesh të shkurtra.'
+    description: "Gjatë një ecjeje natën, Eduardi reflekton mbi pikëllimin dhe zakonin e tij të fundvitit: të heqë diçka që i bën dëm dhe të shtojë diçka që i bën mirë."
     uploadDate: '2026-09-24T00:30:23+00:00'
     durationSeconds: 146
     language: sq

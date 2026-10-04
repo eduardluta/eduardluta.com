@@ -20,9 +20,8 @@ video:
   poster: /writing/have-more-fun-adult-playfulness/video-thumbnail.jpg
   posterAlt: Eduard smiling and dancing in a changing room, with the original “Have a lot of fun!” message.
   seo:
-    name: 'Have More Fun: Adult Playfulness in Everyday Life'
-    description: 'A seven-second dance, research on adult playfulness, and a simple weekly time comparison: making
-      room for fun without turning happiness into another obligation.'
+    name: "Seven seconds of dancing: have fun"
+    description: "A seven-second clip shows Eduard dancing in a changing room with an on-screen message to have fun."
     uploadDate: '2026-09-25T08:47:25+00:00'
     durationSeconds: 7
     language: en

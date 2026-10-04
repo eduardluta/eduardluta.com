@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard in a white T-shirt speaking to the camera at night, with a small light behind him.
   seo:
     name: Political Disagreement Without Personal Hatred
-    description: Why should a political conviction make us hate one another? A reflection on public anger, shared
-      interests and holding ideas accountable.
+    description: "Eduard questions why political disagreement turns into personal hatred and reflects on Albanian solidarity and a shared future."
     uploadDate: '2026-06-01T19:17:06+00:00'
     durationSeconds: 96
     language: sq

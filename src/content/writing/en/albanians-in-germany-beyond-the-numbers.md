@@ -22,8 +22,7 @@ video:
   posterAlt: Original TikTok thumbnail showing a camper at night and Eduard greeting the Albanian community in Germany.
   seo:
     name: 'Albanians in Germany: More Than a Headcount'
-    description: Germany recorded 323,260 Kosovo citizens in 2025. What that figure tells us, why it is not the
-      Albanian diaspora total, and the stories behind my trip.
+    description: "After arriving in Berlin, Eduard discusses his connection to Germany and plans to meet Albanian dua.com users and hear their experiences."
     uploadDate: '2026-09-22T21:03:45+00:00'
     durationSeconds: 93
     language: sq

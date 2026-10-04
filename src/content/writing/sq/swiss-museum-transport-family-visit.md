@@ -23,9 +23,8 @@ video:
   posterAlt: 'Miniatura origjinale e TikTok-ut nga vizita familjare: një instalacion me pasqyra dhe dritë të kaltër
     në Muzeun Zviceran të Transportit.'
   seo:
-    name: 'Muzeu Zviceran i Transportit: vizita familjare dhe biletat'
-    description: 'Vizita familjare në Muzeun Zviceran të Transportit në Lucern dhe krahasimi i biletave: 106 CHF
-      për muzeun ose 182 CHF për paketa ditore, në shembullin tonë.'
+    name: "Një vizitë familjare në Muzeun Zviceran të Transportit"
+    description: "Gjatë një vizite familjare në Muzeun Zviceran të Transportit, Eduardi reflekton si vëzhgimi, loja dhe mësimi së bashku krijojnë biseda të reja."
     uploadDate: '2026-09-20T20:20:40+00:00'
     durationSeconds: 36
     language: sq

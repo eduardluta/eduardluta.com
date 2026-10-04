@@ -20,9 +20,8 @@ video:
   poster: /writing/roadworks-empty-site-concrete-curing/video-thumbnail.jpg
   posterAlt: Eduardi në makinë me syze dielli, në videon e shkurtër origjinale për punimet rrugore.
   seo:
-    name: 'Kantier i zbrazët: askush nuk punon apo betoni po kurohet?'
-    description: 'Një batutë për punimet pa punëtorë sjell një dallim të dobishëm: kantieri i qetë është vëzhgim,
-      ndërsa vonesa kërkon afat dhe prova.'
+    name: "Punimet në rrugë: Ku janë punëtorët?"
+    description: "Eduardi bën shaka se nuk sheh kurrë punëtorë kur kalon pranë punimeve në rrugë dhe ndoshta mbërrin gjithmonë pasi është hedhur betoni."
     uploadDate: '2026-06-19T13:47:58+00:00'
     durationSeconds: 17
     language: sq

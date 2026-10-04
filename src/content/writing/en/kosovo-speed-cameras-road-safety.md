@@ -20,9 +20,8 @@ video:
   poster: /writing/kosovo-speed-cameras-road-safety/video-thumbnail.jpg
   posterAlt: Original TikTok thumbnail showing a roadside speed camera with Eduard speaking in an inset.
   seo:
-    name: 'Speed Cameras in Kosovo: Safety First, Then the Budget Maths'
-    description: Can speed cameras save lives and fund better police pay? Kosovo’s 2025 road figures, the evidence
-      on cameras, and a transparent €54.2 million salary scenario.
+    name: "A question about speed cameras and police pay in Kosovo"
+    description: "Pointing to a speed camera, Eduard asks why Kosovo cannot adopt similar systems and connects the idea to safer roads and better police salaries."
     uploadDate: '2026-09-20T14:56:51+00:00'
     durationSeconds: 26
     language: sq

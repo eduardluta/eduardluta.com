@@ -22,8 +22,7 @@ video:
     në Kosovë.
   seo:
     name: Reagimi im ndaj pagesave prej 100 € në Kosovë
-    description: Eduardi vë në dyshim kohën politike të pagesave prej 100 € dhe kërkon rrymë të qëndrueshme e shërbime
-      publike. Artikulli verifikon kriteret dhe korrigjon shembullin tatimor.
+    description: "Eduardi vë në dyshim kohën politike të pagesave mbështetëse prej 100 eurosh në Kosovë dhe kërkon energji elektrike e shërbime publike të besueshme."
     uploadDate: '2026-05-23T18:32:54+00:00'
     durationSeconds: 139
     language: sq

@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard Luta sitting in a car, speaking about grief and the death of someone loved.
   seo:
     name: 'Grief: Returning to Life Without Forgetting'
-    description: A reflection on loss, the strange pace of grief, and making room for life again, with guidance
-      on grief, depression and getting support.
+    description: "Sitting in his car, Eduard reflects on losing someone he loves, how time feels during grief and continuing life without forgetting them."
     uploadDate: '2026-10-02T12:26:05+00:00'
     durationSeconds: 138
     language: sq

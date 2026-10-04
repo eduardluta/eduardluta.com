@@ -18,8 +18,7 @@ video:
   posterAlt: Original thumbnail from Eduard’s short thought experiment about being 27 failures away from success.
   seo:
     name: What If You Were 27 Failures Away from Success?
-    description: The number in my short video is a thought experiment. Here is how to turn fear of failure into
-      a useful next attempt without promising success.
+    description: "Eduard asks viewers to imagine being twenty-seven failures away from their biggest success and how that thought could change tomorrow."
     uploadDate: '2026-06-29T21:39:36+00:00'
     durationSeconds: 12
     language: sq

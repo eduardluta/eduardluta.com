@@ -18,8 +18,7 @@ video:
   posterAlt: Eduard in the original video describing his personal experience after ayahuasca.
   seo:
     name: 'Ayahuasca and My Fear of Death: What Changed for Me'
-    description: A personal account of how an ayahuasca experience changed my relationship with death, separating
-      spiritual interpretation from evidence and safety.
+    description: "Eduard recounts an ayahuasca experience, his spiritual interpretation of it and how he felt his fear of death diminish."
     uploadDate: '2026-09-09T14:32:57+00:00'
     durationSeconds: 62
     language: sq

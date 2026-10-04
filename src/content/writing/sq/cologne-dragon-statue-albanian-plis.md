@@ -19,8 +19,7 @@ video:
   posterAlt: Edoni mban një figurë dragoi të errët në dyqanin e Kölnit, mes qilimave dhe sendeve dekorative.
   seo:
     name: Një dragua në Köln dhe një kapelë që m’u duk si plis
-    description: Një vizitë në dyqan në Köln na çon nga dragoi për Edonin te kapela e një statuje. Videoja, ngjashmëria
-      me plisin dhe konteksti muzeal pas shakasë.
+    description: "Duke kërkuar një dragua për Edonin në një dyqan në Köln, Eduardi vëren një figurë me një kapelë që i kujton plisin shqiptar dhe bën shaka për të."
     uploadDate: '2026-09-28T16:51:48+00:00'
     durationSeconds: 42
     language: sq

@@ -6,7 +6,7 @@ import '@fontsource/dm-sans/500.css';
 import '../../styles/home.css';
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { localizePath, formatDateShort, isoDate } from '../../i18n/utils';
-import { homepage } from '../../data/homepage';
+import { homepage, portrait } from '../../data/homepage';
 import { projects } from '../../data/projects';
 import { getFeaturedPosts } from '../../lib/social';
 import { getHomepageArticles, getThumb, type Article } from '../../lib/writing';
@@ -41,10 +41,10 @@ const writingPath = localizePath('/writing/', lang);
   </div>
   <figure class="home-portrait">
     <img
-      src="/writing/missing-you-or-missing-control/video-thumbnail.jpg"
+      src={portrait.src}
       alt={copy.portraitAlt}
-      width="540"
-      height="960"
+      width={portrait.width}
+      height={portrait.height}
       loading="eager"
       fetchpriority="high"
       decoding="async"

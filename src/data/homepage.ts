@@ -1,5 +1,12 @@
 import type { Lang } from '../i18n/ui';
 
+/** The portrait shown on both profile pages and described by their Person node. */
+export const portrait = {
+  src: '/writing/missing-you-or-missing-control/video-thumbnail.jpg',
+  width: 540,
+  height: 960,
+};
+
 /** Copy for the portrait-led homepage, kept together in both languages. */
 export const homepage = {
   en: {

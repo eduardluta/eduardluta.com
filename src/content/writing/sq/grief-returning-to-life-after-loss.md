@@ -19,8 +19,7 @@ video:
   posterAlt: Eduard Luta i ulur në veturë, duke folur për zinë dhe vdekjen e një personi të dashur.
   seo:
     name: 'Zia: Të kthehesh në jetë pa harruar'
-    description: Reflektim për humbjen, ritmin e çuditshëm të zisë dhe kthimin në jetë, me informacion për zinë,
-      depresionin dhe kërkimin e mbështetjes.
+    description: "I ulur në makinë, Eduardi reflekton mbi humbjen e dikujt që do, mënyrën si ndihet koha gjatë pikëllimit dhe vazhdimin e jetës pa e harruar atë person."
     uploadDate: '2026-10-02T12:26:05+00:00'
     durationSeconds: 138
     language: sq

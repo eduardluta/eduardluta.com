@@ -21,8 +21,7 @@ video:
   posterAlt: Eduard wearing a white polo shirt, speaking to the camera inside a car.
   seo:
     name: Create Every Day Without Waiting for Inspiration
-    description: A practical way to turn daily creative attempts into work you can review, with a transparent example
-      and no promise that quantity guarantees success.
+    description: "Eduard asks how to become more creative and encourages repeatedly making something new, or something new to you."
     uploadDate: '2026-06-09T21:01:40+00:00'
     durationSeconds: 97
     language: sq

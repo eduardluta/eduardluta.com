@@ -22,9 +22,8 @@ video:
   posterAlt: 'Miniatura origjinale: një i rritur dhe një fëmijë me xhaketë të kuqe ulur bashkë në një stol druri
     jashtë.'
   seo:
-    name: 'Spider-Man-i ynë: vend për imagjinatën e fëmijës'
-    description: 'Një shaka familjare me Spider-Man hap një bisedë për lojën imagjinare: si të marrësh pjesë, të
-      ruash kufijtë dhe t’ia lësh fëmijës historinë.'
+    name: "Spider-Man-i më i mirë është në shtëpi"
+    description: "Një klip i shkurtër familjar me përshkrimin lozonjar të Eduardit se Spider-Man-in më të mirë e kanë në shtëpi."
     uploadDate: '2026-09-17T19:42:00+00:00'
     durationSeconds: 14
     language: sq

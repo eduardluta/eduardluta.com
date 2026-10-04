@@ -18,8 +18,7 @@ video:
   posterAlt: Miniatura origjinale e Eduardit duke pyetur për Zotin dhe gjuhën shqipe.
   seo:
     name: A kupton Zoti shqip? Pyetja prapa shakasë
-    description: Pyetja ime për lutjen në shqip hap dallimin mes besimit personal, kuptimit të fjalëve dhe gjuhëve
-      rituale të traditave fetare.
+    description: "Eduardi bën shaka me kundërthënien që krijuesi i universit gjoja do ta kishte të vështirë të kuptonte një lutje në shqip."
     uploadDate: '2026-07-27T08:20:32+00:00'
     durationSeconds: 31
     language: sq
