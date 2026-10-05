@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-05",
+  "sourceVideo": {
+    "id": "7692864806444977429",
+    "url": "https://www.tiktok.com/@eduardluta/video/7692864806444977429",
+    "publishedAt": "2026-10-04T17:24:31+00:00",
+    "durationSeconds": 86,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original creator caption",
+      "Full original spoken audio, locally transcribed in Albanian",
+      "Original poster and animated preview visually inspected"
+    ],
+    "limitations": [
+      "Full motion video download returned HTTP 403; no full-motion review claimed.",
+      "Automatic transcript is noisy and is not reproduced as verbatim quotation.",
+      "The sculpture sitter is not identified."
+    ]
+  },
+  "references": [
+    {
+      "url": "https://www.antike-am-koenigsplatz.mwn.de/en/world-famous-originals-in-timeless-halls-glyptothek/",
+      "scope": "Collection periods and museum construction history"
+    },
+    {
+      "url": "https://www.antike-am-koenigsplatz.mwn.de/en/state-collections-of-antiquities-a-museum-of-world-renown/",
+      "scope": "Exterior inset identification"
+    },
+    {
+      "url": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+      "scope": "Book II sections 1 and 4, philosophical context only"
+    },
+    {
+      "url": "https://bethe.one/join",
+      "scope": "Early-access invitation, not effectiveness evidence"
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative editorial diagrams",
+    "measuredOutcomes": false,
+    "calculations": null,
+    "examples": "Hypothetical illustrations; not additional events attributed to the creator."
+  }
+}

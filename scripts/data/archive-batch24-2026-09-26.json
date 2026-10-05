@@ -1,0 +1,107 @@
+{
+  "articles": [
+    {
+      "id": "7692864806444977429",
+      "slug": "success-values-legacy-glyptothek",
+      "publishedAt": "2026-10-04T17:24:31+00:00",
+      "durationSeconds": 86,
+      "url": "https://www.tiktok.com/@eduardluta/video/7692864806444977429"
+    }
+  ],
+  "visuals": [
+    {
+      "slug": "success-values-legacy-glyptothek",
+      "name": "achievement-and-character",
+      "type": "cards",
+      "en": {
+        "title": "Two questions about success",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "What did I achieve?",
+            "A project, an income, a reputation. The result other people can see."
+          ],
+          [
+            "Who did I become?",
+            "How I kept my word and treated the people who shared the journey."
+          ]
+        ],
+        "caption": "Achievement and character are different questions. This is a reflection guide, not a scale for scoring people.",
+        "alt": "Two questions about success. What did I achieve?: A project, an income, a reputation. The result other people can see. Who did I become?: How I kept my word and treated the people who shared the journey.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Dy pyetje për suksesin",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Çfarë arrita?",
+            "Një projekt, të ardhura, një emër. Rezultati që të tjerët mund ta shohin."
+          ],
+          [
+            "Kush u bëra?",
+            "Si e mbajta fjalën dhe si i trajtova njerëzit që e bënë rrugën me mua."
+          ]
+        ],
+        "caption": "Arritja dhe karakteri janë pyetje të ndryshme. Ky është një udhëzues reflektimi, jo një shkallë për t’i vlerësuar njerëzit.",
+        "alt": "Dy pyetje për suksesin. Çfarë arrita?: Një projekt, të ardhura, një emër. Rezultati që të tjerët mund ta shohin. Kush u bëra?: Si e mbajta fjalën dhe si i trajtova njerëzit që e bënë rrugën me mua.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    },
+    {
+      "slug": "success-values-legacy-glyptothek",
+      "name": "values-in-a-decision",
+      "type": "cards",
+      "en": {
+        "title": "Give a value an everyday action",
+        "subtitle": "A practical way to think about the video",
+        "items": [
+          [
+            "Name the value",
+            "What matters in this decision: honesty, care, courage or reliability?"
+          ],
+          [
+            "Choose the action",
+            "What would that value ask me to do, even without an audience?"
+          ],
+          [
+            "Notice the effect",
+            "Who benefits, and who carries the cost of my choice?"
+          ],
+          [
+            "Return and repair",
+            "Did I follow through? If I fell short, what needs to change?"
+          ]
+        ],
+        "caption": "An editorial exercise for a real decision. It does not measure character or predict an outcome.",
+        "alt": "Give a value an everyday action. Name the value: What matters in this decision: honesty, care, courage or reliability. Choose the action: What would that value ask me to do, even without an audience. Notice the effect: Who benefits, and who carries the cost of my choice. Return and repair: Did I follow through? If I fell short, what needs to change.",
+        "foot": "Editorial guide, not a measured outcome."
+      },
+      "sq": {
+        "title": "Jepi vlerës një veprim të përditshëm",
+        "subtitle": "Një mënyrë praktike për ta menduar videon",
+        "items": [
+          [
+            "Emërto vlerën",
+            "Çfarë ka rëndësi këtu: ndershmëria, kujdesi, guximi apo mbajtja e fjalës?"
+          ],
+          [
+            "Zgjidh veprimin",
+            "Çfarë më kërkon kjo vlerë të bëj, edhe kur askush nuk më sheh?"
+          ],
+          [
+            "Shiko ndikimin",
+            "Kush përfiton dhe kush e bart koston e zgjedhjes sime?"
+          ],
+          [
+            "Kthehu dhe përmirëso",
+            "A e mbajta fjalën? Nëse jo, çfarë duhet të ndryshoj?"
+          ]
+        ],
+        "caption": "Një ushtrim editorial për një vendim konkret. Nuk mat karakterin dhe nuk parashikon një rezultat.",
+        "alt": "Jepi vlerës një veprim të përditshëm. Emërto vlerën: Çfarë ka rëndësi këtu: ndershmëria, kujdesi, guximi apo mbajtja e fjalës. Zgjidh veprimin: Çfarë më kërkon kjo vlerë të bëj, edhe kur askush nuk më sheh. Shiko ndikimin: Kush përfiton dhe kush e bart koston e zgjedhjes sime. Kthehu dhe përmirëso: A e mbajta fjalën? Nëse jo, çfarë duhet të ndryshoj.",
+        "foot": "Udhëzues editorial, jo rezultat i matur."
+      }
+    }
+  ]
+}
