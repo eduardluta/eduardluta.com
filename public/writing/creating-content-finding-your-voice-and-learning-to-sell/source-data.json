@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-10",
+  "researchBatch": "batch25-2026-10-08",
+  "references": [
+    {
+      "id": 1,
+      "title": "Toastmasters International: The Navigator and Pathways Project Descriptions",
+      "url": "https://www.toastmasters.org/Start%20Pathways/The%20Navigator%20and%20Pathways%20Project%20Descriptions%20Accessible",
+      "scope": "First-party description of speaking, receiving feedback and applying it in a subsequent speech; training approach, not a content-to-sales effectiveness study."
+    },
+    {
+      "id": 2,
+      "title": "Joel Schwartzberg, See For Yourself, Toastmasters, November 2020",
+      "url": "https://www.toastmasters.org/magazine/magazine-issues/2020/nov/see-for-yourself",
+      "scope": "Presentation coach explains targeted video review, subjective self-assessment and the value of speaking aloud and audience feedback; professional guidance, not experimental evidence."
+    },
+    {
+      "id": 3,
+      "title": "U.S. Small Business Administration: Market research and competitive analysis",
+      "url": "https://www.sba.gov/counseling/plan-your-business/#market-research-and-competitive-analysis",
+      "scope": "Demand, alternatives, pricing and direct customer research; general business guidance, not a guarantee that publishing content increases sales."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative editorial cards",
+    "measuredOutcomes": false,
+    "examples": "Website-service scenario and practical exercises are hypothetical editorial expansions, not additional creator experiences."
+  },
+  "sourceVideo": {
+    "id": "7693673592415866118",
+    "url": "https://www.tiktok.com/@eduardluta/video/7693673592415866118",
+    "publishedAt": "2026-10-06T21:43:07+00:00",
+    "durationSeconds": 37,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original creator caption",
+      "Full local Albanian audio transcript; source 0.00–37.38 seconds",
+      "Original poster and preview frames 0, 4 and 8 visually inspected"
+    ],
+    "limitations": [
+      "Full-motion video review was unavailable; the source review used the original audio, caption, poster and available animated preview.",
+      "Automatic transcript contains recognition errors and is paraphrased, not reproduced as a verbatim quotation.",
+      "Best method and unstoppable are creator opinion; no measured sales effect is established.",
+      "The second person is left unnamed; no location or relationship is inferred from the image."
+    ]
+  }
+}

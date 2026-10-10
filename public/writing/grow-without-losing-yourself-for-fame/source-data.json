@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-10",
+  "references": [
+    {
+      "authors": "Kennon M. Sheldon and Andrew J. Elliot",
+      "title": "Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model",
+      "year": 1999,
+      "url": "https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf",
+      "doi": "10.1037/0022-3514.76.3.482",
+      "type": "Primary longitudinal research",
+      "usedFor": "Alignment of goals with developing interests and core values was associated with sustained effort and goal attainment across three longitudinal datasets.",
+      "limits": "Not evidence that authentic creators necessarily succeed, or that every trend is harmful."
+    },
+    {
+      "authors": "Erica R. Bailey, Sandra C. Matz, Wu Youyou and Sheena S. Iyengar",
+      "title": "Authentic self-expression on social media is associated with greater subjective well-being",
+      "year": 2020,
+      "url": "https://www.nature.com/articles/s41467-020-18539-w",
+      "fullTextUrl": "https://discovery.ucl.ac.uk/id/eprint/10134044/1/Wu_s41467-020-18539-w.pdf",
+      "doi": "10.1038/s41467-020-18539-w",
+      "type": "Primary observational and experimental research",
+      "usedFor": "Observational association with life satisfaction and within-person experimental differences in mood/positive affect during authentic posting.",
+      "limits": "The experimental within-person comparison did not show a significant life-satisfaction effect; no claim about TikTok reach, earnings or permanent identity change."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "Two qualitative editorial card diagrams. All concepts are explained in readable article prose. No measured scores, quantities or effect sizes are charted.",
+  "editorialChecks": [
+    "Complete audio transcript read through 127.88 seconds.",
+    "Both languages retain the same claims and research limitations.",
+    "Two existing internal article links are localized in each language.",
+    "Video metadata describes only the source clip; research and decision diagrams are article extensions.",
+    "No invented biographical event, direct quotation, success outcome or diagnosis.",
+    "Checked-at date verified using UTC clock on 10 October 2026."
+  ],
+  "sourceVideo": {
+    "id": "7693592692671958292",
+    "url": "https://www.tiktok.com/@eduardluta/video/7693592692671958292",
+    "publishedAt": "2026-10-06T16:28:48+00:00",
+    "durationSeconds": 128,
+    "evidence": [
+      "Full 128-second original-audio transcript",
+      "Actual post caption",
+      "Original poster",
+      "Animated preview"
+    ],
+    "evidenceLimitations": [
+      "Automatic transcript contains spelling errors, especially the final seconds; no uncertain wording is used as a direct quotation.",
+      "Basel is named in the opening; no particular riverfront building or filming address is identified.",
+      "The video uses broad warnings about trends and shortcuts; the article does not present those as measured predictions or group-level findings.",
+      "Full-motion video review was unavailable; the source review used the original audio, caption, poster and available animated preview."
+    ],
+    "spokenLanguage": "sq"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-10",
+  "references": [
+    {
+      "authors": "David Scott Yeager and colleagues",
+      "year": 2014,
+      "url": "https://www.apa.org/pubs/journals/releases/xge-a0033906.pdf",
+      "doi": "10.1037/a0033906",
+      "type": "Primary experimental research",
+      "usedFor": "Respectful, demanding feedback in specific US school settings; not a theory of online commenters."
+    },
+    {
+      "authors": "Juliana G. Breines and Serena Chen",
+      "year": 2012,
+      "url": "https://self-compassion.org/wp-content/uploads/publications/selfimp.motivation.pdf",
+      "doi": "10.1177/0146167212445599",
+      "type": "Primary experimental research",
+      "usedFor": "Self-compassion and improvement motivation, with limited experimental outcomes."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "Two qualitative editorial diagrams. No numerical data, measured effect sizes or clinical diagnostic thresholds are implied.",
+  "editorialChecks": [
+    "Both languages deliver the same claims and limitations.",
+    "Every diagram's substance is also explained in readable article prose.",
+    "Video SEO describes only the original clip; research is an article expansion.",
+    "Two relevant existing article links are localized for EN and SQ.",
+    "No invented first-person event, outcome, quotation or claimed city."
+  ],
+  "sourceVideo": {
+    "id": "7693619307825138965",
+    "url": "https://www.tiktok.com/@eduardluta/video/7693619307825138965",
+    "publishedAt": "2026-10-06T18:12:11+00:00",
+    "durationSeconds": 111,
+    "evidence": [
+      "Actual caption",
+      "Full 111-second audio transcript",
+      "Original poster",
+      "Animated preview frames"
+    ],
+    "evidenceLimitations": [
+      "Automatic transcription can contain errors; uncertain wording is not presented as a direct quotation.",
+      "The Swiss reference is spoken in the clip; no exact filming city is inferred.",
+      "Claims ranking racism or personal development by group are not supported by a population dataset and are explicitly qualified.",
+      "Full-motion video review was unavailable; the source review used the original audio, caption, poster and available animated preview."
+    ],
+    "spokenLanguage": "sq"
+  }
+}

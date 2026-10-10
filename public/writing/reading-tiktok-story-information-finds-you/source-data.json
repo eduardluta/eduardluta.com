@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-10",
+  "references": [
+    {
+      "url": "https://www.panmacmillan.com/authors/emily-baker-white/every-screen-on-the-planet/9781035049264",
+      "scope": "Book identity and 2025 edition date"
+    },
+    {
+      "url": "https://www.bytedance.com/en/",
+      "scope": "Company-reported 2012, 2016, 2017 chronology"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/musical-ly-and/?lang=en",
+      "scope": "August 2018 product combination"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/how-tiktok-recommends-videos-foryou?lang=en-AU",
+      "scope": "Dated 2020 explanation: completion signal"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/learn-why-a-video-is-recommended-for-you?lang=en",
+      "scope": "Dated 2022 explanation: interaction-based ranking"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/more-ways-to-discover-new-content-and-creators-you-love?lang=en",
+      "scope": "2025 Manage Topics scope, frequency not exclusion"
+    }
+  ],
+  "visuals": {
+    "measuredOutcomes": false,
+    "timeline": "Company-reported dates; card spacing does not represent elapsed time.",
+    "recommendations": "Conceptual synthesis; no algorithm weights claimed."
+  },
+  "editorialLimits": [
+    "No legal claim about China is adopted from the clip.",
+    "No full-book review or independently verified founder biography is claimed.",
+    "Algorithm knowing a viewer is treated as figurative, not a finding about identity."
+  ],
+  "review": {
+    "checkedAt": "2026-10-10",
+    "sources": "All six linked primary pages were re-opened for verification.",
+    "meaning": "The article develops the caption and the spoken information-discovery theme. It does not adopt the unverified legal, founder-personality or photo-testing history claims.",
+    "internalLinks": "Both locales point to creating-content-finding-your-voice-and-learning-to-sell, matching the batch payload.",
+    "sourceUse": "A compact HTML paragraph and the cards contain the four dates. Captions and alt text avoid repeating the chronology. Recommendation diagram synthesizes source [4] for interest estimation and delivery, and source [5] for interaction examples."
+  },
+  "sourceVideo": {
+    "id": "7693130794100886805",
+    "url": "https://www.tiktok.com/@eduardluta/video/7693130794100886805",
+    "publishedAt": "2026-10-05T10:36:43+00:00",
+    "durationSeconds": 160,
+    "caption": "Sa here qe lexoj libra rreth themeluesve ose storieve se qysh jane kriju kompanite, jo veq qe mesoj — po gjithmone edhe inspirona. 📚🔥 Storia e TikTok-ut osht ni drame ne veti. Jo veq pse osht Social Media e pare qe i ka bo konkurrence serioze Silicon Valley-t, po edhe pse ne ni forme e ka ndryshu imazhin e Kines ne krejt boten. 🌍🇨🇳 E ni send qe e kom kuptu: sa ma shume meson, aq ma shume e kupton sa shume ki hala me msu. 🧠 Edhe neve shqiptareve ka me na ardh koha. 🇦🇱❤️ Koha kur kena me ja msy botes bashke. 🚀🌍 #shqiptaretneperbote🇦🇱🌍 #shqip ",
+    "evidence": [
+      "Original TikTok caption and metadata",
+      "Full 160-second original audio, reviewed through its complete local transcript",
+      "Original poster, inspected visually",
+      "Animated preview, inspected visually"
+    ],
+    "limits": [
+      "Full-motion video review was unavailable; the source review used the original audio, caption, poster and available animated preview.",
+      "Local automatic transcription contains uncertain words; those passages are not directly quoted.",
+      "The book and author are identifiable on the poster. The visible cover does not establish the exact edition or ISBN of the physical copy."
+    ],
+    "spokenLanguage": "sq"
+  }
+}
