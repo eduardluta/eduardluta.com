@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Basel Tourism: Public art",
+      "url": "https://www.basel.com/en/places-of-interest/public-art",
+      "scope": "Official city tourism account identifying the basilisk as a mythical half-cockerel, half-serpent figure in Basel civic art."
+    },
+    {
+      "id": 2,
+      "title": "Smithsonian National Zoo: Giant Panda FAQs",
+      "url": "https://www.nationalzoo.si.edu/animals/giant-panda-faqs",
+      "scope": "Wild habitat, bamboo diet, strength of adult bears and documented breeding/research arrangements."
+    },
+    {
+      "id": 3,
+      "title": "Wang et al., Earliest giant panda false thumb suggests conflicting demands for locomotion and feeding",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9246853/",
+      "scope": "Scientific Reports 12,10538 (2022), DOI 10.1038/s41598-022-13402-y. Abstract and fossil evidence for ancestral Ailurarctos, not a 6–7-million-year age for the living species.",
+      "publisherPdf": "https://www.nature.com/articles/s41598-022-13402-y.pdf"
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative editorial cards",
+    "measuredOutcomes": false,
+    "examples": "Source comparisons and reading prompts; no invented measurements or numerical chart."
+  },
+  "sourceVideo": {
+    "id": "7694729853450390790",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694729853450390790",
+    "publishedAt": "2026-10-09T18:01:50+00:00",
+    "durationSeconds": 97,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Full original-audio transcript reviewed. At 0–35s the creator discusses a Basel fountain, dragons and Albanian mythological figures; the caption alone does not disclose the panda claim.",
+      "At 35–97s the creator repeats a theory that pandas could not exist naturally and were genetically invented in China, connecting this to the circulation of pandas internationally. The article explicitly corrects the theory.",
+      "Original poster visually inspected: green basilisk fountain, river and trees behind, creator inset. Exact street and manufacture date are not established."
+    ],
+    "limitations": [
+      "ASR is noisy. Article reports the clear argument without treating uncertain lines as verbatim quotation.",
+      "The mythical creature and the real animal require different evidence. No biological existence or eighteenth-century extinction date is asserted for a legendary basilisk or dragon.",
+      "The 6–7-million-year fossil argument concerns a panda ancestor and feeding adaptation, not the age of the living species.",
+      "No unverified demographic total, historical fountain date, or assertion that every international panda arrangement is a diplomatic gift is included."
+    ],
+    "durationObservedSeconds": 97.14943310657596,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

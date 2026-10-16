@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Albanian Heritage: Beginning of the First Siege of Krujë, based on Albanian Encyclopedic Dictionary 2009 vol. 3 p. 2274",
+      "url": "https://www.albanianheritage.al/en/2026/05/14/the-beginning-of-the-first-siege-of-kruje/",
+      "scope": "Institutional reproduction of Academy encyclopedic entry; garrison under Vrana Konti and Skanderbeg operating outside. Inflated troop/casualty figures and the death-from-grief narrative are not adopted."
+    },
+    {
+      "id": 2,
+      "title": "Luan Malltezi, “Venetian” Albania and Scanderbeg, Studia Albanica 2018/2",
+      "url": "https://albanica.al/studialbanica/article/download/333/7224/10583",
+      "scope": "Original historical scholarship using documentary collections. Printed p.87 notes65–66 supports Venetian merchant provisions and Skanderbeg attacks on convoys in 1450."
+    },
+    {
+      "id": 3,
+      "title": "Kunsthistorisches Museum: Skanderbeg",
+      "url": "https://www.khm.at/en/visit/collections/imperial-armoury/skanderbeg",
+      "scope": "First-party museum explanation of arms and attribution; no current opening hours claimed."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative historical-role and reading-question cards",
+    "measuredOutcomes": false,
+    "examples": "Conceptual roles and editorial questions, explicitly not a map, force estimate or campaign reconstruction."
+  },
+  "sourceVideo": {
+    "id": "7696451580949777684",
+    "url": "https://www.tiktok.com/@eduardluta/video/7696451580949777684",
+    "publishedAt": "2026-10-14T09:22:47+00:00",
+    "durationSeconds": 48,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Creator caption describing Vienna-to-Kruja trip and defence outside the fortress.",
+      "Complete local original-audio transcript reviewed, 0.14–46.74 seconds; division of forces and attacks on supplies are supported by both audio and caption.",
+      "Original poster inspected: bazaar/approach below castle and museum, with Eduard speaking in inset; root observed corresponding source video setting."
+    ],
+    "limitations": [
+      "Automatic Albanian transcription has recognition errors; article paraphrases rather than quoting it.",
+      "The source clip does not specify the siege year; 1450 is an explicitly identified researched example, not an inferred recording claim.",
+      "No troop strengths, casualties, exact routes or frequency of night attacks are asserted.",
+      "Publication date is established; exact recording date is not independently established."
+    ],
+    "durationObservedSeconds": 47.519818,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in the original TikTok browser media player during source acquisition; the recorded fractional value is preserved."
+  }
+}

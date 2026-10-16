@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Ornela Radovicka, Antroposofia arbëreshe, rrëfime nga Caterina Bellusci, Dielli, 22 May 2024",
+      "url": "https://gazetadielli.com/antroposofia-arbereshe-rrefime-nga-caterina-bellusci/",
+      "scope": "Primary first-person account of collecting Rina/Caterina Bellusci stories, songs and toponyms in local Frasnitë speech; repeated listening and Bellusci library recordings. No wholesale adoption of polemical or unsupported claims elsewhere in essay."
+    },
+    {
+      "id": 2,
+      "title": "Comune di Civita: La lingua arbëreshe",
+      "url": "https://www.comune.civita.cs.it/Guidaalpaese?IDCat=8546&IDPagina=55250",
+      "scope": "Municipal description of retained and innovative features, local varieties and contact with Italo-Romance; no frozen-language, population-total or universal-fluency claim."
+    },
+    {
+      "id": 3,
+      "title": "Lukas D. Tsitsipis, A Linguistic Anthropology of Praxis and Language Shift, 1998",
+      "url": "https://academic.oup.com/book/48189",
+      "scope": "Original linguistic anthropology, public abstract identifies Arvanitika as Albanian variety spoken in Greece. No access to full paywalled book claimed."
+    },
+    {
+      "id": 4,
+      "title": "Stephanie Schwandner-Sievers, Albanians, Albanianism and the strategic subversion of stereotypes, 2008",
+      "url": "https://eprints.bournemouth.ac.uk/22848/1/Anthropological_Notebooks_XIV_2_Sievers.pdf",
+      "scope": "Original anthropology article, printed p. 56: Arnaut as Turkish ethnonym for Albanians; historical labels and representations."
+    },
+    {
+      "id": 5,
+      "title": "Francesco Altimari, University of Calabria Albanological collections, 1979–2024",
+      "url": "https://bau.unical.it/collezioni/fondi-speciali-bau/fondi-albanologici-in-unical",
+      "scope": "Institutional archive account of 1979 Gangale donation, field recordings and subsequent cataloguing/transfer. This does not claim Rina’s particular performance is in that collection."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative listening and terminology cards",
+    "measuredOutcomes": false,
+    "examples": "Editorial prompts and concise researched terminology. No invented population, survival rate, language fluency or identity measurement."
+  },
+  "sourceVideo": {
+    "id": "7696131927048555797",
+    "url": "https://www.tiktok.com/@eduardluta/video/7696131927048555797",
+    "publishedAt": "2026-10-13T12:42:37+00:00",
+    "durationSeconds": 173,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original creator caption identifies Rina Bellusci and emotional response to her Arbëresh song.",
+      "Complete original-audio ASR reviewed; spoken introduction 0–50.72 seconds names Civita/Frasnitë, Rina and Father Antonio Bellusci; remainder predominantly song.",
+      "Poster visually inspected and root source-video observations corroborate Rina singing seated indoors, holding Eduard’s hand while he wears a plis."
+    ],
+    "limitations": [
+      "ASR is noisy, especially song. No lyrics or uncertain direct quotations are reproduced.",
+      "Song title, authorship, composition date and exact recording date are not independently established.",
+      "Caption hashtag Civita does not establish precise room/town of performance; article says Calabria and notes source introduction mentions both Civita and Frasnitë.",
+      "Radovicka’s first-person account supports Rina/Caterina identification and documented repertoire; no current age or universal community demographic is inferred.",
+      "Shared roots in creator commentary are personal affiliation, not a claim assigning present citizenship or national identity to all communities."
+    ],
+    "durationObservedSeconds": 172.56784580498865,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in the original TikTok browser media player during source acquisition; the recorded fractional value is preserved."
+  }
+}

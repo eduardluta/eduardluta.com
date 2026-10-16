@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Kunsthistorisches Museum: Skanderbeg helmet A 127",
+      "url": "https://www.khm.at/en/artworks/skanderbeg-helm-371645",
+      "scope": "Official catalogue attribution, probable second-half fifteenth-century dating, 1593 inventory and 1806 transfer; available indexed official catalogue content, not current visiting information."
+    },
+    {
+      "id": 2,
+      "title": "Albania National Tourism Agency: Skanderbeg Museum",
+      "url": "https://akt.gov.al/en/attractions/Skanderbeg-Museum/",
+      "scope": "Official description locating the museum inside the fortress."
+    },
+    {
+      "id": 3,
+      "title": "Albanian Consulate General in Munich: Museums",
+      "url": "https://ambasadat.gov.al/munich/muzete/",
+      "scope": "Official diplomatic museum guide: 1 November 1982 inauguration and originals alongside reproductions in Kruja. Checked 16 October 2026. Replaces unstable AKT /en/muze route that redirects to Korca."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative editorial and dated-history cards",
+    "measuredOutcomes": false,
+    "examples": "Three catalogue/museum dates plus editorial visitor-care questions; no measured condition scores or invented visitor statistics."
+  },
+  "sourceVideo": {
+    "id": "7696503512032759048",
+    "url": "https://www.tiktok.com/@eduardluta/video/7696503512032759048",
+    "publishedAt": "2026-10-14T12:44:23+00:00",
+    "durationSeconds": 79,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original creator caption links Vienna arms and Kruja visit.",
+      "Original soundtrack retrieved from TikTok and local Albanian ASR reviewed in full (0–78.34 seconds).",
+      "Original poster visually inspected; root agent observed castle/museum approach, stone street, split-screen creator commentary and burned Albanian subtitles."
+    ],
+    "limitations": [
+      "ASR contains errors; no uncertain line is reproduced as a quotation.",
+      "The unverified claim of more than 200,000 annual visitors is omitted.",
+      "The article preserves both enjoyment of historical interpretation and criticism of visitor arrival/upkeep. It does not infer specific charges, misconduct or a site-wide condition assessment.",
+      "Publication date is known; exact recording date is not independently established.",
+      "KHM attribution language is retained; no certainty about personal use is added."
+    ],
+    "durationObservedSeconds": 78.645146,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in the original TikTok browser media player during source acquisition; the recorded fractional value is preserved."
+  }
+}

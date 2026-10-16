@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Genesis 3, New Revised Standard Version Updated Edition",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NRSVUE",
+      "scope": "Primary scriptural text; verses 2–7 and 22–24. Unnamed fruit and departure from the garden."
+    },
+    {
+      "id": 2,
+      "title": "The Hypostasis of the Archons, Bentley Layton translation",
+      "url": "https://faculty.fairfield.edu/repstein/archons.pdf",
+      "scope": "University-hosted scan, The Nag Hammadi Library in English (1988), printed pp.164–165; spiritual instructor and expulsion. Paraphrased, not reproduced."
+    },
+    {
+      "id": 3,
+      "title": "Dale B. Martin, After the New Testament, Open Yale Courses",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-26",
+      "scope": "University lecture transcript explaining Gnosticism as an umbrella category rather than one unified institution."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative editorial cards",
+    "measuredOutcomes": false,
+    "examples": "Source comparisons and reading prompts; no invented measurements or numerical chart."
+  },
+  "sourceVideo": {
+    "id": "7694758793682357524",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694758793682357524",
+    "publishedAt": "2026-10-09T19:54:12+00:00",
+    "durationSeconds": 83,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original audio retrieved with the source video metadata; full local transcript reviewed. At 0–30s the creator invites questioning inherited concepts and introduces an apple-versus-mushroom question.",
+      "At 30–66s the creator speculates about Eve awakening through a magic mushroom and escaping captivity with Adam. At 66–82s he connects the discussion to Gnostic ideas.",
+      "Original poster visually inspected: carved stone façade, added red/white mushroom graphic, Albanian question overlay and creator inset. The graphic is editorial, not archaeological evidence."
+    ],
+    "limitations": [
+      "ASR contains spelling and segmentation errors; no uncertain speech is quoted as verbatim.",
+      "The referenced passages do not support the mushroom scenario. This article distinguishes interpretation and speculation from textual and historical claims.",
+      "The article examines one specific Gnostic tract, not a religious consensus. It does not alter the separate 2025 essay already on the site.",
+      "Primary translation read in the university scan at printed pp.164–165. No scanned pages or lengthy copyrighted passages are reused in public assets."
+    ],
+    "durationObservedSeconds": 82.77628117913832,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

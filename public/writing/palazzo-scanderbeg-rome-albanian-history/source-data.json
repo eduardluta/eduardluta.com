@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Palazzo Scanderbeg: institutional history",
+      "url": "https://www.palazzoscanderbeg.com/en/the-history-of-palazzo-scanderbeg",
+      "scope": "Operator’s account of residence in 1466, refurbishment in 1843, and property identity; reopened successfully 16 October."
+    },
+    {
+      "id": 2,
+      "title": "Jeton Omari: Scanderbeg tra storia e storiografia, University of Padua, 2013/2014",
+      "url": "https://thesis.unipd.it/retrieve/d504a116-f626-49ee-b8cc-5fc262fd3052/SCANDERBEG_TRA_STORIA_E_STORIOGRAFIA.pdf",
+      "scope": "Printed pp. 170–171 inspected 15 October: reproduces contemporary diplomatic testimony for December 1466 and January 1467 discussions in Rome. Direct web-tool access returned 403 on 16 October. Original manuscripts not inspected."
+    },
+    {
+      "id": 3,
+      "title": "Municipal topographic dictionary of Rome, 1927–1929",
+      "url": "https://www.comune.roma.it/web-resources/cms/documents/Dizionario_Topografico_di_Roma_1927-29.pdf",
+      "scope": "Printed p. 313 / PDF p. 157 lists Piazza Scanderbeg and Vicolo Scanderbeg in Rione Trevi; local research PDF downloaded 15 October and text rechecked 16 October."
+    },
+    {
+      "id": 4,
+      "title": "Turismo Roma: Palazzo Scanderbeg accommodation registry",
+      "url": "https://www.turismoroma.it/it/accoglienza/palazzo-scanderbeg-town-house-guest-house-o-affittacamere-0",
+      "scope": "Current official accommodation identity and Piazza Scanderbeg 117 address; reopened successfully 16 October."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative historical and place-name cards",
+    "measuredOutcomes": false,
+    "examples": "Three different historical evidence types and three adjacent place names; no assumed exact stay length, route distance or room-price comparison."
+  },
+  "sourceVideo": {
+    "id": "7695088821188250901",
+    "url": "https://www.tiktok.com/@eduardluta/video/7695088821188250901",
+    "publishedAt": "2026-10-10T17:14:47+00:00",
+    "durationSeconds": 130,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original TikTok caption reviewed.",
+      "Original downloaded soundtrack and full local Albanian ASR reviewed, 0–129.56 seconds; metadata duration 130.14 seconds.",
+      "Original poster independently viewed: ochre facade, shuttered windows, small portrait above entry, address117 to the right, creator inset and Trevi graphic.",
+      "ASR provides the visit behind Trevi, entering to ask about surviving traces and being referred to the portrait, diplomatic-support context, and closing concern that Albanian history is not sufficiently told from an Albanian perspective."
+    ],
+    "limitations": [
+      "ASR contains numerical/name errors; no uncertain sentence is quoted verbatim.",
+      "Exact stay dates/nights at this palace, troop totals, aid totals, hotel rates and the accommodation conversion year are omitted.",
+      "The current portrait is not asserted to be an unchanged fifteenth-century original; palace construction/ownership by Skanderbeg is not asserted.",
+      "The conversation inside is the creator’s reported experience; it is not a complete inventory of the building’s historic contents.",
+      "Palace history is the current operator’s account; diplomatic context is supported by scholarly publication of contemporary testimony, not an original manuscript inspected here.",
+      "Exact filming date is unknown; upload date is not substituted for it."
+    ],
+    "durationObservedSeconds": 130.1449886621315,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

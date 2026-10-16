@@ -1,0 +1,86 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Shaban Sinani: Skanderbeg monument commission, with Albanian government document reproductions",
+      "url": "https://exlibris.al/shaban-sinani-gjergj-kastrioti-skenderbeu-konkursi-i-pare-nderkombetar-per-nje-permendore-te-tij-1937/",
+      "scope": "1938 negotiation and contract documents for a Tirana monument; primary scans visually inspected on 15 October and article rechecked on 16 October."
+    },
+    {
+      "id": 2,
+      "title": "Treccani: Romano Romanelli, Alessandra Imbellone, 2018",
+      "url": "https://www.treccani.it/enciclopedia/romano-romanelli_(Dizionario-Biografico)/",
+      "scope": "Scholarly corroboration of intended Tirana project subsequently located in Rome."
+    },
+    {
+      "id": 3,
+      "title": "Sovrintendenza Capitolina: Monumento a Giorgio Castriota Scanderbeg",
+      "url": "https://sovraintendenzaroma.it/content/monumento-giorgio-castriota-scanderbeg-1",
+      "scope": "Official sculpture description, 1939 annexation/square naming, October 1940 inauguration and 1968 inscription."
+    },
+    {
+      "id": 4,
+      "title": "MAECI: photographic archive of the Undersecretariat for Albanian Affairs",
+      "url": "https://www.esteri.it/wp-content/uploads/2024/12/Archivio-Fotografico-del-Sottosegretariato-di-Stato-per-gli-Affari-Albanesi.pdf",
+      "scope": "PDF page 64, section 8-XVIII, dates inauguration photographs 28 October 1940, conflicting with municipal 27 October."
+    },
+    {
+      "id": 5,
+      "title": "Tirana municipality: Skanderbeg Square and monument",
+      "url": "https://tirana.al/pikat-e-interesit/atraksione-ne-tirane/sheshi-skenderbe-dhe-monumenti-gjergj-kastrioti-skenderbeu",
+      "scope": "1968 replacement of Stalin statue; sculptors Odhise Paskali, Janaq Paço and Shaban Hadëri; 500th death anniversary."
+    },
+    {
+      "id": 6,
+      "title": "Roma Capitale: Piazza Albania, pulita statua Scanderbeg, 28 November 2022",
+      "url": "https://www.comune.roma.it/web/it/notizia.page?contentId=NWS985931",
+      "scope": "Confirms Romano Romanelli and location Piazza Albania/Viale Aventino; no claim about current condition."
+    }
+  ],
+  "visuals": {
+    "type": "Dated historical cards",
+    "measuredOutcomes": false,
+    "calculations": [
+      {
+        "expression": "1968 - 1468",
+        "result": 500,
+        "unit": "years",
+        "meaning": "Death-anniversary year difference"
+      },
+      {
+        "expression": "1968 - 1940",
+        "result": 28,
+        "unit": "calendar years",
+        "meaning": "Inscription year minus Rome inauguration year; not an exact elapsed anniversary"
+      }
+    ],
+    "examples": "Commission chronology and separate 1968 commemorations in Rome and Tirana; no invented monetary values or physical-transfer claim."
+  },
+  "sourceVideo": {
+    "id": "7695401337906842881",
+    "url": "https://www.tiktok.com/@eduardluta/video/7695401337906842881",
+    "publishedAt": "2026-10-11T13:27:34+00:00",
+    "durationSeconds": 165,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original TikTok caption reviewed.",
+      "Original audio downloaded and full local Albanian ASR reviewed, 0–164.12 seconds; metadata duration 164.77 seconds.",
+      "Original poster independently viewed: creator at inscribed monument base with a historical equestrian-monument image inset.",
+      "ASR preserves the intended Tirana destination, interpretation of horse/rider, fascist political setting, later commemorations, and closing pride after visits to palace and monument."
+    ],
+    "limitations": [
+      "ASR has name/date/number errors; no uncertain line is quoted verbatim.",
+      "Weight, number of competing designs, exact payment and military-biography claims are omitted.",
+      "The rider’s control is the creator’s interpretation, not an authenticated statement of the sculptor’s intention; city catalogue describes the horse walking.",
+      "The 1938 government sources are published reproductions; they establish an intended Tirana project, not physical removal of a statue installed in Tirana.",
+      "Municipal inauguration date 27 October and Foreign Ministry archival date 28 October conflict; only October 1940 is asserted.",
+      "The full inscription is not transcribed from the incomplete poster; the commemorative date is independently sourced.",
+      "Exact filming date is not inferred from the upload date."
+    ],
+    "durationObservedSeconds": 164.7659410430839,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

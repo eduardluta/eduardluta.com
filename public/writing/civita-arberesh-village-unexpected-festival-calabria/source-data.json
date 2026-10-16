@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Comune di Civita: Ordinanza 24 del 09-10-2026, Albo605/2026",
+      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=7545&RicCro=1&CE=cvt973",
+      "scope": "Official municipal record, linked via Comune homepage Albo Pretorio; retrieved HTML independently on16Oct2026. Traffic regulation for Maria Santissima del Rosario celebrations10–11Oct2026. Supports these event dates, not exact video recording time or future schedule."
+    },
+    {
+      "id": 2,
+      "title": "Italia.it and Regione Calabria official Civita destination guides",
+      "url": "https://www.italia.it/it/calabria/civita",
+      "additionalUrl": "https://calabriastraordinaria.it/en/destinations/civita-the-pride-of-arbereshe-culture",
+      "scope": "Official national guide says Albanian settlement around1471; regional guide also gives1471 and location in Cosenza/Pollino. National content available in indexed official result; regional destination text independently retrieved. No unrelated or erroneous liturgical calendar claims adopted."
+    },
+    {
+      "id": 3,
+      "title": "Comune di Civita: La lingua arbëreshe",
+      "url": "https://www.comune.civita.cs.it/Guidaalpaese?IDCat=8546&IDPagina=55250",
+      "scope": "Local description of retained and innovative features and contact with Romance speech; not universal fluency."
+    },
+    {
+      "id": 4,
+      "title": "Ministero della Cultura: Museo etnico Arberesh",
+      "url": "https://cultura.gov.it/luogo/museo-etnico-arberesh",
+      "scope": "1989 foundation and collection themes;2020 listing opening-hours fields are stale and not adopted."
+    },
+    {
+      "id": 5,
+      "title": "Comune di Civita: Produzioni Multimediali, Sportello Linguistico",
+      "url": "https://www.comune.civita.cs.it/Guidaalpaese?IDCat=8545&IDPagina=55281",
+      "scope": "Declared language-desk goals involving younger generations, administration, schools and cultural associations; no measured effectiveness claimed."
+    }
+  ],
+  "visuals": {
+    "type": "Historical date and qualitative continuity cards",
+    "measuredOutcomes": false,
+    "calculations": [
+      {
+        "expression": "2026 - 1471",
+        "result": 555,
+        "unit": "calendar years",
+        "interpretation": "Difference between year of publication and approximate settlement reference year; not exact age of every family or tradition."
+      }
+    ],
+    "examples": "Historical markers and editorial continuity categories. No fabricated language-survival rate, visitor count or population metric."
+  },
+  "sourceVideo": {
+    "id": "7695530869309607189",
+    "url": "https://www.tiktok.com/@eduardluta/video/7695530869309607189",
+    "publishedAt": "2026-10-11T21:50:18+00:00",
+    "durationSeconds": 142,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Creator caption names Civita, unexpected Madonna del Rosario celebration, difficult approach and cultural symbols.",
+      "Original soundtrack ASR reviewed: 0–40 seconds arrival, festival name, second-Sunday statement, hotel direction and Albanian/Italian communication; 44–58 seconds energetic crowd and cultural reflection.",
+      "Original poster inspected: night Civita/Çifti Katund Arbëresh sign, map of Italy and Albanian arrival overlay. Root observed source video arrival scene."
+    ],
+    "limitations": [
+      "ASR recognition becomes poor and music-heavy in later sections; uncertain words and lyrics are omitted.",
+      "No exact recording date inferred from upload date or screenshot clock.",
+      "Municipal ordinance independently corroborates 10–11 October 2026 festivities; recurring second-Sunday statement remains the narrator’s description, not a verified permanent annual schedule.",
+      "No claim the creator visited the ethnographic museum in this clip; museum and language desk are clearly researched background.",
+      "The 1471 historical date is approximate in national tourism source; 555 is calendar-year subtraction, not exact continuous age of each family, tradition or language form.",
+      "Civita in Calabria is distinct from Civita Castellana; the event is not identified as the Easter Vallje."
+    ],
+    "durationObservedSeconds": 142.080044,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

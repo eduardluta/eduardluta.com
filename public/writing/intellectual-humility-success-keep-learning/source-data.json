@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-16",
+  "references": [
+    {
+      "id": 1,
+      "title": "Porter et al. 2020 Intellectual humility predicts mastery behaviors when learning",
+      "url": "https://www.pittcorelab.com/uploads/1/1/5/5/115561629/intellectual_humility_predicts_mastery_behaviors_when_learning.pdf",
+      "doi": "10.1016/j.lindif.2020.101888",
+      "scope": "Original five-study paper, association with mastery behaviours; study5 encouragement experiment. No generalisation to family or business outcomes."
+    }
+  ],
+  "visuals": {
+    "measuredOutcomes": false,
+    "scope": "Editorial reflection cards; no psychometric score or causal promise."
+  },
+  "sourceVideo": {
+    "id": "7694777135751302421",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694777135751302421",
+    "publishedAt": "2026-10-09T21:05:21+00:00",
+    "durationSeconds": 88,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Complete original audio transcript reviewed, 0–85.9 seconds; speaker questions claims of complete life mastery, turns criticism on himself, notes multiple life facets and urges continued learning.",
+      "Original caption and original poster reviewed; creator wearing sunglasses on a sunny street with buildings and trees."
+    ],
+    "limitations": [
+      "Automatic Albanian transcription has errors; paraphrased meaning, no verbatim quotation.",
+      "No diagnosis or inference about any named person’s happiness or relationships.",
+      "Research describes learning behaviour, not guaranteed whole-life outcomes."
+    ],
+    "durationObservedSeconds": 87.62925170068027,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

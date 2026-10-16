@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-16",
+  "references": [
+    {
+      "id": 1,
+      "title": "HOME official menu",
+      "url": "https://www.homerestaurant-ks.com/menu.html",
+      "scope": "Penne Carbonara EUR4.50; Pristina address; recipe differs from Rome example."
+    },
+    {
+      "id": 2,
+      "title": "Antica Osteria di Roma official menu",
+      "url": "https://anticaosteriadiroma.it/en/cucina/",
+      "scope": "Carbonara EUR13.00; published recipe."
+    }
+  ],
+  "calculations": {
+    "currency": "EUR",
+    "pristinaPrice": 4.5,
+    "romePrice": 13,
+    "difference": 8.5,
+    "ratio": 2.888888888888889,
+    "premiumPercent": 188.88888888888889,
+    "formulas": [
+      "difference = romePrice - pristinaPrice",
+      "ratio = romePrice / pristinaPrice",
+      "premiumPercent = difference / pristinaPrice * 100"
+    ],
+    "scope": "Two selected online menu dishes, different recipes and unknown relative portions. No city averages, receipt total or income adjustment."
+  },
+  "sourceVideo": {
+    "id": "7695058687383358741",
+    "url": "https://www.tiktok.com/@eduardluta/video/7695058687383358741",
+    "publishedAt": "2026-10-10T15:17:52+00:00",
+    "durationSeconds": 9,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original caption, full original-audio transcript and visual playback reviewed. Speech describes enjoyable Rome lunch and jokes about a place costing more than Pristina.",
+      "Original poster shows restaurant receipt/table and creator inset; complete bill total is not legible."
+    ],
+    "limitations": [
+      "No restaurant identity, bill total, guest count or purchased dish is inferred from the video.",
+      "Menu examples were researched separately; neither is claimed to be the filmed restaurant."
+    ],
+    "durationObservedSeconds": 8.913604,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}

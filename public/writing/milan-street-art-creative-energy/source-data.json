@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-16",
+  "researchBatch": "batch26-2026-10-15",
+  "references": [
+    {
+      "id": 1,
+      "title": "Comune di Milano — Muri liberi per street art",
+      "url": "https://www.comune.milano.it/servizi/cultura/muri-liberi-per-street-art",
+      "scope": "100 designated walls, map, no authorisation or fee for those walls; updated 16 June 2026. Not evidence that the mural shown is part of the programme."
+    },
+    {
+      "id": 2,
+      "title": "Comune di Milano — Arte negli spazi pubblici a Milano",
+      "url": "https://www.comune.milano.it/aree-tematiche/spazi-per-attivita-ed-eventi/arte-negli-spazi-pubblici-a-milano",
+      "scope": "Municipal office inventories and promotes public artworks and supports new projects."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative context and creative-prompt cards",
+    "measuredOutcomes": false,
+    "examples": "The 100 walls figure is a published municipal count, not a new count performed for this article. Creative prompts are editorial suggestions, not research results."
+  },
+  "sourceVideo": {
+    "id": "7694362792467418389",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694362792467418389",
+    "publishedAt": "2026-10-08T18:17:29+00:00",
+    "durationSeconds": 23,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original creator caption describes Milan as inspiring, expressive and artistic and links the experience to creating and exploring oneself.",
+      "Full original audio transcribed in Albanian: 0–7s every city has its own energy/personality; 7.38–15.38s Milan feels creative and expressive and inspires creation; 16.4–20.5s favourite city of the trip so far. Dialectal ASR errors were resolved conservatively by paraphrase rather than quotation.",
+      "Downloaded original poster visually inspected. It shows a wall portrait of an older woman resting her face on her hand, painted text, railings and pedestrians above in evening light. Root's actual playback review is recorded in visual-evidence.json."
+    ],
+    "limitations": [
+      "The mural's exact artist, title, address, date and programme affiliation have not been established; none is invented.",
+      "Favourite city is the creator's personal response during this trip, not a comparative ranking or claim of measured creative output.",
+      "Official Milan pages returned 403 on direct fetch; the municipal pages' indexed primary-source text was retrieved in the web search on 16 October 2026, including the 16 June 2026 update date and complete Muri liberi conditions."
+    ],
+    "durationObservedSeconds": 22.566938,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed in original TikTok browser player"
+  }
+}
