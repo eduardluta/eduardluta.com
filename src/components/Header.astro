@@ -2,6 +2,7 @@
 import { useTranslations, SITE_NAME, type Lang } from '../i18n/ui';
 import { localizePath, stripLangFromPath } from '../i18n/utils';
 import { resolveAlternates } from '../lib/writing';
+import '../styles/header-consulting.css';
 
 interface Props {
   lang: Lang;
@@ -27,7 +28,7 @@ const langHref = {
 };
 ---
 
-<header class="hdr">
+<header class="hdr hdr--consulting">
   <a class="wordmark" href={localizePath('/', lang)} aria-label={`${SITE_NAME} — ${t('nav.home')}`}>
     {SITE_NAME}
   </a>
@@ -51,5 +52,13 @@ const langHref = {
       aria-label={t('nav.themeToggle')}
       title={t('nav.themeToggle')}
     >◐</button>
+    <a
+      class="header-consulting-cta"
+      href={localizePath('/seo-consulting/', lang)}
+      aria-current={section === 'seo-consulting' ? 'page' : undefined}
+    >
+      <span>{t('nav.consulting')}</span>
+      <span aria-hidden="true">↗</span>
+    </a>
   </nav>
 </header>

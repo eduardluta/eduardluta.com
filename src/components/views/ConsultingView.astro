@@ -1,0 +1,129 @@
+---
+import '../../styles/consulting.css';
+import { SITE_EMAIL, type Lang } from '../../i18n/ui';
+import { localizePath } from '../../i18n/utils';
+import { consulting, consultingEmailHref, CONSULTING_PRICE } from '../../data/consulting';
+import { portrait } from '../../data/homepage';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const copy = consulting[lang];
+const emailHref = consultingEmailHref(lang);
+---
+
+<div class="editorial-page consulting-page">
+  <section class="consulting-hero" aria-labelledby="consulting-title">
+    <div class="consulting-hero-copy">
+      <p class="page-kicker">{copy.kicker}</p>
+      <h1 class="page-title" id="consulting-title">{copy.headline}<em>{copy.headlineAccent}</em></h1>
+      <p class="consulting-mobile-summary">{copy.heroPriceNote}</p>
+      <p class="page-lead">{copy.lead}</p>
+      <div class="consulting-actions">
+        <a class="consulting-button" href="#request">{copy.action} <span aria-hidden="true">↗</span></a>
+        <a class="consulting-text-link" href="#process">{copy.secondaryAction} <span aria-hidden="true">↓</span></a>
+      </div>
+      <p class="consulting-hero-note">{copy.heroNote}</p>
+    </div>
+    <aside class="consulting-package" aria-labelledby="package-title">
+      <p class="consulting-eyebrow" id="package-title">{copy.packageLabel}</p>
+      <p class="consulting-price"><span>€{CONSULTING_PRICE}</span> <span>{copy.currency}</span></p>
+      <p class="consulting-duration">{copy.duration}</p>
+      <p class="consulting-price-note">{copy.priceNote}</p>
+      <ul class="consulting-included">
+        {copy.included.map((item) => <li><span aria-hidden="true">✓</span>{item}</li>)}
+      </ul>
+      <p class="consulting-request-note">{copy.requestNote}</p>
+    </aside>
+  </section>
+
+  <section class="consulting-section" id="process" aria-labelledby="process-title">
+    <div class="consulting-section-heading">
+      <p class="page-kicker">01 / {copy.processLabel}</p>
+      <h2 id="process-title">{copy.processTitle}</h2>
+      <p>{copy.processLead}</p>
+    </div>
+    <ol class="consulting-steps">
+      {copy.steps.map((step, index) => (
+        <li>
+          <span class="consulting-step-number" aria-hidden="true">0{index + 1}</span>
+          <p class="consulting-eyebrow">{step.label}</p>
+          <h3>{step.title}</h3>
+          <p>{step.text}</p>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <section class="consulting-section consulting-outcomes" aria-labelledby="outcomes-title">
+    <div>
+      <div class="consulting-section-heading">
+        <p class="page-kicker">02 / {copy.outcomeLabel}</p>
+        <h2 id="outcomes-title">{copy.outcomeTitle}</h2>
+      </div>
+      <dl class="consulting-deliverables">
+        {copy.outcomes.map((item) => <div><dt>{item.title}</dt><dd>{item.text}</dd></div>)}
+      </dl>
+    </div>
+    <div class="consulting-agenda">
+      <p class="consulting-eyebrow">{copy.agendaLabel}</p>
+      <h3>{copy.agendaTitle}</h3>
+      <ol>{copy.agenda.map((item, i) => <li><span aria-hidden="true">0{i + 1}</span>{item}</li>)}</ol>
+      <p class="consulting-agenda-note">{copy.agendaNote}</p>
+      <span class="consulting-agenda-signature" aria-hidden="true">Eduard Luta <span>↗</span></span>
+    </div>
+  </section>
+
+  <section class="consulting-section consulting-two-column" aria-labelledby="fit-title">
+    <div class="consulting-section-heading">
+      <p class="page-kicker">03 / {copy.fitLabel}</p>
+      <h2 id="fit-title">{copy.fitTitle}</h2>
+      <p>{copy.fitLead}</p>
+    </div>
+    <div>
+      <ul class="consulting-lined-list">{copy.topics.map((item) => <li>{item}</li>)}</ul>
+      <p class="consulting-small-note">{copy.scopeNote}</p>
+    </div>
+  </section>
+
+  <section class="consulting-section consulting-two-column" aria-labelledby="materials-title">
+    <div class="consulting-section-heading">
+      <p class="page-kicker">04 / {copy.materialsLabel}</p>
+      <h2 id="materials-title">{copy.materialsTitle}</h2>
+      <p>{copy.materialsLead}</p>
+    </div>
+    <div>
+      <ul class="consulting-materials">{copy.materials.map((item) => <li><span aria-hidden="true">↗</span>{item}</li>)}</ul>
+      <p class="consulting-small-note">{copy.materialsNote}</p>
+    </div>
+  </section>
+
+  <section class="consulting-about" aria-labelledby="about-title">
+    <img src={portrait.src} width={portrait.width} height={portrait.height} alt={copy.portraitAlt} loading="lazy" decoding="async" />
+    <div class="consulting-section-heading">
+      <p class="page-kicker">{copy.aboutLabel}</p>
+      <h2 id="about-title">{copy.aboutTitle}</h2>
+      <p>{copy.aboutText}</p>
+      <a class="consulting-text-link" href={localizePath('/building/', lang)}>{copy.aboutAction} <span aria-hidden="true">↗</span></a>
+    </div>
+  </section>
+
+  <section class="consulting-section consulting-faq" aria-labelledby="faq-title">
+    <h2 id="faq-title">{copy.faqLabel}</h2>
+    <div>{copy.faqs.map((faq) => (
+      <details>
+        <summary>{faq.question}<span aria-hidden="true">+</span></summary>
+        <p>{faq.answer}</p>
+      </details>
+    ))}</div>
+  </section>
+
+  <section class="consulting-booking" id="request" aria-labelledby="request-title">
+    <p class="page-kicker">{copy.bookingLabel}</p>
+    <h2 id="request-title">{copy.bookingTitle}</h2>
+    <p class="consulting-booking-lead">{copy.bookingLead}</p>
+    <p class="consulting-booking-summary">{copy.bookingSummary}</p>
+    <a class="consulting-button" href={emailHref} data-consulting-email>{copy.emailAction} <span aria-hidden="true">↗</span></a>
+    <p class="consulting-small-note">{copy.emailNote} <a href={`mailto:${SITE_EMAIL}`}>{SITE_EMAIL}</a>.</p>
+    <p class="consulting-small-note">{copy.requestNote}</p>
+  </section>
+</div>

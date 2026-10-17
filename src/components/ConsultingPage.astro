@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ConsultingView from './views/ConsultingView.astro';
+import { SITE_NAME, type Lang } from '../i18n/ui';
+import { consulting, CONSULTING_PRICE, CONSULTING_PATH } from '../data/consulting';
+import { localizePath } from '../i18n/utils';
+import { breadcrumbSchema } from '../lib/schema';
+import { SITE } from '../consts';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const copy = consulting[lang];
+const path = localizePath(CONSULTING_PATH, lang);
+const url = new URL(path, SITE).href;
+const service = {
+  '@type': 'Service',
+  '@id': `${url}#service`,
+  name: copy.name,
+  description: copy.description,
+  url,
+  serviceType: 'SEO strategy consulting',
+  provider: { '@id': `${SITE}/#person` },
+  offers: {
+    '@type': 'Offer',
+    price: CONSULTING_PRICE,
+    priceCurrency: 'EUR',
+    url: `${url}#request`,
+  },
+};
+---
+
+<BaseLayout editorial newsletter={false} lang={lang} title={copy.title} description={copy.description}
+  pageSchema={{ mainEntity: { '@id': `${url}#service` } }}
+  jsonLd={[service, breadcrumbSchema([
+    { name: SITE_NAME, url: localizePath('/', lang) },
+    { name: copy.name, url: path },
+  ])]}
+>
+  <ConsultingView lang={lang} />
+</BaseLayout>

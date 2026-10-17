@@ -193,8 +193,16 @@ export function initApp() {
   bindNewsletter();
   bindDocOnce();
 
-  if (!timerArmed && nlState() !== 'dismissed' && nlState() !== 'subscribed') {
+  if (!timerArmed && overlay() && nlState() !== 'dismissed' && nlState() !== 'subscribed') {
     timerArmed = true;
-    window.setTimeout(openNl, OPEN_DELAY);
+    window.setTimeout(() => {
+      // A client-side navigation can move to a page without a newsletter.
+      // Let a later eligible page start its own timer if that happens.
+      if (!overlay()) {
+        timerArmed = false;
+        return;
+      }
+      openNl();
+    }, OPEN_DELAY);
   }
 }

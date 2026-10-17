@@ -45,6 +45,8 @@ interface Props {
   home?: boolean;
   /** Shared editorial presentation for Work, Writing and Social. */
   editorial?: boolean;
+  /** Disable the newsletter prompt when the page has its own primary action. */
+  newsletter?: boolean;
 }
 
 const {
@@ -62,6 +64,7 @@ const {
   wide = false,
   home = false,
   editorial = false,
+  newsletter = true,
 } = Astro.props;
 
 const pathname = Astro.url.pathname;
@@ -226,7 +229,7 @@ const t = useTranslations(lang);
         <Footer lang={lang} />
       </div>
     </div>
-    <NewsletterPopup lang={lang} />
+    {newsletter && <NewsletterPopup lang={lang} />}
 
     <script>
       import { initApp } from '../scripts/app';

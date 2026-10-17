@@ -1,0 +1,101 @@
+/* Shared header CTA: specificity keeps this consistent in every page shell. */
+.wrap .hdr.hdr--consulting {
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.wrap .hdr.hdr--consulting > .wordmark {
+  flex-shrink: 0;
+}
+
+.wrap .hdr.hdr--consulting .nav {
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 100%;
+  gap: 14px;
+}
+
+.wrap .hdr.hdr--consulting .nav > a {
+  white-space: nowrap;
+}
+
+.wrap .hdr.hdr--consulting .nav .header-consulting-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.wrap .hdr.hdr--consulting .nav .header-consulting-cta:hover {
+  background: transparent;
+  color: var(--accent);
+}
+
+.wrap .hdr.hdr--consulting .nav .header-consulting-cta:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+
+.wrap .hdr.hdr--consulting .nav .header-consulting-cta[aria-current='page'] {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 760px) {
+  .wrap .hdr.hdr--consulting > .wordmark {
+    width: 100%;
+  }
+
+  .wrap .hdr.hdr--consulting .nav {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .wrap .hdr.hdr--consulting .nav {
+    gap: 4px 8px;
+    font-size: 12px;
+  }
+
+  .wrap .hdr.hdr--consulting .nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+
+  .wrap .hdr.hdr--consulting .nav .seg {
+    flex-shrink: 0;
+    gap: 6px;
+    padding-left: 0;
+    margin-left: auto;
+    border-left: 0;
+  }
+
+  .wrap .hdr.hdr--consulting .nav .lang-btn {
+    margin: 0;
+  }
+
+  .wrap .hdr.hdr--consulting .nav .theme-btn {
+    flex-shrink: 0;
+    width: 24px;
+    min-height: 44px;
+    padding: 0;
+    margin: 0;
+    border-left: 0;
+  }
+
+  .wrap .hdr.hdr--consulting .nav .header-consulting-cta {
+    flex-basis: 100%;
+    justify-content: space-between;
+    margin-top: 4px;
+  }
+}
