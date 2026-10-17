@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-17",
+  "researchBatch": "batch27-2026-10-17",
+  "references": [
+    {
+      "id": 1,
+      "title": "Your Europe: Unfair pricing — Easy comparison, price per unit",
+      "url": "https://europa.eu/youreurope/citizens/consumers/unfair-treatment/unfair-pricing/index_en.htm",
+      "scope": "Official EU consumer explanation of comparable unit prices by kilogram/litre and package-size comparisons; no retailer compliance claim."
+    }
+  ],
+  "visuals": {
+    "type": "Conditional arithmetic cards",
+    "measuredOutcomes": false,
+    "calculations": {
+      "inputs": {
+        "quotedPriceEUR": 5.5,
+        "labelledPackMassGrams": 250,
+        "assumption": "Quoted price applies to the displayed 250 g pack; not verified by receipt or shelf label."
+      },
+      "equations": [
+        "250 / 1000 = 0.25 kg",
+        "5.50 / 0.25 = 22 EUR/kg",
+        "22 * 0.1 = 2.20 EUR per 100 g",
+        "22 * 0.5 = 11 EUR per 500 g"
+      ],
+      "outputs": {
+        "eurPerKg": 22,
+        "eurPer100g": 2.2,
+        "eurPer500g": 11
+      }
+    },
+    "examples": "One conditional rate expressed at different quantities; no competing market offers or claimed purchases."
+  },
+  "sourceVideo": {
+    "id": "7694295326324231445",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694295326324231445",
+    "publishedAt": "2026-10-08T13:55:36+00:00",
+    "durationSeconds": 9,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original local audio and complete transcript reviewed: short humorous reaction to mini bananas, stated €5.50 price and Milan location. The opening joke is not used as origin evidence.",
+      "Original poster visually inspected: hand holding a small banana above a clear pack; BANANITO and 250g label visible.",
+      "Earlier visual-only evidence correctly recorded that price scope could not be established from label adjacency; recovered audio confirms the amount/location but supplies no receipt or explicit pack-price breakdown."
+    ],
+    "limitations": [
+      "€5.50 is the creator’s spoken amount, not an independently verified transaction price.",
+      "The €/kg calculation assumes the quoted amount refers to the displayed 250 g pack. It must remain conditional in prose, visual and caption.",
+      "No verified competing price, store, purchase date, cultivar, exact piece count, peeled weight or citywide market inference."
+    ],
+    "durationObservedSeconds": 8.727845,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+  }
+}

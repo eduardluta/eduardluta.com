@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2026-10-17",
+  "researchBatch": "batch27-2026-10-17",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — original Milan invitation video",
+      "url": "https://www.tiktok.com/@eduardluta/video/7694282934756379925",
+      "scope": "Actual original recording, caption and rendered invitation card provide the past invitation, date, address and announced time window. No attendance claim."
+    },
+    {
+      "id": 2,
+      "title": "Città Metropolitana di Milano — Territorio e Comuni",
+      "url": "https://www.cittametropolitana.mi.it/citta-metropolitana/conosci-la-citta-metropolitana/territorio-e-comuni/",
+      "scope": "Official page updated 24 March 2026 identifies 133 municipalities in the Metropolitan City. Supports geographic boundary distinction, not an Albanian community estimate."
+    },
+    {
+      "id": 3,
+      "title": "Comune di Milano — Popolazione: residenti per stato civile, genere, età e cittadinanza (2012–2025)",
+      "url": "https://dati.comune.milano.it/dataset/ds223-popolazione-residenti-stato-civile-eta-cittadinanza",
+      "scope": "Municipal dataset title and metadata establish residents and citizenship as statistical categories. No population extraction or new headcount performed."
+    },
+    {
+      "id": 4,
+      "title": "Istat — Atti del 15° Censimento generale della popolazione e delle abitazioni, fascicolo 3",
+      "url": "https://www.istat.it/storage/Atti-15-Censimento-generale/Fascicolo-2/AttiPOP_Fascicolo%203.pdf",
+      "scope": "Printed p. 34 distinguishes citizenship from migration background and explains parents’ birthplace questions. Used for measurement context, not current counts."
+    },
+    {
+      "id": 5,
+      "title": "Castello Sforzesco — La storia del Castello",
+      "url": "https://www.milanocastello.it/it/scopri-il-castello/la-storia-del-castello",
+      "scope": "Castle rebuilding under Francesco Sforza and court under later Sforza rulers in the era of Leonardo and Bramante. Does not establish the video’s specific Skanderbeg military-support claim."
+    }
+  ],
+  "visuals": {
+    "type": "Archived invitation and qualitative measurement cards",
+    "measuredOutcomes": false,
+    "calculations": [
+      {
+        "name": "Announced meeting window",
+        "expression": "(20 × 60) − (18 × 60 + 30)",
+        "inputs": {
+          "startLocal": "18:30",
+          "endLocal": "20:00",
+          "date": "2026-10-08",
+          "place": "Milano"
+        },
+        "result": 90,
+        "unit": "minutes",
+        "limitation": "Duration of the announced window, not observed event duration."
+      }
+    ],
+    "examples": "The invitation cards reproduce announced details. The definition cards are an editorial guide using official geography/statistical distinctions, not measured community or platform outcomes."
+  },
+  "sourceVideo": {
+    "id": "7694282934756379925",
+    "url": "https://www.tiktok.com/@eduardluta/video/7694282934756379925",
+    "publishedAt": "2026-10-08T13:07:35+00:00",
+    "durationSeconds": 60,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Full original audio recovered and transcribed: arrival in Milan, invitation at 18:30 to Chunk Milano at Ripa di Porta Ticinese, meeting dua.com members and the Albanian community, followed by a coffee/food/conversation invitation. Dialectal ASR errors are paraphrased conservatively.",
+      "Original video watched through its full sequence during source retrieval; rendered invitation card explicitly reads 08.10.2026, 18:30–20:00, Chunk Milano and Ripa di Porta Ticinese 55.",
+      "Original 540×960 poster visually inspected: Eduard in a black dua.com hoodie, brick castle tower and walls behind him.",
+      "Recording contains speaker estimates of 50,000 to 75,000 Albanians in Milan and more than 6,000 dua.com users, plus a specific Skanderbeg/Sforza military-support claim. These are documented as source claims rather than verified article facts."
+    ],
+    "limitations": [
+      "No dated, independently verified population source or platform analytics substantiates the spoken community/user estimates; article does not reproduce these as established totals or derive a market share.",
+      "The invitation card and source caption establish the announced event details. They do not establish attendance, a completed gathering, exact filming time or outcomes. No Event structured data for a future event is warranted.",
+      "The specific Skanderbeg request for Sforza military support and the statement about Leonardo creating weapons or defences were not established by the sources checked and are not asserted as article facts.",
+      "Official castle history was available as indexed primary-source text in search on 17 October 2026; a direct page fetch returned 403.",
+      "Istat printed p. 34 was checked through indexed primary-source text; the full PDF exceeded the web reader size limit. The article uses its methodological distinction, not any current census count."
+    ],
+    "durationObservedSeconds": 60.06716553287982,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+  }
+}

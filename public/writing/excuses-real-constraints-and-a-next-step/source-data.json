@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-17",
+  "researchBatch": "batch27-2026-10-17",
+  "references": [
+    {
+      "id": 1,
+      "title": "Gollwitzer and Sheeran (2006): Implementation intentions and goal achievement: A meta-analysis of effects and processes",
+      "url": "https://www.socmot.uni-konstanz.de/sites/default/files/06_Gollwitzer_Sheeran_Implementation_Intentions_And_Goal.pdf",
+      "recordUrl": "https://www.socmot.uni-konstanz.de/publications/implementation-intentions-and-goal-achievement-meta-analysis-effects-and-processes",
+      "doi": "10.1016/S0065-2601(06)38002-1",
+      "scope": "Primary review, abstract and introduction visually read in original scanned PDF. Brief overall finding only; no effect-size-to-percentage conversion or individual outcome guarantee."
+    }
+  ],
+  "visuals": {
+    "measuredOutcomes": false,
+    "scope": "Two original editorial card diagrams: overlapping barrier-response prompts, and illustrative writing cue/action/review. No measured scores or quantified results."
+  },
+  "sourceVideo": {
+    "id": "7693988842084338965",
+    "url": "https://www.tiktok.com/@eduardluta/video/7693988842084338965",
+    "publishedAt": "2026-10-07T18:06:23+00:00",
+    "durationSeconds": 17,
+    "spokenLanguage": "en",
+    "meaningEvidence": [
+      "Complete original English audio transcribed locally with cached large-v3-turbo, no caption prompt. Three coherent segments span 0.32–16.06 seconds: interviewer asks about the nature/usefulness of excuses; respondent warns that allowing excuses to prevail can undermine desired outcomes.",
+      "Original poster visually inspected: dark car interior, steering wheel and navigation screen, English subtitles. Prior full playback evidence identifies an interview playing on a device.",
+      "Creator caption encourages acting against excuses; article distinguishes this endorsement from third-party interview speech."
+    ],
+    "limitations": [
+      "Interview speaker identities unverified; no words attributed to Eduard as his own speech.",
+      "No claimed location, driving role or personal result inferred from the car scene.",
+      "Personal reflection, writing example and visual prompts are editorial expansion, not claims that the clip contains research or a tested intervention."
+    ],
+    "durationObservedSeconds": 17.156688,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "batch": 27,
+  "articleDate": "2026-10-17",
+  "articles": [
+    {
+      "id": "7694295326324231445",
+      "slug": "mini-bananas-milan-price-per-kilo",
+      "publishedAt": "2026-10-08T13:55:36+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7694295326324231445",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 9,
+      "durationObservedSeconds": 8.727845,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+    },
+    {
+      "id": "7694282934756379925",
+      "slug": "albanians-in-milan-chunk-meetup",
+      "publishedAt": "2026-10-08T13:07:35+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7694282934756379925",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 60,
+      "durationObservedSeconds": 60.06716553287982,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+    },
+    {
+      "id": "7693988842084338965",
+      "slug": "excuses-real-constraints-and-a-next-step",
+      "publishedAt": "2026-10-07T18:06:23+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7693988842084338965",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 17,
+      "durationObservedSeconds": 17.156688,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration from playing original TikTok video in authenticated Chrome on 2026-10-16"
+    }
+  ],
+  "visuals": [
+    {
+      "name": "same-price-different-weight",
+      "type": "cards",
+      "en": {
+        "title": "If €5.50 covers the 250 g pack",
+        "subtitle": "Equivalent amounts at the same assumed rate.",
+        "items": [
+          [
+            "100 g",
+            "€2.20 · calculated equivalent"
+          ],
+          [
+            "250 g",
+            "€5.50 · assumed pack price"
+          ],
+          [
+            "1 kg",
+            "€22 · calculated equivalent"
+          ]
+        ],
+        "caption": "Conditional arithmetic, not three observed shop offers. The label shows 250 g; the clip mentions €5.50 without a receipt or shelf price.",
+        "alt": "Assuming the stated €5.50 buys the displayed 250 g pack: 100 g corresponds to €2.20, 250 g to €5.50, and 1 kg to €22.",
+        "foot": "Assumption: €5.50 for 250 g · €5.50 ÷ 0.25 kg = €22/kg"
+      },
+      "sq": {
+        "title": "Nëse 5,50 € janë për paketimin 250 g",
+        "subtitle": "Sasi të barasvlershme me të njëjtin çmim të supozuar.",
+        "items": [
+          [
+            "100 g",
+            "2,20 € · barasvlerë e llogaritur"
+          ],
+          [
+            "250 g",
+            "5,50 € · çmim i supozuar i paketimit"
+          ],
+          [
+            "1 kg",
+            "22 € · barasvlerë e llogaritur"
+          ]
+        ],
+        "caption": "Aritmetikë e kushtëzuar, jo tri oferta të vrojtuara në dyqan. Etiketa tregon 250 g; në video përmenden 5,50 € pa faturë apo çmim rafti.",
+        "alt": "Duke supozuar se 5,50 € blejnë paketimin 250 g: 100 g përkojnë me 2,20 €, 250 g me 5,50 € dhe 1 kg me 22 €.",
+        "foot": "Supozimi: 5,50 € për 250 g · 5,50 € ÷ 0,25 kg = 22 €/kg"
+      },
+      "slug": "mini-bananas-milan-price-per-kilo"
+    },
+    {
+      "name": "archived-milan-invitation",
+      "type": "cards",
+      "en": {
+        "title": "The invitation, preserved",
+        "subtitle": "8 October 2026 • past event announcement",
+        "items": [
+          [
+            "When",
+            "18:30–20:00, a 90-minute meeting window."
+          ],
+          [
+            "Where",
+            "Chunk Milano · Ripa di Porta Ticinese 55."
+          ],
+          [
+            "Why",
+            "Coffee, conversation and getting to know each other."
+          ]
+        ],
+        "caption": "The details shown in the original video. This is an archived invitation, not an upcoming event or attendance report.",
+        "alt": "Archived invitation for 8 October 2026: 18:30 to 20:00 at Chunk Milano, Ripa di Porta Ticinese 55, for coffee and conversation.",
+        "foot": "Original invitation card • 20:00 − 18:30 = 90 minutes"
+      },
+      "sq": {
+        "title": "Ftesa e ruajtur",
+        "subtitle": "8 tetor 2026 • njoftim i një date të kaluar",
+        "items": [
+          [
+            "Kur",
+            "18:30–20:00, një orar takimi prej 90 minutash."
+          ],
+          [
+            "Ku",
+            "Chunk Milano · Ripa di Porta Ticinese 55."
+          ],
+          [
+            "Pse",
+            "Kafe, muhabet dhe mundësi për t’u njohur."
+          ]
+        ],
+        "caption": "Hollësitë e shfaqura në videon origjinale. Kjo është ftesë e arkivuar, jo takim i ardhshëm ose raport pjesëmarrjeje.",
+        "alt": "Ftesa e arkivuar për 8 tetor 2026: nga 18:30 deri në 20:00 te Chunk Milano, Ripa di Porta Ticinese 55, për kafe e muhabet.",
+        "foot": "Karta origjinale e ftesës • 20:00 − 18:30 = 90 minuta"
+      },
+      "slug": "albanians-in-milan-chunk-meetup"
+    },
+    {
+      "name": "counting-a-community",
+      "type": "cards",
+      "en": {
+        "title": "Three questions behind a community figure",
+        "subtitle": "Different measures need different labels",
+        "items": [
+          [
+            "Which Milan?",
+            "The city municipality or the metropolitan territory?"
+          ],
+          [
+            "Which identity measure?",
+            "Citizenship does not describe every family’s roots."
+          ],
+          [
+            "Which platform measure?",
+            "User counts need a date, location rule and activity definition."
+          ]
+        ],
+        "caption": "A guide to reading community figures. These cards provide no verified Albanian population total or dua.com user count.",
+        "alt": "Three questions separate geographic boundaries, citizenship and family roots, and the definition of app users.",
+        "foot": "Official territorial and statistical sources • editorial interpretation"
+      },
+      "sq": {
+        "title": "Tri pyetje pas një shifre komuniteti",
+        "subtitle": "Matje të ndryshme kërkojnë emërtime të ndryshme",
+        "items": [
+          [
+            "Cila Milano?",
+            "Bashkia e qytetit apo territori metropolitan?"
+          ],
+          [
+            "Cila matje e identitetit?",
+            "Shtetësia nuk përshkruan rrënjët e çdo familjeje."
+          ],
+          [
+            "Cila matje e platformës?",
+            "Numri i përdoruesve kërkon datë, zonë dhe kriter aktiviteti."
+          ]
+        ],
+        "caption": "Udhëzues për leximin e shifrave të komunitetit. Kartat nuk japin numër të verifikuar shqiptarësh ose përdoruesish të dua.com.",
+        "alt": "Tri pyetje dallojnë kufijtë gjeografikë, shtetësinë dhe rrënjët familjare, si dhe përkufizimin e përdoruesve të aplikacionit.",
+        "foot": "Burime zyrtare territoriale e statistikore • interpretim editorial"
+      },
+      "slug": "albanians-in-milan-chunk-meetup"
+    },
+    {
+      "name": "barrier-and-next-response",
+      "type": "cards",
+      "en": {
+        "title": "What does this barrier require?",
+        "subtitle": "Two prompts that can overlap.",
+        "items": [
+          [
+            "A real constraint",
+            "What support, time or change is needed?"
+          ],
+          [
+            "An action I am avoiding",
+            "What manageable step is available?"
+          ]
+        ],
+        "caption": "Editorial prompts for reflection. A real constraint and avoidance can exist together; these are not diagnostic categories.",
+        "alt": "Two reflection prompts: identify needed support for a real constraint, and a manageable action when avoiding an available task.",
+        "foot": "Editorial exercise · No diagnosis or score"
+      },
+      "sq": {
+        "title": "Çfarë kërkon kjo pengesë?",
+        "subtitle": "Dy pyetje që mund të vlejnë njëkohësisht.",
+        "items": [
+          [
+            "Një pengesë reale",
+            "Çfarë mbështetjeje, kohe apo ndryshimi duhet?"
+          ],
+          [
+            "Një veprim që po shmang",
+            "Cili hap i përballueshëm është i mundur?"
+          ]
+        ],
+        "caption": "Pyetje të hartuara për reflektim. Pengesa reale dhe shmangia mund të jenë bashkë; këto nuk janë kategori diagnostikuese.",
+        "alt": "Dy pyetje: gjej mbështetjen që kërkon një pengesë reale dhe një hap të përballueshëm kur po shmang një detyrë të mundur.",
+        "foot": "Ushtrim editorial · Pa diagnozë apo pikëzim"
+      },
+      "slug": "excuses-real-constraints-and-a-next-step"
+    },
+    {
+      "name": "cue-action-review",
+      "type": "cards",
+      "en": {
+        "title": "Make one writing attempt concrete",
+        "subtitle": "An example developed for this article.",
+        "items": [
+          [
+            "Cue",
+            "My planned writing session begins."
+          ],
+          [
+            "Action",
+            "Open the document; write one paragraph."
+          ],
+          [
+            "Review",
+            "What helped? What needs to change?"
+          ]
+        ],
+        "caption": "An illustrative plan, not a tested programme. Adapt the task and timing to the resources you actually have.",
+        "alt": "A writing example in three steps: start at the planned session, write a paragraph, then review what happened.",
+        "foot": "Editorial example · No promised result"
+      },
+      "sq": {
+        "title": "Bëje konkrete një përpjekje për shkrim",
+        "subtitle": "Shembull i hartuar për këtë artikull.",
+        "items": [
+          [
+            "Momenti",
+            "Fillon seanca ime e planifikuar për shkrim."
+          ],
+          [
+            "Veprimi",
+            "Hap dokumentin; shkruaj një paragraf."
+          ],
+          [
+            "Shqyrtimi",
+            "Çfarë ndihmoi? Çfarë duhet të ndryshojë?"
+          ]
+        ],
+        "caption": "Plan ilustrues, jo program i testuar. Përshtati detyrën dhe kohën me mundësitë që ke realisht.",
+        "alt": "Shembull shkrimi me tri hapa: fillo në seancën e planifikuar, shkruaj një paragraf dhe shqyrto çfarë ndodhi.",
+        "foot": "Shembull editorial · Pa rezultat të premtuar"
+      },
+      "slug": "excuses-real-constraints-and-a-next-step"
+    }
+  ]
+}
