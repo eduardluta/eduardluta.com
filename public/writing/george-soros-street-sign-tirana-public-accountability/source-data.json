@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-18",
+  "researchBatch": "batch28-2026-10-18",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — original street-sign edit",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697737848375561493",
+      "scope": "Caption, 18-second original export, original SRT and inspected frames; source claims and visual/action limits."
+    },
+    {
+      "id": 2,
+      "title": "Law No. 139/2015 on local self-government — official Qarku Vlorë copy",
+      "url": "https://qarkuvlore.gov.al/wp-content/uploads/2020/03/Ligj-Nr.1392015-Per-veteqeverisjen-vendore.pdf",
+      "scope": "Article 54(ll), PDF page 19: municipal council naming authority. Article 19, PDF page 7: citizen requests, complaints and observations. Narrow administrative distinction, not a determination of the case outcome."
+    },
+    {
+      "id": 3,
+      "title": "Open Society Foundations: Albania fact sheet",
+      "url": "https://www.opensocietyfoundations.org/newsroom/open-society-foundations-albania",
+      "albanianUrl": "https://www.opensocietyfoundations.org/newsroom/open-society-foundations-albania/sq",
+      "publishedAt": "2021-03-25",
+      "scope": "The institution says its Albanian foundation began in 1992 with initial work in health, education and scholarships. Does not establish the narration’s causal political claim."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative evidence distinctions and documentary inquiry cards",
+    "measuredOutcomes": false,
+    "calculations": [],
+    "examples": "Evidence guide is editorial synthesis. Records checklist is a proposed inquiry, not evidence that misconduct or an undisclosed agreement exists."
+  },
+  "sourceVideo": {
+    "id": "7697737848375561493",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697737848375561493",
+    "publishedAt": "2026-10-17T20:34:18+00:00",
+    "durationSeconds": 18,
+    "localExportDurationSeconds": 18.0,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Native TikTok verification on 17 October maps the reviewed original 720 × 1280, 18-second v5 export and caption to this exact public post. Native player observed duration: 18.179818 seconds.",
+      "Original SRT reviewed in full: Albanian narration describes removing the George Soros street name in Tirana and asserts George and Alexander Soros were key supporters of Edi Rama coming to power. This causal assertion is retained as an attributed source claim, not adopted as verified fact.",
+      "Final video contact sheet visually inspected at 0, 3, 6, 9, 12, 14.8967, 15, 16.5 and 17.9667 seconds. Top footage shows people reaching for and pulling a street sign; lower panel contains explicitly labelled archival photos of Rama with George or Alexander Soros. The sign remains visible in the final sampled street frame.",
+      "The last 3 seconds show the Albanian flag and a modern freedom line explicitly labelled as inspired by Sami Frashëri. No authenticated historical quotation or source work is established.",
+      "The published platform-caption file asks whether the sign is a larger message; social publication verification confirms the caption and media match. The article conservatively narrows the caption’s completed-removal wording to the action actually established."
+    ],
+    "limitations": [
+      "The underlying filming date and precise street location are not independently verified; Tirana is the original edit’s location label. The post upload date is not the incident date.",
+      "No council resolution or current address-register check establishes an official renaming. No identification, motive, national opinion inference, full aftermath or complete removal is established.",
+      "Archive photos show people together; they do not establish political causation, corruption, funding of an election or any specific policy outcome. Archive photo dates and locations are editorial labels and were not independently reverified for this article.",
+      "The Open Society Foundations fact sheet is a dated institutional self-description, used narrowly for its stated start year and focus, not as exoneration or accusation.",
+      "Law 139/2015 is an official regional-government copy, used narrowly for Article 54(ll) naming competence and Article 19 requests. No legal outcome of the filmed conduct or current administrative name is determined.",
+      "PDF text was obtained through the web reader; the optional screenshot fetch timed out. Citations to pages 7 and 19 refer to PDF page positions.",
+      "No numerical visual, opinion poll, attendance count, election effect or quantified influence is invented."
+    ],
+    "durationObservedSeconds": 18.179818,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+  }
+}

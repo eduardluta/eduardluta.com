@@ -1,0 +1,80 @@
+{
+  "checkedAt": "2026-10-18",
+  "researchBatch": "batch28-2026-10-18",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — shared DUMA Podcast excerpt",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697665263331839253",
+      "scope": "Original source recording and reviewed transcript establish attributed speaker meaning; native caption establishes Eduard’s framing. The original guest/episode/date are not independently identified."
+    },
+    {
+      "id": 2,
+      "title": "INSTAT — Albania Population and Housing Census 2023: Main Results",
+      "url": "https://www.instat.gov.al/media/13615/cens-i-popullsise-2023.pdf",
+      "scope": "Printed pages 16 (Albanian) and 114 (English), section 2.1.1, give resident totals 2,821,977 in 2011 and 2,402,113 in 2023. These are published census counts; the article does not apply the separate post-enumeration coverage adjustment or substitute annual population estimates.",
+      "access": "Full PDF retrieved and relevant text verified with web reader on 18 October 2026; a subsequent repeat fetch timed out, without invalidating the successful initial retrieval."
+    },
+    {
+      "id": 3,
+      "title": "INSTAT — The population of Albania",
+      "url": "https://www.instat.gov.al/en/statistical-literacy/the-population-of-albania",
+      "scope": "Primary statistical-literacy explanation: lower fertility/emigration underlie population decline; natural change equals births minus deaths; net migration equals immigration minus emigration. Resident population differs from nationality and diaspora size."
+    }
+  ],
+  "calculations": [
+    {
+      "name": "Change in published census resident population",
+      "inputs": {
+        "2011": 2821977,
+        "2023": 2402113
+      },
+      "expression": "2402113 - 2821977",
+      "result": -419864,
+      "unit": "residents",
+      "limitation": "Difference in published historical resident-population counts, not gross emigration or a 2026 estimate."
+    },
+    {
+      "name": "Percentage decline from 2011 census",
+      "expression": "(2821977 - 2402113) / 2821977 * 100",
+      "result": 14.878363643644155,
+      "display": 14.9,
+      "unit": "percent",
+      "rounding": "One decimal place; denominator is 2011 census resident total."
+    }
+  ],
+  "visuals": {
+    "quantitativeChart": "Two historical census counts; common zero baseline; no interpolated annual series.",
+    "qualitativeCards": "Editorial questions prompted by universities, hospitals and safety in source; no measured service quality, representative survey or promised effect on migration."
+  },
+  "editorialChecks": {
+    "intent": "Informational essay on emigration from Albania, family and reasons to stay; no fabricated keyword volumes or rankings.",
+    "sourceAttribution": "First person limited to the documented sharing/caption framing and editorial interpretation; guest testimony always attributed.",
+    "languages": "EN and SQ preserve the same facts, limits and calculations, with local numeral separators.",
+    "internalLinks": "Both referenced article slugs exist in EN and SQ.",
+    "faq": "Omitted deliberately to preserve personal-essay form under repository instructions; no generic filler or artificial word-count padding."
+  },
+  "sourceVideo": {
+    "id": "7697665263331839253",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697665263331839253",
+    "publishedAt": "2026-10-17T15:52:36+00:00",
+    "durationSeconds": 71,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Original local 71.285-second video mapped to public TikTok ID through native publish verification. Reviewed captions were based on local ASR and original visible subtitles; article uses corroborated meaning, not uncertain exact particles.",
+      "Visual inspection of dynamic final review, captioned frame at 27 seconds and original caption contact sheet at 63–71 seconds: young woman, DUMA Podcast watermark, interview shot/reverse shot and Albanian captions.",
+      "Speaker identifies herself as 22; discusses departure/depopulation and institutional neglect, quotes brother’s wish to come protect her, asks for support/solutions rather than personalities, and names universities, hospitals and violence.",
+      "Native published caption broadens theme to family distance, prejudice/racism and starting again; those are Eduard’s accompanying framing, not all spoken claims by guest."
+    ],
+    "limitations": [
+      "Guest identity, original recording date and full interview context are unverified. No name, profession, protest affiliation, political party or specific violent incident is inferred.",
+      "Repost date is not presented as original interview date. The guest’s family experience is not attributed to Eduard.",
+      "The universal-sounding phrase nobody wants to leave is treated as an emotional appeal, not population survey evidence.",
+      "Closing source caption appears Asnjë where reviewed caption has Asgjë; the article avoids a verbatim quote of that uncertain line.",
+      "The clip is not independent proof about every Albanian hospital/university or a specific alleged incident."
+    ],
+    "durationObservedSeconds": 71,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+  }
+}

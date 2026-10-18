@@ -1,0 +1,377 @@
+{
+  "batch": 28,
+  "articleDate": "2026-10-18",
+  "articles": [
+    {
+      "id": "7697737848375561493",
+      "slug": "george-soros-street-sign-tirana-public-accountability",
+      "publishedAt": "2026-10-17T20:34:18+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697737848375561493",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 18,
+      "durationObservedSeconds": 18.179818,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+    },
+    {
+      "id": "7697677244575042836",
+      "slug": "tirana-kiosks-public-accountability",
+      "publishedAt": "2026-10-17T16:39:04+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697677244575042836",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 68,
+      "durationObservedSeconds": 68.21882086167801,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+    },
+    {
+      "id": "7697665263331839253",
+      "slug": "leaving-albania-reasons-to-stay",
+      "publishedAt": "2026-10-17T15:52:36+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697665263331839253",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 71,
+      "durationObservedSeconds": 71,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+    },
+    {
+      "id": "7697593586623384853",
+      "slug": "real-life-pokemon-toddler-play",
+      "publishedAt": "2026-10-17T11:14:35+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697593586623384853",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 14,
+      "durationObservedSeconds": 14.230974,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Native TikTok HTMLMediaElement.duration observed during playing source on 18 October 2026"
+    }
+  ],
+  "visuals": [
+    {
+      "name": "footage-claim-decision",
+      "type": "cards",
+      "en": {
+        "title": "Three things to keep separate",
+        "subtitle": "What each kind of evidence can establish",
+        "items": [
+          [
+            "The footage",
+            "People pull at a sign reading “Rruga Xhorxh Sorros”."
+          ],
+          [
+            "The political claim",
+            "The narration asserts influence; archive photos alone do not prove it."
+          ],
+          [
+            "The official decision",
+            "A street-name change needs its administrative record."
+          ]
+        ],
+        "caption": "An evidence guide for this clip. The incident date, completed outcome and any official renaming are not established here.",
+        "alt": "Three distinctions: visible action at a street sign, an unverified political claim in narration, and a formal naming decision requiring documentary evidence.",
+        "foot": "Original edit and Law 139/2015 • qualitative editorial guide"
+      },
+      "sq": {
+        "title": "Tri gjëra që duhen dalluar",
+        "subtitle": "Çfarë mund të vërtetojë secili lloj prove",
+        "items": [
+          [
+            "Pamjet",
+            "Njerëz tërheqin një tabelë ku shkruhet “Rruga Xhorxh Sorros”."
+          ],
+          [
+            "Pohimi politik",
+            "Narracioni pohon ndikim; vetëm fotot arkivore nuk e provojnë."
+          ],
+          [
+            "Vendimi zyrtar",
+            "Ndryshimi i emrit të rrugës kërkon dokumentin përkatës."
+          ]
+        ],
+        "caption": "Udhëzues për provat në këtë video. Data e ngjarjes, përfundimi i plotë dhe çdo riemërtim zyrtar nuk vërtetohen këtu.",
+        "alt": "Tri dallime: veprimi i dukshëm te tabela, pohimi politik i paverifikuar në narracion dhe vendimi zyrtar që kërkon dokumentim.",
+        "foot": "Montazhi origjinal dhe ligji 139/2015 • udhëzues editorial"
+      },
+      "slug": "george-soros-street-sign-tirana-public-accountability"
+    },
+    {
+      "name": "public-accountability-records",
+      "type": "cards",
+      "en": {
+        "title": "Turn the question into records",
+        "subtitle": "An editorial checklist, not findings of wrongdoing",
+        "items": [
+          [
+            "The name",
+            "Original naming decision, reasons and any later amendment."
+          ],
+          [
+            "The relationship",
+            "Dated grants, recipients, meetings and declared interests."
+          ],
+          [
+            "The consequence",
+            "Specific public decisions, terms, costs and beneficiaries."
+          ]
+        ],
+        "caption": "These are records to seek when testing a claim. No hidden agreement, improper benefit or complete disclosure is established by this checklist.",
+        "alt": "Three groups of records: the basis for the street name; documented relationships; and the terms and consequences of specific public decisions.",
+        "foot": "Editorial questions • no quantified influence or presumed guilt"
+      },
+      "sq": {
+        "title": "Ktheje pyetjen në dokumente",
+        "subtitle": "Listë editoriale, jo konstatime shkeljesh",
+        "items": [
+          [
+            "Emri",
+            "Vendimi fillestar, arsyetimi dhe çdo ndryshim i mëvonshëm."
+          ],
+          [
+            "Marrëdhënia",
+            "Grante, përfitues, takime dhe interesa të deklaruara, me data."
+          ],
+          [
+            "Pasoja",
+            "Vendime publike konkrete, kushte, kosto dhe përfitues."
+          ]
+        ],
+        "caption": "Dokumente për t’u kërkuar kur shqyrtohet një pohim. Lista nuk vërteton marrëveshje të fshehtë, përfitim të parregullt apo transparencë të plotë.",
+        "alt": "Tri grupe dokumentesh: baza e emrit të rrugës, marrëdhëniet e dokumentuara dhe kushtet e pasojat e vendimeve publike konkrete.",
+        "foot": "Pyetje editoriale • pa matje ndikimi ose fajësi të supozuar"
+      },
+      "slug": "george-soros-street-sign-tirana-public-accountability"
+    },
+    {
+      "name": "one-accountability-standard",
+      "type": "cards",
+      "en": {
+        "title": "One standard, three responsibilities",
+        "subtitle": "An editorial reading guide • no case verdict",
+        "items": [
+          [
+            "Protect property",
+            "A grievance does not cancel another person’s loss."
+          ],
+          [
+            "Scrutinise public decisions",
+            "Ask who was authorised, on what terms and why."
+          ],
+          [
+            "Judge with evidence",
+            "Establish conduct before assigning responsibility."
+          ]
+        ],
+        "caption": "Property protection, public scrutiny and fair assessment belong together. These cards do not establish guilt or compare the size of unverified losses.",
+        "alt": "Three responsibilities: protect property, scrutinise public decisions and assess responsibility using evidence.",
+        "foot": "Constitutional principles • editorial application"
+      },
+      "sq": {
+        "title": "Një standard, tri përgjegjësi",
+        "subtitle": "Udhëzues editorial • jo vendim për rastin",
+        "items": [
+          [
+            "Mbro pronën",
+            "Një padrejtësi nuk e shlyen humbjen e tjetrit."
+          ],
+          [
+            "Shqyrto vendimet publike",
+            "Kush u autorizua, me çfarë kushtesh dhe pse?"
+          ],
+          [
+            "Gjyko mbi prova",
+            "Vërteto veprimin para se të caktosh përgjegjësinë."
+          ]
+        ],
+        "caption": "Mbrojtja e pronës, kontrolli publik dhe vlerësimi i drejtë shkojnë bashkë. Kartat nuk përcaktojnë fajësi apo madhësinë e humbjeve të paverifikuara.",
+        "alt": "Tri përgjegjësi: mbro pronën, shqyrto vendimet publike dhe vlerëso përgjegjësinë mbi prova.",
+        "foot": "Parime kushtetuese • zbatim editorial"
+      },
+      "slug": "tirana-kiosks-public-accountability"
+    },
+    {
+      "name": "kiosk-document-trail",
+      "type": "cards",
+      "en": {
+        "title": "From a kiosk claim to a document trail",
+        "subtitle": "Questions to investigate • records not yet established",
+        "items": [
+          [
+            "The place and right",
+            "Identify the site, authority and authorisation."
+          ],
+          [
+            "The selection and agreement",
+            "Find the criteria, operator, terms and amendments."
+          ],
+          [
+            "The result and oversight",
+            "Check obligations against available performance records."
+          ]
+        ],
+        "caption": "An editorial checklist for investigating an allocation. It does not show that a particular kiosk had a tender, concession or unlawful owner.",
+        "alt": "A three-part document trail: identify the place and right, inspect selection and agreement, then compare obligations with performance and oversight records.",
+        "foot": "Relevant records depend on the legal arrangement"
+      },
+      "sq": {
+        "title": "Nga pretendimi te dokumentet e kioskës",
+        "subtitle": "Pyetje për hetim • dokumente ende të pavërtetuara",
+        "items": [
+          [
+            "Vendi dhe e drejta",
+            "Identifiko vendin, autoritetin dhe autorizimin."
+          ],
+          [
+            "Përzgjedhja dhe marrëveshja",
+            "Gjej kriteret, operatorin, kushtet dhe ndryshimet."
+          ],
+          [
+            "Rezultati dhe kontrolli",
+            "Krahaso detyrimet me dokumentet e zbatimit."
+          ]
+        ],
+        "caption": "Listë editoriale për shqyrtimin e një vendimi. Nuk tregon se një kioskë konkrete ka pasur tender, koncesion apo pronar të paligjshëm.",
+        "alt": "Tri hapa dokumentimi: identifiko vendin dhe të drejtën, shqyrto përzgjedhjen e marrëveshjen, pastaj krahaso detyrimet me zbatimin dhe kontrollin.",
+        "foot": "Dokumentet përkatëse varen nga marrëdhënia juridike"
+      },
+      "slug": "tirana-kiosks-public-accountability"
+    },
+    {
+      "name": "albania-census-resident-population",
+      "type": "bars",
+      "values": [
+        2821977,
+        2402113
+      ],
+      "en": {
+        "title": "Albania: two census counts",
+        "subtitle": "Resident population • Historical comparison",
+        "labels": [
+          "2011 census",
+          "2023 census"
+        ],
+        "display": [
+          "2,821,977",
+          "2,402,113"
+        ],
+        "caption": "419,864 fewer residents, a 14.9% decline from the 2011 count. This is not a count of emigrants or a 2026 estimate.",
+        "alt": "Zero-based bars show Albania’s resident population: 2,821,977 in the 2011 census and 2,402,113 in the 2023 census.",
+        "foot": "INSTAT • Census 2023, section 2.1.1 • Change calculated from published totals"
+      },
+      "sq": {
+        "title": "Shqipëria: dy numërime të censit",
+        "subtitle": "Popullsia banuese • Krahasim historik",
+        "labels": [
+          "Censi 2011",
+          "Censi 2023"
+        ],
+        "display": [
+          "2.821.977",
+          "2.402.113"
+        ],
+        "caption": "419.864 banorë më pak, rënie prej 14,9% kundrejt numërimit të vitit 2011. Nuk është numër emigrantësh apo vlerësim për vitin 2026.",
+        "alt": "Shtyllat nga zero tregojnë popullsinë banuese të Shqipërisë: 2.821.977 në Censin 2011 dhe 2.402.113 në Censin 2023.",
+        "foot": "INSTAT • Censi 2023, pjesa 2.1.1 • Ndryshimi nga totalet e publikuara"
+      },
+      "slug": "leaving-albania-reasons-to-stay"
+    },
+    {
+      "name": "questions-behind-reasons-to-stay",
+      "type": "cards",
+      "en": {
+        "title": "From a concern to a concrete question",
+        "subtitle": "Editorial examples based on the issues named in the clip",
+        "items": [
+          [
+            "University",
+            "Is teaching reliable, and is there a credible route towards work?"
+          ],
+          [
+            "Hospital",
+            "Can someone obtain timely care and know where to turn?"
+          ],
+          [
+            "Safety",
+            "Can harm be reported, with a clear and accountable response?"
+          ]
+        ],
+        "caption": "These questions develop the guest’s appeal. They are not a service-quality survey, a policy evaluation or a forecast of migration.",
+        "alt": "Three editorial questions concern reliable university teaching and work prospects, timely hospital care, and an accountable response to reported harm.",
+        "foot": "Editorial interpretation • Questions, not measured outcomes"
+      },
+      "sq": {
+        "title": "Nga shqetësimi te pyetja konkrete",
+        "subtitle": "Shembuj editorialë nga çështjet që përmenden në klip",
+        "items": [
+          [
+            "Universiteti",
+            "A është mësimdhënia e besueshme dhe rruga drejt punës e qartë?"
+          ],
+          [
+            "Spitali",
+            "A merr njeriu kujdes në kohë dhe a e di ku të drejtohet?"
+          ],
+          [
+            "Siguria",
+            "A mund të raportohet dëmi dhe të merret një përgjigje me përgjegjësi?"
+          ]
+        ],
+        "caption": "Këto pyetje zhvillojnë thirrjen e të ftuarës. Nuk janë sondazh për shërbimet, vlerësim politikash apo parashikim migracioni.",
+        "alt": "Tri pyetje editoriale për mësimdhënien dhe rrugën drejt punës, kujdesin spitalor në kohë dhe përgjigjen me përgjegjësi ndaj dëmit të raportuar.",
+        "foot": "Interpretim editorial • Pyetje, jo rezultate të matura"
+      },
+      "slug": "leaving-albania-reasons-to-stay"
+    },
+    {
+      "name": "join-the-small-moment",
+      "type": "cards",
+      "en": {
+        "title": "Join the small moment",
+        "subtitle": "An everyday example, not a parenting test",
+        "items": [
+          [
+            "Notice",
+            "What has caught the child’s attention?"
+          ],
+          [
+            "Respond",
+            "Name it, smile or join their play."
+          ],
+          [
+            "Make room",
+            "Wait for their next move; follow when they move on."
+          ]
+        ],
+        "caption": "A simple editorial example of back-and-forth attention. No stopwatch, performance score or promised result.",
+        "alt": "Three prompts for a playful exchange: notice the child’s interest, respond to it, and leave room for the next move.",
+        "foot": "Editorial example informed by UNICEF and Harvard guidance"
+      },
+      "sq": {
+        "title": "Bashkohu në lojën e vogël",
+        "subtitle": "Shembull i përditshëm, jo provim prindërimi",
+        "items": [
+          [
+            "Vëre",
+            "Çfarë ia ka tërhequr vëmendjen fëmijës?"
+          ],
+          [
+            "Përgjigju",
+            "Emërtoje, buzëqesh ose bashkohu në lojë."
+          ],
+          [
+            "Lër hapësirë",
+            "Prit lëvizjen tjetër; ndiqe kur kalon te diçka tjetër."
+          ]
+        ],
+        "caption": "Shembull i thjeshtë redaksional i vëmendjes së ndërsjellë. Pa kronometër, pikëzim apo rezultat të premtuar.",
+        "alt": "Tri ftesa për një shkëmbim me lojë: vëre interesin e fëmijës, përgjigju dhe lër hapësirë për lëvizjen tjetër.",
+        "foot": "Shembull redaksional mbështetur te UNICEF-i dhe Harvardi"
+      },
+      "slug": "real-life-pokemon-toddler-play"
+    }
+  ]
+}

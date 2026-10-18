@@ -1,0 +1,100 @@
+{
+  "checkedAt": "2026-10-18",
+  "researchBatch": "batch28-2026-10-18",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original kiosk commentary video",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697677244575042836",
+      "scope": "Source of the attributed argument only. Local reviewed transcript and final edit inspected; source allegations are not independently confirmed."
+    },
+    {
+      "id": 2,
+      "title": "Constitution of Albania, Articles 18 and 41",
+      "url": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/18",
+      "additionalUrl": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/41",
+      "scope": "Equality before the law and private property protection. Verified full article text through School of Magistrates electronic commentary portal."
+    },
+    {
+      "id": 3,
+      "title": "Albania Public Procurement Agency public notices",
+      "url": "https://www.app.gov.al/home/",
+      "scope": "Portal separately links contract notices, winner notices and signed-contract notices. No matching kiosk award searched to a verified conclusion; do not imply any particular legal arrangement."
+    },
+    {
+      "id": 4,
+      "title": "Code of Administrative Procedures, Law 44/2015",
+      "url": "https://www.avokatipopullit.gov.al/en/article/legislation",
+      "scope": "Articles 5, 13 and 14 provide transparency, fairness/impartiality and consideration of relevant evidence. Full primary statutory text reproduced by People’s Advocate."
+    },
+    {
+      "id": 5,
+      "title": "Information Commissioner — guidance for individuals",
+      "url": "https://idp.al/per-individin/",
+      "scope": "Access to existing public records, decisions and public contracts, subject to statutory restrictions; transparency programme first; no duty to justify motives. Fresh live HTML reviewed."
+    },
+    {
+      "id": 6,
+      "title": "Constitution of Albania, Article 30",
+      "url": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/30",
+      "scope": "Presumption of innocence until guilt is established by final court judgment. Full text verified via School of Magistrates portal."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative accountability and documentary-evidence cards",
+    "measuredOutcomes": false,
+    "calculations": [],
+    "examples": "Editorial checklists for reading the argument and pursuing records. They are not a reconstruction of a verified kiosk award or an adjudication of anyone’s conduct."
+  },
+  "sourceClaimsReview": [
+    {
+      "claim": "People opened a kiosk and took/distributed biscuits and water.",
+      "treatment": "Attributed to the speaker; actual identities, conduct and quantities not independently established."
+    },
+    {
+      "claim": "Kiosks in Greece and Italy are generally allocated as support to disadvantaged individuals.",
+      "treatment": "Countrywide generalisation explicitly unverified; excluded from factual analysis."
+    },
+    {
+      "claim": "Named public figures gave kiosks to a named media owner and stole/divided them.",
+      "treatment": "Treated as the source’s allegation, not an article finding; no named wrongdoing repeated as fact."
+    },
+    {
+      "claim": "All Tirana kiosks have a specific owner; five people aged seventeen took two packets.",
+      "treatment": "Not verified. No ownership totals, participant counts, ages or value calculations used."
+    }
+  ],
+  "editorialReview": {
+    "intent": "Preserve the source argument about selective outrage; add a concrete equal-standards and document-evidence method without endorsing theft or declaring unverified corruption.",
+    "legalScope": "Civic commentary using narrow primary provisions; no assessment of a particular contract’s validity or anyone’s criminal guilt.",
+    "seoPrimaryTopic": "Tirana kiosks and public accountability",
+    "keywordMetrics": "No search-volume or ranking metrics claimed.",
+    "faqOmitted": "A focused opinion-and-evidence essay does not need a manufactured FAQ.",
+    "numbersNotInvented": "No demand for numeric charts is allowed to fabricate source quantities, ages, losses or ownership."
+  },
+  "sourceVideo": {
+    "id": "7697677244575042836",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697677244575042836",
+    "publishedDate": "2026-10-17",
+    "publishedLocalDisplay": "Oct 17, 6:39 PM",
+    "durationSeconds": 68,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Supplied original video __-_KA_FOL_tACN9n-dynamic-captions-sq.mp4 and complete reviewed Albanian transcript establish the speaker’s sequence of argument.",
+      "Final-video contact sheet inspected directly: studio speaker above protest/street footage, Albanian captions; ending widens to television panel.",
+      "Native TikTok publication verification records a public post on @eduardluta, matching media and caption, plus the observed native playback duration."
+    ],
+    "limitations": [
+      "This is a third-party television excerpt shared by Eduard, not Eduard speaking or eyewitness testimony by him. The speaker and original broadcast date are not independently identified here.",
+      "Allegations about named politicians, a media owner and kiosk allocation are not independently established. Article avoids reproducing names as targets or asserting wrongdoing.",
+      "The number and ages of people, quantity/value of goods, ownership of individual kiosks, beneficial ownership, legal form of allocations and any corruption finding remain unverified.",
+      "The categorical comparison about kiosks in Greece and Italy is not verified or used as a factual premise.",
+      "Edited street/protest b-roll does not establish common provenance, timing or a single continuous event.",
+      "No loss total, ratio, public-loss estimate or comparative damage statistic can be responsibly calculated from this source."
+    ],
+    "publishedAt": "2026-10-17T16:39:04+00:00",
+    "durationObservedSeconds": 68.21882086167801,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "Native TikTok player verified on 17 October 2026; original uploaded render and publication mapping retained"
+  }
+}

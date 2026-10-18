@@ -1,0 +1,41 @@
+{
+  "sources": [
+    {
+      "url": "https://www.unicef.org/parenting/child-care/playtime-anytime",
+      "title": "Playtime, anytime!",
+      "publisher": "UNICEF",
+      "published": "2020-06-16",
+      "supports": "Responsive adult-child exchanges in everyday routines; toddlers can lead playful moments."
+    },
+    {
+      "url": "https://developingchild.harvard.edu/resources/briefs/5-steps-for-brain-building-serve-and-return/",
+      "title": "5 Steps for Brain-Building Serve and Return",
+      "publisher": "Harvard Center on the Developing Child",
+      "published": "2017-06-19",
+      "supports": "Attentive, responsive back-and-forth interactions."
+    }
+  ],
+  "visualMethod": "Qualitative editorial examples of noticing, responding and leaving room. No quantities, scores or causal estimates.",
+  "sourceVideo": {
+    "meaningEvidence": [
+      "Original TikTok video and matching Threads cross-post visually show the same toddler, paving, stones and toy vehicle.",
+      "English audio clearly compares children with real-life Pokemon; uncertain closing words are not quoted.",
+      "Original caption frames a playful parenting moment with humorous level, energy and obedience scores.",
+      "Narrator identity is not independently established. The article attributes the Pokémon narration to the clip and first-person publication/commentary only to the verified post and caption."
+    ],
+    "limitations": [
+      "The brief scene establishes no developmental outcome, exact age or general family routine.",
+      "Article commentary expands the clear playful theme without inventing a personal event.",
+      "Posting-account identity does not establish who recorded the narration, the child’s identity or a parent-child relationship. These are not inferred."
+    ],
+    "id": "7697593586623384853",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697593586623384853",
+    "publishedAt": "2026-10-17T11:14:35+00:00",
+    "spokenLanguage": "en",
+    "durationSeconds": 14,
+    "durationObservedSeconds": 14.230974,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "Native TikTok HTMLMediaElement.duration observed during playing source on 18 October 2026"
+  },
+  "checkedAt": "2026-10-18"
+}
