@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-19",
+  "researchBatch": "batch29-2026-10-19",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — Odyssey fly edit",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697958301329263880",
+      "scope": "Published Albanian explainer cards, harbour demo and Matrix joke. Exact submitted video matched to final local export."
+    },
+    {
+      "id": 2,
+      "title": "Odyssey — original fruit-fly announcement",
+      "url": "https://x.com/odysseyml/status/2111589148146749616",
+      "scope": "Company claim naming Odyssey-3 and fruit-fly brain, dated 17 October 2026. Text checked in preserved original-post record; fresh direct X request returned 403. The reply ending 2111590051817894018 is not the original announcement."
+    },
+    {
+      "id": 3,
+      "title": "Odyssey — Meet Odyssey-3",
+      "url": "https://odyssey.systems/meet-odyssey-3",
+      "scope": "8 October 2026. General action-conditioned generated environment description; no full fruit-fly experiment method."
+    },
+    {
+      "id": 4,
+      "title": "Odyssey — Introducing CaliBench",
+      "url": "https://odyssey.systems/introducing-calibench",
+      "scope": "10 August 2026. Distinguishes plausible individual outputs from calibrated outcome distributions. Used only for the general testing distinction and fair-die example, not to validate the fly."
+    }
+  ],
+  "calculations": [
+    {
+      "name": "Probability of one specified face of a fair six-sided die",
+      "expression": "1 / 6 * 100",
+      "result": 16.666666666666668,
+      "display": 16.67,
+      "unit": "percent",
+      "rounding": "Two decimal places",
+      "limitation": "Theoretical illustration, not observed fly or model performance."
+    },
+    {
+      "name": "Expected occurrences of one face in 600 independent fair-die rolls",
+      "expression": "600 * (1 / 6)",
+      "result": 100,
+      "unit": "expected occurrences",
+      "limitation": "An expectation, not a guarantee of exactly 100 observations; no actual test is claimed."
+    }
+  ],
+  "visuals": {
+    "reading-the-fly-demonstration": "Editorial separation of the visible environment, company-attributed controller and changing view; no invented architecture.",
+    "different-claims-different-evidence": "Qualitative evidence boundaries; not performance scores or consciousness measurements."
+  },
+  "editorialChecks": {
+    "sourceAttribution": "Original company claim is explicit. No claim of a live biological brain upload, complete emulation, independent validation or consciousness.",
+    "languages": "Matching EN and SQ caveats, calculations and source distinctions; Albanian decimal comma.",
+    "meaning": "Matches the actual 42.8125-second final upload rather than older 33.8125/47.8125-second drafts.",
+    "seoIntent": "Informational explanation of Odyssey fly, AI world model and limits of simulation claims; no invented search volumes.",
+    "wordLimits": "Short factual summaries across both languages; independent theoretical arithmetic and editorial evidence questions, no lengthy copied text.",
+    "internalLinks": "Existing learning-AI article present in both languages.",
+    "faq": "No generic FAQ or padding."
+  },
+  "sourceVideo": {
+    "id": "7697958301329263880",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697958301329263880",
+    "publishedAt": "2026-10-18T10:49:42+00:00",
+    "durationSeconds": 43,
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Authorized published-post MP4 retrieved and matched byte-for-byte to the local final social upload; ffprobe confirms 42.8125 seconds, 1280×720 video and music audio.",
+      "Actual source frames inspected at 0, 8, 18, 28, 38 and 41 seconds plus contact sheet. First ten seconds are Albanian explanatory cards; original harbour footage continues to 39.8125 seconds; Matrix ending lasts three seconds.",
+      "Current v4 caption transcript matches visible source frames. Earlier edits with different durations were excluded from meaning verification.",
+      "Preserved original Odyssey post identifies Odyssey-3 and describes a fruit-fly brain connection. Article distinguishes that attributed claim from observed generated harbour footage.",
+      "Published TikTok caption asks if we could recognize a virtual world; article treats this as an open thought experiment and joke, not evidence about our universe."
+    ],
+    "limitations": [
+      "Clip carries music and Albanian written explanation, not a spoken Albanian narration; sq denotes the source caption language.",
+      "Original company post gives no full implementation or independent biological validation; do not infer a live brain, full upload or consciousness.",
+      "Fresh direct X access returned 403; exact original text is established through the preserved source-post record.",
+      "CaliBench is context on simulation evaluation, not a test of this fly demonstration."
+    ],
+    "audioContent": "Music; no spoken narration.",
+    "captionLanguage": "sq",
+    "durationObservedSeconds": 42.8125,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on exact originally submitted MP4 retrieved through the authorized published-post record",
+      "durationObservedSeconds": 42.8125,
+      "sha256": "f79e34b58148d620a2791799ec03d55c61420cf437439e4fbe93af323493eac8"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "checkedAt": "2026-10-19",
+  "researchBatch": "batch29-2026-10-19",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original young-protester conversation shared by Eduard Luta",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697917228292853012",
+      "scope": "Attributed speaker account and creator framing only; verified local media binding, subtitle evidence and native post mapping."
+    },
+    {
+      "id": 2,
+      "title": "ILO — Decent work",
+      "url": "https://www.ilo.org/topics-and-sectors/decent-work-and-2030-agenda-sustainable-development",
+      "scope": "General decent-work framework, not an assessment of this individual."
+    },
+    {
+      "id": 3,
+      "title": "Constitution of Albania, Article 49",
+      "url": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/49",
+      "scope": "Choice of lawful work, profession and vocational qualification; not a guarantee of a specific vacancy."
+    },
+    {
+      "id": 4,
+      "title": "AKPA employment portal",
+      "url": "https://www.puna.gov.al/home",
+      "scope": "Official indexed portal lists vacancies, registration and training. Live text-only fetch returns its JavaScript shell; no successful application or live vacancy availability claimed."
+    },
+    {
+      "id": 5,
+      "title": "Constitution of Albania, Article 52",
+      "url": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/52",
+      "scope": "Paragraph 2 assistance conditions, not a finding of individual eligibility."
+    },
+    {
+      "id": 6,
+      "title": "State Social Service — Economic assistance",
+      "url": "https://www.sherbimisocial.gov.al/rreth-ndihmes-ekonomike/",
+      "scope": "Official application, assessment, appeal and reapplication guidance; no individual outcome inferred."
+    },
+    {
+      "id": 7,
+      "title": "Constitution of Albania, Article 47",
+      "url": "https://komentarielektronik.magjistratura.edu.al/sq/eli/fz/1998/8417/47",
+      "scope": "Peaceful unarmed assembly, with procedures for public spaces; no verdict on filmed conduct."
+    }
+  ],
+  "sourceClaimsReview": [
+    {
+      "claim": "The young man describes no work or assistance, household pressure and hardship.",
+      "classification": "Attributed testimony",
+      "evidence": "Original subtitles at 17, 22, 25, 30, 34 seconds and published creator caption",
+      "publicationTreatment": "Says/describes language throughout; no independently verified household facts."
+    },
+    {
+      "claim": "The young man says he does not want to hurt others.",
+      "classification": "Attributed statement of intent",
+      "evidence": "Original subtitle at 48 seconds",
+      "publicationTreatment": "Does not establish previous conduct; article includes the accompanying warning against violence."
+    },
+    {
+      "claim": "The young man is entitled to assistance, or an institution unlawfully refused it.",
+      "classification": "Not established",
+      "evidence": "No case file, decision or eligibility evidence",
+      "publicationTreatment": "Not asserted. General statutory and agency context kept separate."
+    },
+    {
+      "claim": "This footage is from a particular protest/date or shows an arrest.",
+      "classification": "Not established",
+      "evidence": "Source excerpt does not verify precise event/date or legal status",
+      "publicationTreatment": "No event/date identity or arrest allegation; only upload date used."
+    },
+    {
+      "claim": "Employment-support and economic-assistance routes exist in Albania.",
+      "classification": "Primary-source context",
+      "evidence": "Official AKPA indexed portal, SHSSH guidance and Constitution Articles 49/52",
+      "publicationTreatment": "General starting points with conditions; no placement or payment promise."
+    }
+  ],
+  "visuals": {
+    "type": "Qualitative response and communication guides",
+    "measuredOutcomes": false,
+    "calculations": [],
+    "examples": "Both figures are editorial question/checklist frameworks. They do not quantify poverty, imply a diagnosis, determine eligibility or claim any institutional case outcome."
+  },
+  "sourceVideo": {
+    "id": "7697917228292853012",
+    "kind": "video",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697917228292853012",
+    "publishedAt": "2026-10-18T08:10:18+00:00",
+    "duration": 50.805261,
+    "durationSeconds": 51,
+    "language": "sq",
+    "spokenLanguage": "sq",
+    "poster": {},
+    "sourceFileSha256": "1458f68c94fc2578fab2ffa059780e1247fc9bd597a383cb286cd9cb667795cf",
+    "meaningEvidence": [
+      "Exact Publer uploaded MP4 downloaded and matched to original supplied Downloads file by SHA-256. Native TikTok verification maps original media and caption to this exact video ID.",
+      "One-second embedded-subtitle OCR aids review only. Critical frames were manually inspected at 17, 22, 25, 30, 34 and 48 seconds; they support the attributed account of no assistance/no work, difficulty keeping the household going, hardship, and the wish not to hurt others.",
+      "Original source-contact-sheet and additional frames establish an indoor conversation with a woman and officers nearby. Creator platform caption explicitly explains the intended work/dignity/solidarity theme."
+    ],
+    "limitations": [
+      "This is a third-party conversation shared by Eduard; Eduard is not an eyewitness or the speaking young man.",
+      "The source includes a self-introduction, but identity, age, exact place, filming date, household circumstances, benefit eligibility and legal status have not been independently verified and are not asserted as fact.",
+      "The post upload date must not be used as the date of the incident.",
+      "Embedded subtitles and creator caption establish the attributed account; no independent full audio transcription or institutional case records are claimed.",
+      "No causal claim of unlawful benefit denial, arrest, police abuse, corruption or any person’s guilt is established.",
+      "This article provides general source-linked context, not a decision on an individual legal entitlement. No current vacancy match or application was verified.",
+      "No statistics, rates, household budget, benefit amount, loss total or calculations can be responsibly derived from this excerpt."
+    ],
+    "platform": "tiktok",
+    "durationObservedSeconds": 50.805261,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe format duration of the exact uploaded source MP4, SHA-256 identical to the user-supplied original. This is local media duration, not separately measured TikTok player duration."
+  }
+}

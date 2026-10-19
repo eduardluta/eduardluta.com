@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-19",
+  "sources": [
+    {
+      "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+      "author": "Vidya Dehejia",
+      "published": "2007-02-01",
+      "supports": "Limited Buddhist historical context; the post’s true-spirit language remains a personal interpretation."
+    }
+  ],
+  "visuals": "Qualitative editorial prompts, not measured data, a validated scale or a promised outcome.",
+  "sourceVideo": {
+    "url": "https://www.tiktok.com/@eduardluta/video/7698061590985182484",
+    "publishedAt": "2026-10-18T17:30:33+00:00",
+    "spokenLanguage": "en",
+    "meaningEvidence": [
+      "Exact owner-published media record binds the submitted MP4 to this TikTok ID.",
+      "All four sampled source frames show moonlit water; middle frames carry the English enlightenment/spirit question.",
+      "Full short audio reviewed with automatic ASR; no usable spoken passage found; no spoken claim is quoted."
+    ],
+    "meaning": "Moonlight reflects on dark water while English text describes enlightenment as meeting your true spirit and asks what is stopping you.",
+    "sourceMediaSha256": "a964e379af608d072dcc56e4bf6dfa88380b16dd8e82b9cd4f48deba9acef5d0",
+    "sourceDurationSeconds": 7.868707,
+    "limitations": "Personal spiritual reflection; no clinical or scientific measurement of a spirit or enlightenment is claimed.",
+    "id": "7698061590985182484",
+    "durationSeconds": 8,
+    "durationObservedSeconds": 7.868707,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "Exact submitted MP4 retrieved from the owner’s published media record, matched by TikTok post_id; ffprobe container duration. Native transcode duration may differ."
+  }
+}

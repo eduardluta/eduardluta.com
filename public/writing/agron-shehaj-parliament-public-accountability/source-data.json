@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "url": "https://www.panorama.com.al/video-do-japesh-llogari-para-drejtesise-zbardhet-sherri-mes-shehajt-dhe-rames-ne-kuvend-njerezit-te-duan-ne-burg-je-hajdut-svodhi-vetem-belinda-balluku/",
+      "title": "Report of the matching Shehaj–Rama parliamentary exchange",
+      "publisher": "Panorama",
+      "published": "2026-06-18",
+      "supports": "Secondary matching-dialogue corroboration of the participants; not independent proof of the allegations and not used to assert a session date.",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "url": "https://agronshehaj.al/agroni/",
+      "title": "Agron Shehaj — Jetëshkrimi",
+      "publisher": "Agron Shehaj / Partia Mundësia",
+      "supports": "Self-published biography identifying the parliamentary and party roles, explicitly treated as first-party political information.",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "url": "https://idp.al/wp-content/uploads/2024/01/Kushtetuta.pdf",
+      "title": "Kushtetuta e Republikës së Shqipërisë",
+      "publisher": "Information and Data Protection Commissioner, Albania",
+      "supports": "Articles 23 (information), 30 (presumption of innocence), 47 (peaceful unarmed assembly), 80 (ministerial replies to parliamentary questions and interpellations within three weeks).",
+      "checkedAt": "2026-10-19"
+    }
+  ],
+  "visualMethod": "Two qualitative diagrams: an original evidence checklist and a concise source-linked constitutional reference. The three-week deadline is reproduced from Article 80, with no claim that this clip starts the clock or establishes a breach.",
+  "calculations": [],
+  "sourceVideo": {
+    "meaningEvidence": [
+      "Recovered submitted original MP4 has the exact SHA-256 of the approved source linked to the verified native TikTok publication.",
+      "Full Albanian audio transcription, original poster, contact sheet and sampled frames establish the parliamentary confrontation, its allegations and demands for accountability, plus the challenged person asking what he stole.",
+      "Visible Agron Shehaj and Partia Mundesia credits and the creator caption identify the shared exchange; the matching contemporary press report corroborates the participants as Agron Shehaj and Edi Rama.",
+      "The creator caption explicitly says Eduard does not personally know Agron Shehaj and praises the courage to confront power; first-person statements are restricted to this publication reaction."
+    ],
+    "limitations": [
+      "The recording is an excerpt, not the full parliamentary session or a complete evidence file.",
+      "Criminal accusations, predictions of imprisonment and claims about public opinion are the speaker’s statements; the article does not certify them.",
+      "An original session date is not independently established from a primary parliamentary record and is not asserted. 18 October 2026 is only the verified TikTok repost date.",
+      "The camera mainly shows Edi Rama; the poster does not depict Agron Shehaj delivering the remarks. Thumbnail alt and video metadata preserve this distinction.",
+      "No claim is made that a formal Article 80 question or interpellation was initiated or answered in this exchange."
+    ],
+    "id": "7697924389865721095",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697924389865721095",
+    "publishedAt": "2026-10-18T08:38:06+00:00",
+    "spokenLanguage": "sq",
+    "durationSeconds": 73,
+    "durationObservedSeconds": 73.28077097505668,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration from the verified public TikTok player on 2026-10-18; original submitted MP4 recovered on 2026-10-19 with matching SHA-256."
+  },
+  "checkedAt": "2026-10-19"
+}

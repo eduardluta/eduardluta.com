@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-19",
+  "researchBatch": "batch29-2026-10-19",
+  "references": [
+    {
+      "id": 1,
+      "title": "Harari excerpt shared by Eduard Luta",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698114211343322374",
+      "scope": "Attributed analogy and forecasts; reviewed original English speech and Albanian subtitles. Sharing date is not original recording date."
+    },
+    {
+      "id": 2,
+      "title": "OECD AI Principle 1.3: Transparency and explainability",
+      "url": "https://oecd.ai/en/dashboards/ai-principles/P7",
+      "scope": "Context-appropriate information on AI involvement and outcomes; ability to challenge. Visual questions are an editorial adaptation."
+    },
+    {
+      "id": 3,
+      "title": "OECD AI Principle 1.5: Accountability",
+      "url": "https://oecd.ai/en/dashboards/ai-principles/P9",
+      "scope": "Responsibility according to role, and traceability. No claim that these principles themselves confer identical legal rights everywhere."
+    },
+    {
+      "id": 4,
+      "title": "NIST AI Risk Management Framework",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "scope": "Voluntary risk-management framework. No claim of certification or product safety; official page notes 1.0 revision is in progress."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "questions-for-an-ai-decision": "Qualitative editorial questions informed by OECD transparency principle. No percentages or forecasts.",
+    "responsibility-in-a-loan-example": "Invented and explicitly labelled scenario, with no claim it happened to Eduard or a named institution."
+  },
+  "editorialChecks": {
+    "sourceAttribution": "Harari’s forecast is attributed. First person concerns the actual caption question and editorial opinion, not invented experience.",
+    "languages": "EN and SQ carry matching source boundaries and examples.",
+    "seoIntent": "Harari AI bureaucracy and human control; no keyword volumes invented.",
+    "quantitativeClaims": "No unverified timetable, AI adoption rate, job-loss rate or blanket perfect-memory assertion.",
+    "wordLimits": "Primary governance summaries are concise across EN and SQ; visual questions are short editorial adaptations. No extensive quotation.",
+    "internalLinks": "Existing learning-AI article is present in both languages.",
+    "faq": "No generic FAQ or word-count padding."
+  },
+  "sourceVideo": {
+    "id": "7698114211343322374",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698114211343322374",
+    "publishedAt": "2026-10-18T20:55:43+00:00",
+    "durationSeconds": 103,
+    "spokenLanguage": "en",
+    "meaningEvidence": [
+      "Authorized published-post media retrieved and matched byte-for-byte to the local final Albanian-caption export; ffprobe confirms 103 seconds with English audio.",
+      "Reviewed English transcript with previously checked corrections, Albanian SRT and actual video contact sheet. Harari is visible in a ČT24-marked studio.",
+      "Source develops the cow/money analogy, contrasts forest and office, and forecasts AI-created bureaucracy beyond human comprehension. These are attributed claims, not measured outcomes.",
+      "The actual TikTok caption asks which decision viewers would never leave to AI; that documented question anchors the article."
+    ],
+    "limitations": [
+      "The original recording date and complete interview context were not independently matched; publication timestamp is the TikTok sharing timestamp.",
+      "Claims about future AI domination or perfect financial memory are not endorsed as facts.",
+      "No fabricated personal financial experience, legal entitlement, adoption statistic or job-loss forecast."
+    ],
+    "durationObservedSeconds": 103.0,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on exact originally submitted MP4 retrieved through the authorized published-post record",
+      "durationObservedSeconds": 103.0,
+      "sha256": "2daf17df1d81265a39f628b7f67491d437de53fdda6b6c5c2c92d677c64bc848"
+    }
+  }
+}

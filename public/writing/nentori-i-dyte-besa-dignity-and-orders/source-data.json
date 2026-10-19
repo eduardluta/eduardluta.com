@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "url": "https://aqshf.gov.al/motion_picture/nentori-i-dyte/",
+      "title": "Nëntori i dytë",
+      "publisher": "Arkivi Qendror Shtetëror i Filmit",
+      "supports": "Viktor Gjika; 1982 feature film; story setting leading to the declaration of independence on 28 November 1912.",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "url": "https://www.thealbaniancinemaproject.org/neumlntori-i-dyteuml.html",
+      "title": "Nëntori i Dytë restoration record",
+      "publisher": "The Albanian Cinema Project",
+      "supports": "Restoration with Colorlab using original film materials and premiere in Tirana on 3 November 2012.",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "url": "https://wwv.yadvashem.org/yv/en/exhibitions/besa/index.asp",
+      "title": "Besa: A Code of Honor",
+      "publisher": "Yad Vashem",
+      "supports": "Meaning of besa and documented Albanian rescue accounts during the Holocaust, explicitly separate from the film setting.",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "url": "https://www.infoshqip.com/ismail-qemali-shqiptari-se-ka-zakon-ta-shese-shqiptarin-video/",
+      "title": "Ismail Qemali: Shqiptari se ka zakon ta shesë shqiptarin",
+      "publisher": "InfoShqip",
+      "published": "2019-04-20",
+      "supports": "Secondary identification of the matching confrontation as a scene from Nëntori i dytë, not proof of historical dialogue.",
+      "checkedAt": "2026-10-19"
+    }
+  ],
+  "visualMethod": "Two qualitative card diagrams: sourced dates distinguishing historical setting, film production and restoration; original editorial questions about keeping one’s word. No quantities or historical causal claims are inferred.",
+  "calculations": [],
+  "sourceVideo": {
+    "meaningEvidence": [
+      "The submitted original MP4 was recovered and its SHA-256 exactly matches the approved source mapping for the verified native TikTok publication.",
+      "Full Albanian audio transcribed locally; sampled original frames show a costumed horseback confrontation. Dialogue names Ismail Bej and Ismail Qemali and discusses joining him, punishment and independence.",
+      "Actual publication caption explicitly calls this a film excerpt and frames it through besa, dignity, conscience and facing fear.",
+      "AQSHF confirms the feature film and historical setting; the Albanian Cinema Project confirms production/restoration context; the exact confrontation is also identified in a dated InfoShqip scene article."
+    ],
+    "limitations": [
+      "This is a dramatic portrayal, not contemporary protest footage or a primary recording of the 1912 conversation.",
+      "Some automatic transcript wording is noisy; only the short line independently present in the original caption is quoted, once in Albanian.",
+      "No claim is made that this particular social excerpt is drawn from the restored print or that Eduard created the underlying film.",
+      "The political and ethical reading is Eduard-caption-grounded commentary; historical fidelity of every scene is not established."
+    ],
+    "id": "7697946401778486535",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697946401778486535",
+    "publishedAt": "2026-10-18T10:03:40+00:00",
+    "spokenLanguage": "sq",
+    "durationSeconds": 104,
+    "durationObservedSeconds": 103.884671,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration from the verified public TikTok player on 2026-10-18; original submitted MP4 recovered on 2026-10-19 with matching SHA-256."
+  },
+  "checkedAt": "2026-10-19"
+}

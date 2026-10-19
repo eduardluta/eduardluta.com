@@ -1,0 +1,664 @@
+{
+  "batch": 29,
+  "articleDate": "2026-10-19",
+  "articles": [
+    {
+      "id": "7698114211343322374",
+      "slug": "harari-ai-bureaucracy-human-control",
+      "publishedAt": "2026-10-18T20:55:43+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698114211343322374",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 103,
+      "durationObservedSeconds": 103.0,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on exact originally submitted MP4 retrieved through the authorized published-post record",
+        "durationObservedSeconds": 103.0,
+        "sha256": "2daf17df1d81265a39f628b7f67491d437de53fdda6b6c5c2c92d677c64bc848"
+      }
+    },
+    {
+      "id": "7698061590985182484",
+      "slug": "enlightenment-what-is-stopping-you",
+      "publishedAt": "2026-10-18T17:30:33+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698061590985182484",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 8,
+      "durationObservedSeconds": 7.868707,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Exact submitted MP4 retrieved from the owner’s published media record, matched by TikTok post_id; ffprobe container duration. Native transcode duration may differ."
+    },
+    {
+      "id": "7697958301329263880",
+      "slug": "odyssey-ai-fly-virtual-world-explained",
+      "publishedAt": "2026-10-18T10:49:42+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697958301329263880",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 43,
+      "durationObservedSeconds": 42.8125,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on exact originally submitted MP4 retrieved through the authorized published-post record",
+        "durationObservedSeconds": 42.8125,
+        "sha256": "f79e34b58148d620a2791799ec03d55c61420cf437439e4fbe93af323493eac8"
+      }
+    },
+    {
+      "id": "7697953056717147398",
+      "slug": "small-moments-with-children",
+      "publishedAt": "2026-10-18T10:30:18+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697953056717147398",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 4,
+      "durationObservedSeconds": 4.385714,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "Exact submitted MP4 retrieved from the owner’s published media record, matched by TikTok post_id; ffprobe container duration. Native transcode duration may differ."
+    },
+    {
+      "id": "7697946401778486535",
+      "slug": "nentori-i-dyte-besa-dignity-and-orders",
+      "publishedAt": "2026-10-18T10:03:40+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697946401778486535",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 104,
+      "durationObservedSeconds": 103.884671,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration from the verified public TikTok player on 2026-10-18; original submitted MP4 recovered on 2026-10-19 with matching SHA-256."
+    },
+    {
+      "id": "7697924389865721095",
+      "slug": "agron-shehaj-parliament-public-accountability",
+      "publishedAt": "2026-10-18T08:38:06+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697924389865721095",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 73,
+      "durationObservedSeconds": 73.28077097505668,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration from the verified public TikTok player on 2026-10-18; original submitted MP4 recovered on 2026-10-19 with matching SHA-256."
+    },
+    {
+      "id": "7697917228292853012",
+      "slug": "work-dignity-person-behind-protest",
+      "publishedAt": "2026-10-18T08:10:18+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697917228292853012",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 51,
+      "durationObservedSeconds": 50.805261,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe format duration of the exact uploaded source MP4, SHA-256 identical to the user-supplied original. This is local media duration, not separately measured TikTok player duration."
+    }
+  ],
+  "visuals": [
+    {
+      "name": "questions-for-an-ai-decision",
+      "type": "cards",
+      "en": {
+        "title": "Can you question the decision?",
+        "subtitle": "Three practical questions",
+        "items": [
+          [
+            "Notice",
+            "Was AI involved?"
+          ],
+          [
+            "Reason",
+            "What affected this result?"
+          ],
+          [
+            "Challenge",
+            "Where can I ask for a review?"
+          ]
+        ],
+        "caption": "Editorial questions informed by OECD Principle 1.3; the appropriate explanation depends on the context.",
+        "alt": "Three questions ask whether AI was involved, what affected the result and where to seek review.",
+        "foot": "OECD Principle 1.3 • Editorial application"
+      },
+      "sq": {
+        "title": "A mund ta vësh vendimin në pikëpyetje?",
+        "subtitle": "Tri pyetje praktike",
+        "items": [
+          [
+            "Njoftimi",
+            "A u përdor AI-ja?"
+          ],
+          [
+            "Arsyeja",
+            "Çfarë ndikoi në këtë rezultat?"
+          ],
+          [
+            "Kundërshtimi",
+            "Ku mund të kërkoj rishqyrtim?"
+          ]
+        ],
+        "caption": "Pyetje editoriale të mbështetura në parimin 1.3 të OECD-së; shpjegimi i përshtatshëm varet nga konteksti.",
+        "alt": "Tri pyetje: a u përdor AI-ja, çfarë ndikoi në rezultat dhe ku mund të kërkohet rishqyrtim.",
+        "foot": "Parimi 1.3 i OECD-së • Zbatim editorial"
+      },
+      "slug": "harari-ai-bureaucracy-human-control"
+    },
+    {
+      "name": "responsibility-in-a-loan-example",
+      "type": "cards",
+      "en": {
+        "title": "A rejection needs a route forward",
+        "subtitle": "An imaginary business loan application",
+        "items": [
+          [
+            "Check the input",
+            "Was the revenue figure current?"
+          ],
+          [
+            "Name the owner",
+            "Who can examine the recommendation?"
+          ],
+          [
+            "Correct the error",
+            "Can the application be reassessed?"
+          ]
+        ],
+        "caption": "Illustrative process questions, not a report of a real case or a statement of universal legal rights.",
+        "alt": "An example asks whether revenue data is current, who owns the review and whether an error can trigger reassessment.",
+        "foot": "Editorial example • No measured outcomes"
+      },
+      "sq": {
+        "title": "Refuzimi duhet të ketë një rrugë vijimi",
+        "subtitle": "Një aplikim i imagjinuar për kredi biznesi",
+        "items": [
+          [
+            "Kontrollo të dhënën",
+            "A ishte aktuale shifra e të ardhurave?"
+          ],
+          [
+            "Cakto përgjegjësin",
+            "Kush mund ta shqyrtojë rekomandimin?"
+          ],
+          [
+            "Korrigjo gabimin",
+            "A mund të rivlerësohet aplikimi?"
+          ]
+        ],
+        "caption": "Pyetje ilustruese për procesin; jo raportim i një rasti real apo pohim i të drejtave ligjore universale.",
+        "alt": "Shembulli pyet nëse të ardhurat janë aktuale, kush e bën shqyrtimin dhe nëse gabimi mund të sjellë rivlerësim.",
+        "foot": "Shembull editorial • Pa rezultate të matura"
+      },
+      "slug": "harari-ai-bureaucracy-human-control"
+    },
+    {
+      "name": "bring-the-question-into-the-day",
+      "type": "cards",
+      "en": {
+        "title": "Give the question somewhere to land",
+        "subtitle": "Three editorial prompts for personal reflection",
+        "items": [
+          [
+            "Notice",
+            "Which reaction or choice keeps returning?"
+          ],
+          [
+            "Name it honestly",
+            "What am I protecting, avoiding or hoping for?"
+          ],
+          [
+            "Choose one action",
+            "What would acting by my values look like today?"
+          ]
+        ],
+        "caption": "Prompts for reflection. They do not define enlightenment or measure spiritual progress.",
+        "alt": "Three reflective prompts: notice a recurring choice, name it honestly and choose an action guided by values.",
+        "foot": "Editorial interpretation of the post • no measured outcome"
+      },
+      "sq": {
+        "title": "Jepi pyetjes një vend në jetën tënde",
+        "subtitle": "Tri pyetje editoriale për reflektim personal",
+        "items": [
+          [
+            "Vëre",
+            "Cilin reagim apo cilën zgjedhje po përsëris?"
+          ],
+          [
+            "Emërtoje me sinqeritet",
+            "Çfarë po mbroj, shmang apo shpresoj?"
+          ],
+          [
+            "Zgjidh një veprim",
+            "Si do të dukej sot veprimi sipas vlerave të mia?"
+          ]
+        ],
+        "caption": "Nxitje për reflektim. Nuk përkufizojnë ndriçimin dhe nuk matin përparimin shpirtëror.",
+        "alt": "Tri nxitje reflektimi: vëre një zgjedhje që përsëritet, emërtoje sinqerisht dhe zgjidh një veprim sipas vlerave të tua.",
+        "foot": "Interpretim editorial i postimit • pa rezultat të matur"
+      },
+      "slug": "enlightenment-what-is-stopping-you"
+    },
+    {
+      "name": "reading-the-fly-demonstration",
+      "type": "cards",
+      "en": {
+        "title": "Three parts of the demonstration",
+        "subtitle": "Separate the visible scene from the claimed mechanism",
+        "items": [
+          [
+            "Environment",
+            "The harbour shown on screen."
+          ],
+          [
+            "Movement control",
+            "Odyssey attributes this to the fly brain."
+          ],
+          [
+            "Changing view",
+            "The scene develops as movement continues."
+          ]
+        ],
+        "caption": "An editorial reading aid. The social post does not disclose the full implementation or establish biological fidelity.",
+        "alt": "Three cards distinguish the environment, the company’s claim about movement control and the changing view.",
+        "foot": "Observed clip + attributed company claim"
+      },
+      "sq": {
+        "title": "Tri pjesë të demonstrimit",
+        "subtitle": "Ndaje skenën e dukshme nga mekanizmi i përshkruar",
+        "items": [
+          [
+            "Mjedisi",
+            "Porti që shfaqet në ekran."
+          ],
+          [
+            "Drejtimi i lëvizjes",
+            "Odyssey ia atribuon trurit të mizës."
+          ],
+          [
+            "Pamja që ndryshon",
+            "Skena zhvillohet ndërsa lëvizja vazhdon."
+          ]
+        ],
+        "caption": "Ndihmë editoriale për leximin e klipit. Postimi nuk zbulon zbatimin e plotë dhe nuk provon besnikëri biologjike.",
+        "alt": "Tri karta dallojnë mjedisin, pohimin e kompanisë për drejtimin e lëvizjes dhe pamjen që ndryshon.",
+        "foot": "Klipi i shqyrtuar + pohimi i atribuar kompanisë"
+      },
+      "slug": "odyssey-ai-fly-virtual-world-explained"
+    },
+    {
+      "name": "different-claims-different-evidence",
+      "type": "cards",
+      "en": {
+        "title": "Different claims need different evidence",
+        "subtitle": "A viewing checklist, not a score for the fly",
+        "items": [
+          [
+            "Visual realism",
+            "Do the images look convincing?"
+          ],
+          [
+            "Reliable simulation",
+            "Do repeated tests match relevant real outcomes?"
+          ],
+          [
+            "Conscious experience",
+            "Movement alone does not establish awareness."
+          ]
+        ],
+        "caption": "The middle question is informed by CaliBench. None of these cards reports an independent test of the fly demonstration.",
+        "alt": "Cards distinguish visual realism, tested simulation reliability and the separate question of conscious experience.",
+        "foot": "Editorial distinctions • No measured fly results"
+      },
+      "sq": {
+        "title": "Pohime të ndryshme, prova të ndryshme",
+        "subtitle": "Pyetje për shikuesin, jo pikëzim për mizën",
+        "items": [
+          [
+            "Realizmi pamor",
+            "A duken bindëse pamjet?"
+          ],
+          [
+            "Simulim i besueshëm",
+            "A përputhen provat e përsëritura me rezultatet reale përkatëse?"
+          ],
+          [
+            "Përjetimi i vetëdijshëm",
+            "Lëvizja e vetme nuk provon vetëdije."
+          ]
+        ],
+        "caption": "Pyetja e mesit mbështetet në CaliBench. Asnjë kartë nuk raporton një test të pavarur të demonstrimit të mizës.",
+        "alt": "Kartat dallojnë realizmin pamor, besueshmërinë e provuar të simulimit dhe pyetjen më vete të vetëdijes.",
+        "foot": "Dallime editoriale • Pa matje për mizën"
+      },
+      "slug": "odyssey-ai-fly-virtual-world-explained"
+    },
+    {
+      "name": "attention-after-the-recording",
+      "type": "cards",
+      "en": {
+        "title": "After the recording",
+        "subtitle": "An editorial invitation for an ordinary moment",
+        "items": [
+          [
+            "Look up",
+            "Notice the person as well as the image."
+          ],
+          [
+            "Respond",
+            "Meet their expression or interest with attention."
+          ],
+          [
+            "Let it move on",
+            "The moment can continue without another take."
+          ]
+        ],
+        "caption": "Examples inspired by the clip and UNICEF’s communication guidance. No timed routine or measured benefit is claimed.",
+        "alt": "Three prompts for attention after recording: look up at the person, respond to their interest and let the moment continue.",
+        "foot": "UNICEF, 2022 + editorial reflection • qualitative examples"
+      },
+      "sq": {
+        "title": "Pas regjistrimit",
+        "subtitle": "Një ftesë editoriale për një çast të zakonshëm",
+        "items": [
+          [
+            "Ngrije shikimin",
+            "Vëre njeriun, bashkë me pamjen."
+          ],
+          [
+            "Përgjigju",
+            "Pranoje me vëmendje shprehjen apo interesin e tij."
+          ],
+          [
+            "Lëre të vazhdojë",
+            "Çasti mund të ecë përpara pa një xhirim tjetër."
+          ]
+        ],
+        "caption": "Shembuj të frymëzuar nga klipi dhe udhëzimi i UNICEF-it për komunikimin. Nuk pohohet rutinë me kohëmatës apo përfitim i matur.",
+        "alt": "Tri nxitje për vëmendje pas regjistrimit: shikoje njeriun, përgjigju interesit të tij dhe lëre çastin të vazhdojë.",
+        "foot": "UNICEF, 2022 + reflektim editorial • shembuj cilësorë"
+      },
+      "slug": "small-moments-with-children"
+    },
+    {
+      "name": "three-dates-one-film",
+      "type": "cards",
+      "en": {
+        "title": "Three dates, one film",
+        "subtitle": "Story setting, production and preservation",
+        "items": [
+          [
+            "1912",
+            "Independence is the historical setting."
+          ],
+          [
+            "1982",
+            "Viktor Gjika’s feature film."
+          ],
+          [
+            "2012",
+            "Restoration premiere in Tirana."
+          ]
+        ],
+        "caption": "Different dates answer different questions: when the story is set, when the film was made and when the restoration premiered. [1, 2]",
+        "alt": "Three dated cards: 1912 for the independence setting, 1982 for the film and 2012 for the restoration premiere.",
+        "foot": "Sources: AQSHF and The Albanian Cinema Project"
+      },
+      "sq": {
+        "title": "Tri data, një film",
+        "subtitle": "Ngjarja, prodhimi dhe ruajtja",
+        "items": [
+          [
+            "1912",
+            "Pavarësia është konteksti historik."
+          ],
+          [
+            "1982",
+            "Filmi artistik i Viktor Gjikës."
+          ],
+          [
+            "2012",
+            "Premiera e restaurimit në Tiranë."
+          ]
+        ],
+        "caption": "Datat u përgjigjen pyetjeve të ndryshme: kur zhvillohet rrëfimi, kur u realizua filmi dhe kur u shfaq restaurimi. [1, 2]",
+        "alt": "Tri karta me data: 1912 për kontekstin e pavarësisë, 1982 për filmin dhe 2012 për premierën e restaurimit.",
+        "foot": "Burimet: AQSHF dhe The Albanian Cinema Project"
+      },
+      "slug": "nentori-i-dyte-besa-dignity-and-orders"
+    },
+    {
+      "name": "word-and-responsibility",
+      "type": "cards",
+      "en": {
+        "title": "From a word to a responsibility",
+        "subtitle": "Three questions the scene leaves with me",
+        "items": [
+          [
+            "Promise",
+            "What have I actually committed to?"
+          ],
+          [
+            "Protection",
+            "Who is relying on my decision?"
+          ],
+          [
+            "Pressure",
+            "Does my word survive when there is a cost?"
+          ]
+        ],
+        "caption": "My reading of the scene: three questions about conduct. These are editorial reflections, not dialogue or a historical code reproduced from the film.",
+        "alt": "Three reflective questions about a promise, the person relying on it and whether it survives pressure.",
+        "foot": "Editorial reflection on the original film excerpt"
+      },
+      "sq": {
+        "title": "Nga fjala te përgjegjësia",
+        "subtitle": "Tri pyetje që më lë skena",
+        "items": [
+          [
+            "Premtimi",
+            "Çfarë kam marrë vërtet përsipër?"
+          ],
+          [
+            "Mbrojtja",
+            "Kush mbështetet te vendimi im?"
+          ],
+          [
+            "Presioni",
+            "A qëndron fjala ime kur ka një kosto?"
+          ]
+        ],
+        "caption": "Leximi im i skenës: tri pyetje për sjelljen. Janë reflektime redaksionale, jo dialog apo kod historik i riprodhuar nga filmi.",
+        "alt": "Tri pyetje reflektimi për premtimin, personin që mbështetet tek ai dhe qëndrueshmërinë e tij nën presion.",
+        "foot": "Reflektim redaksional mbi fragmentin origjinal"
+      },
+      "slug": "nentori-i-dyte-besa-dignity-and-orders"
+    },
+    {
+      "name": "claim-record-finding",
+      "type": "cards",
+      "en": {
+        "title": "What would settle the question?",
+        "subtitle": "An evidence checklist for a public dispute",
+        "items": [
+          [
+            "The claim",
+            "Name the decision and the alleged responsibility."
+          ],
+          [
+            "The record",
+            "Check documents and the response of those accused."
+          ],
+          [
+            "The finding",
+            "Identify what a competent body actually concluded."
+          ]
+        ],
+        "caption": "A way to examine a public accusation. These steps do not establish what happened in a particular case or convert a speech into a legal finding.",
+        "alt": "Three editorial prompts: identify the claim, examine the record and distinguish an actual finding.",
+        "foot": "Editorial checklist; not an assessment of criminal guilt"
+      },
+      "sq": {
+        "title": "Çfarë do ta sqaronte çështjen?",
+        "subtitle": "Një listë për shqyrtimin e një debati publik",
+        "items": [
+          [
+            "Pretendimi",
+            "Përcakto vendimin dhe përgjegjësinë e pretenduar."
+          ],
+          [
+            "Dokumentet",
+            "Kontrollo provat dhe përgjigjen e të akuzuarve."
+          ],
+          [
+            "Përfundimi",
+            "Dallo çfarë ka përcaktuar organi kompetent."
+          ]
+        ],
+        "caption": "Një mënyrë për ta shqyrtuar një akuzë publike. Këta hapa nuk provojnë një çështje konkrete dhe nuk e kthejnë fjalimin në vendim juridik.",
+        "alt": "Tri kërkesa redaksionale: identifiko pretendimin, shqyrto dokumentet dhe dallo përfundimin e një organi kompetent.",
+        "foot": "Listë redaksionale; jo vlerësim i fajësisë penale"
+      },
+      "slug": "agron-shehaj-parliament-public-accountability"
+    },
+    {
+      "name": "constitutional-accountability-routes",
+      "type": "cards",
+      "en": {
+        "title": "Where the demand can go",
+        "subtitle": "Three constitutional provisions [3]",
+        "items": [
+          [
+            "Article 23",
+            "Access to information on state activity."
+          ],
+          [
+            "Article 47",
+            "Peaceful, unarmed assembly."
+          ],
+          [
+            "Article 80",
+            "Ministers answer MPs’ questions within 3 weeks."
+          ]
+        ],
+        "caption": "Brief reference to the Constitution, subject to its terms and applicable procedures. The clip does not establish that a formal Article 80 process was initiated.",
+        "alt": "Three constitutional references on information, assembly and parliamentary questions.",
+        "foot": "Constitution of Albania, Articles 23, 47 and 80"
+      },
+      "sq": {
+        "title": "Ku mund të drejtohet kërkesa",
+        "subtitle": "Tri dispozita kushtetuese [3]",
+        "items": [
+          [
+            "Neni 23",
+            "Informacion për veprimtarinë shtetërore."
+          ],
+          [
+            "Neni 47",
+            "Tubim paqësor dhe pa armë."
+          ],
+          [
+            "Neni 80",
+            "Pyetjet e deputetëve: përgjigje brenda 3 javësh."
+          ]
+        ],
+        "caption": "Përmbledhje e Kushtetutës, sipas kushteve dhe procedurave përkatëse. Fragmenti nuk provon nisjen e një procedure formale sipas nenit 80.",
+        "alt": "Tri referenca kushtetuese për informimin, tubimin dhe pyetjet parlamentare.",
+        "foot": "Kushtetuta e Shqipërisë, nenet 23, 47 dhe 80"
+      },
+      "slug": "agron-shehaj-parliament-public-accountability"
+    },
+    {
+      "name": "work-support-and-dignity",
+      "type": "cards",
+      "en": {
+        "title": "A useful response has more than one part",
+        "subtitle": "Questions for a conversation • no assumed personal facts",
+        "items": [
+          [
+            "Work",
+            "Which opportunities fit the person’s skills and circumstances?"
+          ],
+          [
+            "Support",
+            "What help is needed while those opportunities are explored?"
+          ],
+          [
+            "Dignity",
+            "Can the person speak, ask questions and understand the answer?"
+          ]
+        ],
+        "caption": "An editorial guide to listening and responding. These are questions to ask, not established facts about the young man or promises of support.",
+        "alt": "Three parts of a useful response: discuss suitable work, immediate support needs and respectful communication.",
+        "foot": "Qualitative guide • no eligibility finding"
+      },
+      "sq": {
+        "title": "Një përgjigje e dobishme ka disa pjesë",
+        "subtitle": "Pyetje për bisedën • pa hamendësime personale",
+        "items": [
+          [
+            "Punë",
+            "Cilat mundësi u përshtaten aftësive dhe rrethanave?"
+          ],
+          [
+            "Mbështetje",
+            "Çfarë ndihme duhet ndërsa shqyrtohen mundësitë?"
+          ],
+          [
+            "Dinjitet",
+            "A mund të flasë, të pyesë dhe ta kuptojë përgjigjen?"
+          ]
+        ],
+        "caption": "Udhëzues editorial për dëgjimin dhe përgjigjen. Këto janë pyetje, jo fakte të vërtetuara për të riun apo premtime mbështetjeje.",
+        "alt": "Tri pjesë të një përgjigjeje të dobishme: punë e përshtatshme, nevoja të menjëhershme për mbështetje dhe komunikim me respekt.",
+        "foot": "Udhëzues cilësor • jo vendim për përfitim"
+      },
+      "slug": "work-dignity-person-behind-protest"
+    },
+    {
+      "name": "from-listening-to-next-step",
+      "type": "cards",
+      "en": {
+        "title": "Make the next step understandable",
+        "subtitle": "An editorial checklist for a useful answer",
+        "items": [
+          [
+            "Clarify the need",
+            "Separate the immediate problem from the longer-term aim."
+          ],
+          [
+            "Explain the answer",
+            "Identify the information needed and any decision made."
+          ],
+          [
+            "Name the next step",
+            "Give a responsible contact and a way to follow up."
+          ]
+        ],
+        "caption": "A practical communication checklist. It is not a statutory procedure or a record of what an institution did in this case.",
+        "alt": "Three steps for a useful response: clarify the need, explain the answer and identify the next contact or follow-up.",
+        "foot": "Editorial checklist • no measured outcomes"
+      },
+      "sq": {
+        "title": "Bëje të kuptueshëm hapin e radhës",
+        "subtitle": "Listë editoriale për një përgjigje të dobishme",
+        "items": [
+          [
+            "Sqaro nevojën",
+            "Ndaj problemin e menjëhershëm nga synimi afatgjatë."
+          ],
+          [
+            "Shpjego përgjigjen",
+            "Trego çfarë informacioni duhet dhe çfarë u vendos."
+          ],
+          [
+            "Përcakto hapin tjetër",
+            "Jep kontaktin përgjegjës dhe mënyrën e ndjekjes."
+          ]
+        ],
+        "caption": "Listë praktike për komunikimin. Nuk është procedurë ligjore dhe as dokumentim i veprimeve të një institucioni në këtë rast.",
+        "alt": "Tri hapa për një përgjigje të dobishme: sqaro nevojën, shpjego përgjigjen dhe përcakto kontaktin ose ndjekjen e radhës.",
+        "foot": "Listë editoriale • jo rezultate të matura"
+      },
+      "slug": "work-dignity-person-behind-protest"
+    }
+  ]
+}
