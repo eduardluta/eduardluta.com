@@ -1,0 +1,460 @@
+{
+  "batch": 30,
+  "articleDate": "2026-10-20",
+  "articles": [
+    {
+      "id": "7698695625361214726",
+      "slug": "replying-to-messages-while-walking",
+      "publishedAt": "2026-10-20T10:31:05+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698695625361214726",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 5,
+      "durationObservedSeconds": 5.268073,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on authorized published-post MP4, byte-identical to owner export",
+        "durationObservedSeconds": 5.268073,
+        "sha256": "08df9e43fb48cb31c65b395a55f82bafaa1ecb319ba26064aa4ec029d0aac30c"
+      }
+    },
+    {
+      "id": "7698479124599590162",
+      "slug": "arben-ahmetaj-rai-report-claims-context",
+      "publishedAt": "2026-10-19T20:31:00+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698479124599590162",
+      "language": "it",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 120,
+      "durationObservedSeconds": 119.652426,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe format duration of the exact Publer uploaded MP4; SHA-256 identical to the user-supplied Downloads original. Not separately measured TikTok player duration."
+    },
+    {
+      "id": "7698432605783461127",
+      "slug": "change-of-perspective-a-walk-a-scooter-and-a-good-moment",
+      "publishedAt": "2026-10-19T17:30:21+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698432605783461127",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 10,
+      "durationObservedSeconds": 9.958503,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe duration of exact authorized publication source, matched to the owner export. TikTok may transcode playback; frontmatter rounds this original-source duration to the nearest whole second."
+    },
+    {
+      "id": "7698379206098472213",
+      "slug": "ilir-i-lire-freedom-beyond-a-viral-clip",
+      "publishedAt": "2026-10-19T14:03:12+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698379206098472213",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 11,
+      "durationObservedSeconds": 11.398139,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration observed on the exact public TikTok player on 20 October 2026. Native Download video saved the matching clip with ffprobe container duration 11.237007 seconds; platform and downloaded transcodes differ slightly."
+    },
+    {
+      "id": "7698375581364243764",
+      "slug": "police-pay-conscience-public-service",
+      "publishedAt": "2026-10-19T13:49:07+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698375581364243764",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 113,
+      "durationObservedSeconds": 112.5922448979592,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "HTMLMediaElement.duration observed on the exact public TikTok player on 20 October 2026. Native Download video saved the matching clip with ffprobe container duration 112.430998 seconds; platform and downloaded transcodes differ slightly."
+    },
+    {
+      "id": "7697615582400679184",
+      "slug": "a-small-memory-worth-keeping",
+      "publishedAt": "2026-10-19T10:30:00+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697615582400679184",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 2,
+      "durationObservedSeconds": 1.970839,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe duration of exact authorized publication source, matched to the owner export. TikTok may transcode playback; frontmatter rounds this original-source duration to the nearest whole second."
+    }
+  ],
+  "visuals": [
+    {
+      "name": "one-thing-at-a-time",
+      "type": "cards",
+      "en": {
+        "title": "One thing at a time",
+        "subtitle": "A small suggestion for the next message",
+        "items": [
+          [
+            "Walking",
+            "Keep your eyes on the route."
+          ],
+          [
+            "Replying",
+            "Stop in a clear place to write."
+          ],
+          [
+            "Continuing",
+            "Put the phone away; look around."
+          ]
+        ],
+        "caption": "A practical editorial reminder. These steps are not an intervention tested in the cited study or actions shown in the clip.",
+        "alt": "Three cards suggest watching the route, stopping in a clear place to reply, then putting the phone away and looking around before continuing.",
+        "foot": "Suggested habit • No measured outcomes"
+      },
+      "sq": {
+        "title": "Një gjë në një kohë",
+        "subtitle": "Një sugjerim i vogël për mesazhin tjetër",
+        "items": [
+          [
+            "Kur ecën",
+            "Mbaji sytë nga rruga."
+          ],
+          [
+            "Kur përgjigjesh",
+            "Ndalu në një vend të lirë për të shkruar."
+          ],
+          [
+            "Kur vazhdon",
+            "Largoje telefonin; shiko përreth."
+          ]
+        ],
+        "caption": "Kujtesë praktike editoriale. Këta hapa nuk janë ndërhyrje e provuar në studimin e cituar apo veprime të treguara në klip.",
+        "alt": "Tri karta sugjerojnë të shikosh rrugën, të ndalesh në një vend të lirë për t’u përgjigjur dhe të largosh telefonin e të shikosh përreth para se të vazhdosh.",
+        "foot": "Zakon i sugjeruar • Pa rezultate të matura"
+      },
+      "slug": "replying-to-messages-while-walking"
+    },
+    {
+      "name": "broadcast-post-and-recording",
+      "type": "cards",
+      "en": {
+        "title": "Keep the dates separate",
+        "subtitle": "Original broadcast • later post • unknown filming date",
+        "items": [
+          [
+            "2 June 2024",
+            "Rai’s investigation was broadcast."
+          ],
+          [
+            "19 October 2026",
+            "This excerpt was posted on Eduard’s TikTok."
+          ],
+          [
+            "Filming date",
+            "Not independently verified."
+          ]
+        ],
+        "caption": "The broadcast and upload dates are verified. Neither establishes the exact date of the restaurant conversation. Sources: RaiPlay and the original post.",
+        "alt": "Date comparison: Rai broadcast on 2 June 2024, TikTok repost on 19 October 2026, exact filming date unverified.",
+        "foot": "Chronology • not evidence of a new event"
+      },
+      "sq": {
+        "title": "Datat duhen dalluar",
+        "subtitle": "Transmetimi • postimi i mëvonshëm • data e xhirimit",
+        "items": [
+          [
+            "2 qershor 2024",
+            "U transmetua investigimi i Rai-t."
+          ],
+          [
+            "19 tetor 2026",
+            "Fragmenti u postua në TikTok-un e Eduardit."
+          ],
+          [
+            "Data e xhirimit",
+            "Nuk është verifikuar në mënyrë të pavarur."
+          ]
+        ],
+        "caption": "Datat e transmetimit dhe postimit janë të verifikuara. Asnjëra nuk përcakton datën e saktë të bisedës në restorant. Burime: RaiPlay dhe postimi origjinal.",
+        "alt": "Krahasim datash: transmetimi më 2 qershor 2024, ripostimi më 19 tetor 2026, data e xhirimit e paverifikuar.",
+        "foot": "Kronologji • jo provë e një ngjarjeje të re"
+      },
+      "slug": "arben-ahmetaj-rai-report-claims-context"
+    },
+    {
+      "name": "questions-for-a-public-contract",
+      "type": "cards",
+      "en": {
+        "title": "Turn the claim into checkable questions",
+        "subtitle": "An editorial guide • not findings about this case",
+        "items": [
+          [
+            "Selection",
+            "What were the criteria, bids and reasons for the award?"
+          ],
+          [
+            "Control",
+            "Who ultimately controls or benefits from the winning company?"
+          ],
+          [
+            "Delivery",
+            "What was paid, what was delivered, and who verified it?"
+          ]
+        ],
+        "caption": "These questions connect the decision, the people and the public result. They draw on general FATF and UN procurement principles; they do not establish misconduct.",
+        "alt": "Three questions for scrutinising a public contract: selection criteria, ultimate company control and verified delivery.",
+        "foot": "Document guide • no guilt or loss calculation"
+      },
+      "sq": {
+        "title": "Kthejeni pretendimin në pyetje konkrete",
+        "subtitle": "Udhëzues editorial • jo përfundime për këtë rast",
+        "items": [
+          [
+            "Përzgjedhja",
+            "Cilat ishin kriteret, ofertat dhe arsyet e shpalljes së fituesit?"
+          ],
+          [
+            "Kontrolli",
+            "Kush e kontrollon ose përfiton në fund nga kompania fituese?"
+          ],
+          [
+            "Realizimi",
+            "Çfarë u pagua, çfarë u realizua dhe kush e verifikoi?"
+          ]
+        ],
+        "caption": "Këto pyetje lidhin vendimin, njerëzit dhe rezultatin publik. Mbështeten në parime të përgjithshme të FATF-së dhe OKB-së; nuk vërtetojnë shkelje.",
+        "alt": "Tri pyetje për një kontratë publike: kriteret e përzgjedhjes, kontrolli real i kompanisë dhe realizimi i verifikuar.",
+        "foot": "Udhëzues dokumentesh • pa përfundim fajësie"
+      },
+      "slug": "arben-ahmetaj-rai-report-claims-context"
+    },
+    {
+      "name": "notice-the-walk",
+      "type": "cards",
+      "en": {
+        "title": "What did you notice on the way?",
+        "subtitle": "Prompts from an ordinary walk",
+        "items": [
+          [
+            "See",
+            "A small detail you nearly missed"
+          ],
+          [
+            "Stay",
+            "Give the moment your attention"
+          ],
+          [
+            "Name",
+            "What made this part worth keeping?"
+          ]
+        ],
+        "caption": "Editorial prompts inspired by the clip and Berkeley’s savoring-walk practice; no happiness score is implied.",
+        "alt": "Three prompts invite you to see a detail, attend to the moment and name what made it worth keeping.",
+        "foot": "Qualitative reflection • No measured results"
+      },
+      "sq": {
+        "title": "Çfarë vure re gjatë rrugës?",
+        "subtitle": "Nxitje nga një shëtitje e zakonshme",
+        "items": [
+          [
+            "Shiko",
+            "Një hollësi që gati e humbe"
+          ],
+          [
+            "Qëndro",
+            "Kushtoji vëmendje momentit"
+          ],
+          [
+            "Emërtoje",
+            "Çfarë e bëri këtë pjesë të vlefshme?"
+          ]
+        ],
+        "caption": "Nxitje editoriale nga klipi dhe ushtrimi i shëtitjes së Berkeley-t; nuk nënkuptohet ndonjë pikëzim lumturie.",
+        "alt": "Tri nxitje: shih një hollësi, kushtoji vëmendje momentit dhe emërto atë që ia vlen të ruash.",
+        "foot": "Reflektim cilësor • Pa rezultate të matura"
+      },
+      "slug": "change-of-perspective-a-walk-a-scooter-and-a-good-moment"
+    },
+    {
+      "name": "freedom-constitutional-reference",
+      "type": "cards",
+      "en": {
+        "title": "Freedom in public life",
+        "subtitle": "Albanian constitutional references [1]",
+        "items": [
+          [
+            "Article 18",
+            "Equality before the law."
+          ],
+          [
+            "Article 22",
+            "Freedom of expression."
+          ],
+          [
+            "Article 47",
+            "Peaceful, unarmed assembly."
+          ]
+        ],
+        "caption": "Context for the caption; not an assessment of the footage.",
+        "alt": "Equality, expression and peaceful assembly.",
+        "foot": "Constitution of Albania, Articles 18, 22 and 47"
+      },
+      "sq": {
+        "title": "Liria në jetën publike",
+        "subtitle": "Referenca kushtetuese shqiptare [1]",
+        "items": [
+          [
+            "Neni 18",
+            "Barazia përpara ligjit."
+          ],
+          [
+            "Neni 22",
+            "Liria e shprehjes."
+          ],
+          [
+            "Neni 47",
+            "Tubimi paqësor dhe pa armë."
+          ]
+        ],
+        "caption": "Kontekst për përshkrimin; jo vlerësim i pamjeve.",
+        "alt": "Barazia, shprehja dhe tubimi paqësor.",
+        "foot": "Kushtetuta e Shqipërisë, nenet 18, 22 dhe 47"
+      },
+      "slug": "ilir-i-lire-freedom-beyond-a-viral-clip"
+    },
+    {
+      "name": "police-public-duty",
+      "type": "cards",
+      "en": {
+        "title": "The duties behind the uniform",
+        "subtitle": "Police Law 82/2024 [2]",
+        "items": [
+          [
+            "Rights",
+            "Protect rights and freedoms."
+          ],
+          [
+            "Impartiality",
+            "Depoliticised and accountable."
+          ],
+          [
+            "Force",
+            "Only necessary, proportionate force."
+          ]
+        ],
+        "caption": "Legal reference; not a ruling on any incident.",
+        "alt": "Rights, impartiality and necessary, proportionate force.",
+        "foot": "Articles 4, 6, 7 and 32"
+      },
+      "sq": {
+        "title": "Detyrimet pas uniformës",
+        "subtitle": "Ligji 82/2024 [2]",
+        "items": [
+          [
+            "Të drejtat",
+            "Mbrojtja e të drejtave dhe lirive."
+          ],
+          [
+            "Paanshmëria",
+            "Depolitizim dhe llogaridhënie."
+          ],
+          [
+            "Forca",
+            "Vetëm e domosdoshme dhe proporcionale."
+          ]
+        ],
+        "caption": "Referencë ligjore; jo vendim për një incident.",
+        "alt": "Të drejtat, paanshmëria dhe forca e domosdoshme e proporcionale.",
+        "foot": "Nenet 4, 6, 7 dhe 32"
+      },
+      "slug": "police-pay-conscience-public-service"
+    },
+    {
+      "name": "amp-complaint-channels",
+      "type": "cards",
+      "en": {
+        "title": "Where a complaint can go",
+        "subtitle": "Published AMP channels [3]",
+        "items": [
+          [
+            "Telephone",
+            "0800 90 90 — free complaint line."
+          ],
+          [
+            "Email",
+            "ankesa@amp.gov.al"
+          ],
+          [
+            "Scope",
+            "Suspected breaches within AMP’s remit."
+          ]
+        ],
+        "caption": "Channels verified 20 October 2026. A complaint can be assessed; submitting one does not establish misconduct or guarantee an outcome.",
+        "alt": "AMP complaint contacts: free telephone 0800 90 90 and email ankesa@amp.gov.al.",
+        "foot": "Police Oversight Agency; amp.gov.al/lloji-i-ankesave/"
+      },
+      "sq": {
+        "title": "Ku mund të drejtohet ankesa",
+        "subtitle": "Kanalet e publikuara të AMP-së [3]",
+        "items": [
+          [
+            "Telefon",
+            "0800 90 90 — linjë falas për ankesa."
+          ],
+          [
+            "Email",
+            "ankesa@amp.gov.al"
+          ],
+          [
+            "Fusha",
+            "Shkelje të dyshuara brenda kompetencës së AMP-së."
+          ]
+        ],
+        "caption": "Kanalet u verifikuan më 20 tetor 2026. Ankesa mund të shqyrtohet; dërgimi nuk provon shkeljen dhe nuk garanton përfundimin.",
+        "alt": "Kontaktet e AMP-së: telefoni falas 0800 90 90 dhe emaili ankesa@amp.gov.al.",
+        "foot": "Agjencia e Mbikëqyrjes Policore; amp.gov.al/lloji-i-ankesave/"
+      },
+      "slug": "police-pay-conscience-public-service"
+    },
+    {
+      "name": "leave-context-for-your-future-self",
+      "type": "cards",
+      "en": {
+        "title": "Leave a little context",
+        "subtitle": "For the next time you open the clip",
+        "items": [
+          [
+            "When",
+            "Keep the real recording date if known"
+          ],
+          [
+            "What",
+            "Name one detail visible in the scene"
+          ],
+          [
+            "Why",
+            "Add a sentence about why you kept it"
+          ]
+        ],
+        "caption": "Practical editorial prompts for a personal archive. They are not tested memory outcomes or a reason to publish private details.",
+        "alt": "Three archive prompts ask when a moment happened, what is visible and why the recording was kept.",
+        "foot": "Editorial prompts • No memory forecast"
+      },
+      "sq": {
+        "title": "Lër pak kontekst",
+        "subtitle": "Për herën tjetër kur ta hapësh klipin",
+        "items": [
+          [
+            "Kur",
+            "Ruaje datën e vërtetë të xhirimit, nëse dihet"
+          ],
+          [
+            "Çfarë",
+            "Emërto një hollësi që shihet në pamje"
+          ],
+          [
+            "Pse",
+            "Shto një fjali pse e ruajte"
+          ]
+        ],
+        "caption": "Nxitje praktike editoriale për një arkiv personal. Nuk janë rezultate të testuara të kujtesës apo arsye për të publikuar hollësi private.",
+        "alt": "Tri nxitje për arkivin: kur ndodhi momenti, çfarë shihet dhe pse u ruajt regjistrimi.",
+        "foot": "Nxitje editoriale • Pa parashikim kujtese"
+      },
+      "slug": "a-small-memory-worth-keeping"
+    }
+  ]
+}

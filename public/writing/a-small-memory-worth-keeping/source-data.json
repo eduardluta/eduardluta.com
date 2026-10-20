@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-20",
+  "researchBatch": "batch30-2026-10-20",
+  "references": [
+    {
+      "title": "Original TikTok video",
+      "url": "https://www.tiktok.com/@eduardluta/video/7697615582400679184",
+      "scope": "A two-second smiling child/ice-cream scene and sentimental caption only."
+    },
+    {
+      "title": "Zhang et al.2014, Unexpected Value of Rediscovery",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/Rediscovery_91a38887-12e7-4c5c-a60d-866c0e4a95c4.pdf",
+      "doi": "10.1177/0956797614542274",
+      "scope": "Four experiments on expectations and later rediscovery. No inference about final memories, lifespan or this child."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "leave-context-for-your-future-self": "Qualitative editorial prompts, not an experiment, ranking, measurement or forecast."
+  },
+  "editorialChecks": {
+    "languages": "Matching EN/SQ scene descriptions, source limits and recommendations. No fabricated speech or personal history.",
+    "wordLimits": "Conservative combined EN/SQ paper-derived summary, immediate interpretation/limits and source note: 163 whitespace-delimited words (EN 75, SQ 88); visuals contain only original editorial prompts, no paper-derived data. No long quotations.",
+    "seoIntent": "a-small-memory-worth-keeping",
+    "dates": "Article publication20October2026; exact TikTok sharing timestamp preserved separately. No filming date or location inferred.",
+    "quantitativeClaims": "Only original duration and the cited study count where applicable; no numerical happiness score or memory forecast.",
+    "faq": "No generic FAQ, padding or unnecessary clinical interpretation."
+  },
+  "sourceVideo": {
+    "id": "7697615582400679184",
+    "url": "https://www.tiktok.com/@eduardluta/video/7697615582400679184",
+    "publishedAt": "2026-10-19T10:30:00+00:00",
+    "spokenLanguage": "und",
+    "meaningEvidence": [
+      "Exact owner-export source SHA verified against prior native-publication manifest; full short scene independently reviewed.",
+      "Child smiles and holds an ice cream; English overlay matches actual caption wish.",
+      "No reliable intelligible spoken quotation; no speech is quoted."
+    ],
+    "limitations": [
+      "Last-breath wording is a poetic wish, not neuroscience or a factual claim about dying.",
+      "No child identity, exact location or filming date inferred; TikTok sharing timestamp is separately verified."
+    ],
+    "sourceSha256": "d310c370fb17c7b51d1a1c13737a52dc43efca77bcf2c56d45b35a7ab1d1a84c",
+    "durationSeconds": 2,
+    "durationObservedSeconds": 1.970839,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe duration of exact authorized publication source, matched to the owner export. TikTok may transcode playback; frontmatter rounds this original-source duration to the nearest whole second."
+  }
+}

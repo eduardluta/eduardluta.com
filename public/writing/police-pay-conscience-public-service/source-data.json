@@ -1,0 +1,50 @@
+{
+  "sources": [
+    {
+      "url": "https://www.kryeministria.al/newsroom/kryeministri-edi-rama-ne-takimin-me-strukturat-drejtuese-te-policise-se-shtetit/",
+      "title": "Kryeministri Edi Rama në takimin me strukturat drejtuese të Policisë së Shtetit",
+      "publisher": "Prime Minister of Albania",
+      "published": "2026-10-19",
+      "supports": "Distinction between announced immediate2500euro amount and separate salary rise from1January; no payment verification.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "url": "https://asp.gov.al/wp-content/uploads/2025/05/Ligji-nr.-82-dt.-26.7.2024.pdf",
+      "title": "Ligji 82/2024 për Policinë e Shtetit",
+      "publisher": "Albanian State Police",
+      "supports": "Articles 4, 6, 7 and 32: rights mission,depoliticisation,impartiality/accountability,necessaryproportionateforce.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "url": "https://www.amp.gov.al/lloji-i-ankesave/",
+      "title": "Lloji i ankesave",
+      "publisher": "Agjencia e Mbikëqyrjes Policore",
+      "supports": "Complaint remit,published phone08009090,email ankesa@amp.gov.al,casehandling.",
+      "checkedAt": "2026-10-20"
+    }
+  ],
+  "visualMethod": "Two qualitative source-linked diagrams: police obligations and practical AMP complaint channels. No quantities are inferred from the clip and no financial calculation is needed.",
+  "calculations": [],
+  "sourceVideo": {
+    "meaningEvidence": [
+      "Exact published TikTok clip recovered through the native Download video option and bound by its URL and SHA-256.",
+      "Complete Albanian audio transcribed; eight frames spanning0–105s and the original poster visually inspected. Burned Albanian captions support the main reaction to Rama and criticism of policing/protest response.",
+      "Eduard speaks outdoors about his reaction to Rama addressing police, financial offers, perceived officer fatigue/injustice and predicted public response. His post caption supplies the conscience metaphor."
+    ],
+    "limitations": [
+      "Public clip is political commentary, not evidence of every officer’s beliefs, resources or conduct.",
+      "Other comparisons concerning Kosovo politicians, alleged equipment shortages, protest duration and army involvement are not independently established here and are not repeated as facts.",
+      "The government transcript establishes an announcement, not execution, entitlement details or a monthly salary of2500euros.",
+      "No finding is made about the lawfulness of a specific use of force or the outcome of a complaint."
+    ],
+    "id": "7698375581364243764",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698375581364243764",
+    "publishedAt": "2026-10-19T13:49:07+00:00",
+    "spokenLanguage": "sq",
+    "durationSeconds": 113,
+    "durationObservedSeconds": 112.5922448979592,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed on the exact public TikTok player on 20 October 2026. Native Download video saved the matching clip with ffprobe container duration 112.430998 seconds; platform and downloaded transcodes differ slightly."
+  },
+  "checkedAt": "2026-10-20"
+}

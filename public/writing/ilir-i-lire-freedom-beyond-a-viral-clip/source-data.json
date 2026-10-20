@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "url": "https://idp.al/wp-content/uploads/2024/01/Kushtetuta.pdf",
+      "title": "Kushtetuta e Republikës së Shqipërisë",
+      "publisher": "Information and Data Protection Commissioner, Albania",
+      "supports": "Articles18,22and47: equality before law,freedom of expression,peaceful unarmed assembly. Context for the creator caption, not law applied to unidentified footage.",
+      "checkedAt": "2026-10-20"
+    }
+  ],
+  "visualMethod": "One source-linked qualitative diagram appropriate to an eleven-second clip: three constitutional references relevant to the caption’s freedom theme. No fabricated historical timeline or numerical comparison.",
+  "calculations": [],
+  "sourceVideo": {
+    "meaningEvidence": [
+      "Exact published TikTok clip recovered through native Download video, bound by URL and SHA-256.",
+      "Twelve full-resolution frames at0–11s were inspected: helmeted dark-uniformed figures pass a street corner, several fall, and the sequence repeats with a red arrow and Albanian youth-themed meme text.",
+      "Complete-audio ASR returned no intelligible speech segments; its weak English language guess is not used as evidence of spoken English.",
+      "The verified creator caption supplies the Ilir/i lirë wordplay and freedom/blood/DNA metaphor. The article explicitly separates this interpretation from footage provenance."
+    ],
+    "limitations": [
+      "Original country,date,participants,recording author and wider events are not established.",
+      "No cause of the falls,injury,offence,motive or outcome is inferred.",
+      "No Albanian identity of the figures or location in Albania is asserted.",
+      "Wordplay is not presented as established etymology; DNA language is not a biological claim."
+    ],
+    "id": "7698379206098472213",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698379206098472213",
+    "publishedAt": "2026-10-19T14:03:12+00:00",
+    "spokenLanguage": "und",
+    "durationSeconds": 11,
+    "durationObservedSeconds": 11.398139,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "HTMLMediaElement.duration observed on the exact public TikTok player on 20 October 2026. Native Download video saved the matching clip with ffprobe container duration 11.237007 seconds; platform and downloaded transcodes differ slightly."
+  },
+  "checkedAt": "2026-10-20"
+}

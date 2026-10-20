@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-10-20",
+  "researchBatch": "batch30-2026-10-20",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — original shared Report excerpt",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698479124599590162",
+      "scope": "The supplied original uploaded MP4 and post caption establish the shared excerpt, attributed allegations and author framing, not their truth."
+    },
+    {
+      "id": 2,
+      "title": "RaiPlay — La campagna d’Albania, Report, 2 June 2024",
+      "url": "https://www.raiplay.it/video/2024/06/La-campagna-dAlbania---Report-02062024-ce43115a-99ff-4aed-852e-0fc90483fc88.html",
+      "scope": "Original investigation title, Giorgio Mottola credit and broadcast date. This is not the recording date."
+    },
+    {
+      "id": 3,
+      "title": "Rai Report — official investigation transcript",
+      "url": "https://www.report.rai.it/dl/doc/1717411890508_LA%20CAMPAGNA%20DALBANIA%20-%20di%20Giorgio%20Mottola.pdf",
+      "scope": "Printed PDF pages 12–16: matching conversation, original editorial caveat, Rama response and Agasi denial. The 2024 procedural caveat is not represented as current case status."
+    },
+    {
+      "id": 4,
+      "title": "Albanian Prime Minister’s Office — Edi Rama’s Rai3 interview, 2 June 2024",
+      "url": "https://www.kryeministria.al/newsroom/intervista-e-kryeministrit-edi-rama-per-rai-3/",
+      "scope": "Primary record of Rama’s response: challenges the source, rejects the allegations and argues that accusers must substantiate claims. A response is not independent adjudication."
+    },
+    {
+      "id": 5,
+      "title": "FATF — Guidance on Beneficial Ownership of Legal Persons, 10 March 2023",
+      "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html",
+      "scope": "General international guidance on access to accurate, current true-owner information and combining sources. No finding about any named person or company."
+    },
+    {
+      "id": 6,
+      "title": "UNCITRAL — Model Law on Public Procurement (2011)",
+      "url": "https://uncitral.un.org/en/texts/procurement/modellaw/public_procurement",
+      "scope": "General international model: transparency, competition, objective decisions and supplier challenges. Not a claim that this model itself determines Albanian law or this dispute."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Verified chronology and qualitative documentary scrutiny guide",
+    "measuredOutcomes": false,
+    "calculations": [],
+    "limits": "No factual finding of wrongdoing, monetary loss or current procedural status. Questions are editorial synthesis."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "allAllegationsAttributed": true,
+    "originalRepliesIncluded": true,
+    "originalBroadcastDateSeparatedFromRepost": true,
+    "noHiddenCameraClaimAsserted": true,
+    "noInventedMath": true,
+    "sourceOnlyVideoMetadata": true,
+    "internalLinksExist": true,
+    "noFAQPadding": true
+  },
+  "sourceVideo": {
+    "id": "7698479124599590162",
+    "kind": "video",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698479124599590162",
+    "publishedAt": "2026-10-19T20:31:00+00:00",
+    "duration": 119.652426,
+    "durationSeconds": 120,
+    "language": "it",
+    "spokenLanguage": "it",
+    "subtitleLanguage": "sq",
+    "poster": {},
+    "sourceFileSha256": "2ba47b39738ef289851e24cc025e729bfe90bca1a3a95c00de039bcf4ed03c32",
+    "meaningEvidence": [
+      "Exact Publer submitted source MP4 matches the supplied original file byte-for-byte by SHA-256.",
+      "Italian audio ASR compared with the official Rai transcript, PDF pages 12–14; manually reviewed original subtitle frames establish speaker labels, restaurant setting and corresponding Albanian claims.",
+      "RaiPlay identifies the full investigation as La campagna d’Albania, by Giorgio Mottola, broadcast 2 June 2024. The post caption supplies Eduard’s political interpretation."
+    ],
+    "limitations": [
+      "This is third-party journalism shared by Eduard, not his eyewitness testimony.",
+      "All accusations are attributed to Ahmetaj. They are not independently adjudicated in this article.",
+      "Rama’s rejection and Agasi’s denial are included from the primary original programme and government transcript.",
+      "The caption’s hidden-camera description is not independently established; the article does not assert recording conditions.",
+      "The exact filming date is unknown. The original broadcast, later platform upload and article date are separate.",
+      "Rai’s 2024 procedural caveat is not treated as current case status. This is not a comprehensive 2026 legal update.",
+      "No corruption rate, loss total, cannabis yield or economic effect can be calculated from the clip. The speaker’s Colombia comparison is not used as an economic statistic."
+    ],
+    "durationObservedSeconds": 119.652426,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe format duration of the exact Publer uploaded MP4; SHA-256 identical to the user-supplied Downloads original. Not separately measured TikTok player duration."
+  }
+}

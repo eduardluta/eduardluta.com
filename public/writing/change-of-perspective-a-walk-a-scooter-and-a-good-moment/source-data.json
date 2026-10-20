@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-20",
+  "researchBatch": "batch30-2026-10-20",
+  "references": [
+    {
+      "title": "Original TikTok video",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698432605783461127",
+      "scope": "Caption and full source visual sequence; no filming location/date/identity inferred."
+    },
+    {
+      "title": "UC Berkeley Savoring Walk",
+      "url": "https://ggia.berkeley.edu/practice/savoring_walk",
+      "scope": "Practice instructions on noticing pleasant details only; no causal or numerical outcome attributed to this clip."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "notice-the-walk": "Qualitative editorial prompts, not an experiment, ranking, measurement or forecast."
+  },
+  "editorialChecks": {
+    "languages": "Matching EN/SQ scene descriptions, source limits and recommendations. No fabricated speech or personal history.",
+    "wordLimits": "Research paraphrases kept brief across both language versions; no long quotations.",
+    "seoIntent": "change-of-perspective-a-walk-a-scooter-and-a-good-moment",
+    "dates": "Article publication20October2026; exact TikTok sharing timestamp preserved separately. No filming date or location inferred.",
+    "quantitativeClaims": "Only original duration and the cited study count where applicable; no numerical happiness score or memory forecast.",
+    "faq": "No generic FAQ, padding or unnecessary clinical interpretation."
+  },
+  "sourceVideo": {
+    "id": "7698432605783461127",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698432605783461127",
+    "publishedAt": "2026-10-19T17:30:21+00:00",
+    "spokenLanguage": "und",
+    "meaningEvidence": [
+      "Exact authorized Publer publication source reviewed; SHA matches owner original source.",
+      "Full saved visual timeline independently reviewed: child walking/running, red scooter, bending near curb; English captions about happiness and moments one would not change.",
+      "Source audio ASR is not reliable for quotations; no speech quoted. Caption and visible text establish the reflection."
+    ],
+    "limitations": [
+      "A personal reflection, not a parenting milestone, identified location or psychological experiment.",
+      "Source filming date is unknown; sharing date is separately verified."
+    ],
+    "sourceSha256": "4f7f55088a3c492e2ebca021251e2732ba0c5c395f474bc1b0519db646738248",
+    "durationSeconds": 10,
+    "durationObservedSeconds": 9.958503,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe duration of exact authorized publication source, matched to the owner export. TikTok may transcode playback; frontmatter rounds this original-source duration to the nearest whole second."
+  }
+}

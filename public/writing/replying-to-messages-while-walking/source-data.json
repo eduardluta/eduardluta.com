@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-20",
+  "researchBatch": "batch30-2026-10-20",
+  "references": [
+    {
+      "id": 1,
+      "title": "Eduard Luta — replying to messages while walking",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698695625361214726",
+      "scope": "Original self-performed walking/typing joke and English overlay; exact published Publer media is byte-identical to reviewed owner export."
+    },
+    {
+      "id": 2,
+      "title": "Schabrun et al. — Texting and Walking: Strategies for Postural Control and Implications for Safety",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0084312",
+      "scope": "2014 controlled study of 26 healthy adults on an approximately 8.5 m path. Reading/typing associated with slower walking and greater path deviation than no-phone walking. Not a measurement of this clip or population accident risk."
+    },
+    {
+      "id": 3,
+      "title": "PLOS ONE Staff — correction",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091489",
+      "scope": "28 February 2014 correction concerns distortion of Figure 1, not a change to the cited sample or findings."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "one-thing-at-a-time": "Qualitative editorial walking/replying/continuing reminder. No numerical dataset, accident prediction or tested intervention."
+  },
+  "editorialChecks": {
+    "meaning": "Six newly inspected source frames cover 0–5 seconds, supplemented by the preserved eight-frame timeline audit and exact-file ASR review; actual action and overlay match the public TikTok poster.",
+    "languages": "Matching EN/SQ source scope, study sample and limitations. Albanian decimal comma.",
+    "scope": "Concise article appropriate to a five-second joke; no invented accident, recipient, reply content, urgency, location or personal behavior-change story.",
+    "seoIntent": "Informational everyday reflection on replying to messages while walking; no invented keyword metrics. Source-only video metadata.",
+    "internalLinks": "Existing 100-day walking/reflection article in both languages.",
+    "wordLimits": "Conservative combined EN/SQ paper-derived summary, immediate interpretation/limits and source note: 177 whitespace-delimited words (EN 81, SQ 96); visuals contain only original editorial prompts, no paper-derived data. No long quotations.",
+    "sourceAttribution": "Practical pause/reply suggestion is explicitly editorial, not a demonstrated action or studied intervention.",
+    "faq": "No FAQ or padding."
+  },
+  "sourceVideo": {
+    "id": "7698695625361214726",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698695625361214726",
+    "publishedAt": "2026-10-20T10:31:05+00:00",
+    "durationSeconds": 5,
+    "spokenLanguage": "und",
+    "captionLanguage": "en",
+    "meaningEvidence": [
+      "Fresh exact Publer post is published on the correct account and links to this TikTok ID, with matching caption and media ID.",
+      "Media retrieved from the authorized published-post asset returns HTTP 200 and SHA25608df9e43fb48cb31c65b395a55f82bafaa1ecb319ba26064aa4ec029d0aac30c, exactly matching the owner-export MP4.",
+      "ffprobe confirms 5.268073 seconds; six newly inspected frames span 0–5 seconds. Preserved eight-sample timeline review spans the same whole source.",
+      "The saved public TikTok poster depicts the same scene/overlay. Exact-file Oct17 ASR review returns no speech segments; no spoken quote is used."
+    ],
+    "limitations": [
+      "No full human audio audition is claimed; source meaning is established by action, English overlay, caption and preserved no-speech ASR assessment.",
+      "The short clip cannot measure distraction, gait change, accidents, recipient identity or the content of the message."
+    ],
+    "durationObservedSeconds": 5.268073,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on authorized published-post MP4, byte-identical to owner export",
+      "durationObservedSeconds": 5.268073,
+      "sha256": "08df9e43fb48cb31c65b395a55f82bafaa1ecb319ba26064aa4ec029d0aac30c"
+    }
+  }
+}
