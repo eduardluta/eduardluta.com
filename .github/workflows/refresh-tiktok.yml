@@ -3,6 +3,7 @@ name: Refresh social feed
 # The TikTok/social wall is fetched at build time (scripts/fetch-social.mjs),
 # so it only updates on deploy. This triggers a daily Railway redeploy to pull
 # in new posts. It safely no-ops until a RAILWAY_TOKEN secret is added.
+# Known Railway API/build outages defer the refresh to the next daily or manual run.
 on:
   schedule:
     - cron: '17 6 * * *' # daily ~06:17 UTC
@@ -11,11 +12,65 @@ on:
 jobs:
   redeploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
+      - name: Check Railway availability
+        id: railway-status
+        run: |
+          node --input-type=module <<'JS'
+          import { appendFileSync } from 'node:fs';
+
+          let deferred = false;
+          let summary = '';
+          try {
+            const response = await fetch('https://status.railway.com/api/status', {
+              headers: { Accept: 'application/json' },
+              signal: AbortSignal.timeout(12000),
+            });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const status = await response.json();
+            const age = Date.now() - Date.parse(status.generatedAt);
+            if (!Number.isFinite(age) || age < -300000 || age > 7200000 ||
+                !Array.isArray(status.activeIncidents)) {
+              throw new Error('Unrecognized or stale status response');
+            }
+            const incidents = status.activeIncidents.filter(incident => {
+              if (!incident || typeof incident.status !== 'string' ||
+                  !Array.isArray(incident.components) ||
+                  (incident.resolvedAt !== null &&
+                    (typeof incident.resolvedAt !== 'string' || !Number.isFinite(Date.parse(incident.resolvedAt))))) {
+                throw new Error('Unrecognized incident response');
+              }
+              return incident.resolvedAt === null &&
+                ['INVESTIGATING', 'IDENTIFIED', 'MONITORING'].includes(incident.status) &&
+                incident.components.some(component =>
+                  ['PARTIAL_OUTAGE', 'MAJOR_OUTAGE'].includes(component.impact) &&
+                  (component.name === 'Builds' || component.name === 'API — backboard.railway.com'));
+            });
+            deferred = incidents.length > 0;
+            if (deferred) {
+              console.log('::notice::Railway reports an active API/build outage. Refresh deferred; no deployment was triggered.');
+              const links = incidents.map(incident => typeof incident.slug === 'string' && /^[A-Za-z0-9_-]+$/.test(incident.slug)
+                ? `https://status.railway.com/incident/${incident.slug}`
+                : 'https://status.railway.com/');
+              summary = '### Social feed refresh deferred\n\nRailway reports an active API/build outage. ' +
+                '**The feed was not refreshed and no deployment was triggered.** ' +
+                'The next daily run will try again; this workflow can also be run manually after recovery.\n\n' +
+                links.join('\n');
+            }
+          } catch {
+            console.log('::warning::Railway status could not be confirmed. Continuing with the normal deploy command.');
+            summary = '### Railway status unknown\n\nThe status check was unavailable or unrecognized. ' +
+              'The normal deployment command will run and report its actual result.';
+          }
+          appendFileSync(process.env.GITHUB_OUTPUT, `deferred=${deferred}\n`);
+          if (summary) appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary + '\n');
+          JS
       - name: Trigger Railway redeploy (rebuilds → refetches the feed)
+        if: steps.railway-status.outputs.deferred != 'true'
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
-          # eduardluta.com service in the "perceptive-transformation" project.
+          # eduardluta.com service in the "EDUARD eduardluta.com" project.
           SERVICE_ID: 67ebef0b-19fa-4304-a8b8-dd02393991ec
         run: |
           if [ -z "$RAILWAY_TOKEN" ]; then
