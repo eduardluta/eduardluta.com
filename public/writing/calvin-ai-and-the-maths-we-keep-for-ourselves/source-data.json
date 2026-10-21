@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-21",
+  "researchBatch": "batch31-2026-10-21",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original TikTok shared cartoon panel",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698803880615857428",
+      "scope": "Source panel, caption and posting date only."
+    },
+    {
+      "id": 2,
+      "title": "Bastani et al., Generative AI without guardrails can harm learning",
+      "url": "https://doi.org/10.1073/pnas.2422633122",
+      "authorCopy": "https://hamsabastani.github.io/education_llm.pdf",
+      "table": "Table 1",
+      "scope": "2023single-school mathematics experiment, normalized-score regression and guardrailed comparator. Not all AI products or long-term learning."
+    }
+  ],
+  "calculations": [
+    {
+      "name": "Illustrative regression-implied test comparison",
+      "inputs": {
+        "controlNormalizedMean": 0.321,
+        "gptBaseEstimatedEffect": -0.054
+      },
+      "controlScorePercent": 32.1,
+      "impliedGptBaseScorePercent": 26.7,
+      "differencePercentagePoints": -5.4,
+      "relativeReductionPercent": 16.822429906542055,
+      "formulas": [
+        "100*0.321=32.1",
+        "100*(0.321-0.054)=26.7",
+        "0.054/0.321*100=16.8224299065"
+      ],
+      "rounding": "Displayed relative reduction16.8%; paper rounds17%.",
+      "limitations": [
+        "Regression-implied level, not raw observed GPT Base group mean.",
+        "Point estimates only; uncertainty intervals are omitted.",
+        "The guarded GPT Tutor unaided result is not statistically distinguishable from control; not evidence that all AI-assisted learning is harmful."
+      ]
+    }
+  ],
+  "editorialChecks": {
+    "translationParity": true,
+    "standfirstGroundedInVisibleScene": true,
+    "sourceOnlyVideoMetadata": true,
+    "noFullCartoonTextTranscribed": true,
+    "noInventedExperience": true,
+    "researchScope": "Brief cited result, short original interpretation and clearly labelled implied chart.",
+    "noFAQPadding": true,
+    "chartUnits": "Normalized mean test-score percentages, expressly not pass rates. Second bar is regression-implied, not a raw group mean."
+  },
+  "sourceVideo": {
+    "id": "7698803880615857428",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698803880615857428",
+    "publishedAt": "2026-10-20T17:31:05+00:00",
+    "spokenLanguage": "und",
+    "captionLanguage": "en",
+    "sourceFileSha256": "c839cf3e233b198e776b46fc080e8779b9c9ce6edf339f1eb251675e7b098f5c",
+    "meaningEvidence": [
+      "Exact authorized Publer published-post record binds the original silent MP4 to the TikTok ID.",
+      "All four timeline frames were viewed; they show the same Calvin-and-Hobbes classroom panel, with a joke about delegating maths and playing outside.",
+      "ffprobe confirms a four-second video stream and no audio stream. No speech is invented.",
+      "The creator caption explicitly connects the cartoon with AI and describes it as1992; the original comic publication date remains unverified."
+    ],
+    "limitations": [
+      "No claim that Bill Watterson predicted current AI or wrote about a modern AI product.",
+      "No exact original syndication date asserted; GoComics archive lookup unavailable.",
+      "Only the existing original poster/video used; no additional comic panels reproduced."
+    ],
+    "durationSeconds": 4,
+    "durationObservedSeconds": 4.0,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe on the exact authorized publication MP4 confirms4.000000seconds and a video stream only; there is no audio stream."
+  }
+}

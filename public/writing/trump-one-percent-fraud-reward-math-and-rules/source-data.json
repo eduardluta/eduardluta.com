@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-10-21",
+  "researchBatch": "batch31-2026-10-21",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original shared video",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698859672245259538",
+      "scope": "Spoken1%commission and original creator caption; not a verified payout."
+    },
+    {
+      "id": 2,
+      "title": "DOJ announcement of the Fraud Whistleblower Incentive Program",
+      "url": "https://www.justice.gov/opa/pr/justice-department-announces-innovative-whistleblower-rewards-program-combat-fraud",
+      "published": "2026-10-20",
+      "scope": "10,000–30,000-dollar early-stage awards for specified cases; discretion. No automatic1%rule."
+    },
+    {
+      "id": 3,
+      "title": "DOJ National Fraud Enforcement Division Criminal Tip Rewards Pilot Program terms",
+      "url": "https://www.justice.gov/fraud/national-fraud-enforcement-division-criminal-tip-rewards-pilot-program",
+      "checkedAt": "2026-10-21",
+      "scope": "Eligibility, original truthful voluntary information, cooperation, covered offences, charges and discretionary award; possible other programme payments remain separate."
+    },
+    {
+      "id": 4,
+      "title": "Kosovo Law06/L-085 on Protection of Whistleblowers",
+      "url": "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=18303",
+      "scope": "Existence and rights/protection framework; not evidence of a1%reward."
+    },
+    {
+      "id": 5,
+      "title": "Albanian Ministry of Defence whistleblowing framework",
+      "url": "https://www.mod.gov.al/politikat-e-sigurise/te-tjera-nga-mm/antikorrupsioni/3949-sinjalizimi",
+      "scope": "Official identification of Law60/2016 as amended by Law150/2020. Not evidence of a1%reward."
+    }
+  ],
+  "calculations": [
+    {
+      "description": "Hypothetical percentage stated in the source speech",
+      "currency": "USD",
+      "rate": 0.01,
+      "formula": "base_amount_USD * 0.01",
+      "inputs": [
+        1000000,
+        10000000,
+        1000000000
+      ],
+      "results": [
+        10000,
+        100000,
+        10000000
+      ],
+      "limits": "Examples are hypothetical, not recovered money, eligible awards or observed payouts."
+    }
+  ],
+  "visualMethod": "Original qualitative comparison cards and reproducible arithmetic cards; no invented survey, actual payout or recovery amount.",
+  "editorialChecks": {
+    "bilingualParity": true,
+    "math": "All three examples recomputed exactly with integer dollar bases and1/100.",
+    "sourceOnlyVideoMetadata": true,
+    "writtenRulesSeparatedFromSpeech": true,
+    "localProposalNotExistingEntitlement": true,
+    "legalScope": "Explains source/rule distinction; no individual eligibility determination or legal advice.",
+    "internalLinks": "Existing Ahmetaj evidence article in both locales.",
+    "wordLimit": "DOJ release/terms summaries concise across EN/SQ; sources allocated separately. No long direct quotation.",
+    "faq": "No padding FAQ."
+  },
+  "sourceVideo": {
+    "id": "7698859672245259538",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698859672245259538",
+    "spokenLanguage": "en",
+    "subtitleLanguage": "sq",
+    "sourceFileSha256": "31acd168d52d7c0946c9a0f2bdc04a646925c9c38d89255e3da91fdac72f7658",
+    "meaningEvidence": [
+      "Exact authorized published-post media is bound to this TikTok ID by the owner Publer record; the entire English audio was transcribed, and the full transcript plus frames across the33.4-second clip were reviewed.",
+      "Full English ASR says1%commission, with$1billion and larger examples. The added Albanian captions and actual creator caption preserve that hypothetical formula.",
+      "The article distinguishes what Trump says in the supplied excerpt from independently retrieved current DOJ written rules."
+    ],
+    "limitations": [
+      "No reward, recovery or fraud case is independently established by the clip.",
+      "The precise filming time is not independently asserted; exact TikTok sharing timestamp is preserved.",
+      "The spoken commission cannot establish legal entitlement or replace programme eligibility, covered-offence and discretionary-award rules.",
+      "Local law discussion is limited to verified existence of protection frameworks; no Kosovo/Albania1%reward is asserted."
+    ],
+    "publishedAt": "2026-10-20T21:07:35+00:00",
+    "durationSeconds": 33,
+    "durationObservedSeconds": 33.4,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": "ffprobe format duration of the exact authorized owner-published source MP4. TikTok playback may be a transcode; nearest-whole-second precision is recorded separately."
+  }
+}

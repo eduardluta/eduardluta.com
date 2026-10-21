@@ -1,0 +1,495 @@
+{
+  "batch": 31,
+  "articleDate": "2026-10-21",
+  "articles": [
+    {
+      "id": "7698885211035012359",
+      "slug": "albania-protest-focus-flags-and-accountability",
+      "publishedAt": "2026-10-20T22:46:55+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698885211035012359",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 37,
+      "durationObservedSeconds": 36.949333,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+        "sha256": "1c11e1f0a2265c8ab45dec36a54737c73d29794525cc5ce00fa194253a14fb77",
+        "durationObservedSeconds": 36.949333
+      }
+    },
+    {
+      "id": "7698882138946571540",
+      "slug": "speech-detention-and-a-protest-clip",
+      "publishedAt": "2026-10-20T22:34:45+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698882138946571540",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 30,
+      "durationObservedSeconds": 30.023401,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+        "sha256": "e4e22b8d6cf87054a2cad2192d270a568adbbdbbea9581af96e8e44daf3cf20c",
+        "durationObservedSeconds": 30.023401
+      }
+    },
+    {
+      "id": "7698859672245259538",
+      "slug": "trump-one-percent-fraud-reward-math-and-rules",
+      "publishedAt": "2026-10-20T21:07:35+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698859672245259538",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 33,
+      "durationObservedSeconds": 33.4,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe format duration of the exact authorized owner-published source MP4. TikTok playback may be a transcode; nearest-whole-second precision is recorded separately."
+    },
+    {
+      "id": "7698853272169286964",
+      "slug": "ambrozia-meta-follow-up-question-public-accountability",
+      "publishedAt": "2026-10-20T20:45:13+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698853272169286964",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 56,
+      "durationObservedSeconds": 56.029751,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+        "sha256": "12e2dbd236ef07f9995bccd5817fe555f756ac3e2625390c773973309480d606",
+        "durationObservedSeconds": 56.029751
+      }
+    },
+    {
+      "id": "7698803880615857428",
+      "slug": "calvin-ai-and-the-maths-we-keep-for-ourselves",
+      "publishedAt": "2026-10-20T17:31:05+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698803880615857428",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 4,
+      "durationObservedSeconds": 4.0,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": "ffprobe on the exact authorized publication MP4 confirms4.000000seconds and a video stream only; there is no audio stream."
+    }
+  ],
+  "visuals": [
+    {
+      "name": "the-demand-behind-the-symbol",
+      "type": "cards",
+      "en": {
+        "title": "Keep the demand visible",
+        "subtitle": "The focus of my caption",
+        "items": [
+          [
+            "Problem",
+            "Corruption and captured institutions"
+          ],
+          [
+            "Audience",
+            "The people responsible for public decisions"
+          ],
+          [
+            "Result",
+            "Specific answers and public accountability"
+          ]
+        ],
+        "caption": "Editorial interpretation of the post’s stated purpose, not a survey of the crowd.",
+        "alt": "Three parts of the caption’s argument: the problem, those responsible and the public result sought.",
+        "foot": "Caption-based editorial diagram"
+      },
+      "sq": {
+        "title": "Kërkesa të mbetet e dukshme",
+        "subtitle": "Fokusi i përshkrimit tim",
+        "items": [
+          [
+            "Problemi",
+            "Korrupsioni dhe institucionet e kapura"
+          ],
+          [
+            "Kujt i drejtohet",
+            "Njerëzve përgjegjës për vendimet publike"
+          ],
+          [
+            "Rezultati",
+            "Përgjigje konkrete dhe llogaridhënie"
+          ]
+        ],
+        "caption": "Interpretim editorial i qëllimit të shprehur në postim, jo anketë e turmës.",
+        "alt": "Tri pjesë të argumentit: problemi, përgjegjësit dhe rezultati publik që kërkohet.",
+        "foot": "Diagram editorial nga përshkrimi"
+      },
+      "slug": "albania-protest-focus-flags-and-accountability"
+    },
+    {
+      "name": "questions-that-return-to-the-issue",
+      "type": "cards",
+      "en": {
+        "title": "Bring the discussion back to the issue",
+        "subtitle": "Questions I would keep asking",
+        "items": [
+          [
+            "Decision",
+            "Which public decision is being challenged?"
+          ],
+          [
+            "Evidence",
+            "Which document or action supports the complaint?"
+          ],
+          [
+            "Response",
+            "Who should answer it, and what would count as an answer?"
+          ]
+        ],
+        "caption": "Original editorial questions for an accountability discussion. They make no finding about a named case.",
+        "alt": "Three questions return attention to a specific decision, its evidence and an answer from the responsible person.",
+        "foot": "Editorial prompts • No measured findings"
+      },
+      "sq": {
+        "title": "Ktheje bisedën te çështja",
+        "subtitle": "Pyetje që do t’i mbaja në qendër",
+        "items": [
+          [
+            "Vendimi",
+            "Cili vendim publik po kundërshtohet?"
+          ],
+          [
+            "Prova",
+            "Cili dokument apo veprim e mbështet ankesën?"
+          ],
+          [
+            "Përgjigjja",
+            "Kush duhet të përgjigjet dhe çfarë quajmë përgjigje?"
+          ]
+        ],
+        "caption": "Pyetje origjinale editoriale për llogaridhënien. Nuk japin përfundim për një rast të emërtuar.",
+        "alt": "Tri pyetje e kthejnë vëmendjen te vendimi konkret, provat dhe përgjigjja nga përgjegjësi.",
+        "foot": "Nxitje editoriale • Pa rezultate të matura"
+      },
+      "slug": "albania-protest-focus-flags-and-accountability"
+    },
+    {
+      "name": "what-the-two-recordings-establish",
+      "type": "cards",
+      "en": {
+        "title": "Keep three things separate",
+        "subtitle": "Reading the edited clip",
+        "items": [
+          [
+            "Visible",
+            "An interview and a separate view of police handling a young man."
+          ],
+          [
+            "Alleged",
+            "The overlay links the police action to speaking to media."
+          ],
+          [
+            "Unresolved",
+            "The full sequence, legal grounds and independent identity match."
+          ]
+        ],
+        "caption": "The editing presents a causal claim. The two views alone do not verify that cause.",
+        "alt": "Three evidence levels distinguish visible scenes, the overlay’s allegation and unresolved facts.",
+        "foot": "Source-reading guide • Not a case finding"
+      },
+      "sq": {
+        "title": "T’i ndajmë tri gjëra",
+        "subtitle": "Leximi i klipit të montuar",
+        "items": [
+          [
+            "E dukshme",
+            "Një intervistë dhe pamje tjetër e policëve me një të ri."
+          ],
+          [
+            "E pretenduar",
+            "Mbishkrimi e lidh ndërhyrjen me të folurit në media."
+          ],
+          [
+            "E pasqaruar",
+            "Sekuenca e plotë, baza ligjore dhe përputhja e identitetit."
+          ]
+        ],
+        "caption": "Montazhi paraqet një pretendim shkakor. Dy pamjet, vetëm, nuk e vërtetojnë shkakun.",
+        "alt": "Tri nivele provash dallojnë pamjet, akuzën në mbishkrim dhe faktet e pasqaruara.",
+        "foot": "Udhëzues leximi • Jo përfundim për rastin"
+      },
+      "slug": "speech-detention-and-a-protest-clip"
+    },
+    {
+      "name": "the-explanation-that-is-needed",
+      "type": "cards",
+      "en": {
+        "title": "An explanation should be specific",
+        "subtitle": "Questions for the record",
+        "items": [
+          [
+            "Grounds",
+            "What action and legal basis were recorded?"
+          ],
+          [
+            "Sequence",
+            "What happened before and during the intervention?"
+          ],
+          [
+            "Force",
+            "Why was this level of force considered necessary?"
+          ]
+        ],
+        "caption": "Editorial questions informed by constitutional safeguards and Police Law Article 32; they do not decide this incident.",
+        "alt": "Questions ask for grounds, a full sequence and a reason for the force used.",
+        "foot": "Constitution and Police Law • Editorial application"
+      },
+      "sq": {
+        "title": "Shpjegimi të jetë konkret",
+        "subtitle": "Pyetje për dokumentacionin",
+        "items": [
+          [
+            "Arsyeja",
+            "Cili veprim dhe cilat baza ligjore u regjistruan?"
+          ],
+          [
+            "Sekuenca",
+            "Çfarë ndodhi para dhe gjatë ndërhyrjes?"
+          ],
+          [
+            "Forca",
+            "Pse u konsiderua i nevojshëm ky nivel force?"
+          ]
+        ],
+        "caption": "Pyetje editoriale nga garancitë kushtetuese dhe neni 32 i ligjit të policisë; nuk vendosin për këtë incident.",
+        "alt": "Pyetje për arsyet, ecurinë e plotë dhe justifikimin e forcës së përdorur.",
+        "foot": "Kushtetuta dhe ligji i policisë • Zbatim editorial"
+      },
+      "slug": "speech-detention-and-a-protest-clip"
+    },
+    {
+      "name": "one-percent-arithmetic",
+      "type": "cards",
+      "en": {
+        "title": "What 1% would mean",
+        "subtitle": "Hypothetical arithmetic of the spoken formula",
+        "items": [
+          [
+            "$1 million uncovered",
+            "$1,000,000 × 0.01 = $10,000"
+          ],
+          [
+            "$10 million uncovered",
+            "$10,000,000 × 0.01 = $100,000"
+          ],
+          [
+            "$1 billion uncovered",
+            "$1,000,000,000 × 0.01 = $10,000,000"
+          ]
+        ],
+        "caption": "These examples apply the percentage stated in the speech. They do not show a payment or eligibility under DOJ’s written programme.",
+        "alt": "At a hypothetical 1% rate, one million dollars yields ten thousand, ten million yields one hundred thousand and one billion yields ten million.",
+        "foot": "US dollars • Hypothetical amounts, not verified rewards"
+      },
+      "sq": {
+        "title": "Çfarë do të thoshte 1%",
+        "subtitle": "Matematikë hipotetike sipas formulës së fjalimit",
+        "items": [
+          [
+            "1 milion dollarë të zbuluar",
+            "1.000.000 × 0,01 = 10.000 dollarë"
+          ],
+          [
+            "10 milionë dollarë të zbuluar",
+            "10.000.000 × 0,01 = 100.000 dollarë"
+          ],
+          [
+            "1 miliard dollarë të zbuluar",
+            "1.000.000.000 × 0,01 = 10.000.000 dollarë"
+          ]
+        ],
+        "caption": "Shembujt zbatojnë përqindjen e thënë në fjalim. Nuk tregojnë pagesë apo plotësim të kushteve të programit të shkruar të DOJ-së.",
+        "alt": "Me normë hipotetike 1%, një milion dollarë japin dhjetë mijë, dhjetë milionë japin njëqind mijë dhe një miliard jep dhjetë milionë.",
+        "foot": "Dollarë amerikanë • Shuma hipotetike, jo shpërblime të provuara"
+      },
+      "slug": "trump-one-percent-fraud-reward-math-and-rules"
+    },
+    {
+      "name": "speech-written-rules-local-proposal",
+      "type": "cards",
+      "en": {
+        "title": "Three things to keep separate",
+        "subtitle": "A speech, a written programme, a local proposal",
+        "items": [
+          [
+            "The speech",
+            "A 1% commission on the amount uncovered."
+          ],
+          [
+            "The written DOJ programme",
+            "$10,000–$30,000; eligibility and discretion."
+          ],
+          [
+            "My local proposal",
+            "Debate reward rules for Kosovo and Albania."
+          ]
+        ],
+        "caption": "The first card summarises the clip; the second the DOJ announcement and terms; the third my policy opinion. None confirms an individual payout.",
+        "alt": "Three separate claims: Trump’s spoken 1% formula, the DOJ’s conditional 10,000–30,000-dollar programme and a proposal for local debate.",
+        "foot": "Clip [1] • DOJ [2–3] • Local proposal is opinion"
+      },
+      "sq": {
+        "title": "Tri gjëra që duhen mbajtur veçmas",
+        "subtitle": "Një fjalim, një program i shkruar, një propozim vendor",
+        "items": [
+          [
+            "Fjalimi",
+            "Komision 1% mbi shumën e zbuluar."
+          ],
+          [
+            "Programi i shkruar i DOJ-së",
+            "10.000–30.000 dollarë; kushte dhe diskrecion."
+          ],
+          [
+            "Propozimi im vendor",
+            "Debat për shpërblimet në Kosovë e Shqipëri."
+          ]
+        ],
+        "caption": "Karta e parë përmbledh klipin; e dyta njoftimin dhe kushtet e DOJ-së; e treta mendimin tim politik. Asnjëra nuk provon pagesë individuale.",
+        "alt": "Tri gjëra të ndara: formula 1% në fjalim, programi i kushtëzuar 10.000–30.000-dollarësh i DOJ-së dhe propozimi për debat vendor.",
+        "foot": "Klipi [1] • DOJ [2–3] • Propozimi vendor është opinion"
+      },
+      "slug": "trump-one-percent-fraud-reward-math-and-rules"
+    },
+    {
+      "name": "follow-the-question",
+      "type": "cards",
+      "en": {
+        "title": "Follow the question",
+        "subtitle": "Reading this press exchange",
+        "items": [
+          [
+            "Question",
+            "Has the alleged police violence been condemned?"
+          ],
+          [
+            "Response",
+            "Police injuries and the attack on a building are raised."
+          ],
+          [
+            "Follow-up",
+            "What answers the specific allegation about force?"
+          ]
+        ],
+        "caption": "A qualitative reading of the exchange, not verification of either side’s claims about the underlying incidents.",
+        "alt": "The visual separates the journalist’s question, the official response and the remaining follow-up.",
+        "foot": "Source exchange • No incident finding"
+      },
+      "sq": {
+        "title": "Ndiqe pyetjen",
+        "subtitle": "Leximi i këtij komunikimi me shtypin",
+        "items": [
+          [
+            "Pyetja",
+            "A është dënuar dhuna e pretenduar policore?"
+          ],
+          [
+            "Përgjigjja",
+            "Ngrihen lëndimet e policëve dhe sulmi ndaj godinës."
+          ],
+          [
+            "Vijimi",
+            "Çfarë i përgjigjet konkretisht akuzës për forcën?"
+          ]
+        ],
+        "caption": "Lexim cilësor i bisedës, jo verifikim i pretendimeve të palëve për incidentet përkatëse.",
+        "alt": "Vizuali dallon pyetjen e gazetares, përgjigjen e zyrtarit dhe pyetjen që mbetet.",
+        "foot": "Biseda burimore • Pa përfundim për incidentin"
+      },
+      "slug": "ambrozia-meta-follow-up-question-public-accountability"
+    },
+    {
+      "name": "a-response-that-can-be-checked",
+      "type": "cards",
+      "en": {
+        "title": "What makes a response useful?",
+        "subtitle": "An editorial test for the answer",
+        "items": [
+          [
+            "Specific",
+            "Address the conduct that was asked about."
+          ],
+          [
+            "Supported",
+            "Identify the record or investigation relied upon."
+          ],
+          [
+            "Accountable",
+            "Say who will answer the unresolved question."
+          ]
+        ],
+        "caption": "Original editorial questions inspired by the clip’s demand for a direct answer. They are not a performance score.",
+        "alt": "A useful answer addresses the specific conduct, points to supporting records and identifies responsibility.",
+        "foot": "Editorial questions • No measured score"
+      },
+      "sq": {
+        "title": "Çfarë e bën përgjigjen të dobishme?",
+        "subtitle": "Provë editoriale për përgjigjen",
+        "items": [
+          [
+            "Konkrete",
+            "Trajto veprimin për të cilin u bë pyetja."
+          ],
+          [
+            "E mbështetur",
+            "Trego dokumentin apo hetimin ku mbështetesh."
+          ],
+          [
+            "Me përgjegjësi",
+            "Thuaj kush përgjigjet për pyetjen e pazgjidhur."
+          ]
+        ],
+        "caption": "Pyetje origjinale editoriale të frymëzuara nga kërkesa e klipit për përgjigje të drejtpërdrejtë. Nuk janë pikëzim performance.",
+        "alt": "Përgjigjja trajton veprimin konkret, tregon dokumentacionin dhe përcakton përgjegjësinë.",
+        "foot": "Pyetje editoriale • Pa pikëzim të matur"
+      },
+      "slug": "ambrozia-meta-follow-up-question-public-accountability"
+    },
+    {
+      "name": "unaided-test-after-ai-practice",
+      "type": "bars",
+      "values": [
+        32.1,
+        26.7
+      ],
+      "en": {
+        "title": "Mean unaided test score",
+        "subtitle": "One school • 2023 trial",
+        "labels": [
+          "Control",
+          "GPT Base — implied"
+        ],
+        "display": [
+          "32.1%",
+          "26.7%"
+        ],
+        "caption": "Scores, not pass rates. Implied bar: control minus estimated 5.4-point effect; not a raw mean.",
+        "alt": "Control mean 32.1%; implied GPT Base 26.7%. Point estimates; uncertainty intervals omitted.",
+        "foot": "PNAS 2025, Table 1"
+      },
+      "sq": {
+        "title": "Rezultati mesatar pa ndihmë",
+        "subtitle": "Një shkollë • eksperiment më 2023",
+        "labels": [
+          "Kontrolli",
+          "GPT Base — i nxjerrë"
+        ],
+        "display": [
+          "32,1%",
+          "26,7%"
+        ],
+        "caption": "Rezultate, jo norma kalueshmërie. Shtylla e nxjerrë: kontrolli minus efekti i vlerësuar 5,4 pikë; jo mesatare bruto.",
+        "alt": "Mesatarja e kontrollit 32,1%; GPT Base 26,7% i nxjerrë. Vlerësime; pa intervale pasigurie.",
+        "foot": "PNAS 2025, Tabela 1"
+      },
+      "slug": "calvin-ai-and-the-maths-we-keep-for-ourselves"
+    }
+  ]
+}

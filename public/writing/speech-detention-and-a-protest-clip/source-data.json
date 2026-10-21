@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-21",
+  "researchBatch": "batch31-2026-10-21",
+  "references": [
+    {
+      "title": "Original edited video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698882138946571540",
+      "scope": "Caption attributes an allegation linking speech to police action; neither identity nor causation independently confirmed."
+    },
+    {
+      "title": "Albanian Constitution",
+      "url": "https://idp.al/wp-content/uploads/2024/01/Kushtetuta.pdf",
+      "scope": "Articles 22, 27–28 expression, lawful grounds/procedures for deprivation of liberty, notification and lawyer safeguards."
+    },
+    {
+      "title": "Police Law 82/2024",
+      "url": "https://asp.gov.al/wp-content/uploads/2025/05/Ligji-nr.-82-dt.-26.7.2024.pdf",
+      "scope": "Article 32 necessity and proportionality of force; not a finding about this scene."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Qualitative evidence boundaries and editorial questions",
+    "measuredOutcomes": false,
+    "limits": "No poll, numerical outcome, incident identification, motive or legal finding is inferred from the video."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noUnverifiedCausation": true,
+    "noFAQPadding": true,
+    "dates": "Platform post date is verified separately; the original event date is not inferred.",
+    "wordLimits": "External primary-source summaries are brief across EN/SQ; diagrams mainly state original editorial questions. No long verbatim quotation."
+  },
+  "sourceVideo": {
+    "id": "7698882138946571540",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698882138946571540",
+    "publishedAt": "2026-10-20T22:34:45+00:00",
+    "sourceFileSha256": "e4e22b8d6cf87054a2cad2192d270a568adbbdbbea9581af96e8e44daf3cf20c",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-account Publer uploaded MP4 and source SHA verified; full30.023401-second timeline reviewed.",
+      "The top view is a young man giving an Albanian interview, questioning timing of dialogue/student demands; bottom view shows police holding a young man. Added overlay explicitly alleges retaliatory arrest.",
+      "First interview speech is intelligible enough for a narrow paraphrase; later ASR repeats and deteriorates. No unclear second-half speech is quoted."
+    ],
+    "limitations": [
+      "No independent match of the identities across recordings, full lead-up, official detention/arrest record, grounds or original event date found.",
+      "Causation and violent-arrest characterization remain attributed to the accompanying allegation; the article does not determine guilt or legality.",
+      "No age, injury, police motive or future political outcome inferred."
+    ],
+    "durationSeconds": 30,
+    "durationObservedSeconds": 30.023401,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+      "sha256": "e4e22b8d6cf87054a2cad2192d270a568adbbdbbea9581af96e8e44daf3cf20c",
+      "durationObservedSeconds": 30.023401
+    }
+  }
+}

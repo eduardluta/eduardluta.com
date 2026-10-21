@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-21",
+  "researchBatch": "batch31-2026-10-21",
+  "references": [
+    {
+      "title": "Original AmbroziaMeta/Balla press exchange",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698853272169286964",
+      "scope": "Visible/audible questions and responses in the supplied excerpt; not proof of underlying allegations."
+    },
+    {
+      "title": "UNESCO Journalism as a public good",
+      "url": "https://www.unesco.org/reports/world-media-trends/2021/en/journalism-public-good",
+      "scope": "General public information and independent-watchdog role; not endorsement of any specific journalist or allegation."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Qualitative evidence boundaries and editorial questions",
+    "measuredOutcomes": false,
+    "limits": "No poll, numerical outcome, incident identification, motive or legal finding is inferred from the video."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noUnverifiedCausation": true,
+    "noFAQPadding": true,
+    "dates": "Platform post date is verified separately; the original event date is not inferred.",
+    "wordLimits": "External primary-source summaries are brief across EN/SQ; diagrams mainly state original editorial questions. No long verbatim quotation."
+  },
+  "sourceVideo": {
+    "id": "7698853272169286964",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698853272169286964",
+    "publishedAt": "2026-10-20T20:45:13+00:00",
+    "sourceFileSha256": "12e2dbd236ef07f9995bccd5817fe555f756ac3e2625390c773973309480d606",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-account uploaded MP4 bound to this TikTok ID by Publer post record; full56.029751seconds reviewed.",
+      "Eight source frames plus full Albanian ASR aid show indoor press scrum with TaulantBalla and AmbroziaMeta, including demands about alleged violence against minors and responses about police injuries/building attack.",
+      "The edit inserts a comparison between Parliament leadership building and SocialistParty building; claims about deployment remain attributed.",
+      "Author caption praises AmbroziaMeta’s courage; article expands why a specific follow-up matters, without claiming the author attended."
+    ],
+    "limitations": [
+      "Original event date and complete unedited press encounter not independently matched to an official transcript.",
+      "No actual age, injury, deployment failure, legal finding or underlying violence claim independently established from this clip.",
+      "This indoorBalla exchange is not conflated with a separate Guard/protest confrontation involving the journalist."
+    ],
+    "durationSeconds": 56,
+    "durationObservedSeconds": 56.029751,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+      "sha256": "12e2dbd236ef07f9995bccd5817fe555f756ac3e2625390c773973309480d606",
+      "durationObservedSeconds": 56.029751
+    }
+  }
+}

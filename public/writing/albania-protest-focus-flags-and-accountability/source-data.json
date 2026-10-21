@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-21",
+  "researchBatch": "batch31-2026-10-21",
+  "references": [
+    {
+      "title": "Original video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7698885211035012359",
+      "scope": "Caption establishes Eduard’s political focus; footage/audio do not establish participant motives or event provenance."
+    },
+    {
+      "title": "Human Rights Committee General Comment37",
+      "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=nkdW%2Bj6rjNdNNGnQr07OkY3xr4IaEAgn6g7GD8ClxDwP3Obqq2xrx511o9lEz%2FRvPQP8jOddgj8wBnxotXMWwQ%3D%3D",
+      "scope": "Paragraphs 48 and 51: normally content-neutral restrictions; flags generally legitimate, with exceptions for symbols directly and predominantly associated with incitement to discrimination, hostility or violence. No finding about this recording."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Qualitative evidence boundaries and editorial questions",
+    "measuredOutcomes": false,
+    "limits": "No poll, numerical outcome, incident identification, motive or legal finding is inferred from the video."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noUnverifiedCausation": true,
+    "noFAQPadding": true,
+    "dates": "Platform post date is verified separately; the original event date is not inferred.",
+    "wordLimits": "External primary-source summaries are brief across EN/SQ; diagrams mainly state original editorial questions. No long verbatim quotation.",
+    "legalPrecision": "General Comment 37 exception preserves both direct and predominant association and all three incitement categories; no scene-specific legal finding."
+  },
+  "sourceVideo": {
+    "id": "7698885211035012359",
+    "url": "https://www.tiktok.com/@eduardluta/video/7698885211035012359",
+    "publishedAt": "2026-10-20T22:46:55+00:00",
+    "sourceFileSha256": "1c11e1f0a2265c8ab45dec36a54737c73d29794525cc5ce00fa194253a14fb77",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-account published media record binds this MP4 to the TikTok ID; full36.949333s source and timeline reviewed.",
+      "Crowd, police, Palestinian and Albanian flags, a blue banner and news lower-thirds are visible. Added Albanian text describes flag removal and calls for focus on Albanian anticorruption.",
+      "Underlying Albanian audio is a news reporter discussing police movement; this is not Eduard’s eyewitness narration. Meaning is established from the visible added text and exact post caption."
+    ],
+    "limitations": [
+      "Original recording date, individual identities and flag-removal authority/circumstances not independently established.",
+      "No claim that every participant represents an ideology, that state capture is legally established, or that the video proves a corrupt transaction.",
+      "No endorsement or legal determination of the physical intervention is inferred."
+    ],
+    "durationSeconds": 37,
+    "durationObservedSeconds": 36.949333,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe on the exact MP4 in the owner-account Publer published-post record",
+      "sha256": "1c11e1f0a2265c8ab45dec36a54737c73d29794525cc5ce00fa194253a14fb77",
+      "durationObservedSeconds": 36.949333
+    }
+  }
+}
