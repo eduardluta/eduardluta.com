@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-24",
+  "researchBatch": "batch33-2026-10-24",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original owner TikTok post",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699557850028215572",
+      "scope": "Exact short edit, added overlays, caption and share timestamp."
+    },
+    {
+      "id": 2,
+      "title": "Swedish Royal Court: Kungen besökte Ukraina",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-04-17-kungen-besokte-ukraina",
+      "published": "2026-04-17",
+      "scope": "Visit date, Lviv/Potocki Palace, first-party published photograph showing an indoor handshake."
+    },
+    {
+      "id": 3,
+      "title": "SVT: Ryska påståendet: Kungen vägrade skaka Zelenskyjs hand",
+      "url": "https://www.svt.se/nyheter/utrikes/rysk-media-kungen-vagrade-skaka-zelenskyjs-hand",
+      "published": "2026-04-18",
+      "updated": "2026-04-21",
+      "scope": "Eyewitness broadcaster report, matching arrival excerpt, directly viewed footage of multiple handshakes and Royal Court direct comment."
+    },
+    {
+      "id": 4,
+      "title": "Ukrainian presidency: meeting with the King of Sweden",
+      "url": "https://www.president.gov.ua/en/news/pidtrimka-ukrayini-ta-spivpracya-zaradi-posilennya-ukrayinsk-103953",
+      "published": "2026-04-17",
+      "scope": "Independent first-party meeting date/location and summary of defence, humanitarian and energy discussions."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "One original qualitative evidence-level diagram; no fabricated statistic, numerical emotion score or inference of motive.",
+  "editorialChecks": {
+    "translationParity": true,
+    "sourceMetadataDescribesActualEdit": true,
+    "openingAnswersClaim": true,
+    "datedFootnotes": true,
+    "noFaqPadding": true,
+    "noInventedFirsthandPresence": true,
+    "noUnverifiedClaimAsFact": true,
+    "wordLimit": "Concise source-derived summaries across EN/SQ remain under 200 words per external primary source; no long direct quote."
+  },
+  "sourceVideo": {
+    "id": "7699557850028215572",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699557850028215572",
+    "publishedAt": "2026-10-22T18:16:44+00:00",
+    "spokenLanguage": "sq",
+    "captionLanguage": "sq",
+    "sourceFileSha256": "44939d7122e3fb52cc876c2048256228f95630fb4e5ce8c29bde257df1937567",
+    "meaningEvidence": [
+      "Exact owner-account Publer published-post record binds the 16.37-second source MP4 to this TikTok ID and caption.",
+      "All nine full-timeline source frames and the original selected poster were opened and inspected. The overlays assert a refused handshake and spitting; these are attributed claims, not verified source events.",
+      "The original source includes an audio stream. ASR produced no text; no reliable spoken quotation is used, and absence of ASR text is not represented as proof of silence.",
+      "The same vehicle, red carpet, palace facade and gestures appear in the opening portion of SVT video 8LJrXAE. Later SVT footage visibly shows handshakes indoors and in a courtyard.",
+      "Royal Court first-party visit account and exact published image show an indoor handshake in matching clothing; Ukrainian presidency independently dates the Lviv meeting to 17 April 2026."
+    ],
+    "limitations": [
+      "A short edited excerpt is not the whole visit. No claim to viewing an uncut continuous arrival recording.",
+      "The post’s 22 October date is distinct from the documented 17 April visit date.",
+      "A head or mouth movement does not independently establish spitting, its destination or intent.",
+      "No assertion that this clip contains an actual handshake at 6 seconds; the inspected frame there shows open hands rather than verified contact.",
+      "No invented emotional reaction, royal-protocol rule, motive for sharing, or claim that the creator witnessed the meeting.",
+      "External photographs/video are research evidence only; public article links them without reproducing new external copyrighted media."
+    ],
+    "durationSeconds": 16,
+    "durationObservedSeconds": 16.37,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 16.37,
+      "sha256": "44939d7122e3fb52cc876c2048256228f95630fb4e5ce8c29bde257df1937567"
+    }
+  }
+}

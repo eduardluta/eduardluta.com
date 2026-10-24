@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2026-10-24",
+  "researchBatch": "batch33-2026-10-24",
+  "references": [
+    {
+      "title": "Original owner video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699437772553456904",
+      "scope": "Physical gallery scene, imagined battlefield response and spoken association with Skanderbeg."
+    },
+    {
+      "title": "KHM Kriegsmesser A145",
+      "url": "https://www.khm.at/en/artworks/kriegsmesser-371830-1",
+      "scope": "150cm length,3.20kg,datec1490/1500,previous attribution; not definitive filmed-object identification."
+    },
+    {
+      "title": "KHM Skanderbeg object history",
+      "url": "https://www.khm.at/en/visit/collections/imperial-armoury/skanderbeg",
+      "scope": "1468 death year and distinction between A145,A550 and attributed objects."
+    },
+    {
+      "title": "KHM Skanderbeg helmet A127",
+      "url": "https://www.khm.at/en/artworks/skanderbeg-helm-371645",
+      "scope": "Helmet crest and first1593inventory record."
+    }
+  ],
+  "calculations": [
+    {
+      "label": "Length conversion for catalogue A145",
+      "inputs": {
+        "lengthCm": 150,
+        "centimetresPerMetre": 100
+      },
+      "formula": "150/100",
+      "result": 1.5,
+      "unit": "metres",
+      "limitation": "Not measured from video; catalogue object not positively identified in film."
+    },
+    {
+      "label": "Catalogue dating relative to death year",
+      "inputs": {
+        "deathYear": 1468,
+        "approximateLowerYear": 1490,
+        "approximateUpperYear": 1500
+      },
+      "formula": [
+        "1490-1468",
+        "1500-1468"
+      ],
+      "result": [
+        22,
+        32
+      ],
+      "unit": "years after1468",
+      "limitation": "Approximate catalogue date endpoints, not exact manufacture dates or authentication test."
+    }
+  ],
+  "editorialChecks": {
+    "bilingualParity": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noConfirmedFilmedObjectIdentification": true,
+    "formerAttributionPreserved": true,
+    "noInventedCombatPhysics": true,
+    "noFAQPadding": true,
+    "wordLimits": "Brief paraphrases across KHM object catalogue, object history and helmet entry; one three-word quoted catalogue qualification."
+  },
+  "sourceVideo": {
+    "id": "7699437772553456904",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699437772553456904",
+    "publishedAt": "2026-10-22T10:30:46+00:00",
+    "sourceFileSha256": "15eddaad03ff199f519a2286357e68256d1db50aa356c988ba10a165b740e2e8",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-published media binding, full61.971202-second MP4/audio, full Albanian ASR used as dialect aid, 13-frame timeline and original-resolution sword views reviewed.",
+      "Creator narrates armoured riders, the imagined physical difficulty of carrying equipment, then a long curved sword he calls Skanderbeg’s; source caption explicitly frames a memory from a Vienna museum.",
+      "Visible green case contains several helmets, armour pieces, a shield and a long curved blade; no goat-head crest visible. Small labels cannot be read reliably."
+    ],
+    "limitations": [
+      "Original filming date unestablished; source posting date verified.",
+      "Not a measured horse-speed, armour-weight or combat test. No garbled ASR quotation or numeric speed retained.",
+      "Filmed sword resembles the relevant war-knife type but no reliable filmed label/inventory number confirms A145 identification.",
+      "A145 catalogue former attribution preserved; no claim that Skanderbeg used an object dated after his death. No claim that the shown armour was his."
+    ],
+    "durationSeconds": 62,
+    "durationObservedSeconds": 61.971202,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 61.971202,
+      "sha256": "15eddaad03ff199f519a2286357e68256d1db50aa356c988ba10a165b740e2e8"
+    }
+  }
+}

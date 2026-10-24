@@ -1,0 +1,244 @@
+{
+  "batch": 33,
+  "articleDate": "2026-10-24",
+  "articles": [
+    {
+      "id": "7699557850028215572",
+      "slug": "zelensky-swedish-king-handshake-clip-context",
+      "publishedAt": "2026-10-22T18:16:44+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699557850028215572",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 16,
+      "durationObservedSeconds": 16.37,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 16.37,
+        "sha256": "44939d7122e3fb52cc876c2048256228f95630fb4e5ce8c29bde257df1937567"
+      }
+    },
+    {
+      "id": "7699545909348142337",
+      "slug": "phone-call-walking-choreography",
+      "publishedAt": "2026-10-22T17:30:45+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699545909348142337",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 9,
+      "durationObservedSeconds": 9.122585,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 9.122585,
+        "sha256": "fe1cdf135c58a2ae180bcfb9d9bd6e681bcb5cd8e70fc1c901eac188ef561747"
+      }
+    },
+    {
+      "id": "7699437772553456904",
+      "slug": "skanderbeg-vienna-sword-label-and-imagination",
+      "publishedAt": "2026-10-22T10:30:46+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699437772553456904",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 62,
+      "durationObservedSeconds": 61.971202,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 61.971202,
+        "sha256": "15eddaad03ff199f519a2286357e68256d1db50aa356c988ba10a165b740e2e8"
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "name": "caption-record-and-evidence-limit",
+      "type": "cards",
+      "en": {
+        "title": "Keep the claim beside the record",
+        "subtitle": "Reading this greeting clip",
+        "items": [
+          [
+            "Overlay",
+            "Claims a refused handshake and spitting."
+          ],
+          [
+            "Documented",
+            "Official photograph and SVT footage show handshakes."
+          ],
+          [
+            "Unestablished",
+            "Spitting and the intentions behind each gesture."
+          ]
+        ],
+        "caption": "Qualitative evidence guide. Separate a claim in an overlay from a documented event and an unresolved interpretation.",
+        "alt": "Three evidence levels distinguish the overlay claim, documented handshakes and unestablished spitting or intent.",
+        "foot": "Original clip [1] • Royal Court [2] • SVT [3]"
+      },
+      "sq": {
+        "title": "Pretendimi pranë dokumentacionit",
+        "subtitle": "Leximi i këtij klipi përshëndetjeje",
+        "items": [
+          [
+            "Mbishkrimi",
+            "Pretendon refuzim të dorës dhe pështymje."
+          ],
+          [
+            "E dokumentuar",
+            "Fotoja zyrtare dhe pamjet e SVT-së tregojnë dhënien e dorës."
+          ],
+          [
+            "E paprovuar",
+            "Pështymja dhe qëllimi pas çdo gjesti."
+          ]
+        ],
+        "caption": "Udhëzues cilësor për provat. Pretendimi në mbishkrim ndahet nga ngjarja e dokumentuar dhe interpretimi i pasqaruar.",
+        "alt": "Tre nivele provash dallojnë pretendimin, dhënien e dokumentuar të dorës dhe pështymjen apo qëllimin e paprovuar.",
+        "foot": "Klipi origjinal [1] • Oborri [2] • SVT [3]"
+      },
+      "slug": "zelensky-swedish-king-handshake-clip-context"
+    },
+    {
+      "name": "noticing-the-unicycling-clown",
+      "type": "bars",
+      "values": [
+        25.0,
+        51.3
+      ],
+      "en": {
+        "title": "Who reported seeing the clown?",
+        "subtitle": "Study 2 • direct question",
+        "labels": [
+          "Phone conversation (n=24)",
+          "Alone, no electronics (n=78)"
+        ],
+        "display": [
+          "25%",
+          "51.3%"
+        ],
+        "caption": "Observed groups, not random assignment. A separate study, not a measurement of this clip.",
+        "alt": "Reported noticing: 25 percent during phone conversations, 51.3 percent while walking alone without electronics.",
+        "foot": "Hyman et al. (2010) • Table 2"
+      },
+      "sq": {
+        "title": "Kush tha se e kishte parë kllounin?",
+        "subtitle": "Studimi 2 • pyetje e drejtpërdrejtë",
+        "labels": [
+          "Bisedë në telefon (n=24)",
+          "Vetëm, pa pajisje (n=78)"
+        ],
+        "display": [
+          "25%",
+          "51,3%"
+        ],
+        "caption": "Grupe të vëzhguara, jo ndarje rastësore. Studim më vete, jo matje e këtij klipi.",
+        "alt": "E kishin vënë re: 25 për qind gjatë bisedës në telefon, 51,3 për qind duke ecur vetëm pa pajisje elektronike.",
+        "foot": "Hyman e bashkautorët (2010) • Tabela 2"
+      },
+      "slug": "phone-call-walking-choreography"
+    },
+    {
+      "name": "vienna-war-knife-catalogue",
+      "type": "cards",
+      "en": {
+        "title": "The catalogue gives a scale",
+        "subtitle": "A 145 • Kriegsmesser • Not a filmed measurement",
+        "items": [
+          [
+            "150 cm",
+            "Listed total length: 1.5 metres."
+          ],
+          [
+            "3.20 kg",
+            "Listed weight of this object."
+          ],
+          [
+            "About 1490–1500",
+            "Approximate catalogue date."
+          ],
+          [
+            "Former attribution",
+            "Previously associated with Skanderbeg."
+          ]
+        ],
+        "caption": "KHM catalogue values for A 145. The small label in the video cannot confirm the filmed object’s inventory number.",
+        "alt": "A 145 catalogue: 150 cm length, 3.20 kg weight, approximate 1490–1500 date and former attribution to Skanderbeg.",
+        "foot": "KHM object record [2] • No combat-performance inference"
+      },
+      "sq": {
+        "title": "Katalogu jep përmasat",
+        "subtitle": "A 145 • Kriegsmesser • Jo matje nga videoja",
+        "items": [
+          [
+            "150 cm",
+            "Gjatësia e regjistruar: 1,5 metra."
+          ],
+          [
+            "3,20 kg",
+            "Pesha e regjistruar e këtij objekti."
+          ],
+          [
+            "Rreth 1490–1500",
+            "Datim i përafërt në katalog."
+          ],
+          [
+            "Atribuim i mëparshëm",
+            "I lidhur dikur me Skënderbeun."
+          ]
+        ],
+        "caption": "Vlerat e katalogut të KHM për A 145. Etiketa e vogël në video nuk e konfirmon numrin e inventarit të objektit të filmuar.",
+        "alt": "Katalogu i A 145: gjatësi 150 cm, peshë 3,20 kg, datim rreth 1490–1500 dhe atribuim i mëparshëm Skënderbeut.",
+        "foot": "Regjistri i KHM [2] • Pa përfundim për aftësinë luftarake"
+      },
+      "slug": "skanderbeg-vienna-sword-label-and-imagination"
+    },
+    {
+      "name": "vienna-skanderbeg-separate-objects",
+      "type": "cards",
+      "en": {
+        "title": "Keep the objects separate",
+        "subtitle": "Three inventory numbers, different records",
+        "items": [
+          [
+            "A 145",
+            "The large war knife; former attribution."
+          ],
+          [
+            "A 550",
+            "The other sword discussed by the museum."
+          ],
+          [
+            "A 127",
+            "The goat-head helmet, absent from this clip."
+          ]
+        ],
+        "caption": "Inventory numbers identify separate museum objects. A traditional name alone does not establish an individual’s ownership.",
+        "alt": "Three distinct objects: A 145 war knife, A 550 sword and A 127 goat-head helmet.",
+        "foot": "KHM catalogue and object history [2–4]"
+      },
+      "sq": {
+        "title": "Dalloji objektet nga njëri tjetri",
+        "subtitle": "Tre numra inventari, regjistra të ndryshëm",
+        "items": [
+          [
+            "A 145",
+            "Arma e madhe me një presë; atribuim i dikurshëm."
+          ],
+          [
+            "A 550",
+            "Shpata tjetër që trajton muzeu."
+          ],
+          [
+            "A 127",
+            "Përkrenarja me kokën e dhisë; mungon në klip."
+          ]
+        ],
+        "caption": "Numrat e inventarit identifikojnë objekte të veçanta. Vetëm emri tradicional nuk provon pronësinë e një personi.",
+        "alt": "Tri objekte të veçanta: arma A 145, shpata A 550 dhe përkrenarja me kokën e dhisë A 127.",
+        "foot": "Katalogu dhe historia e objekteve në KHM [2–4]"
+      },
+      "slug": "skanderbeg-vienna-sword-label-and-imagination"
+    }
+  ]
+}

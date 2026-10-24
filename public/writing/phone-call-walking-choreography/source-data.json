@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-10-24",
+  "researchBatch": "batch33-2026-10-24",
+  "references": [
+    {
+      "title": "Original video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699545909348142337",
+      "scope": "Visual joke and source metadata."
+    },
+    {
+      "title": "Hyman et al. (2010), Study 2, Table 2",
+      "url": "https://doi.org/10.1002/acp.1638",
+      "paperMirror": "https://www.spryfeet.com/get/Hyman_et_al_2010_Unicycling_clown.pdf",
+      "scope": "Original research; direct-question table, group sizes and self-selection limitation."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Published observational study percentages",
+    "values": [
+      25.0,
+      51.3
+    ],
+    "unit": "percent reporting noticing after direct question",
+    "sampleSizes": [
+      24,
+      78
+    ],
+    "limits": "No raw counts inferred, no causal effect or injury-risk calculation; bar lengths begin at zero and compare published percentages."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": "Full-duration visual sequence plus full-file ASR; auditory verification unavailable and no audio-dependent claims used.",
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noFAQPadding": true,
+    "noInventedMetrics": true,
+    "length": "Concise note for a nine-second visual joke, one useful study chart.",
+    "seo": "Descriptive unique bilingual title and description; source-only video metadata; relevant earlier article link. No search-volume or ranking claim."
+  },
+  "sourceVideo": {
+    "id": "7699545909348142337",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699545909348142337",
+    "publishedAt": "2026-10-22T17:30:45+00:00",
+    "sourceFileSha256": "fe1cdf135c58a2ae180bcfb9d9bd6e681bcb5cd8e70fc1c901eac188ef561747",
+    "spokenLanguage": "en",
+    "meaningEvidence": [
+      "Exact authorized published owner post binds the TikTok ID, caption and original MP4.",
+      "Full-duration frame sequence, original poster and full-file audio ASR reviewed. Visible caption sets a phone-call walking joke; free arm and steps supply visual humour.",
+      "No spoken dialogue used. Audio ASR yields only an isolated music fragment, insufficient for a transcript."
+    ],
+    "limitations": [
+      "Audio could not be independently auditioned in this review interface; no quotation, music identification, ringtone or conversation content claimed.",
+      "A comedic visual sequence is not an attention assessment or behavioural experiment.",
+      "Different original MP4, duration, caption and action from the earlier texting-while-walking post; retained as separate video, with an internal link."
+    ],
+    "durationSeconds": 9,
+    "durationObservedSeconds": 9.122585,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 9.122585,
+      "sha256": "fe1cdf135c58a2ae180bcfb9d9bd6e681bcb5cd8e70fc1c901eac188ef561747"
+    }
+  }
+}
