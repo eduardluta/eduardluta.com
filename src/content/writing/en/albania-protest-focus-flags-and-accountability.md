@@ -1,6 +1,6 @@
 ---
 title: 'Albania’s Protest: Keeping the Demand in Focus'
-date: '2026-10-21'
+date: '2026-10-22'
 description: Why I wanted an Albanian anti-corruption protest to keep its focus, and why a flag dispute cannot tell
   us everything about the people in the crowd.
 standfirst: 'A flag can take over the frame. I wanted the question behind the protest to stay visible: who answers

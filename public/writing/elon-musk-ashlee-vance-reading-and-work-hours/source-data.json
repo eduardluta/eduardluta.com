@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-22",
+  "researchBatch": "batch32-2026-10-22",
+  "references": [
+    {
+      "title": "Original video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699174932164398354",
+      "scope": "Personal reading reflection and recalled hours comparison."
+    },
+    {
+      "title": "Penguin publisher catalogue",
+      "url": "https://www.penguin.co.uk/books/419660/elon-musk-by-ashlee-vance/9780753550663",
+      "scope": "Author/title and specified2015UKdigitaledition only; no biography anecdotes or verified hours quotation."
+    }
+  ],
+  "calculations": [
+    {
+      "name": "Illustrative hours comparison",
+      "inputs": {
+        "weeksForThreeMonthsApproximation": 13,
+        "weeksForYearApproximation": 52,
+        "longWeekHours": 100,
+        "comparisonWeekHours": 40
+      },
+      "formulae": [
+        "13*100=1300",
+        "52*40=2080",
+        "2080-1300=780",
+        "1300/2080*100=62.5",
+        "2080/100=20.8",
+        "100/40=2.5"
+      ],
+      "results": {
+        "shortPeriodHours": 1300,
+        "annualComparisonHours": 2080,
+        "shortfallHours": 780,
+        "shareOfAnnualHoursPercent": 62.5,
+        "equalHoursAt100PerWeekWeeks": 20.8,
+        "samePeriodHoursRatio": 2.5
+      },
+      "limits": "Approximate calendar conversion, no holidays, equal treatment of counted hours only. Not output or a recommended schedule."
+    }
+  ],
+  "editorialChecks": {
+    "bilingualParity": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noVerifiedBookQuoteClaim": true,
+    "noUniversalSuccessPromise": true,
+    "noFAQPadding": true,
+    "externalSourceBudget": "Publisher facts limited to identification of one catalogue edition; no biographical summary or review blurbs copied."
+  },
+  "sourceVideo": {
+    "id": "7699174932164398354",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699174932164398354",
+    "publishedAt": "2026-10-21T17:30:59+00:00",
+    "sourceFileSha256": "ed425358470b62183c0a8c82d93e91a77b4eeaa23a84bdac4b002c171a83821e",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-published media binding; full58.8s audio ASR reviewed as a dialect aid plus eight-frame timeline and four original-resolution frames.",
+      "On-screen viewer question asks which book changed business perspective. Creator rejects automatic transformation and names Vance’s Musk biography in speech/caption.",
+      "Near42–55s narrator recalls100versus40hours and three-month/year superiority plus momentum. Article explicitly corrects the numerical inference without presenting recalled words as verified book quotation."
+    ],
+    "limitations": [
+      "No physical book cover, language, edition or page reference is shown. Publisher catalogue identifies a reference edition only.",
+      "No actual Musk work schedule, productivity series, causal effect of reading or universal success method established."
+    ],
+    "durationSeconds": 59,
+    "durationObservedSeconds": 58.8,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 58.8,
+      "sha256": "ed425358470b62183c0a8c82d93e91a77b4eeaa23a84bdac4b002c171a83821e"
+    }
+  }
+}

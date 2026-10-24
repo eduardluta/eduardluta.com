@@ -1,6 +1,6 @@
 ---
 title: Ambrozia Meta and the Value of the Follow-Up Question
-date: '2026-10-21'
+date: '2026-10-22'
 description: 'Why I praised Ambrozia Meta’s questioning of Taulant Balla: the difference between a response and
   an answer that addresses the specific allegation.'
 standfirst: The microphones are already there. The difficult part is keeping the original question in the room when

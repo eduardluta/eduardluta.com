@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-22",
+  "researchBatch": "batch32-2026-10-22",
+  "references": [
+    {
+      "title": "Original video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699066675143920916",
+      "scope": "Actual travel scene and heritage reflection."
+    },
+    {
+      "title": "Rome municipal monument authority",
+      "url": "https://sovraintendenzaroma.it/i_luoghi/roma_medioevale_e_moderna/beni_architettonici/scalinata_di_trinita_dei_monti",
+      "scope": "Planning, bequest and papal stages."
+    },
+    {
+      "title": "Turismo Roma",
+      "url": "https://www.turismoroma.it/en/places/spanish-steps",
+      "scope": "Architect and construction versus inauguration dates."
+    },
+    {
+      "title": "Vatican ClementXI record",
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/clemente-xi.html",
+      "scope": "Identity,birthplace,pontificate dates."
+    },
+    {
+      "title": "JohnPaulII audience28April1993",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/audiences/1993/documents/hf_jp-ii_aud_19930428.html",
+      "scope": "Institutional recollection of Albanian origins."
+    },
+    {
+      "title": "Italia.it Piazza diSpagna",
+      "url": "https://www.italia.it/en/lazio/rome/piazza-di-spagna",
+      "scope": "Square-name origin."
+    }
+  ],
+  "calculations": [],
+  "editorialChecks": {
+    "bilingualParity": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "distinctHistoricalRoles": true,
+    "openingVersusCompletionDistinguished": true,
+    "noNationalOwnershipInference": true,
+    "noFAQPadding": true,
+    "wordLimits": "Brief paraphrases distributed across separate municipal,Vatican and tourism primary sources; no quoted source passages."
+  },
+  "sourceVideo": {
+    "id": "7699066675143920916",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699066675143920916",
+    "publishedAt": "2026-10-21T10:30:43+00:00",
+    "sourceFileSha256": "d2549ec5f1650d54f9c28635adeb11a799fcbd5e25af48eb995d144905f83c1c",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact owner-published media binding; complete85.051837s audio ASR reviewed as dialect aid plus eight-frame timeline and four original-resolution frames.",
+      "Rainy SpanishSteps/Barcaccia views and creator inset;34.55s frame includes card expressly saying ClementXI had an early role advancing plans.",
+      "Narration names1723/1725,SpanishEmbassy and GiovanniFrancescoAlbani; personal point is learning Italian culture through Albanian connections. Article distinguishes opening from final works and promoter from architect/funder."
+    ],
+    "limitations": [
+      "Platform sharing date is verified; original filming date not established.",
+      "No original archival genealogy or exclusive national authorship established; institutional sources support specific papal connection.",
+      "No visitor restrictions, opening times or ticket prices inferred from old source footage."
+    ],
+    "durationSeconds": 85,
+    "durationObservedSeconds": 85.051837,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 85.051837,
+      "sha256": "d2549ec5f1650d54f9c28635adeb11a799fcbd5e25af48eb995d144905f83c1c"
+    }
+  }
+}

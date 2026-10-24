@@ -1,6 +1,6 @@
 ---
 title: Fjala, ndalimi dhe pyetjet që ngre klipi i protestës
-date: '2026-10-21'
+date: '2026-10-22'
 description: Një video e montuar pretendon ndalim pas një interviste në media. Çfarë tregon, çfarë mbetet e paverifikuar
   dhe cilat shpjegime duhen kërkuar.
 standfirst: Dikush flet në mikrofon. Në gjysmën tjetër të kuadrit, policët rrethojnë një të ri. Montazhi ngre një

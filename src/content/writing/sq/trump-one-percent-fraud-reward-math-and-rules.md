@@ -1,6 +1,6 @@
 ---
 title: 'Premtimi i Trumpit për 1%: matematika dhe rregullat'
-date: '2026-10-21'
+date: '2026-10-22'
 description: Një për qind e 1 miliard dollarëve janë 10 milionë. Çfarë thotë Trump në klip, si ndryshojnë rregullat
   e DOJ-së dhe ideja për Kosovën e Shqipërinë.
 standfirst: Përqindja është e thjeshtë. Rregulli që vendos kush paguhet është pjesa që ia vlen të lexohet.

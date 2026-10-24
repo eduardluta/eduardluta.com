@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-10-22",
+  "researchBatch": "batch32-2026-10-22",
+  "references": [
+    {
+      "title": "Original edited video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699086191819296052",
+      "scope": "Political argument and source imagery, with all episode allegations attributed."
+    },
+    {
+      "title": "State Police Law82/2024",
+      "url": "https://asp.gov.al/wp-content/uploads/2025/05/Ligji-nr.-82-dt.-26.7.2024.pdf",
+      "scope": "Articles6–7: depoliticised status and rights, impartiality, transparency, accountability principles."
+    },
+    {
+      "title": "Albanian Constitution",
+      "url": "https://idp.al/wp-content/uploads/2024/01/Kushtetuta.pdf",
+      "scope": "Article80(1),(3): ministerial replies within three weeks; committee requests for state-institution explanations subject to law."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Qualitative source reading and verified institutional context",
+    "measuredOutcomes": false,
+    "limits": "No invented statistics, causation, diagnosis or case-specific legal conclusion."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noUnverifiedCausation": true,
+    "noFAQPadding": true,
+    "dates": "Exact platform upload from authorized API; source event date only stated where a primary matching record supports it.",
+    "length": "Material-led commentary; two useful visuals for56s institutional argument, one visual for10s satire.",
+    "seo": "Focused title/description/standfirst, natural topic terms, descriptive source-only video metadata; no invented search metrics.",
+    "wordLimits": "Brief paraphrases across EN/SQ; no long verbatim quotation. Constitution-derived summaries only in police article. No numerical filler."
+  },
+  "sourceVideo": {
+    "id": "7699086191819296052",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699086191819296052",
+    "publishedAt": "2026-10-21T11:46:41+00:00",
+    "sourceFileSha256": "d469f97144d1c215c03e1cd70cf38d6a8554c3e5fe983f55d50de05da87e8d90",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact published owner-ID/caption/media binding saved in source-binding32.json; complete source-duration sq ASR and 15 time-spaced frames/burned-in subtitles reviewed.",
+      "Watermark @eraldkapri, Mundësia logo and host addressing Kapri identify the speaker without inferring identity from an unlabelled face. Studio challenge concerns alleged violent dispersal, police leadership accountability and claimed closure of Parliament.",
+      "Street insert around34–42s shows officers/confrontation; last studio exchange contrasts summoning police leadership in Parliament with Kapri’s claim that it is closed. No garbled passage quoted."
+    ],
+    "limitations": [
+      "Original broadcast and inserted street recording dates not established; sharing date is not treated as episode date.",
+      "The clip is an edited partisan argument, not proof of national institutional collapse, incident legality, individual motive or every allegation.",
+      "No parliamentary request history, actual timetable, operational record or full protest sequence independently verified."
+    ],
+    "durationSeconds": 56,
+    "durationObservedSeconds": 56.133333,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 56.133333,
+      "sha256": "d469f97144d1c215c03e1cd70cf38d6a8554c3e5fe983f55d50de05da87e8d90"
+    }
+  }
+}

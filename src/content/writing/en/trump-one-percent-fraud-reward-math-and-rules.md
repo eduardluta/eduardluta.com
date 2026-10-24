@@ -1,6 +1,6 @@
 ---
 title: 'Trump’s 1% Reward Promise: The Math and the Rules'
-date: '2026-10-21'
+date: '2026-10-22'
 description: One percent of $1 billion is $10 million. What Trump says in the clip, how DOJ’s written reward rules
   differ, and the idea for Kosovo and Albania.
 standfirst: The percentage is simple. The rule that decides who gets paid is the part worth reading.

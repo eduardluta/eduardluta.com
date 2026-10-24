@@ -1,6 +1,6 @@
 ---
 title: Ambrozia Meta dhe vlera e pyetjes pasuese
-date: '2026-10-21'
+date: '2026-10-22'
 description: 'Pse e përgëzova Ambrozia Metën për pyetjet ndaj Taulant Ballës: dallimi mes një reagimi dhe përgjigjes
   që trajton akuzën konkrete.'
 standfirst: Mikrofonat janë tashmë aty. Pjesa e vështirë është ta mbash pyetjen fillestare në dhomë kur përgjigjja

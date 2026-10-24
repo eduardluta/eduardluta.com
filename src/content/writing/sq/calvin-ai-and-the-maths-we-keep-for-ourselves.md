@@ -1,6 +1,6 @@
 ---
 title: Calvin, AI-ja dhe matematika që e mbajmë për vete
-date: '2026-10-21'
+date: '2026-10-22'
 description: 'Shakaja e Calvin-it për matematikën përballë AI-së: pse ta përfundosh një ushtrim dhe ta kuptosh janë
   gjëra të ndryshme, me grafik të burimuar dhe videon.'
 standfirst: Calvin e ka dorën lart dhe një propozim për t’i shpëtuar matematikës. Atë mund ta bëjnë makinat. Ai

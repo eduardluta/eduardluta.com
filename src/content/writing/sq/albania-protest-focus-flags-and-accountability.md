@@ -1,6 +1,6 @@
 ---
 title: 'Protesta në Shqipni: ta mbajmë kërkesën në fokus'
-date: '2026-10-21'
+date: '2026-10-22'
 description: Pse desha që protesta kundër korrupsionit ta ruante fokusin te Shqipnia dhe pse një debat për flamurin
   nuk na tregon gjithçka për njerëzit në turmë.
 standfirst: 'Një flamur mund ta mbushë gjithë kuadrin. Desha që pyetja pas protestës të mbetej e dukshme: kush u

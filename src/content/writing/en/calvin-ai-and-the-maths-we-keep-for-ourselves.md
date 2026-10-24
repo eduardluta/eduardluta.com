@@ -1,6 +1,6 @@
 ---
 title: Calvin, AI and the Maths We Keep for Ourselves
-date: '2026-10-21'
+date: '2026-10-22'
 description: 'Calvin’s classroom joke meets AI-assisted learning: why finishing a maths problem and understanding
   it are different, with a sourced chart and original video.'
 standfirst: Calvin has a hand in the air and a proposal for getting out of maths. The machines can do it. He has

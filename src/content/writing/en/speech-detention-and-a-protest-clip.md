@@ -1,6 +1,6 @@
 ---
 title: Speech, Detention and the Questions a Protest Clip Raises
-date: '2026-10-21'
+date: '2026-10-22'
 description: A split-screen protest video alleges detention after a media interview. Here is what it shows, what
   remains unverified and which explanations matter.
 standfirst: Someone speaks into a microphone. In the other half of the frame, police surround a young man. The edit

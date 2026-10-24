@@ -1,0 +1,409 @@
+{
+  "batch": 32,
+  "articleDate": "2026-10-24",
+  "articles": [
+    {
+      "id": "7699174932164398354",
+      "slug": "elon-musk-ashlee-vance-reading-and-work-hours",
+      "publishedAt": "2026-10-21T17:30:59+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699174932164398354",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 59,
+      "durationObservedSeconds": 58.8,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 58.8,
+        "sha256": "ed425358470b62183c0a8c82d93e91a77b4eeaa23a84bdac4b002c171a83821e"
+      }
+    },
+    {
+      "id": "7699086191819296052",
+      "slug": "albania-police-state-claim-public-accountability",
+      "publishedAt": "2026-10-21T11:46:41+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699086191819296052",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 56,
+      "durationObservedSeconds": 56.133333,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 56.133333,
+        "sha256": "d469f97144d1c215c03e1cd70cf38d6a8554c3e5fe983f55d50de05da87e8d90"
+      }
+    },
+    {
+      "id": "7699081670078614785",
+      "slug": "rama-train-joke-freedom-and-travel-restrictions",
+      "publishedAt": "2026-10-21T11:29:13+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699081670078614785",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 10,
+      "durationObservedSeconds": 10.0078,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 10.0078,
+        "sha256": "094e665bb9a047bf0b66ef4ad537fa55c11d1688826e6b8e84c0c76455163b41"
+      }
+    },
+    {
+      "id": "7699066675143920916",
+      "slug": "spanish-steps-rome-albani-connection",
+      "publishedAt": "2026-10-21T10:30:43+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699066675143920916",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 85,
+      "durationObservedSeconds": 85.051837,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 85.051837,
+        "sha256": "d2549ec5f1650d54f9c28635adeb11a799fcbd5e25af48eb995d144905f83c1c"
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "name": "three-months-versus-one-year-hours",
+      "type": "bars",
+      "values": [
+        1300,
+        2080
+      ],
+      "en": {
+        "title": "Count the hours separately",
+        "subtitle": "Illustrative totals • not measured output",
+        "labels": [
+          "13 weeks × 100 h",
+          "52 weeks × 40 h"
+        ],
+        "display": [
+          "1,300 hours",
+          "2,080 hours"
+        ],
+        "caption": "Three months approximated as 13 weeks; one year as 52 weeks. The shorter period has 780 fewer hours. No actual work records or productivity are measured.",
+        "alt": "Hypothetical hours: thirteen weeks at one hundred hours gives 1,300; fifty-two weeks at forty gives 2,080.",
+        "foot": "Original arithmetic • Assumptions in note 3"
+      },
+      "sq": {
+        "title": "Numëroji orët më vete",
+        "subtitle": "Totale ilustruese • jo rezultat i matur",
+        "labels": [
+          "13 javë × 100 orë",
+          "52 javë × 40 orë"
+        ],
+        "display": [
+          "1.300 orë",
+          "2.080 orë"
+        ],
+        "caption": "Tre muaj përafrohen me 13 javë; një vit me 52 javë. Periudha më e shkurtër ka 780 orë më pak. Nuk maten orare reale apo produktiviteti.",
+        "alt": "Orë hipotetike: trembëdhjetë javë me njëqind orë japin 1.300; pesëdhjetë e dy javë me dyzet japin 2.080.",
+        "foot": "Llogaritje origjinale • Supozimet në shënimin 3"
+      },
+      "slug": "elon-musk-ashlee-vance-reading-and-work-hours"
+    },
+    {
+      "name": "from-reading-to-one-examined-change",
+      "type": "cards",
+      "en": {
+        "title": "Give the idea somewhere to go",
+        "subtitle": "An editorial reading exercise",
+        "items": [
+          [
+            "Read",
+            "What does the passage actually say?"
+          ],
+          [
+            "Notice",
+            "Which assumption about my work does it challenge?"
+          ],
+          [
+            "Try",
+            "Choose one concrete change and examine what happens."
+          ]
+        ],
+        "caption": "Original prompts for applying a reading, not a tested success formula or a claim about Vance’s method.",
+        "alt": "Three prompts move from the actual passage to a challenged assumption and one change to examine.",
+        "foot": "Editorial exercise • No promised outcome"
+      },
+      "sq": {
+        "title": "Jepi idesë një drejtim",
+        "subtitle": "Ushtrim editorial leximi",
+        "items": [
+          [
+            "Lexo",
+            "Çfarë thotë realisht pasazhi?"
+          ],
+          [
+            "Vëre",
+            "Cilin supozim për punën time e sfidon?"
+          ],
+          [
+            "Provo",
+            "Zgjidh një ndryshim konkret dhe shqyrto çfarë ndodh."
+          ]
+        ],
+        "caption": "Pyetje origjinale për ta zbatuar një lexim, jo formulë suksesi e testuar apo pretendim për metodën e Vance.",
+        "alt": "Tri pyetje kalojnë nga pasazhi te supozimi i sfiduar dhe një ndryshim që mund të shqyrtohet.",
+        "foot": "Ushtrim editorial • Pa rezultat të premtuar"
+      },
+      "slug": "elon-musk-ashlee-vance-reading-and-work-hours"
+    },
+    {
+      "name": "what-the-police-state-edit-contains",
+      "type": "cards",
+      "en": {
+        "title": "Read the argument and the images separately",
+        "subtitle": "Three parts of this edited source",
+        "items": [
+          [
+            "Studio claim",
+            "Kapri challenges police conduct and the availability of Parliament."
+          ],
+          [
+            "Street inserts",
+            "Helmeted officers and a confrontation accompany the argument."
+          ],
+          [
+            "Unresolved record",
+            "The full operation, official grounds and original dates are not supplied."
+          ]
+        ],
+        "caption": "A source-reading map, not an independent finding about the street intervention.",
+        "alt": "Three cards distinguish the television argument, the street footage and missing episode records.",
+        "foot": "Original source review • Claims remain attributed"
+      },
+      "sq": {
+        "title": "Ta ndajmë argumentin nga pamjet",
+        "subtitle": "Tri pjesë të këtij burimi të montuar",
+        "items": [
+          [
+            "Pretendimi në studio",
+            "Kapri vë në dyshim veprimet e policisë dhe funksionimin e Kuvendit."
+          ],
+          [
+            "Pamjet e rrugës",
+            "Policë me helmeta dhe një përballje shoqërojnë argumentin."
+          ],
+          [
+            "Dokumentacioni i pasqaruar",
+            "Nuk jepen operacioni i plotë, bazat zyrtare apo datat origjinale."
+          ]
+        ],
+        "caption": "Hartë leximi e burimit, jo përfundim i pavarur për ndërhyrjen në rrugë.",
+        "alt": "Tri karta dallojnë argumentin televiziv, pamjet e rrugës dhe dokumentacionin që mungon.",
+        "foot": "Shqyrtim i burimit • Pretendime të atribuuara"
+      },
+      "slug": "albania-police-state-claim-public-accountability"
+    },
+    {
+      "name": "parliamentary-accountability-article-80",
+      "type": "cards",
+      "en": {
+        "title": "Two routes already in the Constitution",
+        "subtitle": "Article 80 • Parliamentary scrutiny",
+        "items": [
+          [
+            "Questions and interpellations",
+            "The Prime Minister and other ministers must answer MPs within three weeks."
+          ],
+          [
+            "Committee requests",
+            "State-institution heads provide explanations and information as the law permits."
+          ],
+          [
+            "The follow-up to check",
+            "Was a request made, and where is its recorded response?"
+          ]
+        ],
+        "caption": "The first two cards summarise Article 80(1), (3). The last is an editorial question; the clip does not establish the request history.",
+        "alt": "Two constitutional routes for explanations and a question about whether they were used.",
+        "foot": "Constitution, Article 80 • No case-specific finding"
+      },
+      "sq": {
+        "title": "Dy rrugë që i parashikon Kushtetuta",
+        "subtitle": "Neni 80 • Kontrolli parlamentar",
+        "items": [
+          [
+            "Pyetje dhe interpelanca",
+            "Kryeministri e ministrat e tjerë u përgjigjen deputetëve brenda tri javëve."
+          ],
+          [
+            "Kërkesa të komisioneve",
+            "Drejtuesit e institucioneve japin shpjegime e informacion sa lejon ligji."
+          ],
+          [
+            "Pyetja që duhet kontrolluar",
+            "A u bë kërkesë dhe ku është përgjigjja e dokumentuar?"
+          ]
+        ],
+        "caption": "Dy kartat e para përmbledhin nenin 80(1), (3). E fundit është pyetje editoriale; klipi nuk përcakton historinë e kërkesave.",
+        "alt": "Dy rrugë kushtetuese për shpjegime dhe pyetja nëse u përdorën.",
+        "foot": "Kushtetuta, neni 80 • Jo përfundim për rastin"
+      },
+      "slug": "albania-police-state-claim-public-accountability"
+    },
+    {
+      "name": "the-excerpt-and-the-fuller-statement",
+      "type": "cards",
+      "en": {
+        "title": "The excerpt is not the whole statement",
+        "subtitle": "Source context • 21 October 2026",
+        "items": [
+          [
+            "In the clip",
+            "Rama lists airports, hotels, trains and transport."
+          ],
+          [
+            "In the fuller speech",
+            "He proposes a register and restrictions for people he describes as violent."
+          ],
+          [
+            "Still to establish",
+            "A speech is not evidence of a final rule or an individual travel decision."
+          ]
+        ],
+        "caption": "The official transcript restores the stated target. Neither source proves that a proposed restriction has been enacted.",
+        "alt": "Three cards compare the short excerpt, the fuller official speech and the limit of what either establishes.",
+        "foot": "Original edit and official transcript • Qualitative comparison"
+      },
+      "sq": {
+        "title": "Pjesa e shkurtër nuk është gjithë deklarata",
+        "subtitle": "Konteksti i burimit • 21 tetor 2026",
+        "items": [
+          [
+            "Në klip",
+            "Rama rendit aeroporte, hotele, trena dhe transportin."
+          ],
+          [
+            "Në fjalën e plotë",
+            "Propozon regjistër e kufizime për njerëzit që i përshkruan si të dhunshëm."
+          ],
+          [
+            "Për t’u përcaktuar",
+            "Fjala nuk provon rregull përfundimtar apo vendim individual udhëtimi."
+          ]
+        ],
+        "caption": "Transkripti zyrtar rikthen objektin e deklaruar. Asnjëri burim nuk provon se kufizimi i propozuar ka hyrë në fuqi.",
+        "alt": "Tri karta krahasojnë pjesën e shkurtër, fjalën zyrtare më të plotë dhe kufirin e provave.",
+        "foot": "Montazhi dhe transkripti zyrtar • Krahasim cilësor"
+      },
+      "slug": "rama-train-joke-freedom-and-travel-restrictions"
+    },
+    {
+      "name": "spanish-steps-planning-opening-completion",
+      "type": "cards",
+      "en": {
+        "title": "One monument, different stages",
+        "subtitle": "Planning is not the opening date",
+        "items": [
+          [
+            "1717",
+            "Clement XI calls a design competition."
+          ],
+          [
+            "1721",
+            "Clement XI’s pontificate ends."
+          ],
+          [
+            "1723–1726",
+            "Construction period in Rome’s official account."
+          ],
+          [
+            "1725",
+            "Jubilee inauguration under Benedict XIII."
+          ]
+        ],
+        "caption": "The 1725 opening falls within the longer construction period. Clement XI’s competition preceded the building work.",
+        "alt": "Timeline: 1717 competition, Clement XI’s papacy ends in 1721, construction in 1723–1726, inauguration in 1725.",
+        "foot": "Rome monument authority [2] • Turismo Roma [3] • Vatican [4]"
+      },
+      "sq": {
+        "title": "Një monument, faza të ndryshme",
+        "subtitle": "Planifikimi nuk është data e hapjes",
+        "items": [
+          [
+            "1717",
+            "Klementi XI shpall konkurs projektimi."
+          ],
+          [
+            "1721",
+            "Përfundon pontifikati i Klementit XI."
+          ],
+          [
+            "1723–1726",
+            "Periudha e ndërtimit sipas Romës."
+          ],
+          [
+            "1725",
+            "Inaugurimi për Jubileun nën Benediktin XIII."
+          ]
+        ],
+        "caption": "Hapja më 1725 bie brenda periudhës më të gjatë të ndërtimit. Konkursi i Klementit XI i parapriu punimeve.",
+        "alt": "Dallohen konkursi më 1717, fundi i pontifikatit më 1721, ndërtimi më 1723–1726 dhe inaugurimi më 1725.",
+        "foot": "Autoriteti i Romës [2] • Turismo Roma [3] • Vatikani [4]"
+      },
+      "slug": "spanish-steps-rome-albani-connection"
+    },
+    {
+      "name": "spanish-steps-names-and-roles",
+      "type": "cards",
+      "en": {
+        "title": "Name the different contributions",
+        "subtitle": "A connection without erasing the other roles",
+        "items": [
+          [
+            "Albani connection",
+            "Clement XI’s early competition initiative."
+          ],
+          [
+            "Architect",
+            "Francesco De Sanctis."
+          ],
+          [
+            "French bequest",
+            "Stefano Gueffier."
+          ],
+          [
+            "Spanish name",
+            "The square’s link to Spain’s embassy."
+          ]
+        ],
+        "caption": "These are different roles in the place’s history. Ancestry does not establish architectural authorship or exclusive national ownership.",
+        "alt": "Cards distinguish Clement XI’s initiative, De Sanctis’s architecture, Gueffier’s bequest and the embassy behind the square’s name.",
+        "foot": "Historical roles [2,3,5] • Not a claim of sole authorship"
+      },
+      "sq": {
+        "title": "Emërtoji kontributet e ndryshme",
+        "subtitle": "Një lidhje që nuk i fshin rolet e tjera",
+        "items": [
+          [
+            "Lidhja me Albanët",
+            "Nisma e hershme e Klementit XI për konkursin."
+          ],
+          [
+            "Arkitekti",
+            "Francesco De Sanctis."
+          ],
+          [
+            "Trashëgimia franceze",
+            "Stefano Gueffier."
+          ],
+          [
+            "Emri spanjoll",
+            "Lidhja e sheshit me ambasadën spanjolle."
+          ]
+        ],
+        "caption": "Janë role të ndryshme në historinë e vendit. Prejardhja nuk provon autorësi arkitekturore apo pronësi kombëtare ekskluzive.",
+        "alt": "Dallohen nisma e Klementit XI, arkitektura e De Sanctis, trashëgimia e Gueffier dhe ambasada pas emrit të sheshit.",
+        "foot": "Rolet historike [2,3,5] • Pa autorësi të vetme"
+      },
+      "slug": "spanish-steps-rome-albani-connection"
+    }
+  ]
+}

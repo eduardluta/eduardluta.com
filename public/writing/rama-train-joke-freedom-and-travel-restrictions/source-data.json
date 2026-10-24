@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-10-22",
+  "researchBatch": "batch32-2026-10-22",
+  "references": [
+    {
+      "title": "Original satirical video and caption",
+      "url": "https://www.tiktok.com/@eduardluta/video/7699081670078614785",
+      "scope": "Source audio plus clearly described editorial joke/emoji."
+    },
+    {
+      "title": "Official PM speech transcript21October2026",
+      "url": "https://www.kryeministria.al/newsroom/kryeministri-edi-rama-ne-takimin-me-drejtues-te-sistemit-bankar/",
+      "scope": "Matching transport sentence and fuller proposed-register context. Government statements attributed, not adopted as proved allegations."
+    },
+    {
+      "title": "Bank of Albania meeting notice21October2026",
+      "url": "https://www.bankofalbania.org/Shtypi/Njoftimet_per_shtyp/Takim_mbi_zhvillimet_e_fundit_dhe_funksionimin_e_sistemit_bankar.html",
+      "scope": "Primary confirmation of meeting date and participants; not independent verification of all speech claims."
+    }
+  ],
+  "calculations": [],
+  "visuals": {
+    "type": "Qualitative source reading and verified institutional context",
+    "measuredOutcomes": false,
+    "limits": "No invented statistics, causation, diagnosis or case-specific legal conclusion."
+  },
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualFullSourceReviewed": true,
+    "sourceOnlyVideoMetadata": true,
+    "noInventedFirstPersonExperience": true,
+    "noUnverifiedCausation": true,
+    "noFAQPadding": true,
+    "dates": "Exact platform upload from authorized API; source event date only stated where a primary matching record supports it.",
+    "length": "Material-led commentary; two useful visuals for56s institutional argument, one visual for10s satire.",
+    "seo": "Focused title/description/standfirst, natural topic terms, descriptive source-only video metadata; no invented search metrics.",
+    "wordLimits": "Brief paraphrases across EN/SQ; no long verbatim quotation. Constitution-derived summaries only in police article. No numerical filler."
+  },
+  "sourceVideo": {
+    "id": "7699081670078614785",
+    "url": "https://www.tiktok.com/@eduardluta/video/7699081670078614785",
+    "publishedAt": "2026-10-21T11:29:13+00:00",
+    "sourceFileSha256": "094e665bb9a047bf0b66ef4ad537fa55c11d1688826e6b8e84c0c76455163b41",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact published owner-ID/caption/media binding saved in source-binding32.json; complete10.0078s source-duration sq ASR and six time-spaced frames reviewed.",
+      "Original audio lists closing access in airports, hotels, trains and transport; added Albanian joke highlights words and a clown emoji masks the speaker after roughly five seconds.",
+      "Official PM transcript dated21Oct2026 matches the sentence, restores proposed-register/people-described-as-violent context; Bank of Albania independently confirms meeting participation/date."
+    ],
+    "limitations": [
+      "Political labels about confusion or remaining in power are satire/opinion, not a diagnosis or verified private motive.",
+      "The speech establishes the stated proposal and target; it does not independently establish allegations about violence, a final legal instrument, enactment or an individual travel ban.",
+      "No claim that all critics or peaceful protesters are already barred; no invented train-service, legal-outcome or ancient-ancestry finding."
+    ],
+    "durationSeconds": 10,
+    "durationObservedSeconds": 10.0078,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 10.0078,
+      "sha256": "094e665bb9a047bf0b66ef4ad537fa55c11d1688826e6b8e84c0c76455163b41"
+    }
+  }
+}
