@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-10-25",
+  "researchBatch": "batch34-2026-10-25",
+  "references": [
+    {
+      "id": 1,
+      "title": "Original owner post and complete archival edit",
+      "url": "https://www.tiktok.com/@eduardluta/video/7700329467192888597",
+      "scope": "Actual narration, edited source, added captions and platform sharing date; claims attributed."
+    },
+    {
+      "id": 2,
+      "title": "Human Rights Watch World Report1998: Albania",
+      "url": "https://www.hrw.org/legacy/worldreport/Helsinki-01.htm",
+      "scope": "Reported22January1997attack on independentwriterRama; unknownassailants; exactfilmdate andperpetratorfinding notestablished."
+    },
+    {
+      "id": 3,
+      "title": "ODIHR1996 Albania parliamentary-election observation report",
+      "url": "https://odihr.osce.org/sites/default/files/f/documents/8/c/13567.pdf",
+      "scope": "Historical legal-provision assessment, conclusions p2; not a ballot-fraud proportion or current-election measure."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "Two original qualitative diagrams organise chronology and distinguish source statements, historical legal findings and editorial questions; no measured current-freedom score or invented statistics.",
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualMeaningGroundedInFullSource": true,
+    "sourceOnlyVideoMetadata": true,
+    "historicalDatesKeptSeparate": true,
+    "claimsAttributed": true,
+    "noInventedFirsthandExperience": true,
+    "noFaqPadding": true,
+    "noCurrentCaseFinding": true,
+    "externalSourceBudget": "Brief original paraphrases; no verbatim externalreport quotation. Spoken-source centralquote eightEnglishwords; Albanian paraphrase, not a full transcript."
+  },
+  "sourceVideo": {
+    "id": "7700329467192888597",
+    "url": "https://www.tiktok.com/@eduardluta/video/7700329467192888597",
+    "publishedAt": "2026-10-24T20:11:08+00:00",
+    "sourceFileSha256": "6a885b2939e121fc8a214c4fc29a8a5550970d63ea27caef6e08de52103ba80e",
+    "spokenLanguage": "en",
+    "captionLanguage": "sq",
+    "meaningEvidence": [
+      "Exact published owner account record/caption/MP4 binding verified; complete31.000998-second source,12-frame timeline, four full-resolution frames and original selected thumbnail reviewed.",
+      "English narrator describes artist/activist Rama, an assault and his belief that attackers received ruling-party orders. Rama alleges election manipulation and contrasts wealth with freedom. Added Albanian labels date interview1997 and carry creator political comparison.",
+      "The full-file automatic transcription identifies English, consistent with the speech represented by the added Albanian captions; clear central wording is used narrowly rather than publishing the automatic transcript.",
+      "Independent historical context checked against HRW and ODIHR primary reports, preserving each report’s limits."
+    ],
+    "limitations": [
+      "Exact original filming day, full original broadcast and original broadcaster not independently authenticated. An added1997label is not treated as a fully authenticated airdate.",
+      "Perpetrator identity and chain of command remain unestablished here; Rama’s accusation and HRW suspicion are attributed rather than promoted to proof.",
+      "Historical evidence does not establish a specific present-day allegation, current fraud rate, psychological diagnosis or private motive.",
+      "Original clip has English speech with Albanian overlays; source is not represented as an Albanian-spoken interview.",
+      "Automatic transcription is a review aid; uncertain wording is not treated as a verified quotation."
+    ],
+    "durationSeconds": 31,
+    "durationObservedSeconds": 31.000998,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 31.000998,
+      "sha256": "6a885b2939e121fc8a214c4fc29a8a5550970d63ea27caef6e08de52103ba80e"
+    }
+  }
+}

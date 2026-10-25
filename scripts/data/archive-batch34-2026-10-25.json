@@ -1,0 +1,126 @@
+{
+  "batch": 34,
+  "articleDate": "2026-10-25",
+  "articles": [
+    {
+      "id": "7700329467192888597",
+      "slug": "edi-rama-1997-wealth-and-freedom",
+      "publishedAt": "2026-10-24T20:11:08+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7700329467192888597",
+      "language": "en",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 31,
+      "durationObservedSeconds": 31.000998,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 31.000998,
+        "sha256": "6a885b2939e121fc8a214c4fc29a8a5550970d63ea27caef6e08de52103ba80e"
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "name": "rama-archive-dates-and-records",
+      "type": "cards",
+      "en": {
+        "title": "Put the dates beside the image",
+        "subtitle": "Different records, different dates",
+        "items": [
+          [
+            "26 May / 2 June 1996",
+            "The parliamentary elections observed by ODIHR."
+          ],
+          [
+            "22 January 1997",
+            "HRW records a serious attack on Rama."
+          ],
+          [
+            "1997 label",
+            "Supplied by the edit; exact filming day unverified."
+          ],
+          [
+            "24 October 2026",
+            "This post is shared, carrying the older footage."
+          ]
+        ],
+        "caption": "Chronology separates election context, a reported attack, the edit’s date label and the platform sharing date. It does not identify the attackers or authenticate an original broadcast.",
+        "alt": "Four dates distinguish the 1996 elections, reported January 1997 attack, 1997 edit label and October 2026 share.",
+        "foot": "Original post [1] • HRW [2] • ODIHR [3]"
+      },
+      "sq": {
+        "title": "Datat pranë pamjes",
+        "subtitle": "Dokumente të ndryshme, data të ndryshme",
+        "items": [
+          [
+            "26 maj / 2 qershor 1996",
+            "Zgjedhjet parlamentare që vëzhgoi ODIHR-i."
+          ],
+          [
+            "22 janar 1997",
+            "HRW regjistron një sulm të rëndë ndaj Ramës."
+          ],
+          [
+            "Shënimi 1997",
+            "E jep montazhi; dita e saktë e xhirimit e paverifikuar."
+          ],
+          [
+            "24 tetor 2026",
+            "Shpërndahet ky postim me pamjet e vjetra."
+          ]
+        ],
+        "caption": "Kronologjia ndan sfondin zgjedhor, sulmin e raportuar, shënimin e montazhit dhe datën e postimit. Nuk identifikon sulmuesit dhe nuk vërteton transmetimin origjinal.",
+        "alt": "Katër data ndajnë zgjedhjet e 1996-s, sulmin e raportuar të janarit 1997, shënimin 1997 dhe postimin e tetorit 2026.",
+        "foot": "Postimi [1] • HRW [2] • ODIHR [3]"
+      },
+      "slug": "edi-rama-1997-wealth-and-freedom"
+    },
+    {
+      "name": "freedom-principle-record-and-question",
+      "type": "cards",
+      "en": {
+        "title": "Keep three statements distinct",
+        "subtitle": "A principle, a record and a present question",
+        "items": [
+          [
+            "The clip",
+            "Wealth does not remove the need for freedom."
+          ],
+          [
+            "The historical report",
+            "Independent context for the 1996 elections."
+          ],
+          [
+            "The question today",
+            "Apply the same principle to whoever governs."
+          ]
+        ],
+        "caption": "The report counts legal provisions, not fraudulent ballots. Neither the archive nor this diagram supplies a finding about a specific current allegation.",
+        "alt": "Three cards distinguish the clip’s principle, independent historical context and an editorial question for the present.",
+        "foot": "Source reading • Historical scope in note 3"
+      },
+      "sq": {
+        "title": "Ndaji tre pohime",
+        "subtitle": "Një parim, një dokument dhe një pyetje sot",
+        "items": [
+          [
+            "Klipi",
+            "Pasuria nuk e heq nevojën për liri."
+          ],
+          [
+            "Raporti historik",
+            "Kontekst i pavarur për zgjedhjet e vitit 1996."
+          ],
+          [
+            "Pyetja sot",
+            "I njëjti parim për këdo që qeveris."
+          ]
+        ],
+        "caption": "Raporti numëron dispozita ligjore, jo fletëvotime të manipuluara. As arkivi, as diagrami nuk japin konstatim për një akuzë të caktuar sot.",
+        "alt": "Tri karta ndajnë parimin e klipit, kontekstin historik të pavarur dhe pyetjen editoriale për sot.",
+        "foot": "Lexim i burimit • Fusha historike në shënimin 3"
+      },
+      "slug": "edi-rama-1997-wealth-and-freedom"
+    }
+  ]
+}
