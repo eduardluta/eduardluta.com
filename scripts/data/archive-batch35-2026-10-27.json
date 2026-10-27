@@ -1,0 +1,71 @@
+{
+  "batch": 35,
+  "articleDate": "2026-10-27",
+  "articles": [
+    {
+      "id": "7700930670922632468",
+      "slug": "rama-vucic-political-satire-peoples-voice",
+      "publishedAt": "2026-10-26T11:04:01+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7700930670922632468",
+      "language": "und",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 15,
+      "durationObservedSeconds": 15.042,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 15.042,
+        "sha256": "4e4fbc2a20256ccb79e89182dfd8a3384bc084ba503aad929ecfeaa80aef61ea"
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "name": "satire-message-and-civic-principles",
+      "type": "cards",
+      "en": {
+        "title": "Keep the scene and its message distinct",
+        "subtitle": "Political satire, with its label intact",
+        "items": [
+          [
+            "The imagined scene",
+            "Rama and Vučić portrayed crying on a phone call."
+          ],
+          [
+            "The caption’s message",
+            "Citizens should not see themselves as powerless."
+          ],
+          [
+            "The civic principles",
+            "Expression, peaceful assembly and participation."
+          ]
+        ],
+        "caption": "The picture is a satirical portrayal. The civic reference adds principles, not proof of a real call or event.",
+        "alt": "Three cards separate the imagined phone scene, the caption’s message and civic principles.",
+        "foot": "Original post [1] • UDHR Articles 19–21 [2]"
+      },
+      "sq": {
+        "title": "Ndaji skenën dhe mesazhin e saj",
+        "subtitle": "Satirë politike, me shënimin pranë saj",
+        "items": [
+          [
+            "Skena e imagjinuar",
+            "Rama e Vuçiqi paraqiten duke qarë në telefon."
+          ],
+          [
+            "Mesazhi i përshkrimit",
+            "Qytetarët të mos e shohin veten si të pafuqishëm."
+          ],
+          [
+            "Parimet qytetare",
+            "Shprehja, tubimi paqësor dhe pjesëmarrja."
+          ]
+        ],
+        "caption": "Pamja është paraqitje satirike. Referenca qytetare shton parime, jo prova të një telefonate apo ngjarjeje reale.",
+        "alt": "Tri karta ndajnë skenën e imagjinuar në telefon, mesazhin e përshkrimit dhe parimet qytetare.",
+        "foot": "Postimi origjinal [1] • DUDNJ, nenet 19–21 [2]"
+      },
+      "slug": "rama-vucic-political-satire-peoples-voice"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-27",
+  "researchBatch": "batch35-2026-10-27",
+  "references": [
+    {
+      "id": 1,
+      "title": "Exact original owner post and complete political-satire edit",
+      "url": "https://www.tiktok.com/@eduardluta/video/7700930670922632468",
+      "scope": "Satirical scene, explicit satire caption, original sharing date and owner-source binding."
+    },
+    {
+      "id": 2,
+      "title": "United Nations, Universal Declaration of Human Rights",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights/",
+      "scope": "Articles19–21 give principles of expression, peaceful assembly and political participation; not a case finding about the portrayed figures."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "One original qualitative three-card diagram distinguishes the fictional portrayal, caption message and civic principles. No plotted measurement or invented statistics.",
+  "editorialChecks": {
+    "bilingualParity": true,
+    "actualMeaningGroundedInSourceAndExplicitSatireCaption": true,
+    "sourceOnlyVideoMetadata": true,
+    "fictionalSceneClearlyLabelled": true,
+    "claimsAttributed": true,
+    "noInventedFirsthandExperience": true,
+    "noFaqPadding": true,
+    "noRealCallOrEmotionClaim": true,
+    "noUnverifiedAIProvenance": true,
+    "externalSourceBudget": "Two brief equivalent primary-source paraphrases plus concise figure/notes in EN/SQ; no verbatim UN quotation. No dialogue quote or full transcript."
+  },
+  "sourceVideo": {
+    "id": "7700930670922632468",
+    "url": "https://www.tiktok.com/@eduardluta/video/7700930670922632468",
+    "publishedAt": "2026-10-26T11:04:01+00:00",
+    "sourceFileSha256": "4e4fbc2a20256ccb79e89182dfd8a3384bc084ba503aad929ecfeaa80aef61ea",
+    "spokenLanguage": "und",
+    "captionLanguage": "sq",
+    "meaningEvidence": [
+      "Exact published owner account record/caption/MP4 binding verified. Full15.042-second original processed by one automatic ASR pass; four full-resolution frames,15-frame1fps timeline and original selected poster actually visually reviewed.",
+      "Continuous split-screen satirical portrayal of Rama and Vučić with phones and crying expressions. No crowd, protest, election result or other event footage appears. Original caption explicitly labels political satire.",
+      "The audio review aid gives only a short uncertain fragment; neither dialogue quotations nor actual voice identity or language are asserted. The article meaning rests on the actual satirical scene and explicit creator caption."
+    ],
+    "limitations": [
+      "Not authenticated as a real phone call, real exchange, spontaneous crying or a documentary event.",
+      "No claim about AI tools, compositing method, private motive, actual emotions or real current government/election outcome.",
+      "No reliable full dialogue transcript; automatic hr detection at0.382 is insufficient to label the spoken source language.",
+      "The caption’s strong unity claim is political conviction, not an empirical guarantee of success."
+    ],
+    "durationSeconds": 15,
+    "durationObservedSeconds": 15.042,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 15.042,
+      "sha256": "4e4fbc2a20256ccb79e89182dfd8a3384bc084ba503aad929ecfeaa80aef61ea"
+    }
+  }
+}
