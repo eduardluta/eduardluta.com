@@ -1,0 +1,118 @@
+{
+  "batch": 36,
+  "articleDate": "2026-10-28",
+  "articles": [
+    {
+      "id": "7701259985698721044",
+      "slug": "arlinda-zekaj-protection-institutional-responsibility",
+      "publishedAt": "2026-10-27T08:21:54+00:00",
+      "url": "https://www.tiktok.com/@eduardluta/video/7701259985698721044",
+      "language": "sq",
+      "posterFilename": "video-thumbnail.jpg",
+      "durationSeconds": 116,
+      "durationObservedSeconds": 115.933333,
+      "durationPrecision": "nearest whole second; half seconds round up",
+      "durationEvidence": {
+        "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+        "durationObservedSeconds": 115.933333,
+        "sha256": "62a5dd55997161f40ecf627f7ea1d7f183b16cecc4bdeb3a5f570db8dee888b2"
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "name": "words-reaction-and-investigation",
+      "type": "cards",
+      "en": {
+        "title": "Three things that must stay distinct",
+        "subtitle": "The excerpt is not the whole case file",
+        "items": [
+          [
+            "The recorded words",
+            "A distinction between justice institutions and Government."
+          ],
+          [
+            "My criticism",
+            "Protection should not require a political connection."
+          ],
+          [
+            "The investigation",
+            "Establish who knew what and which actions followed."
+          ]
+        ],
+        "caption": "A source statement, a political judgment and a case finding have different evidential roles.",
+        "alt": "Three cards separate the minister’s words, the author’s criticism and questions for an investigation.",
+        "foot": "Original video [1] • Official call for inquiry [2]"
+      },
+      "sq": {
+        "title": "Tri gjëra që duhen nda",
+        "subtitle": "Fragmenti nuk është dosja e plotë",
+        "items": [
+          [
+            "Fjalët e regjistruara",
+            "Dallim mes institucioneve të drejtësisë dhe Qeverisë."
+          ],
+          [
+            "Kritika ime",
+            "Mbrojtja nuk duhet me kërku lidhje politike."
+          ],
+          [
+            "Hetimi",
+            "Të përcaktojë kush dinte çka dhe çfarë veprimesh pasuan."
+          ]
+        ],
+        "caption": "Pohimi në burim, gjykimi politik dhe konstatimi për një rast kanë role të ndryshme si prova.",
+        "alt": "Tri karta ndajnë fjalët e ministres, kritikën e autorit dhe pyetjet për hetimin.",
+        "foot": "Videoja origjinale [1] • Kërkesa zyrtare për hetim [2]"
+      },
+      "slug": "arlinda-zekaj-protection-institutional-responsibility"
+    },
+    {
+      "name": "protection-coordination-and-accountability",
+      "type": "cards",
+      "en": {
+        "title": "Organise the response around the victim",
+        "subtitle": "A general coordination framework, not a victim’s obstacle course",
+        "items": [
+          [
+            "Protection and support",
+            "The person facing danger remains at the centre."
+          ],
+          [
+            "Institutional coordination",
+            "Services cooperate; emergencies require direct coordination."
+          ],
+          [
+            "Accountability",
+            "Examine actual warnings, decisions and responses."
+          ]
+        ],
+        "caption": "Regulation 01/2025 supplies coordination principles. These cards do not establish whether an official breached a duty in this case.",
+        "alt": "Three cards organise victim-centred protection, institutional coordination and evidence-based accountability.",
+        "foot": "Regulation 01/2025 [4] • Case inquiry [2]"
+      },
+      "sq": {
+        "title": "Organizoje reagimin rreth viktimës",
+        "subtitle": "Kornizë e përgjithshme koordinimi, jo pengesa për viktimën",
+        "items": [
+          [
+            "Mbrojtja dhe mbështetja",
+            "Njeriu që përballet me rrezik mbetet në qendër."
+          ],
+          [
+            "Koordinimi institucional",
+            "Shërbimet bashkëpunojnë; emergjencat kërkojnë koordinim të drejtpërdrejtë."
+          ],
+          [
+            "Llogaridhënia",
+            "Të shqyrtohen paralajmërimet, vendimet dhe reagimet konkrete."
+          ]
+        ],
+        "caption": "Rregullorja 01/2025 jep parime koordinimi. Kartat nuk vërtetojnë nëse një zyrtar shkeli detyrën në këtë rast.",
+        "alt": "Tri karta renditin mbrojtjen me viktimën në qendër, koordinimin dhe llogaridhënien e mbështetur në prova.",
+        "foot": "Rregullorja 01/2025 [4] • Hetimi i rastit [2]"
+      },
+      "slug": "arlinda-zekaj-protection-institutional-responsibility"
+    }
+  ]
+}

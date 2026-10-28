@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-28",
+  "researchBatch": "batch36-2026-10-28",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://www.tiktok.com/@eduardluta/video/7701259985698721044",
+      "scope": "Exact original creator commentary, parliamentary insets and protest announcement."
+    },
+    {
+      "id": 2,
+      "url": "https://kryeministri.rks-gov.net/news/fjala-e-plote-e-kryeministrit-kurti-ne-seancen-e-jashtezakonshme-te-kuvendit-te-kosoves/",
+      "scope": "Official Oct26 case account and call for investigation, not a verdict."
+    },
+    {
+      "id": 3,
+      "url": "https://kuvendikosoves.org/shq/punesimi/per-publikun/lajmi/seance-e-jashtezakonshme-plenare-e-kuvendit-38335/",
+      "scope": "Official session date and justice minister’s role; not the full disputed quote transcript."
+    },
+    {
+      "id": 4,
+      "url": "https://md.rks-gov.net/wp-content/uploads/2025/10/RREGULLORE_QRK_-_Nr._01_2025_PER_MEKANIZMIN_KOORDINUES_LOKAL_PER_MBROJTJE_NGA_DHUNA_NE_FAMILJE_DHUNA_NDAJ_GRAVE_DHE_DHUNA_NE_BAZA_GJINORE.pdf",
+      "scope": "General coordination framework; no case finding."
+    }
+  ],
+  "calculations": [],
+  "visualMethod": "Two original qualitative three-card diagrams separate source/opinion/inquiry and victim-centred coordination. No measurements or invented statistics. Exactduration115.933333seconds rounds116seconds for site metadata.",
+  "editorialChecks": {
+    "bilingualParity": true,
+    "sourceOnlyVideoMetadata": true,
+    "claimsAttributed": true,
+    "noInventedFirsthandExperience": true,
+    "noFaqPadding": true,
+    "noLaughterMotiveInference": true,
+    "noIndividualGuiltFinding": true,
+    "protestAnnouncementDatedAndAttributed": true,
+    "externalSourceBudget": "Brief equivalent primary-source paraphrases and source notes in both languages; no reproduced official speech passages or personal case-file documents."
+  },
+  "sourceVideo": {
+    "id": "7701259985698721044",
+    "url": "https://www.tiktok.com/@eduardluta/video/7701259985698721044",
+    "publishedAt": "2026-10-27T08:21:54+00:00",
+    "sourceFileSha256": "62a5dd55997161f40ecf627f7ea1d7f183b16cecc4bdeb3a5f570db8dee888b2",
+    "spokenLanguage": "sq",
+    "meaningEvidence": [
+      "Exact published owner TikTok ID/caption/media record binds the original MP4. Full115.933333second audio processed with one Albanian ASR pass; a33–67second no-VAD pass addresses a concrete gap in the first output.",
+      "Original selected poster,four full-resolution frames,24five-second timeline frames,and full-resolution quote/protest frames actually viewed. The source combines creator commentary with parliamentary insets; it is not a full official hearing.",
+      "Clear inset statement at11.72–33.42seconds matches creator caption. No unreliable creator ASR wording or insults are reproduced as quotations. Protest date is source announcement, not occurrence proof."
+    ],
+    "limitations": [
+      "Automatic transcription is noisy; no full verbatim transcript or independent claimed audio listening.",
+      "Visible smiles do not establish what the subjects were reacting to or their motives.",
+      "The original video and official public accounts do not establish criminal guilt or a completed finding against a particular official.",
+      "Protest announcement is dated28October2026at16:00Prishtina; occurrence, attendance and later schedule changes are not verified."
+    ],
+    "durationSeconds": 116,
+    "durationObservedSeconds": 115.933333,
+    "durationPrecision": "nearest whole second; half seconds round up",
+    "durationEvidence": {
+      "method": "ffprobe format duration of exact original MP4 bound to the published owner TikTok record; platform transcode duration may differ",
+      "durationObservedSeconds": 115.933333,
+      "sha256": "62a5dd55997161f40ecf627f7ea1d7f183b16cecc4bdeb3a5f570db8dee888b2"
+    }
+  },
+  "cardImage": {
+    "sha256": "6407a8b71fbb5fa47b217be70e1b305f34220ed1df8628145022231f16c726a9",
+    "sourceVideoSha256": "62a5dd55997161f40ecf627f7ea1d7f183b16cecc4bdeb3a5f570db8dee888b2",
+    "sourceFrameSeconds": 77.28888866666667,
+    "method": "Unaltered original video still extracted by ffmpeg at two-thirds of the verified source duration, where Eduard speaks without parliamentary overlays. Original platform cover is preserved separately.",
+    "crop": {
+      "left": 0,
+      "top": 270,
+      "width": 576,
+      "height": 432
+    }
+  }
+}
