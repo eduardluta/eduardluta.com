@@ -7,6 +7,7 @@ import '../../styles/home.css';
 import { useTranslations, type Lang } from '../../i18n/ui';
 import { localizePath, formatDateShort, isoDate } from '../../i18n/utils';
 import { homepage, portrait } from '../../data/homepage';
+import { CONSULTING_PATH } from '../../data/consulting';
 import { projects } from '../../data/projects';
 import { getFeaturedPosts } from '../../lib/social';
 import { getHomepageArticles, getThumb, type Article } from '../../lib/writing';
@@ -23,6 +24,7 @@ const latest = getHomepageArticles(articles);
 const featuredPosts = getFeaturedPosts();
 const buildingPath = localizePath('/building/', lang);
 const writingPath = localizePath('/writing/', lang);
+const consultingPath = localizePath(CONSULTING_PATH, lang);
 ---
 
 <section class="home-hero" aria-labelledby="home-title">
@@ -35,7 +37,8 @@ const writingPath = localizePath('/writing/', lang);
     <p class="home-bio">{copy.introduction}</p>
     <p class="home-bio home-bio--note">{copy.introductionNote}</p>
     <div class="home-actions">
-      <a href="#home-building" class="home-button">{copy.buildingAction}<span aria-hidden="true">↗</span></a>
+      <a href={consultingPath} class="home-button">{copy.consultingAction}<span aria-hidden="true">↗</span></a>
+      <a href="#home-building" class="home-text-link">{copy.buildingAction} <span aria-hidden="true">↓</span></a>
       <a href={writingPath} class="home-text-link">{copy.writingAction} <span aria-hidden="true">↗</span></a>
     </div>
   </div>

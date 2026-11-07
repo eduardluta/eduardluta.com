@@ -6,7 +6,7 @@ const lang = 'en';
 const t = useTranslations('en');
 const sq = useTranslations('sq');
 
-// Netlify serves this single /404.html for unknown URLs in both languages, so we
+// server.mjs serves this single /404.html for unknown URLs in both languages, so we
 // swap the copy to Albanian client-side when the path is under /sq/.
 const sqStrings = {
   title: sq('notFound.title'),
