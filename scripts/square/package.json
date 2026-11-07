@@ -1,0 +1,17 @@
+{
+  "name": "binance-square-pulse",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "3-day momentum movers on Binance: scan, research, chart screenshots, Square draft. Standalone, not part of the Astro build.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "run": "node --env-file-if-exists=.env run.mjs",
+    "scan": "node --env-file-if-exists=.env lib/scan.mjs",
+    "publish": "node --env-file-if-exists=.env publish.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "playwright": "~1.63.0"
+  }
+}

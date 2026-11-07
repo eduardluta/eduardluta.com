@@ -1,0 +1,4 @@
+node_modules/
+runs/
+state/
+.env
