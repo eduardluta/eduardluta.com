@@ -1,3 +1,19 @@
+export const citationLabsInterview = {
+  outlet: 'Citation Labs',
+  url: 'https://citationlabs.com/eduard-luta-ai-search-marketing-teams/',
+  image: '/media/citation-labs-ai-search.jpg',
+  en: {
+    title: 'Eduard Luta on Rebuilding Marketing Teams for AI Search',
+    description: 'I spoke with Citation Labs about how we divide the work between the people building our AI tools and the people deciding what’s worth publishing.',
+    read: 'Read the interview',
+  },
+  sq: {
+    title: 'Eduard Luta për riorganizimin e ekipeve të marketingut në epokën e kërkimit me AI',
+    description: 'Me Citation Labs bisedova për mënyrën si e ndajmë punën mes atyre që ndërtojnë mjetet tona me AI dhe atyre që vendosin çfarë ia vlen të botojmë.',
+    read: 'Lexo intervistën në anglisht',
+  },
+};
+
 export type MediaAppearance = {
   outlet: string;
   program: string;

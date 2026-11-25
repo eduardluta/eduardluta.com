@@ -86,15 +86,7 @@
 }
 
 .social-media-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: end;
-  gap: 30px;
   margin-bottom: 32px;
-}
-
-.social-media-heading .page-kicker {
-  margin-bottom: 12px;
 }
 
 .social-media-heading h2 {
@@ -103,14 +95,6 @@
   font-weight: 400;
   line-height: 1.1;
   letter-spacing: -0.035em;
-}
-
-.social-media-heading > p {
-  max-width: 290px;
-  padding-bottom: 3px;
-  color: var(--muted);
-  font-size: 15px;
-  line-height: 1.65;
 }
 
 .social-media-grid {
@@ -124,6 +108,35 @@
   min-width: 0;
   flex-direction: column;
   align-items: flex-start;
+}
+
+.social-interview {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: center;
+  gap: 20px 28px;
+  scroll-margin-top: 5rem;
+}
+
+.social-interview > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.social-interview .social-media-meta {
+  margin-top: 0;
+}
+
+.social-interview .social-media-program {
+  font-weight: 400;
+}
+
+.social-interview-summary {
+  margin-top: 12px;
+  color: var(--muted);
+  line-height: 1.6;
 }
 
 .social-media-image {
@@ -298,13 +311,11 @@
   }
 
   .social-media-heading {
-    display: block;
     margin-bottom: 27px;
   }
 
-  .social-media-heading > p {
-    margin-top: 12px;
-    padding: 0;
+  .social-interview {
+    grid-template-columns: 1fr;
   }
 
   .social-media-grid {
